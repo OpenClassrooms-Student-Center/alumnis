@@ -1,0 +1,46 @@
+/* colors */
+/* blue: #4c88a1; */
+#disclaimer {
+    background-color: #4c88a1;
+    color: white;
+    /*width: 100%;*/
+    /*position: relative;*/
+    text-align: center;
+    /*margin: 0;*/
+    font-size: 14px;
+    line-height: 19px;
+    border: 1px solid rgba(0,0,0,.1);
+    padding: 7px;
+}
+
+#disclaimer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#disclaimer a:hover {
+    text-decoration: underline;
+}
+ 
+#disclaimer-button {
+    text-decoration: none;
+    text-align: center;
+    background: #fff;
+    /*min-width: 25px;*/
+    /*line-height: 25px;*/
+    padding: 0 5px;
+    font-weight: 700;
+    z-index: 101;
+    /*display: inline-block;*/
+    /*margin-left: 5px;*/
+    text-transform: uppercase;
+    color: #4c88a1;
+    border-style: none;
+}
+
+
+
+/* p font */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}

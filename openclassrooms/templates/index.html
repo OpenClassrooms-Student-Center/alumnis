@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block body %}
+<div class="container-fluid" id="disclaimer">
+    <div class="col-xs-10">
+        <div>Bienvenue sur OpenClassrooms! En continuant sur cette page, vous approuvez notre utilisation des cookies. <a href="{{ PRIVACY_LINK }}">En savoir plus.</a></div>
+    </div>
+    <div class="col-xs-1">
+        <button id="disclaimer-button">
+            OK
+        </button>
+    </div>
+</div>
+
+
+<ul>
+{% for article in articles %}
+<li><a href="{{ article.url }}">{{ article.title }}</a></li>
+{% endfor %}
+</ul>
+{% endblock %}
