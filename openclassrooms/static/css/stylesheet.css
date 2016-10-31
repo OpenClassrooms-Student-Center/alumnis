@@ -5,6 +5,8 @@
 /************ COMMON ***************/
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 10%;
+    color: rgba(1,1,1, 0.8);
 }
 
 a {
@@ -16,8 +18,11 @@ h1, h2 {
     text-align: center;
 }
 
+h2, h3 {
+    margin: 3% 0;
+}
+
 .button {
-    min-height: 36px;
     padding: 7px;
     cursor: pointer;
     font-family: 'Source Sans Pro',sans-serif;
@@ -28,6 +33,16 @@ h1, h2 {
     background: #9b9b9b;
     border-radius: 3px;
     border: 1px solid #9b9b9b;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px auto;
+
+}
+
+.button:hover {
+    color: #f56900;
+    background-color: #fff;
+    text-decoration: none;
 }
 
 .button-primary {
@@ -129,10 +144,11 @@ h1, h2 {
     background-image: url('../../images/developpeur-application-banner.png');
     background-color: grey;
     background-attachment: fixed;
-    background-position: top center; 
-    height: 350px;
+    background-position: bottom center; 
+    height: 400px;
     background-repeat: no-repeat;
-    background-size: 100%;
+    /*background-size: 100%;*/
+    background-size: cover;
 }
 
 .black-filter {
@@ -166,4 +182,65 @@ h1, h2 {
 
 .thumbnail.rounded {
     border: 1px solid #f56900;
+}
+
+.student-item {
+    margin-bottom: 2%;
+    padding: 0 5%;
+}
+
+/************ Students page ***************/
+#banner.student {
+    background-image: url('../../images/student-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom right; 
+}
+
+#banner.student .titles {
+    padding-top: 4%;
+}
+
+#description {
+    text-align: center;
+    font-size: 15px;
+}
+
+#description h3 {
+    color: #f56900;
+    text-align: center;
+    margin: 0;
+    padding: 5% 0 2% 0;
+}
+
+#description h4 {
+    margin: 10% 0 6% 0;
+}
+
+#description img {
+    margin: 4% auto 0 auto;
+}
+
+.project-item {
+    padding: 1%;
+}
+
+
+.project-description {
+    text-align: justify;
+}
+
+#description .image-wrapper {
+    position: relative;
+}
+
+.unfinished {
+    background-color: rgb(1,1,1);
+    background-color: rgba(1,1,1, 0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    padding-top: 22%;
+    color: #fff;
 }

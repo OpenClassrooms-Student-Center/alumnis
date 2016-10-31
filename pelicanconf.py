@@ -18,7 +18,18 @@ DEFAULT_LANG = 'fr'
 
 # Our variables
 PRIVACY_LINK = "https://openclassrooms.com/privacy-policy#personal-data-gathering"
-PAGES_PATH = "/bla"
+PAGE_PATHS = ['students']
+USE_FOLDER_AS_CATEGORY = True
+DEFAULT_CATEGORY = 'students'
+DELETE_OUTPUT_DIRECTORY = True
+PATH = 'content'
+PAGE_URL = '{category}/{slug}.html'
+PAGE_SAVE_AS = '{category}/{slug}.html'
+
+# Plugins
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['pelican-md-metayaml']
 
 
 # Feed generation is usually not desired when developing
