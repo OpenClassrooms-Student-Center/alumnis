@@ -18,6 +18,7 @@ DEFAULT_LANG = 'fr'
 
 # Our variables
 PRIVACY_LINK = "https://openclassrooms.com/privacy-policy#personal-data-gathering"
+PAGES_PATH = "/bla"
 
 
 # Feed generation is usually not desired when developing

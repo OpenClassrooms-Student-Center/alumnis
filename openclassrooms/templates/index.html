@@ -1,21 +1,34 @@
 {% extends "base.html" %}
 
 {% block body %}
-<div class="container-fluid" id="disclaimer">
-    <div class="col-xs-10">
-        <div>Bienvenue sur OpenClassrooms! En continuant sur cette page, vous approuvez notre utilisation des cookies. <a href="{{ PRIVACY_LINK }}">En savoir plus.</a></div>
+
+<section id="banner">
+    <div class="black-filter titles">
+        <h1>OpenClassrooms Alumni</h1>
+        <h2>Parcours Développeur-se d'Application</h2>
     </div>
-    <div class="col-xs-1">
-        <button id="disclaimer-button">
-            OK
-        </button>
+</section>
+
+<section id="students" class="inset-shadow">
+    <h2>Nos fantastiques étudiants</h2>
+
+    <div class="container">
+        {% for student in pages %}
+            {# if student.public == True #}
+            <div class="col-md-4">
+                <div class="rounded thumbnail">
+                    <img src="{{ student.image }}" class="img-responsive">
+                </div>
+                <h3 class="text-center">{{ student.name }}</h3>
+                <div class="text-justified">{{ student.short_description }}</div>
+                {# ' '.join(student.description) #}
+            </div>
+            {# endif #}
+        {% endfor %}    
+
     </div>
-</div>
 
 
-<ul>
-{% for article in articles %}
-<li><a href="{{ article.url }}">{{ article.title }}</a></li>
-{% endfor %}
-</ul>
+</section>
+
 {% endblock %}
