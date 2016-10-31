@@ -5,8 +5,8 @@
   <section id="banner" class="student">
       <div class="black-filter titles">
             <div class="rounded thumbnail">
-                <a href="/students/{{ page.slug }}.html">
-                    <img src="/images/students/{{ page.image }}" class="img-responsive">
+                <a href="{{SITEURL}}/students/{{ page.slug }}.html">
+                    <img src="{{SITEURL}}/images/students/{{ page.image }}" class="img-responsive">
                 </a>
             </div>
 
@@ -42,10 +42,10 @@
 
                                 {% if project.link %}
                                 <a href="{{ project.link }}" target="_blank">
-                                    <img src="/images/students/{{ project.image }}" class="img-responsive">
+                                    <img src="{{SITEURL}}/images/students/{{ project.image }}" class="img-responsive">
                                 </a>
                                 {% else %}
-                                    <img src="/images/students/{{ project.image }}" class="img-responsive">
+                                    <img src="{{SITEURL}}/images/students/{{ project.image }}" class="img-responsive">
                                 {% endif %}
                                 {% if project.finished == 'false' %}
                                     <div class="unfinished">

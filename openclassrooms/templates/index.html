@@ -19,8 +19,8 @@
             {% if (student.public == "True"): %}
             <div class="col-md-4 student-item">
                 <div class="rounded thumbnail">
-                    <a href="/students/{{ student.slug }}.html">
-                        <img src="/images/students/{{ student.image }}" class="img-responsive">
+                    <a href="{{ SITEURL }}/students/{{ student.slug }}.html">
+                        <img src="{{ SITEURL }}/images/students/{{ student.image }}" class="img-responsive">
                     </a>
                 </div>
                 <h3 class="text-center">{{ student.name }}</h3>
