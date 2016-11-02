@@ -1,6 +1,6 @@
 ---
 title: fantomette
-name: Françoise est la plus belle
+name: Françoise est la plus moche
 date: 2016-10-28 17:20
 objective: Changer de métier
 short_description: Moi Président, je me rapprocherai du peuple en apprenant à coder. #yeswecan
