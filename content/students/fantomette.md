@@ -1,8 +1,8 @@
 ---
 title: fantomette
-name: Fantomette
+name: Françoise
 date: 2016-10-28 17:20
-objective: Ici j'écris mon objectif une ligne
+objective: Super objectif
 short_description: Ecrivaine en reconversion professionnelle. J'aime les toits de Paris, courir et attraper les méchants.
 yemplate: students
 description:
