@@ -1,6 +1,6 @@
 ---
 title: francois
-name: francois
+name: laurent
 date: 2016-10-28 17:20
 objective: Changer de métier
 short_description: Moi Président, je me rapprocherai du peuple en apprenant à coder. #yeswecan
