@@ -1,6 +1,6 @@
 ---
 title: mathieu
-name: Mathieu
+name: Mathieu est parmi nous
 date: 2016-10-28 17:20
 objective: Heu... Servir d'exemple pour le site des Alumnis ?
 short_description: Co-fondateur d'OpenClassrooms à plein temps, auteur à plein temps et main verte à mes heures perdues !
