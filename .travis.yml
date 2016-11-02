@@ -13,8 +13,12 @@ branches:
 #  - secure: IbwZGH2RYL+9+X7PRmosWq5cNR24c/ra1TIg45V1C57RiZnWrpRN++XBFabp5VtggINjAio2ORnWznIU63RbzBCB5TUJTbrtfIg0kEYvu9DFrfDUClXN4GvucFhChQZi8YRNl/mzhmad5iwH65s5jWGxEWK5mxjuRUiUNijXU+fJMRMuFJQxFe7oOVCdr/MxS/T7GBL8Sp0ZdDuX0tokyiFSJ8kDxV4EsyzxjLUjAzWaBz/ijpo2/snvLNp4lVAVaIAcfTTDQowhrsGQkWLAZWrx3NJoGf/LckFhDU2oijc+VMhXPO5CKgOPsGzrlplbzXkPqVaof4n1rAv+aN+fUsDb20CuoHmiThK/ff5RUrL/wjgtOUqQ23tToP9r+6ZXpnwL/2aHdsfhO3eF2kbmInRvUJwX4VdWZjlJUV76fIhhsBzTW2PUuZyJbn6CIIJPLi06LPwHAZ942hE1OmdPZOTV2RqbpcG7glzEv8ZQa/lrT6x4SuvpPIruho/e+ODwILgUovtY3sZyAJvYm8POuYfxADiTn35yxUoMZ9KFX3rUo6cRR0oBE8XUA5WKz6UxRuMz24YQqPWbigPM32RdxbqPCnFGdltDmTD3PBx3kEEMUYUtV1hc7eEd+HfYdLyLP0/A/4Bk9JQHzWCipzagc9BKN6pu+0mcMxmBRjpYpR0=
 #before_install:
 #- openssl aes-256-cbc -K $encrypted_14c852b607f5_key -iv $encrypted_14c852b607f5_iv -in deploy_key.pub.enc -out deploy_key.pub -d
-script: bash ./deploy.sh
-env:
-  global:
-  - ENCRYPTION_LABEL: "14c852b607f5"
-  - COMMIT_AUTHOR_EMAIL: "celine.martinet.sanchez@gmail.com"
+# script: bash ./deploy.sh
+# env:
+#   global:
+#   - ENCRYPTION_LABEL: "14c852b607f5"
+#   - COMMIT_AUTHOR_EMAIL: "celine.martinet.sanchez@gmail.com"
+after_success:
+- pelican
+- ghp-import output
+- git push origin gh-pages
