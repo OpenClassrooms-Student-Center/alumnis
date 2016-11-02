@@ -1,2 +1,3 @@
 __pycache__
 *.pyc
+deploy_key.pub
