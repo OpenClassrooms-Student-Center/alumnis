@@ -14,3 +14,4 @@ git push origin gh-pages
 # Useful links
 http://docs.getpelican.com/en/3.0/tips.html
 http://blog.thomasemmerling.de/automatic-pelican-publishing-on-github-pages-via-travisci.html
+https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
