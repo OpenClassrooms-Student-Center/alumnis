@@ -4,7 +4,8 @@ name: Fantomette
 date: 2016-10-28 17:20
 objective: Ici j'écris mon objectif une ligne
 short_description: Ecrivaine en reconversion professionnelle. J'aime les toits de Paris, courir et attraper les méchants.
-yemplate: students
+template: students
+region: Paca
 description:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -16,6 +17,11 @@ image: fantomette.jpeg
 public: True 
 projects:
   - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    image: francois/projet_1.png
+    link: https://www.linkedin.com/in/françois-hollande-422814130
+    finished: true
+  - title: Intégrez la communauté OpenClassrooms !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     image: francois/projet_1.png
     link: https://www.linkedin.com/in/françois-hollande-422814130

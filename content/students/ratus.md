@@ -4,6 +4,7 @@ name: Ratus
 date: 2016-10-28 17:20
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+region: PACA
 template: students
 description:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

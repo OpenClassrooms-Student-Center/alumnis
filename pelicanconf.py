@@ -27,7 +27,7 @@ PAGE_URL = '{category}/{slug}.html'
 PAGE_SAVE_AS = '{category}/{slug}.html'
 
 # For Github pages
-SITEURL = '/presentation'
+#SITEURL = '/presentation'
 
 # Plugins
 

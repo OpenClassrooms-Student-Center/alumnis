@@ -5,6 +5,7 @@ date: 2016-10-28 17:20
 objective: Servir d'exemple pour le site des Alumnis ?
 short_description: Co-fondateur d'OpenClassrooms et amateur de sensations fortes. #loveTriumph
 template: students
+region: PACA
 description:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
