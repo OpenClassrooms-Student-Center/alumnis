@@ -27,7 +27,7 @@ PAGE_URL = '{category}/{slug}.html'
 PAGE_SAVE_AS = '{category}/{slug}.html'
 
 # For Github pages
-SITEURL = 'https://openclassrooms-student-center.github.io/presentation/'
+SITEURL = 'https://openclassrooms-student-center.github.io/presentation/' 
 
 # Plugins
 
