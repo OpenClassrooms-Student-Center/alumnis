@@ -1,17 +1,18 @@
-Page presenting our alumni to the community.
+# Pourquoi, comment, quel est le sens de la vie ?
+Vaste question qu'il serait trop long de discuter ici ! Quant à ce site, il a pour but de rassembler nos fabuleux élèves qui suivent le parcours Développeur d'Application spécialité Python chez OpenClassrooms. 
 
-# Launching it locally
-Set up a virtual environment with Python 3.
-Run `pip install -r requirements.txt`
-Generate files: `pelican -r`
-Launch a server: `python -m http.server`
+# Comment fonctionne ce site ?
+Très simplement, promis. Vous êtes étudiant-e du parcours Développeur d'Application ? Cliquez sur le bouton "Fork" en haut à droite. Notre fantastique repo fera alors partie de votre compte Github. Modifiez-le en suivant les instructions données dans le projet. 
+Puis créez une pull request. Votre mentor la validera et vous verrez votre joli minois sur notre page. 
 
-# To push on gh-pages
-pelican
-ghp-import output
-git push origin gh-pages
+# Actualiser ses informations
+Vous avez fini un projet et vous voulez mettre vos profil à jour ? Excellente idée ! Forkez le repo, modifiez vos informations et faites une pull request. **Ne Modifiez pas vos informations dans le projet que vous avez forké au début de votre formation**. En effet, plusieurs étudiant-e-s nous ont rejoint depuis et vos modifications pourraient tout simplement les effacer. Ce serait dommage, n'est-ce pas ? 
 
-# Useful links
-http://docs.getpelican.com/en/3.0/tips.html
-http://blog.thomasemmerling.de/automatic-pelican-publishing-on-github-pages-via-travisci.html
-https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
+# Pour les téméraires qui ont déjà installé Python et VirtualEnv
+- Lancez un environnement virtuel.
+- Lancez `pip install -r requirements.txt`
+- Générez les fichiers : `pelican -r`
+- Lancez le serveur en local : `python -m http.server`
+
+Contactez-nous pour toute question ! 
+- Céline Martinet Sanchez : @celine-m-s
