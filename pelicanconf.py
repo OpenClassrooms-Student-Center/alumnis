@@ -27,7 +27,7 @@ PAGE_URL = '{category}/{slug}.html'
 PAGE_SAVE_AS = '{category}/{slug}.html'
 
 # Local only. For production, see publishconf.py
-# SITEURL = 'presentation/' 
+# SITEURL = 'alumnis/' 
 
 # Plugins
 
