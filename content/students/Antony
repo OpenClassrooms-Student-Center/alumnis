@@ -3,16 +3,17 @@ title: Antony
 name: Antony
 date: 2017-06-10 1:16
 objective: Découvrir, apprendre et un jour maîtriser python.
-short_description: J'aime comprendre comment les choses fonctionnent alors depuis mon plus jeune age, je demonte tout pour voir ce que ça cache.
+short_description: Curieux, depuis mon plus jeune age, je demonte tout pour voir ce que ça cache !
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-image: ratus.jpg
+  Travaillant comme ouvrier spécialisé dans la métallurgie,
+  je suis cependant déterminé à évoluer professionnellement dans le secteur du numérique.
+  En effet, passionné par l’informatique et les nouvelles technologies,
+  je souhaite associer mon savoir-faire technique
+  à celui des nouvelles technologies.
+  Je suis convaincu que le numérique représente l’évolution logique de la mécanique et des méthodes de production.
+
+image: photoProfil.jpg
 public: True
 projects:
   - title: Présentez-vous !
