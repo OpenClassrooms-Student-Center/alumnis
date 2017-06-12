@@ -27,9 +27,9 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Mon projet 1 a été validé par Stéphane, voici un lien vers mon LinkedIn.
 
-    image: matthieu/projet_1.png
+    image: matthieu/projet_1.jpg
 
     link: https://www.linkedin.com/in/mattfelder/
 
@@ -37,7 +37,8 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Je viens de d'installer Git forké le projet Alumnis.
+    Je viens de modifier ma feuille de présentation et je et je tente une pull request. 
 
     image: matthieu/projet_2.png
 
