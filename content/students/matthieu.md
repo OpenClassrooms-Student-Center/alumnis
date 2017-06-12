@@ -37,8 +37,8 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Je viens de d'installer Git, j'ai forké le projet Alumnis.
-    Je viens de modifier ma feuille de présentation et je et je tente une pull request. 
+    description: Je viens d'installer Git, j'ai forké le projet Alumnis.
+    Je viens de modifier ma feuille de présentation et je tente une pull request. 
 
     image: matthieu/projet_2.jpg
 
