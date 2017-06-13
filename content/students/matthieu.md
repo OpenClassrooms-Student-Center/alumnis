@@ -38,7 +38,8 @@ projects:
   - title: Intégrez la communauté !
 
     description: Je viens d'installer Git, j'ai forké le projet Alumnis.
-    Je viens de modifier ma feuille de présentation et je tente une pull request. 
+    Je viens de modifier ma feuille de présentation et je tente une pull request.
+	J'ai ensuite annulé celle-ci et retenté un pull request depuis ma console locale.	
 
     image: matthieu/projet_2.jpg
 
