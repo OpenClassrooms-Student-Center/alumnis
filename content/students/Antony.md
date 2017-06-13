@@ -13,17 +13,17 @@ description:
   Je suis convaincu que le numérique représente l’évolution logique de la mécanique
   et des méthodes de production.
 
-image: Antony.jpg
+image: Antony.png
 public: True
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: Antony/Projet.png
+    image: Antony/projet2cv.jpg
     link: http://www.linkedin.com/in/antony-boivin-353a4a144/
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Antony/Projet.png
+    image: Antony/projet2cours.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/Antony.html
     finished: true
   - title: Aidez MacGyver à sortir !
