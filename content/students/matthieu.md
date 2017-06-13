@@ -19,9 +19,7 @@ projects:
     link: https://www.linkedin.com/in/mattfelder/
     finished: true
   - title: Intégrez la communauté !
-    description: Je viens d'installer Git, j'ai forké le projet Alumnis.
-    Je viens de modifier ma feuille de présentation et je tente une pull request.
-    J'ai ensuite annulé celle-ci et retenté un pull request.
+    description: Nous voici dans git hub.
     image: matthieu/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/matthieu.html
     finished: true
