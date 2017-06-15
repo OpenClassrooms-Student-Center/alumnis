@@ -3,7 +3,7 @@ title: sruc
 name: Sruc
 date: 2017-06-15 16:00
 objective: Devenir développeur python en vue d'une reconversion.
-short_description: J'aime les sensations fortes,les voyages et je travail dans la chimie
+short_description: Etudiant, j'aime les sensations fortes,les voyages et je travail dans la chimie
 template: students
 description:
   Je m'appelle Michaël et je vis en Savoie.
