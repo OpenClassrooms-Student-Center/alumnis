@@ -3,7 +3,7 @@ title: Matthieu
 name: Felder
 date: 2017-06-12 11:50
 objective: Découvrir Python et développer mes compétences.
-short_description: Ecrivaine en reconversion professionnelle. J'aime les toits de Paris, courir et attraper les méchants.
+short_description: J'aime le cinéma, voyager et bien manger. J'habite à Bordeaux et je débute en Python.
 template: students
 region: AQUITAINE
 description:
@@ -12,7 +12,7 @@ description:
     J’ai appris par la force des choses à utiliser des langages tels que php, et  javascript.
     Je souhaite activement suivre cette formation diplômante et maitriser parfaitement l’utilisation de Python.
 image: matthieu.jpg
-public: False 
+public: True 
 projects:
   - title: Présentez-vous !
     description: Mon projet 1 a été validé par Stéphane, voici un lien vers mon LinkedIn.
