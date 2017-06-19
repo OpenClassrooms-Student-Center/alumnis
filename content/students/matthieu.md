@@ -12,7 +12,7 @@ description:
     J’ai appris par la force des choses à utiliser des langages tels que php, et  javascript.
     Je souhaite activement suivre cette formation diplômante et maitriser parfaitement l’utilisation de Python.
 image: matthieu.jpg
-public: False 
+public: True 
 projects:
   - title: Présentez-vous !
     description: Mon projet 1 a été validé par Stéphane, voici un lien vers mon LinkedIn.
