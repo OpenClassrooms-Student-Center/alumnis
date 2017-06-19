@@ -2,7 +2,7 @@
 title: Antony
 name: Antony
 date: 2017-06-10 1:16
-objective: Découvrir, apprendre et un jour, maîtriser python.
+objective: Découvrir, apprendre et un jour, maîtriser python !!!
 short_description: Curieux, depuis mon plus jeune âge, je demonte tout pour voir ce que ça cache !
 template: students
 description:
