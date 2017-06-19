@@ -1,33 +1,44 @@
 ---
-title: Monsieur
-name: Felder
-date: 2017-06-12 11:50
-objective: Découvrir Python et développer mes compétences.
-short_description: J'aime le cinéma, voyager et bien manger. J'habite à Bordeaux et je débute en Python.
-region: AQUITAINE
+title: fantomette
+name: Fantomette
+date: 2016-10-28 17:20
+objective: Ici j'écris mon objectif une ligne
+short_description: Ecrivaine en reconversion professionnelle. J'aime les toits de Paris, courir et attraper les méchants.
 template: students
+region: Paca
 description:
-    Spécialiste en communication et webmaster, Je m'appelle Matthieu Felder et j'ai 39 ans.
-    J'ai créé et géré une agence de communication web et print sur Nice et Perpignan pendant 3 ans.
-    J’ai appris par la force des choses à utiliser des langages tels que php, et  javascript.
-    Je souhaite activement suivre cette formation diplômante et maitriser parfaitement l’utilisation de Python.
-image: matthieu.jpg
-public: True
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+image: fantomette.jpeg
+public: False 
 projects:
   - title: Présentez-vous !
-    description: Mon projet 1 a été validé par Stéphane, voici un lien vers mon LinkedIn.
-    image: matthieu/projet_1.jpg
-    link: https://www.linkedin.com/in/mattfelder/
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    image: francois/projet_1.png
+    link: https://www.linkedin.com/in/françois-hollande-422814130
     finished: true
-  - title: Intégrez la communauté !
-    description: Je viens d'installer Git, j'ai forké le projet Alumnis.
-    Je viens de modifier ma feuille de présentation et je tente une pull request. 
-    image: matthieu/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/alumnis/students/matthieu.html
+  - title: Intégrez la communauté OpenClassrooms !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    image: francois/projet_1.png
+    link: https://www.linkedin.com/in/françois-hollande-422814130
     finished: true
   - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: matthieu/projet_3.jpg
-    link: https://www.github.com
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    image: francois/projet_1.png
+    link: https://www.linkedin.com/in/françois-hollande-422814130
+    finished: false
+  - title: Aidez MacGyver à sortir !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    image: francois/projet_1.png
+    link: https://www.linkedin.com/in/françois-hollande-422814130
+    finished: false
+  - title: Aidez MacGyver à sortir !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    image: francois/projet_1.png
+    link: https://www.linkedin.com/in/françois-hollande-422814130
     finished: false
 ---
