@@ -8,18 +8,18 @@ date: 2017-06-20 13:20
 
 objective: Apprendre à développer en Python Django via la plateforme OpenClassrooms.
 
-short_description: Passioné d'informatique, et du développement web.
+short_description: Passionné d'informatique et du développement web.
 
 template: students
 
 description:
 
-    Après avoir travaillé dans l'univers des testsde qualité logiciel, je veux me convértir au développement python.
+    Après avoir travaillé dans l'univers des tests de qualité logiciel, je veux me convértir au développement python.
 
-    d'ou mon intérêt de s'inscrire à ce pracours et valider de bonnes acquis dans ce domaine.  
+    d'ou mon intérêt de s'inscrire à ce parcours et valider des acquis dans ce domaine.  
     
 
-image: mounir.PNG
+image: mounir.png
 
 public: True
 
