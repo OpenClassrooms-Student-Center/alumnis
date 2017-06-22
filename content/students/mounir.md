@@ -14,9 +14,9 @@ template: students
 
 description:
 
-    Après avoir travaillé dans l'univers des tests de qualité logiciel, je veux me convértir au développement python.
+    Après avoir travaillé dans l'univers des tests de qualité logiciel, je veux me convertir au développement python.
 
-    d'ou mon intérêt de s'inscrire à ce parcours et valider des acquis dans ce domaine.  
+    d'oû mon intérêt de s'inscrire à ce parcours et valider des acquis dans ce domaine.  
     
 
 image: mounir.jpg
