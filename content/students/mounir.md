@@ -2,7 +2,7 @@
 
 title: MoUnIr
 
-name: mounir
+name: MoUneRus
 
 date: 2017-06-20 13:20
 
@@ -19,7 +19,7 @@ description:
     d'ou mon intérêt de s'inscrire à ce parcours et valider des acquis dans ce domaine.  
     
 
-image: mounir.png
+image: mounir.jpg
 
 public: True
 
@@ -29,7 +29,7 @@ projects:
 
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
-    image: mounir/projet_01.png
+    image: mounir/projet_01.jpg
 
     link: https://www.linkedin.com/in/mo-me-517434145/
 
@@ -39,7 +39,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: mounir/projet_02.png
+    image: mounir/projet_02.jpg
 
     link: https://www.linkedin.com/in/mo-me-517434145/
 
@@ -49,7 +49,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant TKinter.
 
-    image: mounir/projet_03.png
+    image: mounir/projet_03.jpg
 
     link: https://www.linkedin.com/in/mo-me-517434145/
 
