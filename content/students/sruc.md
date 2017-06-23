@@ -1,6 +1,6 @@
 ---
 title: sruc
-name: Sruc
+name: Michaël
 date: 2017-06-15 16:00
 objective: Devenir développeur python en vue d'une reconversion.
 short_description: Etudiant, j'aime les sensations fortes,les voyages et je travail dans la chimie
@@ -25,7 +25,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: sruc/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/sruc.html
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: sruc/projet_3.png
