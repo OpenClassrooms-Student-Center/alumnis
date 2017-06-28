@@ -17,11 +17,11 @@ description:
 
     Actuellement développeur dans une agence digitale spécialisée dans le matériel tactile, je souhaite m'orienter dans la science des données. 
 
-    Python est un language indispensable dans ce domaine et particulièrement intéressant quand à son utilisation scientifique. 
+    Python est un langage indispensable dans ce domaine et particulièrement intéressant quand à son utilisation scientifique. 
 
     Je suis ravi de commencer ce parcours avec la communauté OpenClassrooms !
 
-image: guillaume.jpg
+image: guillaume.png
 
 public: True
 
@@ -41,7 +41,7 @@ projects:
     
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     
-    image: guillaume/projet_2.png
+    image: guillaume/projet_2.jpg
     
     link: https://openclassrooms-student-center.github.io/presentation/students/guillaume.html
     
@@ -51,7 +51,7 @@ projects:
     
     description: Création d’un jeu développé en Python et utilisant PyGame.
     
-    image: guillaume/projet_3.png
+    image: guillaume/projet_3.jpg
     
     link: https://www.github.com
    
