@@ -43,7 +43,7 @@ projects:
     
     image: guillaume/projet_2.jpg
     
-    link: https://openclassrooms-student-center.github.io/presentation/students/guillaume.html
+    link: https://github.com/Volji/
     
     finished: true
  
