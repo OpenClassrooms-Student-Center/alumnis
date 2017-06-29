@@ -15,7 +15,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-m�me et un lien vers mon LinkedIn.
     image: ludovic/projet_1.png
-    link: linkedin.com/in/ludovic-bruhat-9b448a48
+    link: https://www.linkedin.com/in/ludovic-bruhat-9b448a48/
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
