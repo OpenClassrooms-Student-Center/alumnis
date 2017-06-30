@@ -12,7 +12,7 @@ image: yann.jpg
 public: True
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-m�me et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     image: yann/projet_1.png
     link: https://www.linkedin.com/in/yann-hamdi-936b93145/
     finished: true
@@ -23,7 +23,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d'un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: yann/projet_3.png
     link: https://www.github.com
     finished: false
 ---
