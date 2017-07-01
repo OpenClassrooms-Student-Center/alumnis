@@ -2,23 +2,24 @@
 title: hidekiogata
 name: Kilian
 date: 2017-06-23 16:32
+
 objective: Apprendre à développer des applications web grâce à Python/Django.
-short_description: Passioné d'informatique, de python, de java, de piano et de saumon fumé !
+short_description: Passioné d'informatique, de piano et de saumon fumé !
+
 template: students
 region: Pays de la loire
+
 description:
-    Après avoir passer 3 ans en études d'informatique,
+    Après avoir passé 3 ans en études d'informatique,
     je souhaite peaufiner ma culture du domaine informatique.
-    Voyant l'accroissement de Python dans le milieu professionel,
+    Voyant l'accroissement de Python dans le milieu professionnel,
     je profite d'une formation OpenClassrooms pour me spécialiser 
     dans le développement d'application web. 
 
 image: hidekiogata.jpg
 
-# Change this to True when you do you pull request.
 public: True
 
-# You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
