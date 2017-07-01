@@ -4,7 +4,7 @@ name: Kilian
 date: 2017-06-23 16:32
 
 objective: Apprendre à développer des applications web grâce à Python/Django.
-short_description: Passioné d'informatique, de piano et de saumon fumé !
+short_description: Passionné d'informatique, de piano et de saumon fumé !
 
 template: students
 region: Pays de la loire
