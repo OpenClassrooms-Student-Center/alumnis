@@ -7,7 +7,8 @@
 title: Lucienfaure
 
 # First name or full name
-name: Lucien date: 2017-07-04 14:46
+name: Lucien 
+date: 2017-07-04 14:46
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
