@@ -12,7 +12,7 @@ name: Lucien date: 2017-07-04 14:46
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Tout connaitre sur le developpement mobile IOS.
-short_description: J'aime l'idée que tout le monde aujour'hui utilise des applications, elle sont devenues indispensable.
+short_description: J'aime l'idée que tout le monde aujour'hui utilise des applications, elles sont devenues indispensables.
 
 # don't touch that
 template: students
