@@ -14,9 +14,9 @@ image: silvharm.jpg
 public: True
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn
+    description: Une présentation de moi-même et un lien vers LinkedIn
     image: silvharm/project_01.png
-    link: https://www.linkedin.com/in/maxence-girard-476159126/
+    link: https://www.linkedin.com/
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
