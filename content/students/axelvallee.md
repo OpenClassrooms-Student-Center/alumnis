@@ -30,7 +30,7 @@ description:
 image: axelvallee.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -45,9 +45,9 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: 
-    link: 
-    finished: false
+    image: axelvallee/projet2.jpg
+    link: https://github.com/Axel-V/alumnis
+    finished: true 
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: 
