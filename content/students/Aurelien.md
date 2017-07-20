@@ -30,23 +30,23 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: https://www.linkedin.com/in/aur%C3%A9lien-etienne-34aa9812a/
+  - title: Je me présente ci-dessus :)
+    description: https://www.linkedin.com/in/nicolassarkozy/?ppe=1
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Aurelien/projet_1.png
+    image: Aurelien/projet1.jpg
     link: 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: Aurelien/projet2.jpg
+    link: 
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    image: ratus/projet3.png
+    link: 
     finished: false
 ---
