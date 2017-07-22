@@ -58,17 +58,17 @@ public: False
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Projet de site web !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Un SIG web de gestion de défauts liés à des incidents du réseau télécom.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: drissrais/Image1.jpg ; drissrais/Image2.png ; drissrais/Image3.jpg
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/driss-rais-0088a012b/
 
     # 'true' makes it fully available.
 
