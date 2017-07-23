@@ -6,7 +6,7 @@ name: Mathieu
 date: 2017-07-20 17:20
 
 objective: Travailler à l'élaboration d'innovations technologiques pour ceux qui en ont besoin aux animaux ou à la planète.
-short_description: J'aime voyager .
+short_description: J'aime voyager.
 
 
 template: students
