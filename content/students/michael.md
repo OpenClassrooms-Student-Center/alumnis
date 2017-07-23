@@ -1,4 +1,6 @@
----# FILENAME : please use your OpenClassrooms's name, available in your url.
+---
+
+# FILENAME : please use your OpenClassrooms's name, available in your url.
 https://openclassrooms-student-center.github.io/alumnis/
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
