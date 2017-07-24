@@ -1,11 +1,10 @@
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-https://openclassrooms-student-center.github.io/alumnis/
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: michael.
+title: michael
 
 # First name or full name
 name: Michael
@@ -43,10 +42,10 @@ projects:
   - title: Intégrez la communauté !
     description: Réalisation d'un projet avec Git
     image: photo_michael.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/alumnis/students/michael.html
     finished: true
   - title: Créez votre premier jeu vidéo avec swift!
     description: Création d’un jeu développé en iOS puis en Android
     image: photo_michael.jpg
-    link: https://www.github.com
+    link: https://openclassrooms.com/projects/creez-votre-premier-jeu-video-avec-swift
     finished: false---
