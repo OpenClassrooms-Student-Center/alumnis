@@ -52,8 +52,8 @@ projects:
 
     image: matthieu/projet_3.jpg
 
-    link: https://www.github.com
+    link: https://github.com/matthfelder/mac_gyver_game.git
 
-    finished: false
+    finished: true
 
 ---
