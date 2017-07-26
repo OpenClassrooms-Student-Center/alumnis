@@ -21,7 +21,7 @@ template: students
 description:
     Ancien étudiant de 23 ans maintenant en reconversion pour devenir développeur python,
     Passionné d'informatique en général et de sécurité informatique (cryptographie, réseau, etc..)
-    Je me lance dans le cursus développeur python car c'est le langage sur lequel j'ai commencer
+    Je me lance dans le cursus développeur python car c'est le langage sur lequel j'ai commencé
     à coder a la faculté et celui que j'apprécie le plus.
     
 # image must be located in content/images/students
