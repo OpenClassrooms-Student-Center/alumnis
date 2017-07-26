@@ -46,7 +46,7 @@ projects:
     image: sofiane/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
+  - title: Golden axe !
     description: Créez votre premier jeu vidéo avec Swift !
     image: sofiane/projet_3.png
     link: https://www.github.com
