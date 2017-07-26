@@ -44,7 +44,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: sofiane/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/sofiane.html
     finished: true
   - title: Golden axe !
     description: Créez votre premier jeu vidéo avec Swift !
