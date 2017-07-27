@@ -8,7 +8,7 @@ title: Florian
 
 # First name or full name
 name: Florian
-date: 19946-12/07
+date: 1994-12/07
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -30,7 +30,8 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: J'aime les jeux video et les applications mobiles.
+https://www.linkedin.com/in/florian-peyrony-0ba181147/@.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
