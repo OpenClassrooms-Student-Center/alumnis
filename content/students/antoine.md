@@ -18,7 +18,8 @@ short_description:Curieux des nouvelles technologies et spécialement le
 
 # don't touch that
 template: students
-description:Etant developpeur dans l'informatique industrielle, je souhaite me 
+description:
+    Etant developpeur dans l'informatique industrielle, je souhaite me 
     reconvertir dans le developpement d'application mobile et laisser cours à 
     mon imagination !
 
