@@ -20,11 +20,10 @@ template: students
 description:
     Je m'appelle Guillaume, j'ai 31 ans et vis à Bordeaux. J'ai validé une école d'ingénieur 
     en optique et me suis lancé dans une thèse en biophotonique en Australie. Suite à de 
-    graves problèmes de santé, j'ai été forcé de revoir mes ambitions de carrière. 
+    graves problèmes de santé, j'ai du revoir mes ambitions de carrière. 
     Je souhaite désormais m'orienter vers l'aspect informatique de projets de R&D ou
-    de recherche en hautes technologies vu que la partie expérimentale ne m'est plus
-    vraiment accessible. 
-    En dehors de ça, je suis fanatique de plongée, joueur de poker,
+    de recherche en hautes technologies. 
+    Sinon, je suis fanatique de plongée, joueur de poker,
     et les séries, bouquins, jeux vidéos, et débat d'idées font partie de mon quotidien.
 
 # image must be located in content/images/students
