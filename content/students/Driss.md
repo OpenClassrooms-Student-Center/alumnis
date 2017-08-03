@@ -53,7 +53,7 @@ image: drissrais.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -66,9 +66,9 @@ projects:
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/drissrais/project1.png
 
-    image: drissrais/Image1.jpg ; drissrais/Image2.png ; drissrais/Image3.jpg
+    image: drissrais/Capture1.PNG ; drissrais/Capture2.PNG
 
     link: https://www.linkedin.com/in/driss-rais-0088a012b/
 
@@ -82,20 +82,10 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: drissrais/Capture3.PNG
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://OpenclassroomsStudent-Center/alumnis/pull/76
 
     finished: true
-
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
-    link: https://www.github.com
-
-    finished: false
 
 ---
