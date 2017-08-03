@@ -9,12 +9,12 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Maxime6
 
 
 # First name or full name
 
-name: Ratus
+name: Maxime
 
 date: 2016-10-28 17:20
 
@@ -23,9 +23,9 @@ date: 2016-10-28 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Me reconvertir et développer de nouvelles compétences dans le numérique
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Je suis un passionné de basketball et de sport en général. Captivé par l'évolution numérique, je me lance dans l'apprentissage de Python.
 
 
 # don't touch that
@@ -34,29 +34,19 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Après 4ans en tant qu'éducateur sportif de Basketball, j'ai senti le besoin de me tourner vers un nouveau domaine. Sans grande connaissances de base, je me lance ainsi dans une reconversion grâce à OpenclassRooms, afin d'apprendre à développer en Python et de me tourner vers un nouvel avenir. J'en suis très enthousiaste !
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: Maxime6.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
