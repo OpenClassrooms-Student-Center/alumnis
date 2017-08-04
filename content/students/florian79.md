@@ -8,7 +8,7 @@ title: Florian
 
 # First name or full name
 name: Florian
-date: 2016-11-07 17:20
+date: 2017-05-08 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -29,8 +29,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Florian Peyrony !
+    description: J'adore les nouvelles technologies, et je souhaite en faire mon métier.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: florian79/projet_1.png
@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: florian79/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    https://github.com/Flop79/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
