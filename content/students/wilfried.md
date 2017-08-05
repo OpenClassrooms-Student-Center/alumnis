@@ -4,25 +4,25 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: wilfried
+title: matthieu44
 
 # First name or full name
-name: Wilfried
-date: 2016-10-28 17:20
+name: Matthieu
+date: 2017-06-29 23:24
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Acquérir des compétences en développement iOS.
-short_description: Passioné par l'informatique, je veux tout faire pour que cela en devienne mon métier.
+objective: Apprendre afin de me permettre de démarrer une nouvelle carrière.
+short_description: J'aime la musique, la Bretagne, je suis passionné par la langue et la culture chinoise.
 
 # don't touch that
 template: students
 description:
-    L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte. C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS. Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur.
+    Je m’appelle Matthieu, je vis en Bretagne. Après une carrière militaire et un passage dans le monde du retail, je souhaite changer de vie, j’ai débuté le parcours de développeur d’application IOS car je suis attiré par ce domaine, je fais ce parcours en continuant mon travail actuel. j’espère profiter pleinement de ce parcours parmi vous.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-    image: wilfried.jpg
+image: matthieu44.jpg
 
 # Change this to True when you do you pull request.
 public: True
