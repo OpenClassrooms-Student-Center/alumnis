@@ -32,18 +32,18 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Le projet 1 m'a fait travailler mon organisation et ma visibilité, voici un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: wilfried/projet_1.jpg
-    link: https://www.linkedin.com/in/wilfriedjosset/
+    image: matthieu44/projet1.png
+    link: https://www.linkedin.com/in/matthieu-thébaud-459a26145/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: wilfried/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/wilfried.html
+    image: matthieu44/projet2.png
+    link: https://openclassrooms-student-center.github.io/alumnis/students/matthieu44.html
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: dans mon futur projet, je devrai créer mon premier jeux video.
