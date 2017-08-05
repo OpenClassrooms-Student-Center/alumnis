@@ -43,10 +43,10 @@ projects:
     image: wilfried/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/alumnis/students/wilfried.html
     finished: true
-  - title: Créer son premier jeu swift
-    description: Premier jeu swift. 
+  - title: Créez votre premier jeu vidéo Swift !
+    description: Création d'un jeu où deux équipes vont s'affronter dans un combat à tour de rôle. 
     image: wilfried/projet_3.jpg
-    link: 
+    link: https://github.com/wjosset/Projet_3
     finished: false
 
 ---
