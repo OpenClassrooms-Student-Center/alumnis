@@ -8,7 +8,7 @@ title: wilfried
 
 # First name or full name
 name: Wilfried
-date: 2016-10-28 17:20
+date: 2017-06-29 23:24
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,13 +18,11 @@ short_description: Passioné par l'informatique, je veux tout faire pour que cel
 # don't touch that
 template: students
 description:
-    L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
-    C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS.
-    Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur.
+    L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte. C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS. Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-    image: wilfried.jpg
+image: wilfried.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -35,14 +33,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: wilfried/projet_1.jpg
-    link: https://www.linkedin.com/in/wilfriedjosset/
+    image: matthieu44/projet1.png
+    link: https://www.linkedin.com/in/matthieu-thébaud-459a26145/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: wilfried/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/wilfried.html
+    image: wilfried/projet_1.jpg
+    link: https://openclassrooms-student-center.github.io/alumnis/students/wilfried.html
     finished: true
+
 ---
