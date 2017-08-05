@@ -4,34 +4,33 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: Florian
 
 # First name or full name
-name: Ratus
-date: 2017-08-05 01:55
+name: Florian Peyrony
+date: 2017-08-05 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à développer une application.
-short_description: J'aime les jeux-video, la boxe et le cinéma.
+objective: Pouvoir créer ma propre application, m'épanouir dans un métier.
+short_description: J'aimes les jeux-video, la boxe et le cinéma.
 
 # don't touch that
 template: students
 description:
-    Après le bts muc innachevé, j'ai cherché une reorientation et Openclassrooms m'a tapé dans l'oeil.
+    Passioné d'informatique et de nouvelles technologies, après un bts muc innachevé je souhaite me réorienter et apprendre un métier que j'aime.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: florian79.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Florian Peyrony !
-    description: Passioné par les nouvelles technologies.
-    https://www.linkedin.com/in/florian-peyrony-0ba181147/
+  - title: Présentez-vous !
+    description: Passioné par les applications, j'apprend sur Openclassrooms.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: florian79/projet_1.png
@@ -42,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: florian79/projet_2.png
-    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/88
+    link: https://github.com/Flop79/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
