@@ -18,9 +18,7 @@ short_description: Passioné par l'informatique, je veux tout faire pour que cel
 # don't touch that
 template: students
 description:
-    L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
-    C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS.
-    Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur.
+    L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte. C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS. Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
