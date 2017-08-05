@@ -33,8 +33,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: matthieu44/projet1.png
-    link: https://www.linkedin.com/in/matthieu-thébaud-459a26145/
+    image: wilfried/projet_1.jpg
+    link: https://www.linkedin.com/in/wilfriedjosset/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -42,6 +42,11 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: wilfried/projet_1.jpg
     link: https://openclassrooms-student-center.github.io/alumnis/students/wilfried.html
+    finished: true
+  - title: Créer son premier jeu swift
+    description: Premier jeu swift. 
+    image: wilfried/projet_1.jpg
+    link: 
     finished: true
 
 ---
