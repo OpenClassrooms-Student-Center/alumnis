@@ -47,6 +47,6 @@ projects:
     description: Création d'un jeu où deux équipes vont s'affronter dans un combat à tour de rôle. 
     image: wilfried/projet_3.jpg
     link: https://github.com/wjosset/Projet_3
-    finished: false
+    finished: true
 
 ---
