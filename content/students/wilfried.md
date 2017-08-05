@@ -40,13 +40,13 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: wilfried/projet_1.jpg
+    image: wilfried/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/alumnis/students/wilfried.html
     finished: true
   - title: Créer son premier jeu swift
     description: Premier jeu swift. 
-    image: wilfried/projet_1.jpg
+    image: wilfried/projet_3.jpg
     link: 
-    finished: true
+    finished: false
 
 ---
