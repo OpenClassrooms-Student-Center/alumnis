@@ -45,4 +45,9 @@ projects:
     image: wilfried/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/wilfried.html
     finished: true
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: dans mon futur projet, je devrai créer mon premier jeux video.
+    image: matthieu44/projet3.png
+    link: https://openclassrooms.com/paths/developpeur-se-dapplication-ios
+    finished: true
 ---
