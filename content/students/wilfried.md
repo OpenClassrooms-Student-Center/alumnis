@@ -4,33 +4,31 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: wilfried
 
 # First name or full name
-name: Ratus
+name: Wilfried
 date: 2016-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Acquérir des compétences en développement iOS.
+short_description: Passioné par l'informatique, je veux tout faire pour que cela en devienne mon métier.
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    En 2013, J’ai obtenu un Bachelor en Audio Production. Durant ces études, j’ai compris que l’entrepreneuriat était une chose qui me passionnait. C’est pourquoi j’ai créé ma propre entreprise dans le secteur de la production audiovisuelle en Suisse.
+    Après 3 ans d’activités, de succès et d’échecs au sein de cette entreprise, je pris la décision d’explorer d'autres horizons toutefois sans abandonner l’idée de créer ma propre entreprise et de la rendre prospère.
+    Etant passionné par les technologies et l'innovation depuis mon plus jeune âge, je me suis intéressé de manière plus assidu à l’écosystème Apple dans lequel j’ai toujours évolué. L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
+    C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS. Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur, puis peut-être un jour créer ma propre structure dans ce domaine.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+    image: wilfried.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
