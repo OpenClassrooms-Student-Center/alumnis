@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Le projet 1 m'a fait travailler mon organisation et ma visibilité, voici un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: matthieu44/projet1.png
@@ -40,12 +40,8 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: matthieu44/projet2.png
-    link: https://openclassrooms-student-center.github.io/alumnis/students/matthieu44.html
+    image: wilfried/projet_1.jpg
+    link: https://openclassrooms-student-center.github.io/alumnis/students/wilfried.html
     finished: true
-  - title: Créez votre premier jeu vidéo avec Swift !
-    description: dans mon futur projet, je devrai créer mon premier jeux video.
-    image: matthieu44/projet3.png
-    link: https://openclassrooms.com/paths/developpeur-se-dapplication-ios
-    finished: true
+
 ---
