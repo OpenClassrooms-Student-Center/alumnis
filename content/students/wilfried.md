@@ -18,10 +18,9 @@ short_description: Passioné par l'informatique, je veux tout faire pour que cel
 # don't touch that
 template: students
 description:
-    En 2013, J’ai obtenu un Bachelor en Audio Production. Durant ces études, j’ai compris que l’entrepreneuriat était une chose qui me passionnait. C’est pourquoi j’ai créé ma propre entreprise dans le secteur de la production audiovisuelle en Suisse.
-    Après 3 ans d’activités, de succès et d’échecs au sein de cette entreprise, je pris la décision d’explorer d'autres horizons toutefois sans abandonner l’idée de créer ma propre entreprise et de la rendre prospère.
-    Etant passionné par les technologies et l'innovation depuis mon plus jeune âge, je me suis intéressé de manière plus assidu à l’écosystème Apple dans lequel j’ai toujours évolué. L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
-    C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS. Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur, puis peut-être un jour créer ma propre structure dans ce domaine.
+    L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
+    C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS.
+    Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
