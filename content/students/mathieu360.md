@@ -5,13 +5,13 @@ title: mathieu360
 name: Mathieu
 date: 2017-07-20 17:20
 
-objective: Travailler à l'élaboration d'innovations technologiques pour ceux qui en ont besoin aux animaux ou à la planète.
+objective: Travailler à l'élaboration d'innovations technologiques pour une entreprise partageant les mêmes valeurs que moi.
 short_description: J'aime voyager.
 
 
 template: students
 description:
-    J'ai principalement vécu à l'étranger depuis la fin de mon lycée notamment plusieurs années au Canada.
+    J'ai principalement vécu à l'étranger depuis la fin de mon lycée, notamment plusieurs années au Canada.
     J'ai fait des études de physique et souhaiterais maintenant m'orienter vers l'informatique et les nouvelles technologies.
 
 
@@ -23,7 +23,7 @@ public: True
 
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers LinkedIn.
     image: mathieu360/projet_1.png
     link: https://www.linkedin.com/
     finished: true
