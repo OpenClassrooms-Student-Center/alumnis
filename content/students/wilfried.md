@@ -11,8 +11,8 @@ description:
     l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
     C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS.
     Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours.
-image: pierre.jpg
-public: False
+image: wilfried.jpg
+public: True
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
