@@ -7,12 +7,10 @@ short_description: Passioné par l'informatique, je veux tout faire pour que cel
 template: students
 region: SUISSE
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    L'annonce par Apple de leur nouveau langage de programmation « Swift » et
+    l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
+    C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS.
+    Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours.
 image: pierre.jpg
 public: False
 projects:
