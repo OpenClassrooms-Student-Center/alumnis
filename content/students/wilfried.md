@@ -29,9 +29,4 @@ projects:
     image: francois/projet_1.png
     link: https://www.linkedin.com/in/françois-hollande-422814130
     finished: false
-  - title: Aidez MacGyver à sortir !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: francois/projet_1.png
-    link: https://www.linkedin.com/in/françois-hollande-422814130
-    finished: false
 ---
