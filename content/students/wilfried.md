@@ -19,14 +19,14 @@ projects:
     image: wilfried/projet_1.jpg
     link: https://www.linkedin.com/in/wilfriedjosset/
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: francois/projet_1.png
-    link: https://www.linkedin.com/in/françois-hollande-422814130
-    finished: false
-  - title: Aidez MacGyver à sortir !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: francois/projet_1.png
-    link: https://www.linkedin.com/in/françois-hollande-422814130
-    finished: false
+    link: https://openclassrooms-student-center.github.io/alumnis/students/wilfried.html
+    finished: true
+  - title: Créez votre premier jeu vidéo Swift !
+    description: Création d'un jeu où deux équipes vont s'affronter dans un combat à tour de rôle. 
+    image: wilfried/projet_3.jpg
+    link: https://github.com/wjosset/Projet_3
+    finished: true
 ---
