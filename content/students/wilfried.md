@@ -2,10 +2,10 @@
 title: wilfried
 name: Wilfried
 date: 2017-06-29 23:24
-objective: Servir d'exemple pour le site des Alumnis ?
-short_description: Co-fondateur d'OpenClassrooms et amateur de sensations fortes. #loveTriumph
+objective: Acquérir des compétences en développement iOS.
+short_description: Passioné par l'informatique, je veux tout faire pour que cela en devienne mon métier.
 template: students
-region: PACA
+region: SUISSE
 description:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
