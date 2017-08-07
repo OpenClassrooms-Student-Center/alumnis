@@ -5,8 +5,12 @@ date: 2017-06-29 23:24
 objective: Acquérir des compétences en développement iOS.
 short_description: Passioné par l'informatique, je veux tout faire pour que cela en devienne mon métier.
 template: students
+region: PACA
 description:
-    L'annonce par Apple de leur nouveau langage de programmation « Swift » et l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte. C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS. Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours afin d'obtenir un job dans le secteur.
+    L'annonce par Apple de leur nouveau langage de programmation « Swift » et
+    l'adoption grandissante de ce dernier me démontre que la fenêtre d'opportunité est grande ouverte.
+    C'est pourquoi j'ai décidé de saisir l'occasion en apprenant de manière autodidacte à créer des applications iOS.
+    Je souhaite désormais renforcer mes compétences et les faire valider par le biais de ce parcours.
 image: wilfried.jpg
 public: True
 projects:
