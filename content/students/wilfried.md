@@ -1,7 +1,7 @@
 ---
-title: pierre
-name: Pierre
-date: 2016-10-28 17:20
+title: wilfried
+name: Wilfried
+date: 2017-06-29 23:24
 objective: Servir d'exemple pour le site des Alumnis ?
 short_description: Co-fondateur d'OpenClassrooms et amateur de sensations fortes. #loveTriumph
 template: students
