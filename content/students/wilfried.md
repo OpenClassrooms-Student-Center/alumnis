@@ -16,8 +16,8 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: francois/projet_1.png
-    link: https://www.linkedin.com/in/françois-hollande-422814130
+    image: wilfried/projet_1.jpg
+    link: https://www.linkedin.com/in/wilfriedjosset/
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
