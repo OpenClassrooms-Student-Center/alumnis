@@ -30,7 +30,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-   - title: Présentez-vous !
+  - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
@@ -42,7 +42,7 @@ projects:
    - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: walim/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/walim.html
+    link: https://github.com/Wax26/alumnis
     finished: true
    - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé Swift
