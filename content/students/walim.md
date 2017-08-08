@@ -1,10 +1,10 @@
 ---
 
-# FILENAME : Walim Aloui
+# FILENAME : Walim
 # Example: https://openclassrooms.com/membres/walimaloui
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Walim
+title: walim
 
 # First name or full name
 name: Walim
