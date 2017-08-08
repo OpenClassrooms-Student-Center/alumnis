@@ -18,8 +18,11 @@ short_description: New tech enthusiast, iOS Dev Fan
 # don't touch that
 template: students
 description:
-    Après des études en GEC, j'ai décidé de me tourner vers ma passion de toujours : les New tech.
-    Je suis le parcours iOS afin d'entamer une carrière dans la prog
+   Après des études en GEC, j'ai décidé de me tourner vers ma passion de toujours : les New tech.
+   Je suis le parcours iOS afin d'entamer une carrière dans la prog
+
+
+
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
