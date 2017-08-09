@@ -29,8 +29,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Projet 1 : Présentez-vous !
-    description: Projet 1 qui m'a rabiboché avec Linkedin et qui m'a aidé pour l'organisation de mes cours :
+  - title: Projet 1 - Présentez-vous !
+    description: Projet 1 qui m'a rabiboché avec Linkedin et qui m'a aidé pour l'organisation de mes cours
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: mylene/projet_1.jpg
@@ -38,12 +38,12 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Projet 2 : Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+  - title: Projet 2 - Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: mylene/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/mylene.html
     finished: true
-  - title: Projet 3 : Créez votre premier jeu vidéo aec Swift !
+  - title: Projet 2 - Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift sur Xcode pour le prochain projet!
     image: mylene/projet_3.jpg
     link: https://openclassrooms.com/paths/developpeur-se-dapplication-ios
