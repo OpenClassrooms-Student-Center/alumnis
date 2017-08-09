@@ -47,9 +47,19 @@ projects:
 
   - title: Aidez MacGyver à sortir !
 
-    description: Création d’un jeu développé en Python et utilisant TKinter.
+    description: Création d’un jeu développé en Python et utilisant Pygame.
 
     image: mounir/projet_03.jpg
+
+    link: https://www.linkedin.com/in/mo-me-517434145/
+
+    finished: true
+	
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+
+    description: Ecriture des spécifications fonctionnelles et réalisation UML.
+
+    image: mounir/projet_04.jpg
 
     link: https://www.linkedin.com/in/mo-me-517434145/
 
