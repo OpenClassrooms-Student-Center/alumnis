@@ -43,9 +43,9 @@ projects:
     image: mylene/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/mylene.html
     finished: true
-  - title: Projet 2 - Créez votre premier jeu vidéo avec Swift !
+  - title: Projet 3 - Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift sur Xcode pour le prochain projet!
     image: mylene/projet_3.jpg
     link: https://openclassrooms.com/paths/developpeur-se-dapplication-ios
-    finished: true
+    finished: false
 ---
