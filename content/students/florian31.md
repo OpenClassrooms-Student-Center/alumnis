@@ -18,7 +18,7 @@ short_description: J'ai toujours été passionné par les sciences et les nouvel
 # don't touch that
 template: students
 description:
-    Anciennement ingénieur dans l'aéronautique, j'ai suis actuellement en reconversion professionnelle pour devenir développeur python.
+    Anciennement ingénieur dans l'aéronautique, j'ai suis actuellement en reconversion professionnelle pour devenir développeur      python.
     Mon but est de trouver un travail dans lequel je m'épanouirai enfin.
     J'ai toujours été passionné par les sciences et les nouvelles technologies. C'est aussi une raison pour laquelle j'ai choisie python,
     qui est un langage utilisé dans le monde scientifique.
@@ -28,7 +28,7 @@ description:
 image: florian31.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
