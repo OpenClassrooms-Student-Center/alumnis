@@ -20,8 +20,7 @@ template: students
 description:
     Anciennement ingénieur dans l'aéronautique, j'ai suis actuellement en reconversion professionnelle pour devenir développeur      python.
     Mon but est de trouver un travail dans lequel je m'épanouirai enfin.
-    J'ai toujours été passionné par les sciences et les nouvelles technologies. C'est aussi une raison pour laquelle j'ai choisie python,
-    qui est un langage utilisé dans le monde scientifique.
+    J'ai toujours été passionné par les sciences et les nouvelles technologies. C'est aussi une raison pour laquelle j'ai choisi python, qui est un langage utilisé dans le monde scientifique.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
