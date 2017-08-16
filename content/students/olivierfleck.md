@@ -36,19 +36,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Olivier/project1.jpg
+    image: olivierfleck/project1.jpg
     link: https://www.linkedin.com/in/olivier-fleck/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: olivier/project2.jpg
+    image: olivierfleck/project2.jpg
     link: https://github.com/flkoliv/alumnis
     finished: true
   - title: Mettez votre logique à l'épreuve !
     description: Vous aurez à développer plusieurs variantes de mastermind autour de la recherche de combinaisons secrètes. 
-    image: olivier/project3.jpg
+    image: olivierfleck/project3.jpg
     link: https://github.com/flkoliv/mastermind
     finished: False
 	
