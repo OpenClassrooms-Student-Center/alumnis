@@ -51,5 +51,4 @@ projects:
     image: olivierfleck/project3.jpg
     link: https://github.com/flkoliv/mastermind
     finished: False
-	
 ---
