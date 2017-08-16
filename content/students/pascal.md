@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: scwall
+title: pascal
 
 # First name or full name
 name: Pascal
@@ -35,7 +35,7 @@ projects:
     description: Je m'appelle Pascal, j'ai 32 ans 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: pascal/projet_1.png
+    image: pascal/projet_1.jpg
     link: https://www.linkedin.com/in/pascal-de-selys/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -43,7 +43,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github
 pull requests. 
-    image: pascal/projet_2.png
+    image: pascal/projet_2.jpg
     link: https://github.com/scwall/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
