@@ -4,7 +4,7 @@ title: mathieu9
 
 name: mathieu
 
-date: 2017-06-06 23:20
+date: 2017-20-08 23:20
 
 objective: Développer mes compétences !
 
@@ -14,7 +14,7 @@ template: students
 
 description:
 
-    Après plusieurs années de travail dans l'administration de systèmes informatique,
+    Après plusieurs années de travail dans l'administration de systèmes informatiques,
 
     je prends le temps de développer mes compétences.
 
@@ -56,6 +56,16 @@ projects:
 
     link: https://www.linkedin.com/in/mathieu-b-6b9969144/
 
-    finished: false
+    finished: true
+
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+
+    description: Spécifications fonctionnelles d'un projet de pizzéria en ligne.
+
+    image: mathieu9/projet_4.png
+
+    link: https://www.linkedin.com/in/mathieu-b-6b9969144/
+
+    finished: true
 
 ---
