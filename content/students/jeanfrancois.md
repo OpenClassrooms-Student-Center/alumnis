@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: jeanfrancois/projet_2.png
-    link: https://github.com/jfsubrini/alumnis/tree/master/content/students/jeanfrancois.md
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/jeanfrancois/projet_2.png
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
