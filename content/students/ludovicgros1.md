@@ -18,12 +18,9 @@ short_description: Joueur dans l'âme et scientifique de formation, j'apprends �
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Licence de chimie obtenue à l'université de Strasbourg, suivi d'une première année 
+    en Master Chimie et Biologie option médicament et industrie pharmaceutique.
+    Suite à ça je décide de me lancer dans le développement python et d'abandonner l'industrie chimique.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -46,7 +43,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ludovicgros1/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ludovicgros1.html
+    link: https://github.com/LudoHazred/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
