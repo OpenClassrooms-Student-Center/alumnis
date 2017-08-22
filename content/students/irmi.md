@@ -13,7 +13,7 @@ date: 2017-08-21 13:37
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Créer des recettes de cuisine avec du python.
-short_description: Hello World !
+short_description: <--- Idem, sauf pour le piano
 description:
     Adepte du GNU manchot et du renard en feu, il me tarde de gouter au python.
 
