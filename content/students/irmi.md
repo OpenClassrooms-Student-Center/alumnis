@@ -42,7 +42,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     #image: irmi/projet_2.png
     image: irmi/loading.gif
-    link: https://openclassrooms-student-center.github.io/presentation/students/irmi.html
+    #link: https://openclassrooms-student-center.github.io/alumnis/students/irmi.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
