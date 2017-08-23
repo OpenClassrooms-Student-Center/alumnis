@@ -18,8 +18,8 @@ short_description: J'aime apprendre de nouvelles choses et relever des defis (co
 # don't touch that
 template: students
 description:
-    J'ai envie de  voyager, et pour ca j'aimerai developper une activite en
-    freelance.
+    J'aime  voyager. C'est pour cela que j'aimerai developper une activite 
+    en freelance.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
