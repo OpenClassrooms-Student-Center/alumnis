@@ -12,7 +12,7 @@ date: 2017-07-06 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Développer mes compétences et devenir déveoppeur iOS !
+objective: Développer mes compétences et devenir développeur iOS !
 
 # don't touch that
 template: students
