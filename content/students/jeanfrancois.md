@@ -18,7 +18,13 @@ short_description: D’Andalousie, je prends cette invitation au voyage au pays 
 # don't touch that
 template: students
 description:
-    Bourlingueur de grand chemin, vivant actuellement sous le soleil et la douceur de l’Andalousie. J’ai découvert récemment un goût pour le code qui me mènera peut-être vers de nouveaux horizons professionnels. Mon attrait pour la nature et les animaux sauvages m’a fait choisir Python. Non, je blague ! Mon parcours, entre la Finance, l’entreprenariat et les voyages, paraît aussi sinueux que le déplacement de notre reptile, mais au fond, je tâche de garder le cap, tout droit.
+    Bourlingueur de grand chemin, vivant actuellement sous le soleil et la
+    douceur de l’Andalousie. J’ai découvert récemment un goût pour le code
+    qui me mènera peut-être vers de nouveaux horizons professionnels.
+    Mon attrait pour la nature et les animaux sauvages m’a fait choisir Python.
+    Non, je blague ! Mon parcours, entre la Finance, l’entreprenariat et
+    les voyages, paraît aussi sinueux que le déplacement de notre reptile,
+    mais au fond, je tâche de garder le cap, tout droit.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
