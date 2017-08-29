@@ -13,19 +13,12 @@ date: 2017-08-21 13:37
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Créer des recettes de cuisine avec du python.
-short_description: Hello World !
+short_description: <--- Idem, sauf pour le piano
 description:
     Adepte du GNU manchot et du renard en feu, il me tarde de gouter au python.
 
 # don't touch that
 template: students
-description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -48,8 +41,8 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     #image: irmi/projet_2.png
-    image: irmi/loading.gif
-    link: https://openclassrooms-student-center.github.io/presentation/students/irmi.html
+    image: irmi/socialite.jpg
+    #link: https://openclassrooms-student-center.github.io/alumnis/students/irmi.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
