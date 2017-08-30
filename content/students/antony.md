@@ -52,5 +52,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: antony/projet_3github.png
     link: https://github.com/antonyboivin/jeu_MacGyver
-    finished: false
+    finished: true
 ---
