@@ -4,16 +4,16 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: juliencauwet
 
 # First name or full name
-name: Ratus
-date: 2016-10-28 17:20
+name: Julien Cauwet
+date: 2017-09-03 15:10
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Faire d'une passion mon travail
+short_description: Quand je ne suis pas devant mon ordinateur, je partage des moments avec des amis et le tout forme mon équilibre. Je suis curieux, sociable, et j'aime la vie.
 
 # don't touch that
 template: students
@@ -30,12 +30,12 @@ description:
 image: ratus.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: https://www.linkedin.com/in/julien-cauwet-01035554/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
