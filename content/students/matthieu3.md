@@ -46,6 +46,6 @@ projects:
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Je vais créer mon premier jeux video.
     image: matthieu3/projet_3.jpg
-    link: https://openclassrooms.com/paths/developpeur-se-dapplication-ios
+    link: https://openclassrooms.com/projects/creez-votre-premier-jeu-video-avec-swift
     finished: false
 ---
