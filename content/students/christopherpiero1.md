@@ -8,8 +8,6 @@ objective: Big Data me voila.
 short_description: Programm or be programmed
 
 template: students
-region: Paris
-
 description:
     Je suis une personne qui adore apprendre pour acquérir de nouvelles compétences.
     Après plus de 10 ans dans l'informatique, j'ai décidé de continuer dans ce sens. 
