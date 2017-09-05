@@ -31,5 +31,4 @@ projects:
     image: christopherpiero1/GitHub.PNG
     link: https://github.com/th3fl4y3r
     finished: true
-
 ---    
