@@ -23,7 +23,6 @@ projects:
     image: christopherpiero1/LinkedIn.PNG
     link: https://www.linkedin.com/in/christopher-piero-199b7399/
     finished: true
-
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source via Github pour intègrer la communauté OpenClassrooms. 
     image: christopherpiero1/GitHub.PNG
