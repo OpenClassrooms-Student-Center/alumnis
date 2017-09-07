@@ -7,13 +7,13 @@
 title: Badr
 
 # First name or full name
-name: Badr
+name: Badr Touchna
 date: 2017-09-04 20:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Le Diplôme de Développeur d'application Java.
+short_description: J'aime l'informatique et rester derriere un écran d'ordinateur.
 
 # don't touch that
 template: students
