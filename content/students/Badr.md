@@ -1,7 +1,7 @@
-﻿---
+---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
+# FILENAME : 
+# Example: 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: Badr
@@ -12,14 +12,11 @@ date: 2017-09-04 02:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre le métier de développeur pour décrocher un métier qui me plaît.
-short_description: Passionné de l'informatique et tout ce qui s'y rapporte, je me lance enfin vers ce à quoi j'aspire.
+objective: Diplôme developpeur d'application Java.
 
 # don't touch that
 template: students
-description: Je m'appelle Badr j'ai 25 ans et fais des aller retours entre Paris Montpellier.
-Je me lance dans le parcours Java. L'informatique en général me fascine depuis mon enfance ! 
-Oppenclasserom nous offre l'opportunité de réussir dans ce domaine ! Profitons-en ^^.
+description: je m'appelle Badr j'ai 25 ans et je suis passioné d'informatique.
     
 
 # image must be located in content/images/students
