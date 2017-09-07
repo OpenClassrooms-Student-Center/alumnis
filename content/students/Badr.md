@@ -1,4 +1,4 @@
----
+Ôªø---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -8,19 +8,19 @@ title: Badr
 
 # First name or full name
 name: Badr Touchna
-date: 2017-09-04 20:20
+date: 2017-09-04 02:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Le DiplÙme de DÈveloppeur d'application Java.
-short_description: J'aime l'informatique et rester derriere un Ècran d'ordinateur.
+objective: Apprendre le m√©tier de d√©veloppeur pour d√©crocher un m√©tier qui me pla√Æt.
+short_description: Passionn√© de l'informatique et tout ce qui s'y rapporte, je me lance enfin vers ce √† quoi j'aspire.
 
 # don't touch that
 template: students
-description:
-   Je m'appelle Badr j'ai 25 ans et fais des aller retours entre Paris Montpellier.
-Je me lance dans le parcours Java. L'informatique en gÈnÈral me fascine depuis mon enfance ! 
-Oppenclasserom nous offre l'opportunitÈ de rÈussir dans ce domaine ! Profitons-en ^^.
+description: Je m'appelle Badr j'ai 25 ans et fais des aller retours entre Paris Montpellier.
+Je me lance dans le parcours Java. L'informatique en g√©n√©ral me fascine depuis mon enfance ! 
+Oppenclasserom nous offre l'opportunit√© de r√©ussir dans ce domaine ! Profitons-en ^^.
+    
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -31,8 +31,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: PrÈsentez-vous !
-    description: Une prÈsentation de moi-mÍme et un lien vers mon LinkedIn.
+  - title: Pr√©sentez-vous !
+    description: Une pr√©sentation de moi-m√™me et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: projet_1.png ; projet_2.png
@@ -40,15 +40,14 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: IntÈgrez la communautÈ !
+  - title: Int√©grez la communaut√© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: projet_2.png 
+    image: projet_2.png
     link: https://github.com/User0904/alumnis
     finished: true
-  - title: Aidez MacGyver ‡ sortir !
-    description: CrÈation díun jeu dÈveloppÈ en Python et utilisant PyGame.
+  - title: Aidez MacGyver √† sortir !
+    description: Cr√©ation d‚Äôun jeu d√©velopp√© en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
 ---
- 
