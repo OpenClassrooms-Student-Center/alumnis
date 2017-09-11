@@ -30,12 +30,12 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Arthur, 22 ans, apprenti développeur Python
-    description: https://www.linkedin.com/in/arthur-di-benedetto-7aa91412a/
+  - title: Présentation
+    description: Arthur, 22 ans, apprenti développeur Python
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Arthur/projet1.png
-    link: https://github.com/MrDiben
+    link: https://www.linkedin.com/in/arthur-di-benedetto-7aa91412a/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
