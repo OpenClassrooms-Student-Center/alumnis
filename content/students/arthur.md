@@ -4,7 +4,7 @@
 # Example: 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Arthur
+title: arthur
 
 # First name or full name
 name: Arthur
@@ -18,7 +18,9 @@ short_description: Amateur de Physique, de jeux-vidéos et de défis sportifs.
 # don't touch that
 template: students
 description:
-    J'ai toujours été intéressé par les nouvelles technologies et particulièrement la programmation informatique. J'adore voyager, faire du sport et bien sûr geeker.
+    J'ai toujours été intéressé par les nouvelles technologies et 
+	particulièrement la programmation informatique. J'adore voyager,
+	faire du sport et bien sûr geeker.
 
 
 # image must be located in content/images/students
