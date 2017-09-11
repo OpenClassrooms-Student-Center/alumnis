@@ -1,10 +1,10 @@
 ---
 
-# FILENAME : arthur
+# FILENAME : Arthur
 # Example: 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: arthur
+title: Arthur
 
 # First name or full name
 name: Arthur
