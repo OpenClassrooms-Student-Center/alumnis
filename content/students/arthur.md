@@ -19,8 +19,8 @@ short_description: Amateur de Physique, de jeux-vidéos et de défis sportifs.
 template: students
 description:
     J'ai toujours été intéressé par les nouvelles technologies et 
-	particulièrement la programmation informatique. J'adore voyager,
-	faire du sport et bien sûr geeker.
+    particulièrement la programmation informatique. J'adore voyager,
+    faire du sport et bien sûr geeker.
 
 
 # image must be located in content/images/students
