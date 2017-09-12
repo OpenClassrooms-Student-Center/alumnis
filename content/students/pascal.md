@@ -17,8 +17,8 @@ short_description: J'aimerais devenir développeur python, Django pour exercer c
 # don't touch that
 template: students
 description:
-    Je voudrais être capable de développer des applications en python 
-    pour mes clients ainsi que pour ma propre utilisation. 
+    Je voudrais être capable de développer des applications en python
+    pour mes clients ainsi que pour ma propre utilisation.
     Installant Linux pour des particuliers,
     je me retrouve souvent bloqué par des problèmes d’ergonomies chez les utilisateurs lambda (même sous Ubuntu).
 
@@ -32,7 +32,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je m'appelle Pascal, j'ai 32 ans 
+    description: Je m'appelle Pascal, j'ai 32 ans
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: pascal/projet_1.jpg
@@ -41,8 +41,8 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github
-pull requests. 
+    description:
+        Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et les pull requests. 
     image: pascal/projet_2.jpg
     link: https://github.com/scwall/alumnis
     finished: true
@@ -51,4 +51,5 @@ pull requests.
     image: pascal/projet_3.jpeg
     link: https://github.com/scwall
     finished: false
+
 ---
