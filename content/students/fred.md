@@ -34,17 +34,17 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    Je m'appelle Terrage Frédéric et j'habite à Bondy (93). Je travaillais dans 
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    une entreprise de logistique de fournisseur de jeux vidéos pour les professionnels.
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    En juin 2017, j'ai été licencié (économique) et je me retrouve au chômage. J'ai une 
 
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    formation d'administrateur réseaux et je suis auto entrepreneur dans le dépannage 
 
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    informatique. Aujourd'hui je suis la formation de développeur Java, pour peut-être
 
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    un jour travailler dans l'informatique. C'est mon souhait.
 
 
 # image must be located in content/images/students
