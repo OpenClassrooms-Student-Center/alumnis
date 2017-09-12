@@ -25,6 +25,7 @@ projects:
     link: https://openclassrooms-student-center.github.io/alumnis/students/matthieu.html
     finished: true
   - title: Aidez MacGyver à sortir !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    finished: false
----
+    description: Création d'un jeu développé en Python et utilisant PyGame.
+    image: matthieu/projet_3.jpg
+    link: https://github.com/matthfelder/mac_gyver_game.git
+    finished: true
