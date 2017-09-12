@@ -1,10 +1,11 @@
 ---
 
-# FILENAME : https://openclassrooms.com/membres/radohery 
+# FILENAME : https://openclassrooms.com/membres/radohery
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+
+title: radohery
 
 # Rado
 name: Ramarovahoaka
@@ -17,11 +18,11 @@ short_description: J'aime les jeux vidéos, les voyages et tout ce qui est nouve
 
 # don't touch that
 template: students
-description:
+description: >
     Je m'appelle Rado, originaire de Madagascar et j'habite en France.
-    Je travaille déjà dans le monde de l'informatique en tant que Technicien Helpdesk, et 
-    je suis le parcours Développeur d'Application java pour une reconversion professionnelle. 
-    Et pour ça je terminerai tous les projets et obtenir un diplôme. C'est mon challenge, 
+    Je travaille déjà dans le monde de l'informatique en tant que Technicien Helpdesk, et
+    je suis le parcours Développeur d'Application java pour une reconversion professionnelle.
+    Et pour ça je terminerai tous les projets et obtenir un diplôme. C'est mon challenge,
     car je suis très patient et persévérant. Merci Openclassrooms.
 
 # image must be located in content/images/students
@@ -34,23 +35,22 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je m'appelle Rado et j'habite en France. Actuellement je suis le Parcours Développeur d'Application Java pour une
-    reconversion professionnelle. https://www.linkedin.com/in/rado-ramarovahoaka-b671559a/ 
+    description: >
+        Je m'appelle Rado et j'habite en France. Actuellement je suis le Parcours Développeur d'Application Java pour une reconversion professionnelle. https://www.linkedin.com/in/rado-ramarovahoaka-b671559a/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Radohery/projet_1.png
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Radohery/projet_2.png
-    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/120
-    finished: true
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/120
+    finished: true
   - title: Mon projet !
     description: Mon repo original et forké.
     image: Radohery/projet_3.png
-    link: https://github.com/Radohery1204/alumnis/edit/master/content/students/Radohery.md?pr=/OpenClassrooms-Student-      Center/alumnis/pull/120
+    link: https://github.com/Radohery1204/alumnis/edit/master/content/students/Radohery.md?pr=/OpenClassrooms-Student- Center/alumnis/pull/120
     finished: false
+
 ---

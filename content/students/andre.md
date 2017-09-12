@@ -12,17 +12,17 @@ date: 2017-09-07 11:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Réussir ma reconversion professionnelle pour devenir concepteur/développeur d'applications Java!
-short_description: Interessé par le domaine scientifique.
+objective: RÃ©ussir ma reconversion professionnelle pour devenir concepteur/dÃ©veloppeur d'applications Java!
+short_description: InteressÃ© par le domaine scientifique.
 
 # don't touch that
 template: students
 description:
-    J'ai exercé pendant une dizaine d'années dans le secteur des télécommunications en région parisienne.
-    Je souhaite désormais me reconvertir dans le développement informatique qui propose davantage d'opportunités
-    en région Rhône-Alpes(d'où je suis originaire) ou en Suisse. J'ai choisi le parcours DA Java car il s'agit
-    d'un langage très demandé et qui bénéficie en plus d'une excellente portabilité.
-    
+    J'ai exercÃ© pendant une dizaine d'annÃ©es dans le secteur des tÃ©lÃ©communications en rÃ©gion parisienne.
+    Je souhaite dÃ©sormais me reconvertir dans le dÃ©veloppement informatique qui propose davantage d'opportunitÃ©s
+    en rÃ©gion RhÃ´ne-Alpes(d'oÃ¹ je suis originaire) ou en Suisse. J'ai choisi le parcours DA Java car il s'agit
+    d'un langage trÃ¨s demandÃ© et qui bÃ©nÃ©ficie en plus d'une excellente portabilitÃ©.
+
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -33,19 +33,19 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: PrÃ©sentez-vous !
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: andre/projet_1.png
-    link: linkedin.com/in/andré-monnier-b378a9114
+    link: linkedin.com/in/andre-monnier-b378a9114
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+  - title: IntÃ©grez la communautÃ© !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: andre/projet_2.png
     link: https://github.com/AndreM-1
     finished: true
-  
+
 ---
