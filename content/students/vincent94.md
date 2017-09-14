@@ -20,7 +20,7 @@ short_description:
 # don't touch that
 template: students
 description:
-Je m' appelle Vincent, j' ai 33 ans et je vis en région parisienne. Après près de 15 années en tant qu‘ électricien j' ai décidé de me lancer dans une reconversion professionnelle. Je débute le parcours de développeur d' application IOS et souhaite en faire mon métier. Heureux de vous rejoinde et de faire parti de la communauté OpenclassRooms.
+Je m' appelle Vincent, j' ai 33 ans et je vis en région parisienne. Après près de 15 années en tant qu' électricien j' ai décidé de me lancer dans une reconversion professionnelle. Je débute le parcours de développeur d' application IOS et souhaite en faire mon métier. Heureux de vous rejoinde et de faire parti de la communauté OpenclassRooms.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
