@@ -24,7 +24,7 @@ Je m' appelle Vincent, j' ai 33 ans et je vis en région parisienne. Après prè
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: vincent94.jpg
+image: vincentloret1.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -36,7 +36,7 @@ description: Je viens de demarrer le parcours et je suis actuellement sur le pro
 
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
-image: vincent94/projet_1.png
+image: vincentloret1/projet_1.png
 link: https://www.linkedin.com/in/vincent-loret-63348a14b/
 
 # 'true' makes it fully available.
@@ -44,7 +44,7 @@ link: https://www.linkedin.com/in/vincent-loret-63348a14b/
 finished: true
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-image: vincent94/projet_2.png
+image: vincentloret1/projet_2.png
  link: https://openclassrooms-student-center.github.io/alumnis/students/vincentloret1.html
 finished: true
 ---
