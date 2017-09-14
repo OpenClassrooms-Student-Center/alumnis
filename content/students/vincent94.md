@@ -45,6 +45,6 @@ finished: true
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 image: vincent94/projet_2.png
- link: https://openclassrooms-student-center.github.io/alumnis/students/vincent94.html
+link: https://openclassrooms-student-center.github.io/alumnis/students/vincent94.html
 finished: true
 ---
