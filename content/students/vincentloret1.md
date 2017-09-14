@@ -82,11 +82,11 @@ link: https://github.com/Left94
 
 finished: true
 
-- title: Aidez MacGyver à sortir !
+- title: Création d’un jeu IOS
 
-description: Création d’un jeu développé en Python et utilisant PyGame.
+description: Création d’un jeu IOS
 
-image: tarik/projet_3.png
+image: vincentloret1/projet_3.png
 
 link: https://github.com/Left94
 
