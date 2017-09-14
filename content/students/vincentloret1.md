@@ -46,5 +46,6 @@ finished: true
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 image: vincentloret1/projet_2.png
  link: https://openclassrooms-student-center.github.io/alumnis/students/vincentloret1.html
+
 finished: true
 ---
