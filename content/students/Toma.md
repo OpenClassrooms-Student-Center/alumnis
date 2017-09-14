@@ -4,10 +4,10 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Toma
+title: toma
 
 # First name or full name
-name: Toma
+name: toma
 date: 2017-09-14 11:35
 
 # One line.
@@ -45,7 +45,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Toma/projet_2.jpg
+    image: Toma/projet_3.jpg
     link: https://github.com/tomneozed/alumnis
     finished: true
 
