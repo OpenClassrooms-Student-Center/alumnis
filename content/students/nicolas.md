@@ -72,9 +72,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: nicolas/les moustachus.png
+    image: les moustachus.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link:  alumnis/content/images/students/les moustachus.png 
 
     # 'true' makes it fully available.
 
