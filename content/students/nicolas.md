@@ -74,7 +74,7 @@ projects:
 
     image: les moustachus.png
 
-    link:  alumnis/content/images/students/les moustachus.png 
+    link:  alumnis/content/images/students/nicolas/les moustachus.png 
 
     # 'true' makes it fully available.
 
