@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: nicolascayon-glayere
+title: nicolas
 
 
 # First name or full name
