@@ -72,7 +72,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: nicolas/les moustachus.png
 
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
