@@ -53,7 +53,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: nicolas/les moustachus.png
-    link: https://github.com/nicolascayonglayere/alumnis/blob/master/content/images/students/nicolas/les%20moustachus.png
+    image: nicolas/les_moustachus.png
+    link: https://github.com/nicolascayonglayere/alumnis/blob/master/content/images/students/nicolas/les_moustachus.png
     finished: false
 ---
