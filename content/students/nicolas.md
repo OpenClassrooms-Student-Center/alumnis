@@ -51,7 +51,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: nicolas/nicolas_ID.png
 
 
 # Change this to True when you do you pull request.
@@ -66,15 +66,15 @@ projects:
   - title: Présentez-vous !
 
     C'est parti pour cette formation "développeur JAVA" !
-    https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/
+    link : https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: les moustachus.png
+    image: nicolas/nicolas_ID.png
 
-    link:  alumnis/content/images/students/nicolas/les moustachus.png 
+    link:  https://github.com/nicolascayonglayere/alumnis/content/images/students/nicolas/nicolas_ID.png 
 
     # 'true' makes it fully available.
 
@@ -86,9 +86,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: nicolas/P2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/nicolascayonglayere/alumnis/content/images/students/nicolas/P2.png 
 
     finished: true
 
