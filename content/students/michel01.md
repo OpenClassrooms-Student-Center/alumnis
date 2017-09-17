@@ -33,7 +33,7 @@ projects:
   - title: Présentez-vous !
     description: Je m'appelle michel et j'ai 46 ans.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/michel01/project1.png
+    # Image must be here: content/students/micheldu01/projet_1.png
     image: projet_1.png
     link: http:/https://www.linkedin.com/in/michel-laurent-8aa7b314b/
     # 'true' makes it fully available.
@@ -41,12 +41,12 @@ projects:
     finished: true
   - title: Créer une application !
     description: Créer une autre application Android. 
-    image: projet_2.png
+    image: projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/michel01.html
     finished: true
   - title: Aidez la communauté !
     description: Proposer mon aide à la communauté.
-    image: projet_3.png
+    image: projet_3.jpg
     link: https://www.github.com
     finished: false
 ---
