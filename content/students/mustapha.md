@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: mustapha/projet_2.png
-    link: 
+    link: https://github.com/42mouss/alumnis
     finished: true
   - title: Projet 3 - Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift sur Xcode
