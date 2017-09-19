@@ -17,7 +17,11 @@ short_description: J'aimes les séries US, le code et la course à pied.
 
 # don't touch that
 template: students
-description: Ancien étudiant en biologie, j'ai profité d'un master compétence complémentaire en informatique pour faire mes premiers pas dans le développement. A la suite de ce master, j'ai souhaité intégrer la communauté Openclassrooms et en apprendre plus sur le Python afin de me perfectionner dans le monde du web.
+description: 
+    Ancien étudiant en biologie, j'ai profité d'un master compétence complémentaire 
+    en informatique pour faire mes premiers pas dans le développement. A la suite de
+    ce master, j'ai souhaité intégrer la communauté Openclassrooms et en apprendre
+    plus sur le Python afin de me perfectionner dans le monde du web.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
