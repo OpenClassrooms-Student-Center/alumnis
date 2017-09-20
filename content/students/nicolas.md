@@ -8,7 +8,7 @@ title: nicolas
 
 # First name or full name
 name: Cayon-Glayere
-date: 1980-03-21
+date: 2017-09-11 11h30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -20,12 +20,10 @@ short_description: Père de deux garçons, je quitte les champs pour le conforta
 template: students
 
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Grand voyageur, j'ai finalement posé mes valises dans le sud ouest de la France avec ma compagne.
+    Nous y avons construit notre famille et tenté l'expérience agricole qui est aujourd'hui terminée.
+    Je me suis occupé de mes garçons par la suite et me voila aujourd'hui à nouveau étudiant.
+    Je débute le parcour "Développement JAVA" en espérant repartir dans une nouvelle aventure professionnelle.    
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -37,23 +35,23 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    C'est parti pour cette formation "développeur JAVA" !
+    description: C'est parti pour cette formation "développeur JAVA" !
     link : https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: nicolas/nicolas_ID.png
-    link:  https://github.com/nicolascayonglayere/alumnis/content/images/students/nicolas/nicolas_ID.png 
+    link: https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/ 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: nicolas/P2.png
-    link: https://github.com/nicolascayonglayere/alumnis/content/images/students/nicolas/P2.png 
+    link: https://github.com/nicolascayonglayere/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: nicolas/les_moustachus.png
-    link: https://github.com/nicolascayonglayere/alumnis/blob/master/content/images/students/nicolas/les_moustachus.png
+    link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
     finished: false
 ---
