@@ -9,12 +9,12 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: olivier
 
 
 # First name or full name
 
-name: Olivier
+name: olivier
 
 date: 2017-09-24 16:00
 
@@ -84,22 +84,22 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Manipulations pour comprendre le fonctionnement de Git associé à Github. 
 
-    image: ratus/projet_2.png
+    image: olivier/Projet2_manipGIT.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/OlivierF67800/demogit 
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Intégrez la communauté - suite
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Familiarisation avec les git commit, git push et git pull.
 
-    image: ratus/projet_3.png
+    image: olivier/Projet3_GITHUB.jpg
 
-    link: https://www.github.com
+    link: https://github.com/OlivierF67800/Partie2Activite
 
-    finished: false
+    finished: true
 
 ---
