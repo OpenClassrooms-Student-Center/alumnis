@@ -34,18 +34,11 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    Je m'appelle Olivier Freymann et j'habite en Alsace, près de Strasbourg.
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    Je me suis inscris sur Openclassrooms en septembre 2017 pour suivre la formation Developpeur Android.
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    J'espère pouvoir rapidement développer des applis. Cerise sur le gâteau, cette formation est diplomante.
 
 # image must be located in content/images/students
 
