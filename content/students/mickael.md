@@ -8,7 +8,7 @@ title: mickael
 
 # First name or full name
 name: Mickael
-date: 2016-09-12 15:21
+date: 2017-09-12 15:21
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: mickael.jpg
+image: mickael.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -46,6 +46,6 @@ projects:
   - title: Mémorisez votre humeur du jour
     description: Développement d'une application Android permettant d'enregistrer votre humeur du jour.
     image: mickael/projet_3.png
-    link: https://www.github.com
+    link: https://github.com/Lun4rDev/MoodTracker
     finished: false
 ---
