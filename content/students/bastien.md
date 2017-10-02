@@ -10,15 +10,15 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: Bastien
+title: bastien
 
 
 
 # First name or full name
 
-name: Bastien
+name: bastien
 
-date: 2017-10-01 10:21
+date: 2017-10-01 16h00
 
 
 
@@ -26,9 +26,9 @@ date: 2017-10-01 10:21
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: développer via python sur différentes plateformes (web, OS, machines) et être autonome en entreprise..
+objective: Savoir développer en langage de programmation python sur différente plateforme.
 
-short_description: Développer en python, Multi-plateformes Web/OS/Machines, 100% Autonomie.
+short_description: Développer, langage python, multiplateforme.
 
 
 
@@ -72,7 +72,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Bastien, 23 ans, Codeur Python Sauvage.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -80,7 +80,7 @@ projects:
 
     image: bastien/projet_1.jpg
 
-    link: https://www.linkedin.com/in/renaud-bastien-412708139/
+    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
     # 'true' makes it fully available.
 
@@ -92,9 +92,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: bastien/projet_2.jpg
+    image: bastien/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/bastien.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/bastien.md
 
     finished: true
 
@@ -102,7 +102,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: bastien/projet_3.jpg
+    image: bastien/projet_3.png
 
     link: https://www.github.com
 
