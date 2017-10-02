@@ -13,7 +13,7 @@ date: 2016-10-28 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur.
-short_description: J'apprends à coder pour une nouvelle carrière.
+short_description: J'apprends à coder pour me faire une nouvelle carrière.
 
 # don't touch that
 template: students
