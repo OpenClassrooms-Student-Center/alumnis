@@ -18,7 +18,7 @@ short_description:
 
 # don't touch that
 template: students
-description:
+description: >
     Après plus de vingt années consacrées à l'enseignement des mathématiques, j'aspire à explorer un nouvel univers et à satisfaire ma curiosité pour un domaine connexe de mes lointaines premières études.
 
 # image must be located in content/images/students
