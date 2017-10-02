@@ -66,7 +66,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: quentin/projet1_cv_quentin.jpg
+    image: quentin/projet_01_cv_quentin.jpg
 
     link: https://www.linkedin.com/in/quentin-lathi%C3%A8re-34aa5a69/
 
@@ -80,7 +80,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: quentin/projet2.png
+    image: quentin/projet_02.png
 
     link: https://github.com/Synkied
 
