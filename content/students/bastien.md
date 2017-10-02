@@ -80,7 +80,7 @@ projects:
 
     image: bastien/projet_1.jpg
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/renaud-bastien-412708139/
 
     # 'true' makes it fully available.
 
@@ -94,7 +94,7 @@ projects:
 
     image: bastien/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/bastien.md
+    link: https://github.com/Exodrum/alumnis/tree/master/content/images/students/bastien
 
     finished: true
 
@@ -104,7 +104,7 @@ projects:
 
     image: bastien/projet_3.png
 
-    link: https://www.github.com
+    link: https://github.com/Exodrum/alumnis/tree/master/content/images/students/bastien
 
     finished: false
 
