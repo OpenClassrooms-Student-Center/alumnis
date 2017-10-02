@@ -18,12 +18,8 @@ short_description: J'apprends à coder pour me faire une nouvelle carrière.
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je suis Liva, j'ai 38 ans et je travaille dans une petite société de contrôle technique automobile. Ca fait un bail aussi que je me tâte à suivre une formation prémium mais à chauqe fois, l'organisation à tenir me faisait peur, la peur de ne pas réussir, de ne pas pouvoir avoir le temps de tenir les sessions de mentorat. Mais finalement, je suis content d'avoir passer le cap du prémium, je trouve que l'accueil de la communaité me rassure. 
+    J'ai hate de voir le resultat.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
