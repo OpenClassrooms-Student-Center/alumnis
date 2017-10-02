@@ -34,11 +34,11 @@ template: students
 
 description:
 
-    J’ai pour ambitions de devenir développeur spécialisé Python et de monter une entreprise avec des amis.
+   J’ai pour ambitions de devenir développeur spécialisé Python et de monter une entreprise avec des amis.
 
-Le langage Python m’intéresse par son accessibilité, sa foison de possibilités d’application et sa communauté grandissante.
+   Le langage Python m’intéresse par son accessibilité, sa foison de possibilités d’application et sa communauté grandissante.
 
-J’ai déjà en tête plusieurs projets d’applications de mes compétences pendant (si le temps me le permet) et après le parcours OpenClassrooms. Notamment en mêlant l’électronique à la programmation en Python !
+   J’ai déjà en tête plusieurs projets d’applications de mes compétences pendant (si le temps me le permet) et après le parcours OpenClassrooms. Notamment en mêlant l’électronique à la programmation en Python !
 
 
 
