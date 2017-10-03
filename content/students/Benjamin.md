@@ -34,24 +34,17 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+J'ai 24 ans, étant passioné par la programmation et l'univers Android, 
+je me lance dans la formation pour devenir Développeur d'Application Android.
+J'adore inventer, créer et grâce aux appplications, 
+la seule limite c'est l'imagination.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: Benjamin.png
+image: Benjamin.PNG
 
 
 # Change this to True when you do you pull request.
@@ -71,7 +64,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: Benjamin/Projet1.png
+    image: Benjamin/Projet1.PNG
 
     link: https://www.linkedin.com/in/benjamin-behague-821502127/
 
@@ -85,7 +78,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: Benjamin/Projet2.png
+    image: Benjamin/Projet2.PNG
 
     link: https://github.com/Benito344
 
