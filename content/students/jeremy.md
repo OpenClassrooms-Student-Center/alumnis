@@ -4,31 +4,30 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: christophe
+title: Jérémy
 
 # First name or full name
-name: Christophe
-date: 2016-10-28 17:20
+name: Jérémy
+date: 2017-09-21 18:34
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à coder des applications iOS via le logiciel Xcode.
-short_description: J'ai choisi le DEV iOS car je n'ai jamais été attiré par Android. Chacun sa route, chacun son chemin, passe l'iOS à ton voisin! :D
+objective: Me créer un avenir grâce à un métier d'avenir.
+short_description: Après des années de collège/lycée à avoir était inattentif je décide de me reprendre en main pour faire un métier qui est une passion avant tout.
 
 # don't touch that
 template: students
 description:
-    Parvenir à coder dans la totale autonomie, travailler que ce soit dans une entreprise ou bien en freelance.
-    J'ai toujours été attiré par la technologie et c'est pour cette raison que j'ai choisi de me lancer dans le développement iOS.
-    Un nouveau langage, un nouveau logiciel pour coder et donc de nouvelles opportunités vers ce domaine.
-    Amis Androïd, ne nous faisons pas la guerre mais travaillons mains dans la mains pour un avenir certain ! :D
+    Après de années de collège/lycée à avoir était inattentif je décide de me reprendre en main
+    pour faire un métier qui est une passion avant tout. Et c'est grâce à cette formation que cela est rendu
+    possible. J'espère obtenir mon diplôme et pouvoir enfin faire un métier que j'aime.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: christophebugnon1.jpg
+image: jeremy.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -36,19 +35,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: christophebugnon1/projet_1.jpg
-    link: https://www.linkedin.com/in/christophe-bugnon-04813614b/
+    image: jeremy/projet1.png
+    link: https://www.linkedin.com/in/jérémy-barette-a9410a13a
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: christophebugnon1/projet_2.jpg
-    link: https://github.com/Kylta
-    finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.jpg
-    link: https://www.github.com
+    image: jeremy/projet2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/jeremy.html
     finished: false
 ---

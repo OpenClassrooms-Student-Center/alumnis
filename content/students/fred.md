@@ -32,19 +32,8 @@ short_description: Je suis passionné d’informatique et de nouvelles technolog
 
 template: students
 
-description:
-
-    Je m'appelle Terrage Frédéric et j'habite à Bondy (93). Je travaillais dans 
-
-    une entreprise de logistique de fournisseur de jeux vidéos pour les professionnels.
-
-    En juin 2017, j'ai été licencié (économique) et je me retrouve au chômage. J'ai une 
-
-    formation d'administrateur réseaux et je suis auto entrepreneur dans le dépannage 
-
-    informatique. Aujourd'hui je suis la formation de développeur Java, pour peut-être
-
-    un jour travailler dans l'informatique. C'est mon souhait.
+description: > 
+    Je m'appelle Terrage Frédéric et j'habite à Bondy (93). Je travaillais dans une entreprise de logistique de fournisseur de jeux vidéos pour les professionnels. En juin 2017, j'ai été licencié (économique) et je me retrouve au chômage. J'ai une formation d'administrateur réseaux et je suis auto entrepreneur dans le dépannage informatique. Aujourd'hui je suis la formation de développeur Java, pour peut-être un jour travailler dans l'informatique. C'est mon souhait.
 
 
 # image must be located in content/images/students
@@ -64,19 +53,14 @@ public: False
 projects:
 
   - title: Présentez-vous !
-
-    description: 
-    Je travaillais dans la logistique, aujourd’hui j’aimerai mettre à profit mes compétences en informatique. 
-    Je suis également auto entrepreneur et j’ai fait une formation d’administrateur réseau. 
-    La programmation m’intéresse beaucoup, en suivant cette formation de développeur Java cela me permettra aussi d’élargir mon champ de compétence. 
-    Lien Linkedln : https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-terrage-5901a5119/
+    description: >
+        Je travaillais dans la logistique, aujourd’hui j’aimerai mettre à profit mes compétences en informatique. Je suis également auto entrepreneur et j’ai fait une formation d’administrateur réseau. La programmation m’intéresse beaucoup, en suivant cette formation de développeur Java cela me permettra aussi d’élargir mon champ de compétence. Lien Linkedln : https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-terrage-5901a5119/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
     image: fred/projet_1.png
-
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
     # 'true' makes it fully available.

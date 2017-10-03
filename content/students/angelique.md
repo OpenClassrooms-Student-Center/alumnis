@@ -4,51 +4,46 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: christophe
+title: angelique
 
 # First name or full name
-name: Christophe
-date: 2016-10-28 17:20
+name: angelique
+date: 2017-09-23 08:39
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à coder des applications iOS via le logiciel Xcode.
-short_description: J'ai choisi le DEV iOS car je n'ai jamais été attiré par Android. Chacun sa route, chacun son chemin, passe l'iOS à ton voisin! :D
-
+objective: Apprendre à concevoir des applications mobile.
+short_description: Actuellement tatoueuse je cherche à me reconvertir dans le numérique.
 # don't touch that
 template: students
 description:
-    Parvenir à coder dans la totale autonomie, travailler que ce soit dans une entreprise ou bien en freelance.
-    J'ai toujours été attiré par la technologie et c'est pour cette raison que j'ai choisi de me lancer dans le développement iOS.
-    Un nouveau langage, un nouveau logiciel pour coder et donc de nouvelles opportunités vers ce domaine.
-    Amis Androïd, ne nous faisons pas la guerre mais travaillons mains dans la mains pour un avenir certain ! :D
-
+    Je m'appelle Angélique et j'ai 28 ans, tatoueuse dans le sud de la france j'ai commencé récemment à m'interesser aux arts numériques. J'envisage une reconversion pour créer ma propre application mobile, j'ai envie de voir les gens intéragir avec l'univers que je leur propose.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: christophebugnon1.jpg
+image: angelique.jpg
 
 # Change this to True when you do you pull request.
 public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
+  - title: angelique 28 ans apprentie developpeuse android
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: christophebugnon1/projet_1.jpg
-    link: https://www.linkedin.com/in/christophe-bugnon-04813614b/
+    image: angelique/linkedin.png
+    link: https://www.linkedin.com/in/angelique-raymond-204140b9/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: christophebugnon1/projet_2.jpg
-    link: https://github.com/Kylta
+  - title: Tarte au caca
+    description: recette familiale du terroir.
+    image: angelique/tarte-au-caca.png
+    link: https://github.com/Angelique-R/Tarte-au-caca
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.jpg
+    image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
 ---
