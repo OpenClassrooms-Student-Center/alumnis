@@ -4,25 +4,30 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Alexandre Tavares
+title: nicolas
 
 # First name or full name
-name: Alexandre Tavares
-date: 2017-09-29 13:20
+name: Cayon-Glayere
+date: 2017-09-11 11h30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Être développeur iOS
-short_description: J'aime la bière :)
+objective: Reconversion professionnelle de la terre au numérique.
+
+short_description: Père de deux garçons, je quitte les champs pour le confortable siège de bureau.
 
 # don't touch that
 template: students
+
 description:
-    J'aime voyager et découvrir de nouvelles choses ! 
+    Grand voyageur, j'ai finalement posé mes valises dans le sud ouest de la France avec ma compagne.
+    Nous y avons construit notre famille et tenté l'expérience agricole qui est aujourd'hui terminée.
+    Je me suis occupé de mes garçons par la suite et me voila aujourd'hui à nouveau étudiant.
+    Je débute le parcour "Développement JAVA" en espérant repartir dans une nouvelle aventure professionnelle.    
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: alexandre27.png
+image: nicolas/nicolas_ID.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -30,22 +35,23 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: J'aime voyager et découvrir de nouvelles choses / https://www.linkedin.com/in/alexandre-tavares-520a5a14a/
+    description: C'est parti pour cette formation "développeur JAVA" !
+    link : https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/alexandre27/alexandre27.png
-    image: alexandre27/projet1.png
-    link: https://www.linkedin.com/in/alexandre-tavares-520a5a14a/
+    # Image must be here: content/students/yourrepo/project1.png
+    image: nicolas/nicolas_ID.png
+    link: https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/ 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: alexandre27/projet2.png
-    link: https://github.com/dayesinho/alumnis
+    image: nicolas/P2.png
+    link: https://github.com/nicolascayonglayere/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    image: nicolas/les_moustachus.png
+    link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
     finished: false
 ---
