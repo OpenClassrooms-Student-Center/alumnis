@@ -4,49 +4,42 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: yanis
+title: angelique
 
 # First name or full name
-name: Yanis
-date: 2017-09-13 23:42
+name: angelique
+date: 2017-09-23 08:39
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir dev IOS
-short_description: Je ne suis un jeune developpeur qui aime beaucoup l'informatique plus tard je compte faire ma propre application IOS.
-
+objective: Apprendre à concevoir des applications mobile.
+short_description: Actuellement tatoueuse je cherche à me reconvertir dans le numérique.
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    Je m'appelle Angélique et j'ai 28 ans, tatoueuse dans le sud de la france j'ai commencé récemment à m'interesser aux arts numériques. J'envisage une reconversion pour créer ma propre application mobile, j'ai envie de voir les gens intéragir avec l'univers que je leur propose.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: yanis.jpg
+image: angelique.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
+  - title: angelique 28 ans apprentie developpeuse android
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: projet_1.png ; projet_2.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: angelique/linkedin.png
+    link: https://www.linkedin.com/in/angelique-raymond-204140b9/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: projet_2.png
-    link: https://openclassrooms.com/membres/yanisnaamane
+  - title: Tarte au caca
+    description: recette familiale du terroir.
+    image: angelique/tarte-au-caca.png
+    link: https://github.com/Angelique-R/Tarte-au-caca
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
