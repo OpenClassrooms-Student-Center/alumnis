@@ -44,7 +44,7 @@ la seule limite c'est l'imagination.
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: Benjamin.PNG
+image: Benjamin.jpg
 
 
 # Change this to True when you do you pull request.
@@ -64,7 +64,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: Benjamin/Projet1.PNG
+    image: Benjamin/Projet1.jpg
 
     link: https://www.linkedin.com/in/benjamin-behague-821502127/
 
@@ -78,7 +78,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: Benjamin/Projet2.PNG
+    image: Benjamin/Projet2.jpg
 
     link: https://github.com/Benito344
 
