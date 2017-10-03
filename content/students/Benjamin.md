@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: Benjamin
+title: benjamin
 
 
 # First name or full name
@@ -34,10 +34,10 @@ template: students
 
 description:
 
-J'ai 24 ans, étant passioné par la programmation et l'univers Android, 
-je me lance dans la formation pour devenir Développeur d'Application Android.
-J'adore inventer, créer et grâce aux appplications, 
-la seule limite c'est l'imagination.
+    J'ai 24 ans, étant passioné par la programmation et l'univers Android, 
+    je me lance dans la formation pour devenir Développeur d'Application Android.
+    J'adore inventer, créer et grâce aux appplications, 
+    la seule limite c'est l'imagination.
 
 
 # image must be located in content/images/students
