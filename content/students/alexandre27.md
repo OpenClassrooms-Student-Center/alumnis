@@ -33,15 +33,15 @@ projects:
     description: J'aime voyager et découvrir de nouvelles choses / https://www.linkedin.com/in/alexandre-tavares-520a5a14a/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/alexandre27/alexandre27.png
-    image: alexandre27/alexandre27.png
+    image: alexandre27/projet1.png
     link: https://www.linkedin.com/in/alexandre-tavares-520a5a14a/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: alexandre27/projet2.png
+    link: https://github.com/dayesinho/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
