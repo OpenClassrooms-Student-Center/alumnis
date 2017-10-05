@@ -18,11 +18,13 @@ short_description: J'aime le foot, le tennis, sortir, l'informatique. J'apprends
 # don't touch that
 template: students
 description:
-    Je m'appelle Julien et je suis en réorientation dans le monde de l'informatique. Je m'intéresse tout particulièrement au développement spécialisé en java dont j'aimerai faire mon futur métier. J'aimerai travailler en temps qu'indépendant (freelance), une fois que j'aurai acquis plus d'éxpérience.
+    Je m'appelle Julien et je suis en réorientation dans le monde de l'informatique.
+    Je m'intéresse tout particulièrement au développement spécialisé en java dont j'aimerai faire mon futur métier.
+    J'aimerai travailler en temps qu'indépendant (freelance), une fois que j'aurai acquis plus d'éxpérience.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: julieen03/julieen03.jpg
+image: julieen03.jpg
 
 # Change this to True when you do you pull request.
 public: true
@@ -47,5 +49,4 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true	
-
 ---
