@@ -30,16 +30,16 @@ description:
 image: julieen03.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Je m'appelle julien et je suis en reconversiondans le secteur de l'informatique. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: ratus/julieen03.png
+    link: https://www.linkedin.com/in/julien-trosco-102488150/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
