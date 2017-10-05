@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Ma présentation
+title: Ma prÃ©sentation
 
 # First name or full name
 name: Julien
@@ -12,13 +12,13 @@ date: 2017-10-03 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me réorienter dans le monde de l'informatique
-short_description: J'aime le foot, le tennis, sortir, l'informatique. J'apprends à coder espérer me réorienter dans l'informatique.
+objective: Me rÃ©orienter dans le monde de l'informatique
+short_description: J'aime le foot, le tennis, sortir, l'informatique. J'apprends Ã  coder espÃ©rer me rÃ©orienter dans l'informatique.
 
 # don't touch that
 template: students
 description:
-    Je m'appelle Julien et je suis en réorientation dans le monde de l'informatique. Je m'intéresse tout particulièrement au développement spécialisé en java dont j'aimerai faire mon futur métier. J'aimerai travailler en temps qu'indépendant (freelance), une fois que j'aurai acquis plus d'éxpérience.
+    Je m'appelle Julien et je suis en rÃ©orientation dans le monde de l'informatique. Je m'intÃ©resse tout particuliÃ¨rement au dÃ©veloppement spÃ©cialisÃ© en java dont j'aimerai faire mon futur mÃ©tier. J'aimerai travailler en temps qu'indÃ©pendant (freelance), une fois que j'aurai acquis plus d'Ã©xpÃ©rience.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -29,8 +29,8 @@ public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Apprendre à apprendre 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Apprendre Ã  apprendre 
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: julieen03/projet1.png
@@ -38,7 +38,7 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Rejoignez la communauté Openclassrooms 
+  - title: Rejoignez la communautÃ© Openclassrooms 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
@@ -47,7 +47,5 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true	
-
-	
 
 ---
