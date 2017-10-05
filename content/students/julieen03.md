@@ -43,7 +43,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: julieen03/projet2.png
-    link: https://www.linkedin.com/in/julien-trosco-102488150/
+    link: https://github.com/julieen03/alumnis
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true	
