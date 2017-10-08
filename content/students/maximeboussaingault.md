@@ -51,4 +51,9 @@ projects:
     image: maximeboussaingault/projet_3.png
     link: https://www.github.com
     finished: false
+  - title: Jeu du Pendu
+    description: Création d’un jeu en mode console développé en C.
+    image: maximeboussaingault/projet_4.png
+    link: https://github.com/TitMax/jeuDuPendu
+    finished: true
 ---
