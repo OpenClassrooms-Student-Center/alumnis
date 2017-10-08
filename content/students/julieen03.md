@@ -13,7 +13,8 @@ date: 2017-10-03 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me réorienter dans le monde de l'informatique
-short_description: J'aime le foot, le tennis, sortir, l'informatique. J'apprends à coder espérer me réorienter dans l'informatique.
+short_description: J'aime le foot, le tennis, sortir, l'informatique.
+    J'apprends à coder espérer me réorienter dans l'informatique.
 
 # don't touch that
 template: students
