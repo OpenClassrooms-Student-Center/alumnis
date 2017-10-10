@@ -43,7 +43,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
 
-    image: rayane/projet_un.png
+    image: rayane/linkedin.png
     link: https://www.linkedin.com/in/rayane-berrada-75ba9014b/
 
 
