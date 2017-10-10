@@ -23,7 +23,6 @@ template: students
 description:
 
     Après deux années de fac et deux années passées en Angleterre à travailler en grande surface, je suis revenu en France et désire 
-
     me former en langage python pour mettre un pied dans la programmation et mieux comprendre la gestion des données.
 
 
