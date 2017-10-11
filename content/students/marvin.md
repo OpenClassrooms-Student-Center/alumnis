@@ -27,7 +27,7 @@ description:
 
 
 image: marvin.png
-public: False
+public: True
 
 
 projects:
