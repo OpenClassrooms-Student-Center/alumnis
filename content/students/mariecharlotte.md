@@ -65,7 +65,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Je suis mentor OpenClassrooms et fait des tests sur ce repo pour aider un élève en difficulté.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
