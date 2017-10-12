@@ -46,8 +46,8 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: irmi/macGyver.jpg
-    link: https://www.youtube.com/watch?v=lc8RFPZUkiQ
-    finished: false
+    image: irmi/macGyver.png
+    link: https://github.com/irmiaw/MacGyver
+    finished: true
 
 ---
