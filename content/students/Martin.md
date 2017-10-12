@@ -21,7 +21,7 @@ description:
     Martin, 25 ans, aime les jeux vidéos, la programmation, la culture au sens large et la flûte à bec.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: martin.jpg
+image: Martin/martin.jpg
 
 # Change this to True when you do you pull request.
 public: True
