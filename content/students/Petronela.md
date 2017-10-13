@@ -10,7 +10,7 @@ short_description: Secrétaire médicale en voie de reconversion.
 
 image: Petronela.jpg
 
-public: False
+public: True
 
 projects:
   - title: Présentez-vous !
