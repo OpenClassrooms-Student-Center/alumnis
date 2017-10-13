@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: thibaut
 
 
 # First name or full name
 
-name: Ratus
+name: Thibaut
 
-date: 2016-10-28 17:20
+date: 2017-10-13 17:57
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Me former au métier de développeur, pour sortir mon cerveau de son emballage et m'en servir !
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime le sport, la musique, le ciné, les séries et la bonne bouffe. Je suis là pour coder !
 
 
 # don't touch that
@@ -34,24 +34,21 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    Après 7 ans de carrière dans le commerce et le marketing, j'ai choisi de me reconvertir 
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    en tant que développeur d'applications Java ! Pourquoi ? Parce que le job des dévs
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    me fascine depuis que je suis en âge d'utiliser un ordinateur, et que la vie est trop 
 
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    courte pour ne pas faire un job qui nous captive !
 
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: thibaut.jpg
 
 
 # Change this to True when you do you pull request.
@@ -63,17 +60,17 @@ public: False
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Apprendre à apprendre !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Réalisations de livrables : présentation de soi, CV, profil Linkedin et journal d'apprentissage.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: thibaut/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/thibaut-vuillaume-9800a2136/
 
     # 'true' makes it fully available.
 
@@ -81,24 +78,15 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: Intégrez la communauté OpenClassrooms !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: thibaut/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/thibaut54/alumnis
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
-    link: https://www.github.com
-
-    finished: false
 
 ---
