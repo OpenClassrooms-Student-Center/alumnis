@@ -5,7 +5,7 @@ title: marvin
 
 
 name: marvin
-date: 10 Octobre 2017 
+date: 2017-10-13 9:21 
 
 
 objective: Développer de nouvelles compétences et devenenir développeur d'Applications iOS 
@@ -26,7 +26,7 @@ description:
     Ravi de commencer mon parcours je vous souhaite à tous un bon courage dans le votre ! 
 
 
-image: marvin.png
+image: marvin.jpg
 public: True
 
 
