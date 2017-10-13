@@ -8,7 +8,7 @@ date: 2017-10-13 22:21
 objective: Apprendre à programmer. Apprendre tout court. 
 short_description: Secrétaire médicale en voie de reconversion.
 
-template:students
+template: students
 
 description:
     J'aime la nouvelle techologie au service des gens, l'innovation, le progrès, améliorer les choses. 
