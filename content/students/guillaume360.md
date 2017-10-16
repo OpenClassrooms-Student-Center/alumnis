@@ -66,7 +66,6 @@ projects:
   - title: Présentez-vous !
 
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    link: https://www.linkedin.com/in/guillaumepont/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -74,7 +73,7 @@ projects:
 
     image: guillaume360/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link : https://www.linkedin.com/in/guillaumepont/
 
     # 'true' makes it fully available.
 
