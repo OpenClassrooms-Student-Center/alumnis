@@ -29,18 +29,18 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-	- title: Intégrez la communauté OpenClassrooms !
-	description: Se présenter à la communauté a l'aide de git et github
-	# Create a new repository for your images. Name it the same as your nickname and profile picture.
-	# Image must be here: content/students/yourrepo/project1.png
-	image: nicolasjvd/projet_2.png
-	link: 
-	# 'true' makes it fully available.
-	# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-	finished: true
-	- title: Application social
-	description: Crée une application à but social.
-	image: nicolasjvd/projet_3.png
-	link: 
-	finished: true
+- title: Intégrez la communauté OpenClassrooms !
+description: Se présenter à la communauté a l'aide de git et github
+# Create a new repository for your images. Name it the same as your nickname and profile picture.
+# Image must be here: content/students/yourrepo/project1.png
+image: nicolasjvd/projet_2.png
+link: 
+# 'true' makes it fully available.
+# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+finished: true
+- title: Application social
+description: Crée une application à but social.
+image: nicolasjvd/projet_3.png
+link: 
+finished: true
 ---
