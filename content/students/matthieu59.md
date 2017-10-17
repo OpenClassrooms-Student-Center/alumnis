@@ -46,7 +46,6 @@ projects:
   - title: Integrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.  
     image: pull-request.png
-    image2: forke-et-modif.png
     link: https://github.com/markometrie/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
