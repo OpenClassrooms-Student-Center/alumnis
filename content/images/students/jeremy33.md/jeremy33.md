@@ -1,1 +1,1 @@
-<img src="images/projet 2 OC.jpg" alt="Photo de mon profil">
+<a href="https://gyazo.com/e46e67fc9dbc14325b9c8c8302141fc4"><img src="https://i.gyazo.com/e46e67fc9dbc14325b9c8c8302141fc4.jpg" alt="https://gyazo.com/e46e67fc9dbc14325b9c8c8302141fc4" width="1366"/></a>
