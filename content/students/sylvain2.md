@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: beSyl
+title: sylvain2
 
 # First name or full name
 name: Sylvain
@@ -42,7 +42,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: sylvain2/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/sylvain2.html
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: sylvain2/projet_3.png
