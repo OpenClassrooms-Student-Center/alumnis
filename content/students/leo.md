@@ -18,12 +18,9 @@ short_description: Je suis passionné par l'informatique et plus particulièreme
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je m'appelle Léo, je suis passionné par la programmation depuis
+    un bon moment ! Je veux faire de la progammation mon métier !
+    Je suis plutôt curieux et j'aime apprendre de nouvelles choses !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: leo.png
