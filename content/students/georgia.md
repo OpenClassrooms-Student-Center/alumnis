@@ -25,7 +25,7 @@ date: 2017-10-20 17:10
 
 objective: Devenir Experte en Cybersécurité.
 
-short_description: J'étais en terminale Littéraire et je me suis reconvertie dans le Développement. J'aime Star Wars et Doctor Who. Voilà.
+short_description: J'étais en terminale Littéraire et je me suis reconvertie dans le Développement.J'aime Star Wars et Doctor 					Who. Voilà.
 
 
 # don't touch that
@@ -44,7 +44,7 @@ description:
 
 # name should be the same as this file. Eg: georgia.png
 
-image: georgia.jpg
+image: content/images/students/georgia.jpg
 
 
 # Change this to True when you do you pull request.
@@ -64,7 +64,7 @@ projects:
 
     # Image must be here: content/images/students/georgia/projet_1.png
 
-    image: georgia/projet_1.png
+    image: content/images/students/georgia/projet_1.png
 
     link: https://www.linkedin.com/in/georgia-auclair-82579a142/
 
@@ -78,7 +78,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: georgia/projet_2.png
+    image: content/images/students/georgia/projet_2.png
 
     link: https://github.com/Th3W1tch/alumnis
 
@@ -88,7 +88,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: georgia/projet_3.png
+    image: content/images/students/georgia/projet_3.png
 
     link: https://www.github.com
 
