@@ -33,8 +33,11 @@ short_description: J'étais en terminale Littéraire et je me suis reconvertie d
 template: students
 
 description:
-
-    Je m'appelle Georgia, j'ai 18 ans et j'ai abandonnée les études dites "lambda" à 3 mois du BAC car elles ne me correspondaient pas. En rencontrant un autre étudiant Openclassrooms, je me suis orientée dans la même formation que lui : Développeuse Web Junior. Puis on a tout les deux abandonnés et prit un chemin différent car nous n'y trouvions pas ce que nous désirions. J'ai donc choisie de faire la formation DA : Python dans le but de faire la formation Experte en Cybersécurité lorsque celle-ci ouvrirait par la suite. Donc me voilà parmis vous ! 
+    Je m'appelle Georgia, j'ai 18 ans et j'ai abandonné les études lambda
+    car elle ne me correspondaient pas. J'ai d'abord suivie la formation
+    Développeuse Web Junior mais l'ai vite abandonné pour celle de DA Python,
+    et ce dans le but de plus tard acceder à la formation d'Experte en
+    cybersécurité.
 
 
 # image must be located in content/images/students/georgia.png
