@@ -34,7 +34,11 @@ template: students
 
 description:
 
-    Je m'appelle Georgia, j'ai 18 ans et j'ai abandonnée les études dites "lambda" à 3 mois du BAC car elles ne me          		correspondaient pas. En rencontrant un autre étudiant Openclassrooms, je me suis orientée dans la même formation que lui : 		Développeuse Web Junior. Puis on a tout les deux abandonnés et prit un chemin différent car nous n'y trouvions pas ce que 		nous désirions. J'ai donc choisie de faire la formation DA : Python dans le but de faire la formation Experte en 				Cybersécurité lorsque celle-ci ouvrirait par la suite. Donc me voilà parmis vous ! 
+    Je m'appelle Georgia, j'ai 18 ans et j'ai abandonnée les études dites "lambda" à 3 mois du BAC car elles ne me
+    correspondaient pas. En rencontrant un autre étudiant Openclassrooms, je me suis orientée dans la même formation que lui :
+    Développeuse Web Junior. Puis on a tout les deux abandonnés et prit un chemin différent car nous n'y trouvions pas ce que 
+    nous désirions. J'ai donc choisie de faire la formation DA : Python dans le but de faire la formation Experte en 
+    Cybersécurité lorsque celle-ci ouvrirait par la suite. Donc me voilà parmis vous ! 
 
 
 # image must be located in content/images/students/georgia.png
