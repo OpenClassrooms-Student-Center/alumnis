@@ -25,7 +25,7 @@ date: 2017-10-20 17:10
 
 objective: Devenir Experte en Cybersécurité.
 
-short_description: J'étais en terminale Littéraire et je me suis reconvertie dans le Développement. J'aime Star Wars et Doctor Who. Voilà.
+short_description: J'étais en terminale Littéraire et je me suis reconvertie dans le Développement.J'aime Star Wars et Doctor 					Who. Voilà.
 
 
 # don't touch that
@@ -34,14 +34,14 @@ template: students
 
 description:
 
-    Je m'appelle Georgia, j'ai 18 ans et j'ai abandonnée les études dites "lambda" à 3 mois du BAC car elles ne me correspondaient pas. En rencontrant un autre étudiant Openclassrooms, je me suis orientée dans la même formation que lui : Développeuse Web Junior. Puis on a tout les deux abandonnés et prit un chemin différent car nous n'y trouvions pas ce que nous désirions. J'ai donc choisie de faire la formation DA : Python dans le but de faire la formation Experte en Cybersécurité lorsque celle-ci ouvrirait par la suite. Donc me voilà parmis vous ! 
+    Je m'appelle Georgia, j'ai 18 ans et j'ai abandonnée les études dites "lambda" à 3 mois du BAC car elles ne me          		correspondaient pas. En rencontrant un autre étudiant Openclassrooms, je me suis orientée dans la même formation que lui : 		Développeuse Web Junior. Puis on a tout les deux abandonnés et prit un chemin différent car nous n'y trouvions pas ce que 		nous désirions. J'ai donc choisie de faire la formation DA : Python dans le but de faire la formation Experte en 				Cybersécurité lorsque celle-ci ouvrirait par la suite. Donc me voilà parmis vous ! 
 
 
 # image must be located in content/images/students/georgia.png
 
 # name should be the same as this file. Eg: georgia.png
 
-image: georgia.jpg
+image: content/images/students/georgia.jpg
 
 
 # Change this to True when you do you pull request.
@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/images/students/georgia/projet_1.png
 
-    image: georgia/projet_1.png
+    image: content/images/students/georgia/projet_1.png
 
     link: https://www.linkedin.com/in/georgia-auclair-82579a142/
 
@@ -75,7 +75,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: georgia/projet_2.png
+    image: content/images/students/georgia/projet_2.png
 
     link: https://github.com/Th3W1tch/alumnis
 
@@ -85,7 +85,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: georgia/projet_3.png
+    image: content/images/students/georgia/projet_3.png
 
     link: https://www.github.com
 
