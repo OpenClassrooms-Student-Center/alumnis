@@ -25,7 +25,7 @@ date: 2017-10-20 17:10
 
 objective: Devenir Experte en Cybersécurité.
 
-short_description: J'étais en terminale Littéraire et je me suis reconvertie dans le Développement.J'aime Star Wars et Doctor 					Who. Voilà.
+short_description: J'étais en terminale Littéraire et je me suis reconvertie dans le Développement.
 
 
 # don't touch that
@@ -49,7 +49,7 @@ image: content/images/students/georgia.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
