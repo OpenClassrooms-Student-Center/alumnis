@@ -1,18 +1,18 @@
 ---
 
-title: Antonin
+title: alix
 
-name: Antonin Laval
-date: 2017-09-09 16:00
+name: alix
+date: 2017-10-17 15:30
 
-objective: Devenir développeur de métier.
-short_description: J'aime l'informatique, les jeux vidéo et les animés japonais.
+objective: Améliorer mes compétences en développement.
+short_description: Etudiant le développement depuis 3 ans, j'ai décidé de faire de Python ma spécialité.
 
 template: students
 description:
     Après un an de DUT GEII et un an de DUT R&T inachevés, je me tourne vers ma passion qu'est le dévelloppement pour en faire mon métier.
 
-image: Antonin.png
+image: alix.png
 
 public: True
 
