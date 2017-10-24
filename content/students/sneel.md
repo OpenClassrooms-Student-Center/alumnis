@@ -22,11 +22,11 @@ public: False
 projects:
   - title: Présentez-vous !
     
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon Github avec les fichiers du projet 1.
 
     image: sneel-96692/projet-1.png
 
-    link: https://www.linkedin.com/in/arnaud-angely-17a517134/
+    link: https://github.com/adufi/projet-1
 
     finished: true
 
