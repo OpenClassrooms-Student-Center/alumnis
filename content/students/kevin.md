@@ -30,19 +30,19 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Lien vers mon LinkedIn.
+  - title: Lien vers mon LinkedIn.
+    description: https://www.linkedin.com/in/kevin-dagneaux-b2114a151/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: kevin_capture1.png
-    link: https://www.linkedin.com/in/kevin-dagneaux-b2114a151/
+    link: https://imgur.com/a/WHlLO
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: kevin_capture2.png
+    link: https://imgur.com/a/gxrPI
     finished: true
 
 ---
