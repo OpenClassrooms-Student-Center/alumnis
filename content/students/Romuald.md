@@ -20,7 +20,7 @@ template: students
 description:
     J'adore apprendre de nouvelles choses et mon choix de reconversion dans 
     le développement informatique a été motivé par le fait que nous sommes 
-    tous les jours devant notre ordinateurou notre smartphone. Le développement 
+    tous les jours devant notre ordinateur ou notre smartphone. Le développement 
     informatique représente l'avenir et la promesse d'un apprentissage tout au 
     long de sa vie. J'ai hâte de pouvoir mettre en pratique ce que j'apprend
     dans un projet qui m'est propre.
@@ -30,7 +30,7 @@ description:
 image: Romuald.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -38,19 +38,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Romuald/projet1.jpg
+    image: content/students/Romuald/projet1.png
     link: https://www.linkedin.com/in/romuald-muny-63402296/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Romuald/projet2.png
+    image: content/students/Romuald/projet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/Romuald.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Romuald/projet3.png
+    image: content/students/Romuald/projet3.png
     link: https://www.github.com
     finished: false
 ---
