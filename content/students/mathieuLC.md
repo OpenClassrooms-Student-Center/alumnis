@@ -39,15 +39,15 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: mathieuLC/projet_1.png
-    link:
+    link: https://github.com/Moorgtat
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: false
+    link: https://github.com/Moorgtat/alumnis
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
