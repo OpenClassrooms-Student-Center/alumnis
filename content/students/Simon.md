@@ -23,9 +23,9 @@ date: 2017-10-27 20:00
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Devenir un crack dans le développement mobile !
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Passioné d'informatique, des nouvelles technologies, de sport et du poker. A envi de rajouter le code à son panel.
 
 
 # don't touch that
@@ -34,17 +34,12 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    J'ai 25 ans et je suis dans l'enseignement, je me lance dance cette nouvelle aventure
+    qu'est la reconversion professionelle pour devenir Développeur d'application Android.
+    J'ai choisi ce parcours car Android est très présent sur le marché mobile, même
+    si j'ai bien l'intention de maîtriser l'IOS dans un second temps. Il faut commencer
+    quelque part et ayant toujours été fasciné par ce domaine, maintenant je me donne 
+    les moyens de réussir.
 
 
 # image must be located in content/images/students
@@ -56,7 +51,7 @@ image: Simon.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
