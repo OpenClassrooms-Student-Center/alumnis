@@ -13,7 +13,7 @@ date: 2017-10-24 14:52
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Je fait une réorientation et souhaite devenir programmeur Java
-short_description: J'apprécie le basket, la compétiton automobile et les sudoku. J'apprends le Java pour en faire mon futur métier.
+short_description: J'apprécie le basket et la compétiton automobile. J'apprends le Java pour en faire mon futur métier.
 
 # don't touch that
 template: étudiant
