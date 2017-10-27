@@ -25,7 +25,7 @@ date: 2017-10-27 20:00
 
 objective: Devenir un crack dans le développement mobile !
 
-short_description: Passioné d'informatique, des nouvelles technologies, de sport et du poker. A envi de rajouter le code à son panel.
+short_description: Passioné d'informatique et de nouvelles technologies. A envi de rajouter le code à son panel.
 
 
 # don't touch that
@@ -33,8 +33,8 @@ short_description: Passioné d'informatique, des nouvelles technologies, de spor
 template: students
 
 description:
-
-    J'ai 25 ans et je suis dans l'enseignement, je me lance dance cette nouvelle aventure
+    
+    J'ai 25 ans et je suis dans l'enseignement, je me lance dans cette nouvelle aventure
     qu'est la reconversion professionelle pour devenir Développeur d'application Android.
     J'ai choisi ce parcours car Android est très présent sur le marché mobile, même
     si j'ai bien l'intention de maîtriser l'IOS dans un second temps. Il faut commencer
