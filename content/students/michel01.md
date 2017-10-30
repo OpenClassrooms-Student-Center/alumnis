@@ -12,7 +12,7 @@ template: students
 description:
     Après un an de DUT GEII et un an de DUT R&T inachevés, je me tourne vers ma passion qu'est le dévelloppement pour en faire mon métier.
 
-image: Antonin.png
+image: michel01.png
 
 public: True
 
