@@ -12,8 +12,8 @@ date: 2017-10-17 10:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Acquérir des nouvelles compétence en JAVA/J2EE.
-short-description: Remettre à niveau mes connaissances en dévoloppement Web.
+objective: Acquerir des nouvelles compétences en JAVA/J2EE.
+short-description: Remettre à niveau mes connaissances en développement Web.
 
 # don't touch that
 template: students
@@ -22,7 +22,7 @@ description:Je souhaiterai reprendre les arguments et les nouvautés de JAVA8, m
     
     # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Mohamed.jpg
+image: mohamed.jpg
 
 # Change this to True when you do you pull request.
 public: True
