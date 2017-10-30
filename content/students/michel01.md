@@ -15,8 +15,7 @@ title: michel01
 # First name or full name
 
 name: Michel Laurent
-
-date: 2016-10-28 17:20
+date: 2017-09-16 17:20
 
 
 # One line.
@@ -63,7 +62,7 @@ projects:
 
     image: michel01/projet_1.png
 
-    link: http:/https://www.linkedin.com/in/michel-laurent-8aa7b314b/
+    link: https://www.linkedin.com/in/michel-laurent-8aa7b314b/
 
     # 'true' makes it fully available.
 
