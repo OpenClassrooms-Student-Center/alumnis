@@ -22,7 +22,7 @@ description:
     Je m'appel Matthieu, j'ai 26 ans et j'habite dans le nord de la France. Graphiste de formation, j'ai voulu apprendre la programmation informatique pour développer mon champ de compétences et ainsi obtenir de nouvelles opportunités d'embauche. 
 
 # image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
+# name should be the same as this file. Eg: matthieu59
 image: matthieu.jpg
 
 # Change this to True when you do you pull request.
@@ -33,12 +33,9 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: https://www.linkedin.com/in/matthieu-delomez-8a46b9146/ 
     image: linkedin.png
-
-    link: https://www.youtube.com/watch?v=3dxQlJ66o1o
-
-          https://github.com/markometrie/alumnis/tree/master/content/students
+ 
 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
