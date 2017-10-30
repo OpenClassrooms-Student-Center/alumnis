@@ -1,4 +1,3 @@
-
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
