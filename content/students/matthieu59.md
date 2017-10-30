@@ -13,16 +13,16 @@ date: 2016-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre le métier de développeur d'application.
-short_description: Passionné par la musique électronique, l'art digital et les jeux vidéos.
+objective: Apprendre le mÃ©tier de dÃ©veloppeur d'application.
+short_description: PassionnÃ© par la musique Ã©lectronique, l'art digital et les jeux vidÃ©os.
 
 # don't touch that
 template: students
 description:
-    Je m'appel Matthieu, j'ai 26 ans et j'habite dans le nord de la France. Graphiste de formation, j'ai voulu apprendre la programmation informatique pour développer mon champ de compétences et ainsi obtenir de nouvelles opportunités d'embauche. 
+    Je m'appel Matthieu, j'ai 26 ans et j'habite dans le nord de la France. Graphiste de formation, j'ai voulu apprendre la programmation informatique pour dÃ©velopper mon champ de compÃ©tences et ainsi obtenir de nouvelles opportunitÃ©s d'embauche. 
 
 # image must be located in content/images/students
-# name should be the same as this file. Eg: matthieu59
+# name should be the same as this file. Eg: matthieu.jpg
 image: matthieu.jpg
 
 # Change this to True when you do you pull request.
@@ -30,8 +30,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: PrÃ©sentez-vous !
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: https://www.linkedin.com/in/matthieu-delomez-8a46b9146/ 
     image: linkedin.png
@@ -40,13 +40,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Integrez la communauté !
+  - title: Integrez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.  
     image: pull-request.png
     link: https://github.com/markometrie/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d¿un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: CrÃ©ation dÂ¿un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
