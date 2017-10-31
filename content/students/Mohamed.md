@@ -17,7 +17,8 @@ short-description: Remettre à niveau mes connaissances en développement Web.
 
 # don't touch that
 template: students
-description:Je souhaiterai reprendre les arguments et les nouvautés de JAVA8, monter en competence en Back-end: J2EE, Struts2,Spring, Hibernate, WebService.
+description: >
+    Je souhaiterai reprendre les arguments et les nouvautés de JAVA8, monter en competence en Back-end: J2EE, Struts2,Spring, Hibernate, WebService.
     
     
     # image must be located in content/images/students
