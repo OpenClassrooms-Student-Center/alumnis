@@ -3,4 +3,4 @@ __pycache__
 output/
 .*.swp
 .DS_Store
-
+env/*

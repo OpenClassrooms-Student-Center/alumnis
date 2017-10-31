@@ -1,24 +1,26 @@
----# FILENAME : please use your OpenClassrooms's name, available in your url.
-https://openclassrooms-student-center.github.io/alumnis/
+---
+
+# FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: michael.
+title: michael
 
 # First name or full name
 name: Michael
 date: 2016-10-28 17:20
 
 # One line.
-Entrepreneur passionne par l'informatique, la technologie, la science et travaillant dans la chimie
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Connaitre les differents langages de programmation afin de pouvoir creer le projet que je desire et monter plus tard ma propre entreprise.
-short_description: J'aime creer des start-ups.
+objective:
+    Connaitre les differents langages de programmation afin de pouvoir creer le projet que je desire et monter plus tard ma propre entreprise.
+short_description:
+    Entrepreneur passionne par l'informatique, la technologie, la science et travaillant dans la chimie. J'aime creer des start-ups.
 
 # don't touch that
 template: students
 description:
-    J'aime les challenges, l'esprit d'equipe, les voyages, la musique, faire de nouvelles rencontres et plein d'autres delires. Je suis quelqu'un qui aime beaucoup le contact humain et voyager et faire des soirees. Plus on est de fous, plus on rit. 
+    J'aime les challenges, l'esprit d'equipe, les voyages, la musique, faire de nouvelles rencontres et plein d'autres delires. Je suis quelqu'un qui aime beaucoup le contact humain et voyager et faire des soirees. Plus on est de fous, plus on rit.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -41,10 +43,12 @@ projects:
   - title: Intégrez la communauté !
     description: Réalisation d'un projet avec Git
     image: photo_michael.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/alumnis/students/michael.html
     finished: true
   - title: Créez votre premier jeu vidéo avec swift!
     description: Création d’un jeu développé en iOS puis en Android
     image: photo_michael.jpg
-    link: https://www.github.com
-    finished: false---
+    link: https://openclassrooms.com/projects/creez-votre-premier-jeu-video-avec-swift
+    finished: false
+
+---

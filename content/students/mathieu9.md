@@ -4,7 +4,7 @@ title: mathieu9
 
 name: mathieu
 
-date: 2017-20-08 23:20
+date: 2017-08-25 23:20
 
 objective: Développer mes compétences !
 
@@ -15,8 +15,6 @@ template: students
 description:
 
     Après plusieurs années de travail dans l'administration de systèmes informatiques,
-
-    je prends le temps de développer mes compétences.
 
     Je profite donc de ma formation pour acquérir et valider 
     
