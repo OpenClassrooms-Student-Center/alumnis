@@ -18,9 +18,9 @@ short-description: Remettre à niveau mes connaissances en développement Web.
 # don't touch that
 template: students
 description: >
-    Je souhaiterai reprendre les arguments et les nouvautés de JAVA8, monter en competence en Back-end: J2EE, Struts2,Spring, Hibernate, WebService.
-    
-    
+    Je souhaiterais reprendre les arguments et les nouvautés de JAVA8, monter en competence en Back-end: J2EE, Struts2,Spring, Hibernate, WebService.
+
+
     # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: mohamed.jpg
@@ -35,14 +35,14 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Mohamed/projet_1.PNG
-    link:https://drive.google.com/open?id=0B1LjRB0nbObeNWx5OENGSVkxRjA
+    link: https://drive.google.com/open?id=0B1LjRB0nbObeNWx5OENGSVkxRjA
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Mohamed/projet_2.PNG
     link: https://github.com/MohamedElkarhat/alumnis
     finished: true
-  
+
 ---
