@@ -80,5 +80,10 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
 
+revert_push:
+	@git reset --soft HEAD~1
+	@git reset --hard
+	@git commit -m "Reverting the last commit which messed the repo."
+	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git master > /dev/null
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github
