@@ -34,7 +34,7 @@ template: students
 
 description: 
 
-  " presentation"
+Passionné par les nouvelles technologies et l'evolution de l'informatique depuis ses débuts
   
 # image must be located in content/images/students
 
@@ -60,7 +60,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: content/students/pierreetienne9/projet_1.png
 
     link: https://www.linkedin.com/in/pierre-etienne-702a45150/
 
@@ -72,9 +72,9 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: 
+    description: Forker un projet pour y proposer des modifications
 
-    image: 
+    image: content/students/pierreetienne9/projet_2.png
 
     link: 
 
