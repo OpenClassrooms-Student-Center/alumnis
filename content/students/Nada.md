@@ -12,14 +12,14 @@ date: 2017-10-20 10:24
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Mon objectif est d'approfondir mes connaissances en développement spécifiquement en langage Java\JEE et décrocher à la suite un poste de développeuse.
+objective: Mon objectif est d'approfondir mes connaissances en développement pour ensuite décrocher un poste.
 short_description: Ingénieur électrique - automatique, passionnée par la programmation. J'ai décidé de me reconvertir vers le développement. 
 
 # don't touch that
 template: students
 description:
     Je m'appelle SENKEZ Nada et j'ai 28 ans. Je suis ingénieur électrique automatique. 
-    Je suis inscrite chez OpenClassrooms sur le parcours Développeurse d'Application Java spécialité J2EE.
+    Je suis inscrite chez OpenClassrooms sur le parcours Développeuse d'Application Java spécialité J2EE.
     
 
 # image must be located in content/images/students
@@ -27,7 +27,7 @@ description:
 image: Nada.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -35,19 +35,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Nada/link.png
+    image: Nada/projet1.png
     link: https://www.linkedin.com/in/nada-senkez-61a258105/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Nada/projet1.png
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github. 
+    image: Nada/projet2.png
     link: https://github.com/nadaJab/alumnis
     finished: true
   - title: Mettez votre logique à l'épreuve
     description: Création d'une application proposant des jeux de logique.
-    image: Nada/projet2.png
+    image: Nada/projet3.png
     link: https://openclassrooms.com/projects/mettez-votre-logique-a-l-epreuve
     finished: false
 ---
