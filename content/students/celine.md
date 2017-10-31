@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Céline
+title: celine
 
 # First name or full name
 name: Céline Lin
@@ -12,9 +12,9 @@ date: 2017-09-28 10:03
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective:Réussir la formation.
-short_description: Je m'appelle Céline Lin , j'ai 19 ans. Je me lance dans cette formation pour
-pouvoir avoir un changement de ma vie actuel. 
+objective: Réussir la formation.
+short_description: >
+    Je m'appelle Céline Lin , j'ai 19 ans. Je me lance dans cette formation pour pouvoir avoir un changement de ma vie actuel. 
 
 
 # don't touch that
