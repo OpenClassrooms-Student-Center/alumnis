@@ -54,4 +54,9 @@ projects:
     image: jeanfrancois/projet_3.png
     link: https://github.com/jfsubrini/project3_mmg
     finished: true
+- title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Création d’un dossier de spécifications fonctionnelles.
+    image: jeanfrancois/projet_4.png
+    link:
+    finished: true
 ---
