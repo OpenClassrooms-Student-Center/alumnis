@@ -8,11 +8,11 @@ install: pip install -r requirements.txt
 script:
   - pelican content
 
-# after_failure:
-#   - git reset --soft HEAD~1
-#   - git reset --hard
-#   - git commit -m "Reverting the last commit which messed the repo."
-#   - git push -u origin master
+after_failure:
+  - git reset --soft HEAD~1
+  # - git reset --hard
+  - git commit -m "Reverting the last commit which messed the repo."
+  - git push -u origin master
 
 after_success:
   - make github
