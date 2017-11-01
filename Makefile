@@ -81,7 +81,7 @@ github: publish
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
 
 revert_push:
-	@git reset --soft HEAD~1
+	@git reset --hard HEAD~1
 	@git add .
 	@git commit -m "Reverting the last commit which messed the repo."
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git master > /dev/null
