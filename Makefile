@@ -85,6 +85,6 @@ revert_push:
 	@git revert HEAD -n
 	@git commit -m "Revert to last commit because errors were found."
 	@echo 'Push to origin master'
-	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git master > /dev/null
+	@git push origin master --force
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github
