@@ -18,12 +18,12 @@ short_description: J'aime l'informatique, la moto, et les jeux vidéos en tant q
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je m'appelle Marc, 33 ans, originaire de la MARTINIQUE et depuis 7 ans en FRANCE.
+    Je vis actuellement à LONGJUMEAU avec ma compagne et mon fils.
+    J'aime beaucoup l'informatique, le jeux vidéos type RPG sur console comme sur PC, et la moto.
+    Le développement m'a toujours passionné mais je ne n'ai jamais pris le temps d'en faire.
+    Depuis peu, je m'y suis mis, et c'est vraiment un monde aussi extraordinaire que vaste.
+    J'apprends aujourd'hui par Openclassrooms une formation Developpeur d'Applications - Python que j'espère réussir.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
