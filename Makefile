@@ -84,8 +84,9 @@ revert_push:
 	@echo 'Reset HARD'
 	@git revert HEAD~1 -n
 	@git commit -m "Revert to last commit because errors were found."
+	@git checkout -b "errors"
 	@git log
 	@echo 'Push to origin master'
-	@git push -f https://${GH_TOKEN}@github.com/OpenClassrooms-Student-Center/alumnis.git master
+	@git push -f https://${GH_TOKEN}@github.com/OpenClassrooms-Student-Center/alumnis.git errors:master
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github
