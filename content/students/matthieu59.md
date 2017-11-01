@@ -34,7 +34,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/matthieu59/linkedin.png
-    image: linkedin.png
+    image: matthieu59/linkedin.png
     link: https://www.linkedin.com/in/matthieu-delomez-8a46b9146/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
