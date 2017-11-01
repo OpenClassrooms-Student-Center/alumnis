@@ -82,7 +82,8 @@ github: publish
 
 revert_push:
 	@echo 'Reset HARD'
-	@git reset --hard HEAD~1
+	@git revert HEAD -n
+	@git commit -m "Revert to last commit because errors were found."
 	@echo 'Push to origin master'
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git master > /dev/null
 
