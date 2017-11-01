@@ -9,10 +9,10 @@ script:
   - pelican content --fatal=warnings
 
 after_failure:
-  - make revert_push
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make revert_push; fi'
 
 after_success:
-  - make github
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make github; fi' 
 
 branches:
   only:
