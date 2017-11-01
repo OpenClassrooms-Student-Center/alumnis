@@ -82,7 +82,7 @@ github: publish
 
 revert_push:
 	@echo 'Reset HARD'
-	@git revert HEAD~1 -n
+	@git revert HEAD -n
 	@git commit -m "Revert to last commit because errors were found."
 	@git checkout -b "errors"
 	@git log
