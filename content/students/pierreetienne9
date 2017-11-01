@@ -76,17 +76,17 @@ projects:
 
     image: content/students/pierreetienne9/projet_2.png
 
-    link: 
+    link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
 
     finished: false
 
-  - title: Aidez MacGyver à sortir !
+  - title: Mémorisez votre humeur du jour
 
-    description: 
+    description: développer une application pour enregistrer vos humeurs
 
-    image: 
+    image: content/students/pierreetienne9/projet_3.png
 
-    link: 
+    link: https://openclassrooms.com/projects/memorisez-votre-humeur-du-jour
 
     finished: false
 
