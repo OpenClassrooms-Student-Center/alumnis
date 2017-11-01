@@ -15,7 +15,7 @@ objective: Réussir la formation.
 short_description: >
     Je m'appelle Céline Lin , j'ai 19 ans. Je me lance dans cette formation pour pouvoir avoir un changement de ma vie actuel.
 
-
+ 
 # don't touch that
 template: students
 description:
