@@ -33,9 +33,11 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: https://www.linkedin.com/in/matthieu-delomez-8a46b9146/ 
+    # Image must be here: content/students/yourrepo/linkedin.png
     image: linkedin.png
  
+    link: https://www.linkedin.com/in/matthieu-delomez-8a46b9146/
+
 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -43,7 +45,7 @@ projects:
   - title: Integrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.  
     image: pull-request.png
-    link: https://github.com/markometrie/alumnis
+    link: https://github.com/markometrie
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d¿un jeu développé en Python et utilisant PyGame.
