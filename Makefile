@@ -81,11 +81,10 @@ github: publish
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
 
 revert_push:
-	@echo 'Reset HARD'
+	@echo 'Revert HARD'
 	@git revert HEAD -n
 	@git commit -m "Revert to last commit because errors were found."
 	@git checkout -b "errors"
-	@git log
 	@echo 'Push to origin master'
 	@git push -f https://${GH_TOKEN}@github.com/OpenClassrooms-Student-Center/alumnis.git errors:master
 
