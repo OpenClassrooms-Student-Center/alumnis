@@ -33,10 +33,8 @@ short_description: passionné d'informatique depuis toujours
 template: students
 
 description: 
-
 Passionné par les nouvelles technologies et l'evolution de l'informatique depuis ses débuts
   
-# image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
