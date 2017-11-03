@@ -26,7 +26,6 @@ date: 2016-10-28 17:20
 objective: Mettre à jour mes connaissances en programmation et apprendre un nouveau langage
 
 short_description: J'aime la musique du métal indus à la soul bien groovy,
-
     les yaourts et un peu trop les jeux de société.
 
 
@@ -46,14 +45,14 @@ description:
 
     une cuisine de Pierre Gagnaire et me former dans le feu de l'action.
 
-    Bla, Bla et Bla.
+    Retour aux sources.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: paul.jpg
+image: paulshop.jpg
 
 
 # Change this to True when you do you pull request.
@@ -73,7 +72,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: paul/linkedin.jpeg
+    image: paulshop/linkedin.jpeg
 
     link: https://www.linkedin.com/in/paul-choppin-566159152/
 
@@ -87,7 +86,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
-    image: paul/github.jpeg
+    image: paulshop/github.jpg
 
     link: https://github.com/pshop/alumnis
 
