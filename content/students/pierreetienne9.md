@@ -33,7 +33,7 @@ short_description: passionné d'informatique depuis toujours
 template: students
 
 description: 
-Passionné par les nouvelles technologies et l'evolution de l'informatique depuis ses débuts
+Passionné par les nouvelles technologies et l'evolution de l'informatique depuis ses débuts, je suis le parcours de développeur d'applications Android.
   
 
 # name should be the same as this file. Eg: celinemartinet.png
