@@ -34,18 +34,7 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    Après un parcours quelques peu chaotique, j'ai décidé de me lancer dans quelques choses de productif en suivant le parcours DA Python. J'espère acquérir dans cette formation un socle de compétence et de connaissance solide en python. 
 
 # image must be located in content/images/students
 
@@ -56,7 +45,7 @@ image: raphael.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
