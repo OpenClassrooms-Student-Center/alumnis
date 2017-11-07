@@ -60,7 +60,7 @@ ifdef SERVER
 else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
 endif
-
+    
 
 devserver:
 ifdef PORT
