@@ -83,7 +83,7 @@ projects:
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Mémorisez votre humeur du jour
 
     description: développer une application pour enregistrer vos humeurs
 
