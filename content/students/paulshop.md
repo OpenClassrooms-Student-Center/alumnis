@@ -72,7 +72,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: paulshop/linkedin.jpeg
+    image: paulshop/linkedin.jpg
 
     link: https://www.linkedin.com/in/paul-choppin-566159152/
 
