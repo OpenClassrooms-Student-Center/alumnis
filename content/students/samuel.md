@@ -13,11 +13,11 @@ date: 2017-11-07
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur JAVA
-short_description:Je m'appel Samuel, j'ai 27 ans et j'aime le sport et l'informatique.
+short_description: Je m'appel Samuel, j'ai 27 ans et j'aime le sport et l'informatique.
 
 # don't touch that
 template: students
-description:
+description: >
     Samuel, 27 ans, j'habite dans la loire.
     J'aime faire du sport et plus parliculièrement du tennis et de la natation.
     Né pendant l'émergence (plus ou moins) de l'informatique, je souhaite rentrer
