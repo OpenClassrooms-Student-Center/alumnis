@@ -13,13 +13,12 @@ date: 2017-10-23 18:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur d'applications Android.
-short_description: >
-    J'aime la culture de manière générale (littérature, musique, cinéma ...), ainsi qu'apprendre.
+short_description: J'aime la culture de manière générale (littérature, musique, cinéma ...), ainsi qu'apprendre.
 
 # don't touch that
 template: students
-description: >
-    Désire mettre un pied dans le monde des développeurs, plus particulièrement dans l'univers Android pour smartphones & tablettes, et ceci afin de m'ouvrir à de nouvelles perspectives d'avenir.
+description: Désire mettre un pied dans le monde des développeurs, plus particulièrement dans l'univers Android pour smartphones & tablettes,
+et ceci afin de m'ouvrir à de nouvelles perspectives d'avenir.
     
 
 # image must be located in content/images/students
