@@ -48,5 +48,5 @@ projects:
     description: Création d’une application Android développée en JAVA.
     image: charles/projet_3.png
     link: https://www.github.com
-    finished: false 
+    finished: false
 ---
