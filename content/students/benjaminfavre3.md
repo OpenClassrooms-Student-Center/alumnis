@@ -19,7 +19,7 @@ short_description: Moi aussi j'aime la bière ! Et les sciences, l'histoire, le 
 template: students
 description:
     Protésite dentaire depuis 13 ans je souhaite me réorienter vers un domaine plus porteur : le developpement,
-	en java car c'est un langage très populaire et avec sa machine virtuel multi platforme. 
+    en java car c'est un langage très populaire et avec sa machine virtuel multi platforme. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
