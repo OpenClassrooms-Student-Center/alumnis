@@ -17,12 +17,12 @@ short_description: J'aime les mangas, mon pc et le code.
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je suis yohan SOLON, j’ai 35 ans et nouvel étudiant chez OpenClassroom.
+    Je me suis inscrit à cette formation pour acquérir de nouvelles compétences 
+    en développement et aussi avoir le niveau nécessaire pour accéder en master 2 en 2018.
+    Je suis actuellement sans emploi, je me consacre entièrement à mon projet 
+    de reconversion professionnelle, par la même occasion j’ai créé ma micro-entreprise 
+    afin d’acquérir de l’expérience et surtout constituer mon réseau pour plus tard.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -45,11 +45,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: yohan/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    https://github.com/milimi974/alumnis/blob/master/content/students/yohan
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+    image: ratus/projet_3.jpg
+    link: https://github.com/milimi974/OpenClassroom/tree/master/projets/projet_3
+    finished: true
 ---
