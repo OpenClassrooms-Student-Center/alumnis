@@ -17,7 +17,8 @@ short_description: J'aime les mangas, mon pc et le code.
 # don't touch that
 template: students
 description:
-    Je suis yohan SOLON, j’ai 35 ans et nouvel étudiant chez OpenClassroom.
+    Je suis yohan SOLON développeur, intégrateur web, j’ai 35 ans et 
+    nouvel étudiant chez OpenClassroom.
     Je me suis inscrit à cette formation pour acquérir de nouvelles compétences 
     en développement et aussi avoir le niveau nécessaire pour accéder en master 2 en 2018.
     Je suis actuellement sans emploi, je me consacre entièrement à mon projet 
@@ -34,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Bonjour je suis yohan développeur, intégrateur web.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: yohan/projet_1.JPG
