@@ -17,7 +17,7 @@ short_description: J'aime les jeux vidéos et la musique. J'apprends à mieux co
 
 # don't touch that
 template: students
-description:
+description: >
     Après mon BTS en developpement je me spécialise en developpement Android. 
     Sinon j'aime jouer et écouter de la musique
 
@@ -32,11 +32,10 @@ public: True
 projects:
   - title: Je suis Debruyckère Florian
     description: J'aime les jeux vidéos et la musique. J'apprends à mieux coder pour avoir un travail. 
-    
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: florian59/projet_1.png
-    link:https://www.linkedin.com/in/florian-debruyck%C3%A8re-310937152/
+    link: https://www.linkedin.com/in/florian-debruyck%C3%A8re-310937152/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
