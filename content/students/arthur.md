@@ -50,6 +50,10 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: Arthur/projet3.jpg
     link: https://github.com/MrDiben
-    finished: false
-
+    finished: True
+    - title: Analyser les besoins d'un client pour son groupe de pizzerias
+    description: Conception du dossier de spécifications fonctionnelles.
+    image: Arthur/projet_4.jpg
+    link: https://drive.google.com/drive/folders/0B6cB9S1X7FjfeDFYclFkWFN0QjA?usp=sharing
+    finished: True
 ---
