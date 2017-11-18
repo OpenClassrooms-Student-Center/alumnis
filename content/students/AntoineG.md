@@ -10,7 +10,7 @@ short_description: J'aime l'informatique, les frites et le chocolat :p
 
 template: students
 description:
-J'ai une bagage en réseau informatique cisco-ccna et j'ajoute une corde à mon arc avec le DEV Java    
+J'ai une bagage en réseau informatique cisco-ccna et j'ajoute une corde à mon arc avec le DEV JAva    
 
 image: AntoineG.jpg
 
