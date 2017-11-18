@@ -8,7 +8,7 @@ title: benjaminfavre3
 
 # First name or full name
 name: Favre Benjamin
-date: 2016-11-12 10:34
+date: 2017-11-12 10:34
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -26,7 +26,7 @@ description:
 image: benjamin57.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -49,5 +49,4 @@ projects:
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
-
 ---
