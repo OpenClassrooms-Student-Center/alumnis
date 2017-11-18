@@ -1,8 +1,8 @@
-ï»¿---
+---
 
 title: AntoineG
 
-name: Antonin Gnucci
+name: Antoine Gnucci
 date: 2017-09-09 16:00
 
 objective: Devenir développeur de métier.
