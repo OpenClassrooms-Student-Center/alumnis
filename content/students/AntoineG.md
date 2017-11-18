@@ -12,7 +12,7 @@ template: students
 description:
 J'ai une bagage en réseau informatique cisco-ccna et j'ajoute une corde à mon arc avec le DEV Java    
 
-image: Antonin.png
+image: AntoineG.jpg
 
 public: True
 
