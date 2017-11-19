@@ -18,14 +18,14 @@ short_description: J’aime les langues étrangères et je suis passionné par l
 # don't touch that
 template: students
 description:
-    J’ai décidé de suivre le parcours développeur d’application Python dans le but d’acquérir un nouveau panel de compétences pour ensuite trouver un travail dans une start-up aux Pays-Bas, pays dans lequel je réside. J’aimerai, dans le futur, pouvoir combiner mes compétences et ma passion pour les langues étrangères avec mes compétences en développement.
+    J’ai décidé de suivre le parcours développeur d’application Python dans le but d’acquérir un nouveau panel de compétences pour           ensuite trouver un travail dans une start-up aux Pays-Bas, pays dans lequel je réside. J’aimerai, dans le futur, pouvoir combiner       mes compétences et ma passion pour les langues étrangères avec mes compétences en développement.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: thomas5914.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
