@@ -62,10 +62,12 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: rayane/projet_trois.png
 
-    link: https://www.github.com
+    link pdf: https://drive.google.com/drive/folders/1GkW8h3dLPs-ty5Yf0kLKj9zqpIs0iu2a
+    link github: https://github.com/Nivose44/projet_trois
 
-    finished: false
+
+    finished: true 
 
 ---
