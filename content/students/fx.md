@@ -34,8 +34,8 @@ template: students
 
 description:
 
-    J'aime bien la randonnée, la montagne et les sorties enre amis. 
-    Je me passionne pour l'informatique et surtout la dommotique ainsi que 
+    J'aime bien la randonnée, la montagne et les sorties entre amis. 
+    Je me passionne pour l'informatique et surtout la domotique ainsi que 
     la robotique.
 
 
@@ -63,9 +63,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: fx.jpg
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/fran%C3%A7ois-xavier-thomas-930955152/
 
     # 'true' makes it fully available.
 
@@ -77,9 +77,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: fx.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/FxTom/alumnis
 
     finished: true
 
