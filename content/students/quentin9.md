@@ -13,16 +13,13 @@ date: 2017-11-20 21:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre de nouvelles choses et améliorer ma bibliotheque de langage informatique.
-short_description: Fraîchement diplômé d'un BTS SN, je cherche à découvrir d'autre langage de
-programmation.
+short_description: Fraîchement diplômé d'un BTS SN, je cherche à découvrir d'autre langage de programmation.
 
 # don't touch that
 template: students
 description:
-    Je m'appelle Quentin et j'ai 22 ans. Fraîchement diplômé d'un BTS SN (Systèmes Numériques) 
+    Je m'appelle Quentin et j'ai 22 ans. Fraîchement diplômé d'un BTS SN (Systèmes Numériques).
     je suis ici pour améliorer mes compétences en programmation en attendant de reprendre les cours.
-
-
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
