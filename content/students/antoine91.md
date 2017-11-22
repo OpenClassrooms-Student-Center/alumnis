@@ -77,7 +77,7 @@ projects:
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: true
+    finished: false
 
   - title: Intégrez la communauté !
 
@@ -87,7 +87,7 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/presentation/students/antoine91.html
 
-    finished: true
+    finished: false
 
   - title: Aidez MacGyver à sortir !
 
