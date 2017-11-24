@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: nicolasmn
 
 # First name or full name
 name: Nicolas Mine
@@ -34,48 +34,28 @@ public: True
 projects:
   - title: Apprendre à apprendre !
     description: Créer et mettre à jour son CV
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
     image: nicolasmn/projet1_CV.JPG
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Apprendre à apprendre !
     description: Créer et mettre à jour son CV
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
     image: nicolasmn/projet1_CV2.JPG
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Apprendre à apprendre !
     description: Créer et mettre à jour son CV
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
     image: nicolasmn/projet1_CV3.JPG
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Apprendre à apprendre !
     description: Fixer des objectifs clairs
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
     image: nicolasmn/projet1_objectifs.JPG
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
  - title: Apprendre à apprendre !
     description: Un lien vers votre profil LinkedIn
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
     image: nicolasmn/projet1_linkedin.JPG
     link: https://www.linkedin.com/in/nmine/
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Lien et capture d’écran de votre repo original forké et modifié. 
