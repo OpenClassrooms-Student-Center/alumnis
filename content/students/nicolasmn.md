@@ -42,7 +42,6 @@ projects:
     image: nicolasmn/projet1_CV2.JPG
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
     finished: true
-    finished: true
  - title: Apprendre à apprendre !
     description: Créer et mettre à jour son CV
     image: nicolasmn/projet1_CV3.JPG
