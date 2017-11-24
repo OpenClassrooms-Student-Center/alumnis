@@ -43,6 +43,11 @@ projects:
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
     finished: true
     finished: true
+ - title: Apprendre à apprendre !
+    description: Créer et mettre à jour son CV
+    image: nicolasmn/projet1_CV3.JPG
+    link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
+    finished: true
   - title: Intégrez la communauté !
     description: Lien et capture d’écran de votre repo original forké et modifié.
     image: nicolasmn/projet2_git.JPG
