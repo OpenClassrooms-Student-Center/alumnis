@@ -64,7 +64,7 @@ projects:
 
     image: rayane/projet_trois.png
 
-    link: https://drive.google.com/drive/folders/1GkW8h3dLPs-ty5Yf0kLKj9zqpIs0iu2a
+    link: https://github.com/Nivose44/projet_trois
 
 
     finished: true 
