@@ -39,16 +39,6 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Lien et capture d’écran de votre repo original forké et modifié.
-    image: nicolasmn/projet2_git.JPG
-    link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
-    finished: true
-   - title: Apprendre à apprendre !
-    description: Un lien vers votre profil LinkedIn
-    image: nicolasmn/projet1_linkedin.JPG
-    link: https://www.linkedin.com/in/nmine/
-    finished: true
-  - title: Intégrez la communauté !
     description: Lien et capture d’écran de la pull request.
     image: nicolasmn/projet2_git.JPG
     link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
