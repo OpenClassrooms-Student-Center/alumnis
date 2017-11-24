@@ -37,22 +37,6 @@ projects:
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-  - title: Apprendre à apprendre !
-    description: Créer et mettre à jour son CV
-    image: nicolasmn/projet1_CV2.JPG
-    link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
- - title: Apprendre à apprendre !
-    description: Créer et mettre à jour son CV
-    image: nicolasmn/projet1_CV3.JPG
-    link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
- - title: Apprendre à apprendre !
-    description: Fixer des objectifs clairs
-    image: nicolasmn/projet1_objectifs.JPG
-    link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
- - title: Apprendre à apprendre !
-    description: Un lien vers votre profil LinkedIn
-    image: nicolasmn/projet1_linkedin.JPG
-    link: https://www.linkedin.com/in/nmine/
     finished: true
   - title: Intégrez la communauté !
     description: Lien et capture d’écran de votre repo original forké et modifié.
@@ -64,4 +48,9 @@ projects:
     image: nicolasmn/projet2_git.JPG
     link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
     finished: false
+  - title: Intégrez la communauté !
+    description: Lien et capture d’écran de la pull request. 
+    image: nicolasmn/projet2_git.JPG
+    link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
+    finished: true
 ---
