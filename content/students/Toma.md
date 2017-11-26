@@ -1,5 +1,4 @@
 ﻿---
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -17,7 +16,7 @@ short_description: Je suis Toulousain, j'ai 22 ans et j'ai un DUT GEII. Je me su
 
 # don't touch that
 template: students
-description:
+description: >
     Après avoir validé mon démarré mon DUT GEII, j'ai voulu me spécialiser dans l'informatique, c'est pourquoi je me suis tourné vers OpenClassroom.
     Je connais le C, C++, Java, j'ai quelques connaissances en HTML, CSS, JavaScript et en Scheme.
     Je connais aussi des langages utilisés dans l'automatique : Ladder, VHDL.
@@ -44,9 +43,8 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Toma/projet_3.jpg
     link: https://github.com/tomneozed/alumnis
     finished: true
-
 ---

@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/fouziarar
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Fouzi
+title: adrienfouzi
 
 # First name or full name
 name: Fouzi Arar
@@ -39,9 +39,9 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Fouzi/capture2.png
     link: https://imgur.com/KY8AM3V
     finished: true
-  
+
 ---
