@@ -16,9 +16,9 @@ objective: Je fait une réorientation et souhaite devenir programmeur Java
 short_description: J'apprécie le basket et la compétiton automobile. J'apprends le Java pour en faire mon futur métier.
 
 # don't touch that
-template: étudiant
+template: students
 description:
-    Je m'appelle Kévin j'ai 22 ans, sortie d'un bac professionnelle chaudronnier soudeur je ne me plaisait pas dans ce domaine               d'activité et j'ai choisi d'entamer 
+    Je m'appelle Kévin j'ai 22 ans, sortie d'un bac professionnelle chaudronnier soudeur je ne me plaisait pas dans ce domaine               d'activité et j'ai choisi d'entamer
     une reconvertion. J'ai opté pour le parcour dévelloppeur d'application Java spé Java EE qui est un language qui me plait.
 
 # image must be located in content/images/students
@@ -40,7 +40,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: kevin/projet_2.png
     link: https://github.com/kevindagneaux/alumnis
     finished: true
