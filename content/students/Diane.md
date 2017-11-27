@@ -17,14 +17,14 @@ short_description: J'aime apprendre et comprendre ce qui m'entoure!
 
 # don't touch that
 template: students
-description: 
-	J'ai fini mes études il y a 15 ans (Je crois que j'ai encore ma disquette avec mes TD de Fortran77. Eh oui!)
+description:
+    J'ai fini mes études il y a 15 ans (Je crois que j'ai encore ma disquette avec mes TD de Fortran77. Eh oui!)
     Ce parcours me permettra de me remettre à la page! et de changer de carrière professionnelle!
-	J'aimerai pouvoir créer des applications, faire du design, programmer des robots,
+    J'aimerai pouvoir créer des applications, faire du design, programmer des robots,
     utiliser des imprimantes 3D, créer et programmer des objets connectés ...
-	bon d'accord...je vais déjà commencer par le Python!
-	Merci à OpenClassrooms (j'attendais ça depuis longtemps) 
-	Et bonne formation à tous les étudiants!
+    bon d'accord...je vais déjà commencer par le Python!
+    Merci à OpenClassrooms (j'attendais ça depuis longtemps) 
+    Et bonne formation à tous les étudiants!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
