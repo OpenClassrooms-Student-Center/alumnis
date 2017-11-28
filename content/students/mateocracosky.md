@@ -14,7 +14,7 @@ title: mateocracosky
 
 # First name or full name
 
-name: Matéo CRACOSKY
+name: MatÃ©o CRACOSKY
 
 date: 2017-11-27 21:25
 
@@ -23,9 +23,9 @@ date: 2017-11-27 21:25
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Apprendre java comme premier langage de développement, puis en apprendre d'autres par moi même par la suite.
+objective: Apprendre java comme premier langage de dÃ©veloppement, puis en apprendre d'autres par moi-mÃªme par la suite.
 
-short_description: J'aime les jeux vidéos, les chiens et je suis chez Openclassrooms pour avoir un métier en main.
+short_description: J'aime les jeux vidÃ©os et les chiens, et j'Ã©tudie chez OpenClassrooms pour avoir un mÃ©tier en main.
 
 
 # don't touch that
@@ -63,17 +63,16 @@ public: True
 
 projects:
 
-  - title: Apprendre à apprendre !
+  - title: Apprendre Ã  apprendre
 
-    description: Une présentation de moi-même, un cv et un lien vers mon LinkedIn.
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
     image: mateocracosky/objectifsapprentissage.png
-
-    link: https://www.linkedin.com/in/MatéoCDEV
+    link: https://www.linkedin.com/in/MatÃ©oCDEV
 
     # 'true' makes it fully available.
 
@@ -81,7 +80,7 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
