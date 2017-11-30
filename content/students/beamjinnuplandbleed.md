@@ -37,19 +37,19 @@ projects:
     description: Rapide présentation.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: BenJ/ForkPresentation.png
+    image: beamjinnuplandbleed/ForkPresentation.png
     link: https://www.linkedin.com/in/benjamin-duplan-475aba153/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source et se perdre dans Github et avant de commprendre comme faire des pull requests. 
-    image: BenJ/integrationcommu.png
+    image: beamjinnuplandbleed/integrationcommu.png
     link: https://openclassrooms-student-center.github.io/presentation/students/BenJ.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python avec l'aide de Pygame.
-    image: BenJ/MacGyver.png
+    image: beamjinnuplandbleed/MacGyver.png
     link: -
     finished: false
 ---
