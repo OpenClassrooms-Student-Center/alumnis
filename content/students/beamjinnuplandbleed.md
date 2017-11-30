@@ -26,7 +26,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: beamjinnuplandbleed.jpg
+image: content/images/students/beamjinnuplandbleed.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -37,19 +37,19 @@ projects:
     description: Rapide présentation.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: beamjinnuplandbleed/ForkPresentation.png
+    image: content/images/students/beamjinnuplandbleed/ForkPresentation.png
     link: https://www.linkedin.com/in/benjamin-duplan-475aba153/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source et se perdre dans Github et avant de commprendre comme faire des pull requests. 
-    image: beamjinnuplandbleed/integrationcommu.png
+    image: content/images/students/beamjinnuplandbleed/integrationcommu.png
     link: https://openclassrooms-student-center.github.io/presentation/students/BenJ.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python avec l'aide de Pygame.
-    image: beamjinnuplandbleed/MacGyver.png
+    image: content/images/students/beamjinnuplandbleed/MacGyver.png
     link: -
     finished: false
 ---
