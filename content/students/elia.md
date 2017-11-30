@@ -43,7 +43,7 @@ projects:
     image: elia/projet_2.png
     link: https://github.com/EliaTB/alumnis
     finished: false
-     - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus.jpg
     link: https://www.github.com
