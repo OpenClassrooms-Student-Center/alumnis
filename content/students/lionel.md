@@ -48,7 +48,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d'un peu développé en python et utilisant PyGame.
-    image: lionel/project_3.jpg
-    link: https://www.github.com/Nels885
-    finished: false
+    image: lionel/project_3.png
+    link: https://github.com/Nels885/help_MacGyver_escape
+    finished: true
 ---
