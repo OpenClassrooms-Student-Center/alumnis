@@ -8,21 +8,21 @@ title: christophedurand
 
 # First name or full name
 name: Christophe DURAND
-date: 2017-09-27 15:22
+date: 2017-10-03 13:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me reconvertir dans un nouveau monde pour un nouveau départ.
-short_description: Pourquoi IOS? Parce que j’aime les pommes! 
+objective: Dévenir developpeur d'application sur IOS
+short_description: Pouquoi j'aime IOS? Parce que j'aime les pommes.
 
 # don't touch that
 template: students
-description: Bonjour à tous! Je suis Christophe DURAND, 27 ans et je compte me reconvertir en tant que développeur d’application sur IOS.
+description:
+    Je m'appelle Christophe. J'aime sortir avec mes amis, regarder des séries TV.
     
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: christophedurand.JPG
+image: christophedurand.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -40,8 +40,8 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: christophedurand/projet_2.png
-    link: https://github.com/Chrisdd3365    
+    image: christophedurand/projet2.png
+    link: https://github.com/Chrisdd3365/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.

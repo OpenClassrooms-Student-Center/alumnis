@@ -46,8 +46,13 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: irmi/macGyver.jpg
-    link: https://www.youtube.com/watch?v=lc8RFPZUkiQ
+    image: irmi/macGyver.png
+    link: https://github.com/irmiaw/MacGyver
+    finished: true
+  - title: OC Pizza !
+    description: Analyse des besoins d'un client pour son groupe de pizzerias.
+    image: irmi/OC_Pizza.png
+    # link: 
     finished: false
 
 ---
