@@ -18,12 +18,12 @@ short_description: J'aime le chocolat, la fondue et l'argent, bref je vis en Sui
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Actuellement, je travaille comme spécialiste en ressources humaines.
+    Je travaille en étroite collaboration avec les services informatiques afin de développer des applications dynamique
+est moderne pour la gestion des collaborateurs. 
+    Nous gérons tous les enseignants du cantonde Vaud (Suisse), ainsi que les remplaçants.
+    Le but à court terme et de centraliser toutes les données entres les établissements, les
+enseignants et les remplaçants sur une seule et même plate-forme.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
