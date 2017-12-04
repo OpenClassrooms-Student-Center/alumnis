@@ -34,23 +34,18 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Apprendre à apprendre - Présentez-vous !
+    description: Pour faire simple, papa de 3 enfants (14, 5 et 5 ans...), travaillant dans les RH.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Macgama/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: www.linkedin.com/in/gael-manigley-192a4a10
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Macgama/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/macgama.html
-    finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Macgama/projet_3.png
-    link: https://www.github.com
     finished: false
+
 ---
