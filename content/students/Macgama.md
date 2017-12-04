@@ -20,10 +20,10 @@ template: students
 description:
     Actuellement, je travaille comme spécialiste en ressources humaines.
     Je travaille en étroite collaboration avec les services informatiques afin de développer des applications dynamique
-est moderne pour la gestion des collaborateurs. 
+    est moderne pour la gestion des collaborateurs. 
     Nous gérons tous les enseignants du cantonde Vaud (Suisse), ainsi que les remplaçants.
     Le but à court terme et de centraliser toutes les données entres les établissements, les
-enseignants et les remplaçants sur une seule et même plate-forme.
+    enseignants et les remplaçants sur une seule et même plate-forme.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
