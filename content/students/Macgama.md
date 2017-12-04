@@ -19,11 +19,9 @@ short_description: J'aime le chocolat, la fondue et l'argent, bref je vis en Sui
 template: students
 description:
     Actuellement, je travaille comme spécialiste en ressources humaines.
-    Je travaille en étroite collaboration avec les services informatiques afin de développer des applications dynamique
-    est moderne pour la gestion des collaborateurs. 
+    Je travaille en étroite collaboration avec les services informatiques. 
     Nous gérons tous les enseignants du cantonde Vaud (Suisse), ainsi que les remplaçants.
-    Le but à court terme et de centraliser toutes les données entres les établissements, les
-    enseignants et les remplaçants sur une seule et même plate-forme.
+    Le but à court terme et de centraliser toutes les données sur une seule et même plate-forme.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
