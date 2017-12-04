@@ -45,4 +45,14 @@ projects:
     image: florian31/projet_2.png
     link: https://github.com/mrflofinou
     finished: true
+  - title: Aidez MacGyver à s'échapper !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: florian31/projet_3.jpg
+    link: https://github.com/mrflofinou
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzeria.
+    description: Elaboration de spécifications fonctionnelles à partir d'un cahier des charges.
+    image: florian31/projet_4.jpg
+    link: https://drive.google.com/drive/folders/0Bxjh6hX1f1kyVVQtZHJUZ3d1M3c?usp=sharing
+    finished: true
 ---
