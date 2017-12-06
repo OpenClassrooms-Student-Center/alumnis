@@ -57,6 +57,12 @@ projects:
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
     description: Création d’un dossier de spécifications fonctionnelles.
     image: jeanfrancois/projet_4.png
-    link:
+    link: ""
+    finished: true
+  - title: Utilisez les données publiques de L'OpenFoodFacts
+    description: Réaliser un programme qui propose pour un aliment donné un autre de substitution
+    grâce aux données de l'Open Food Facts.
+    image: jeanfrancois/projet_5.png
+    link: https://github.com/jfsubrini/project5_off_converter
     finished: true
 ---
