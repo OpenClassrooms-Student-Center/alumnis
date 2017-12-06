@@ -29,15 +29,15 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-- title: Actuellement salarié à paugeot j'éspere changer de carrière en devenant développeur IOS
-description: https://www.linkedin.com/in/fouzi-arar-70b670138/
+  - title: Actuellement salarié à paugeot j'éspere changer de carrière en devenant développeur IOS
+    description: https://www.linkedin.com/in/fouzi-arar-70b670138/
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/capture1.png
-image: Fouzi/capture1.png
-link: https://imgur.com/a/GUXx1
+    image: Fouzi/capture1.png
+    link: https://imgur.com/a/GUXx1
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-finished: true
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Fouzi/capture2.png

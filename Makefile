@@ -80,5 +80,12 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
 
+revert_push:
+	@echo 'Revert HARD'
+	@git revert HEAD -n
+	@git commit -m "Revert to last commit because errors were found."
+	@git checkout -b "errors"
+	@echo 'Push to origin master'
+	@git push -f https://${GH_TOKEN}@github.com/OpenClassrooms-Student-Center/alumnis.git errors:master
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github

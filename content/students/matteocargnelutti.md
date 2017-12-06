@@ -31,12 +31,43 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Intégrez la communauté OpenClassrooms !
-    description: Retrouvez mes projets OpenClassRooms sur mon GitHub
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: matteocargnelutti/github.png
+    description: Projet 2
+    image: matteocargnelutti/projet_02.png
     link: https://github.com/matteocargnelutti
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
+  - title: Aidez MacGyver à s'échapper !
+    description: Projet 3
+    image: matteocargnelutti/projet_02.png
+    link: https://github.com/matteocargnelutti
+    finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+    description: Projet 5
+    image: matteocargnelutti/projet_02.png
+    link: https://github.com/matteocargnelutti
+    finished: true
+  - title: Créez GrandPy Bot, le papy-robot
+    description: Projet 7
+    image: matteocargnelutti/projet_02.png
+    link: https://github.com/matteocargnelutti
+    finished: true
+  - title: Créez une plateforme pour amateurs de Nutella
+    description: Projet 8
+    image: matteocargnelutti/projet_02.png
+    link: https://github.com/matteocargnelutti
+    finished: true
+  - title: Déployez votre application sur un serveur comme un·e pro !
+    description: Projet 10
+    image: matteocargnelutti/projet_02.png
+    link: https://github.com/matteocargnelutti
+    finished: true
+  - title: Améliorez un projet existant en Python
+    description: Projet 11
+    image: matteocargnelutti/projet_02.png
+    link: https://github.com/matteocargnelutti
+    finished: true
+  - title: Projet final prêt·e pour le feu d’artifices ?
+    description: Projet 13
+    image: matteocargnelutti/projet_02.png
+    link: https://openclassrooms.com/courses/4721856?status=waiting-for-publication
     finished: true
 ---
