@@ -13,12 +13,11 @@ date: 2017-11-29 1:12
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: developpeur d'application ios.
-short_description: >
+short_description:
     J'aime le sport les nouvelles technologies et les jeux videos.
-    
 # don't touch that
 template: students
-description: >
+description:
     Je m'appelle Charles, j'ai 19 ans et j'ai commencé une formation de developpeur d'applications ios.
     J'aime le sport en particulier le tennis et les produits apple.
     j'aime aussi la musique ainsi que sortir avec mes amis.
