@@ -13,8 +13,9 @@ date: 2017-10-31 18:40
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Progresser personnellement et professionnellement aux systemes Apple.
-short_description: J'aime l'univers Apple et la création.
-J'apprends a coder pour faire de cet attrait mon métier.
+short_description: >
+    J'aime l'univers Apple et la création.
+    J'apprends a coder pour faire de cet attrait mon métier.
 
 # don't touch that
 template: students
@@ -40,7 +41,8 @@ short_description: >
 # don't touch that
 template: students
 description: >
-    Désire mettre un pied dans le monde des développeurs, plus particulièrement dans l'univers Android pour smartphones & tablettes, et ceci afin de m'ouvrir à de nouvelles perspectives d'avenir.
+    Désire mettre un pied dans le monde des développeurs, plus particulièrement dans l'univers Android pour smartphones 
+    & tablettes, et ceci afin de m'ouvrir à de nouvelles perspectives d'avenir.
     
 
 
@@ -53,24 +55,6 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-
-  - title: charles
-    description: Je suis une personne rigoureuse et motivé qui a trouvé cette formation pour concrétiser ses projets. https://www.linkedin.com/in/charles-schmutz-5a3b82151/   
- # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: charles/projet1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
-       # false
-    finished: true
-  - title: charles
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: charles/projet1.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
-  - title: charles
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: charles/projet3.png
-
   - title: Présentez-vous !
     description: Une présentation de moi-même.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -87,7 +71,6 @@ projects:
   - title: MoodTracker
     description: Création d’une application Android développée en JAVA.
     image: charles/projet_3.png
-
     link: https://www.github.com
     finished: false
 ---
