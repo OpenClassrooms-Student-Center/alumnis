@@ -29,7 +29,7 @@ short_description: J'aime lire des livres sur l'informatique, jeux videos, balad
 
 description:
     Apres un DEUG2 en math et un BTS(IDA), je decouvre ce qui me passionne le
-    plus dans la vie: creer de nouveaux codes.
+    plus dans la vie; creer de nouveaux codes.
     Je me tourne donc vers le parcours Dev python de OpenClassrooms pour a 
     la fin exercer le metier de developpeur a plein temps.
 
