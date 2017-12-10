@@ -84,12 +84,14 @@ projects:
   - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-	
-	J ai forke le projet sur mon compte Github, puis les copier en local. J'ai rajoute avec git init mn fichier emmanuel.md.
-	En le modifiant j ai fait qq commits (voir copie d ecran). Et je vais le renvoyer sur mon github pour faire une pull request et le renvoyer.
-	pour les images, j ai rajoute ma photo et un repertoir avec une copie d ecran de commit effectues (projet_2a), de mon compte github(projet_2b) et de mon compte linkedin (projet_1)
+    J ai forke le projet sur mon compte Github, puis les copier en local. J'ai rajoute avec git init mn fichier emmanuel.md.
+    En le modifiant j ai fait qq commits (voir copie d ecran). Et je vais le renvoyer sur mon github pour faire une pull request  
+    et le renvoyer.
+    pour les images, j ai rajoute ma photo et un repertoir avec une copie d ecran de commit effectues (projet_2a), de mon compte    
+    github(projet_2b) et de mon compte linkedin (projet_1)
+    
     Et un lieu vers mon github.
-	
+    
     image: emmanuel/projet_2a.png
 
     link: https://github.com/emmanuelfd
