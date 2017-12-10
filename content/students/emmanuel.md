@@ -89,9 +89,7 @@ projects:
     et le renvoyer.
     pour les images, j ai rajoute ma photo et un repertoir avec une copie d ecran de commit effectues (projet_2a), de mon compte    
     github(projet_2b) et de mon compte linkedin (projet_1)
-    
-    Et un lieu vers mon github.
-    
+
     image: emmanuel/projet_2a.png
 
     link: https://github.com/emmanuelfd
