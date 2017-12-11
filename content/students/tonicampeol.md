@@ -18,10 +18,10 @@ short_description: J'adore démonter des choses pour savoir comment elles foncti
 
 # don't touch that
 template: students
-description: Après un BTS dans la mécanique agricole et une 2e année de licence sciences 
-pour l'ingénieur je veux quitter temporairement le monde de la mécanique pour me consacrer
- à ma 2e passion, le développement. A long terme j'associerais les deux.
-
+description:
+	Après un BTS dans la mécanique agricole et une 2e année de licence sciences 
+	pour l'ingénieur je veux quitter temporairement le monde de la mécanique pour me consacrer
+	 à ma 2e passion, le développement. A long terme j'associerais les deux.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
