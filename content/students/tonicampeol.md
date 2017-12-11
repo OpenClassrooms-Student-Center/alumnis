@@ -14,7 +14,7 @@ date: 2017-12-06 15:30
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
 objective: Quitter le monde de la mécanique pour mieux y revenir !
-short_description: J'adore démonter des choses pour savoir comment elles fonctionnent.
+short_description: J'adore démonter des choses pour savoir comment elles fonctionnent !
 
 # don't touch that
 template: students
