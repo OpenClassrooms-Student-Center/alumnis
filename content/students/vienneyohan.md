@@ -1,4 +1,4 @@
-﻿---
+P﻿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -39,7 +39,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: vienneyohan/projet3.png
+    image: vienneyohan/Projet3.png
     link: https://github.com/Oxyo78/Labyrinthe-project
     finished: true
 ---
