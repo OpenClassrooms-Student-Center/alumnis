@@ -40,18 +40,17 @@ description:
     est notre raison de vivre, et nous gagnons des batailles. Nos enfants progressent.
     Réaliser des applications ludiques et pédagogiques pour tablettes sous Android, là où il y a un 
     réel manque, voilà mon projet.
-    Lien Linkedin: www.linkedin.com/in/jacques-hoschtettler-491337155
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: Jacques.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -66,9 +65,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
-
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: www.linkedin.com/in/jacques-hoschtettler-491337155
 
     # 'true' makes it fully available.
 
@@ -80,9 +77,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: Jacques.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/Jacques.html
 
     finished: true
 
