@@ -33,8 +33,7 @@ short_description: J'aime ma famille, la lecture, la philosophie, les mathémati
 template: students
 
 description:
-
-    52 ans, marié depuis 23 ans à une femme admirable. Notre plus beau projet commun : notre famille.
+    52 ans, marié depuis 23 ans à une femme admirable. Notre plus beau projet commun c'est notre famille.
     6 enfants, de 22 à 9 ans. Les deux derniers sont autistes. La lutte contre leur handicap et
     contre les institutions française qui sont la pire prise en charge du handicap du monde occidental
     est notre raison de vivre, et nous gagnons des batailles. Nos enfants progressent.
