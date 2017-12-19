@@ -17,7 +17,7 @@ short_description: J'aime les nouvelles technologies, et je suis très curieux. 
 # don't touch that
 template: students
 description:
-    je suis un jeune chef d'entreprise qui à choisit de ce reconvertir suite à quelque problemes   
+    je suis une jeune chef d'entreprise qui à choisit de ce reconvertir suite à quelque problemes   
     de santée. j'aime les jeux vidéo, la musique et le dessin même si je dessine comme un enfant.
     j'aime également la culture japonaise , en particulier les studio Ghibli.
 
@@ -38,12 +38,12 @@ projects:
     link: https://www.linkedin.com/in/thierry-fauconnet-9380b1155/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
