@@ -31,11 +31,11 @@ public: false
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Mamadou, étudiant en DA Pthon LinkedIn: https://www.linkedin.com/in/ridialass/ .
+    description: Mamadou, étudiant en DA Pthon LinkedIn en lien.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ridialas/projet1.png
-    link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
+    link: https://www.linkedin.com/in/ridialass/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
