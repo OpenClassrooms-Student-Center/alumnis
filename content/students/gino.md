@@ -83,7 +83,7 @@ projects:
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: true
+    finished: True
 
   - title: Intégrez la communauté !
 
@@ -93,7 +93,7 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/presentation/students/gino.html
 
-    finished: true
+    finished: True
 
   - title: Aidez MacGyver à sortir !
 
@@ -103,6 +103,6 @@ projects:
 
     link: https://www.github.com
 
-    finished: false
+    finished: False
 
 ---
