@@ -30,14 +30,9 @@ projects:
     image: maximeboussaingault/projet_2.png
     link: https://github.com/TitMax/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: MoodTracker
+    description: Création d’une application Android en Java avec Android Studio.
     image: maximeboussaingault/projet_3.png
-    link: https://www.github.com
-    finished: false
-  - title: Jeu du Pendu
-    description: Création d’un jeu en mode console développé en C.
-    image: maximeboussaingault/projet_4.png
-    link: https://github.com/TitMax/jeuDuPendu
+    link: https://github.com/TitMax/MoodTracker
     finished: true
 ---
