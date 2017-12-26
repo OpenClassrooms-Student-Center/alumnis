@@ -2,7 +2,7 @@
 
 
 
-# FILENAME :georges .
+# FILENAME :georges.md .
 
 # Example: https://openclassrooms.com/membres/celinemartinet
 
@@ -62,7 +62,7 @@ image: ratus.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 
