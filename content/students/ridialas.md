@@ -7,7 +7,7 @@
 title: ridialas
 
 # First name or full name
-name: Mamadou alias Ridialass
+name: Mamadou
 date: 2017-12-22 15:20
 
 # One line.
@@ -26,7 +26,7 @@ description:
 image: ridialas.png
 
 # Change this to True when you do you pull request.
-public: True
+public: false
 
 # You need to keep the exact same structure for each new project.
 projects:
