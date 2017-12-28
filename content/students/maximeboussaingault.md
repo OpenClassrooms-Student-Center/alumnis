@@ -12,8 +12,8 @@ date: 2017-10-07 12:36
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Apprendre à développer des applications mobiles Android.
+short_description: Infographiste en reconversion dans le développement d'application Android.
 
 # don't touch that
 template: students
