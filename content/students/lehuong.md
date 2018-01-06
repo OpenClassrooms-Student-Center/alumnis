@@ -33,18 +33,18 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.pngME : please use your OpenClassrooms's name, available in your url.
-    image: lehuong/projet_1.png
+    image: lehuong/projet1.jpg
     link: www.linkedin.com/in/huongleparis
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: lehuong/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/lehuong.html
+    image: lehuong/projet2.jpg
+    link: https://github.com/lehuongparis/alumnis.git
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu iOS, deux équipes vont d'affronter à mort.
-    image: lehuong/projet_3.png
+    image: lehuong/projet3.jpg
     link: https://www.github.com
     finished: false
