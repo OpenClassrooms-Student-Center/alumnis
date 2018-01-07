@@ -29,7 +29,7 @@ public: false
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Mamadou, étudiant en DA Pthon LinkedIn: https://www.linkedin.com/in/ridialass/ .
+    description: Mamadou, étudiant en DA Python LinkedIn https://www.linkedin.com/in/ridialass/ .
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ridialass/projet_1.png
