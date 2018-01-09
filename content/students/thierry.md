@@ -17,7 +17,7 @@ short_description: J'aime les nouvelles technologies, et je suis très curieux. 
 # don't touch that
 template: students
 description:
-    je suis une jeune chef d'entreprise qui à choisit de ce reconvertir suite à quelque problemes   
+    je suis un jeune chef d'entreprise qui à choisit de ce reconvertir suite à quelque problemes   
     de santée. j'aime les jeux vidéo, la musique et le dessin même si je dessine comme un enfant.
     j'aime également la culture japonaise , en particulier les studio Ghibli.
 
