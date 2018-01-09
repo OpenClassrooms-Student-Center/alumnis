@@ -5,7 +5,6 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: thomas26
-
 # First name or full name
 name: Thomas
 date: 2018-01-09 13:10
