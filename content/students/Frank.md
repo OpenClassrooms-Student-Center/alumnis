@@ -12,7 +12,7 @@ date: 2016-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Deveinr developpeur Java
+objective: Devenir developpeur Java
 short_description: Je me présente, Frank, de Strasbourg.
 
 # don't touch that
@@ -47,6 +47,4 @@ projects:
     image: Frank/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/Frank.html
     finished: true
-
-    finished: false
 ---
