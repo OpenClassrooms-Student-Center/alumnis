@@ -79,7 +79,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: michaelsagot/projet_2.png
+    image: michaelsagot/projet_1.png
 
     link: https://github.com/MicaSag/alumnis
 
@@ -89,7 +89,7 @@ projects:
 
     description: Bientôt un nouveau projet dans cette section.
 
-    image: michaelsagot/bientot.png
+    image: michaelsagot/coming_soon.png
 
     link: 
 
