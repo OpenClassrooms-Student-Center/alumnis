@@ -7,7 +7,7 @@
 title: steffenpro
 
 # First name or full name
-name:Frank Steff
+name: Frank Steff
 date: 2018-01-12 13:52
 
 # One line.
