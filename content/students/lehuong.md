@@ -7,7 +7,7 @@
 title: lehuong
 
 # First name or full name
-name: Le huong
+name: Lehuong
 date: 2018-01-10 16:00
 
 # One line.
