@@ -12,7 +12,7 @@ date: 2018-01-12 13:52
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective:Devenir specialiste en creation d'application Android
+objective: Devenir specialiste en creation d'application Android
 short_description: J'adore découvrir de nouvelles choses,je suis un touche à tout.
 
 # don't touch that
