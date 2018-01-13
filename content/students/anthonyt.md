@@ -77,7 +77,7 @@ projects:
 
     image: anthonyt/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/anthonyt.html
+    link: https://github.com/nethaleak
 
     finished: true
 
