@@ -46,7 +46,7 @@ image: anthonyt.png
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
