@@ -13,7 +13,7 @@ date: 2018-01-15 15:23
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: acquérir de nouvelle connaissance dans le développement Android
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Passionné par l'univers riche qu'est Warcraft, ainsi que le développement mobile
 
 # don't touch that
 template: students
