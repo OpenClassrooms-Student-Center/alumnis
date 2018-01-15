@@ -62,7 +62,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: cyril/projet_1.png
+    image: cyril/projet_1.jpg
 
     link: www.linkedin.com/in/cyril-przewoznik-kamiil
 
@@ -76,7 +76,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: cyril/projet_2.png
+    image: cyril/projet_2.jpg
 
     link: https://github.com/CVPRZ67
 
@@ -86,7 +86,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: cyril/projet_3.png
+    image: cyril/projet_3.jpg
 
     link: https://www.github.com
 
