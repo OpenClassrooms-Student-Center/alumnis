@@ -1,4 +1,4 @@
----
+﻿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -8,12 +8,12 @@ title: etienne86
 
 # First name or full name
 name: Etienne
-date: 2018-01-12 21:00
+date: 2018-01-15 11:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre à coder comme un pro !
-short_description: J'aime courir. Pas forcément vite, mais longtemps.
+short_description: J'aime courir. Pas vite, mais longtemps.
 
 # don't touch that
 template: students
@@ -43,6 +43,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: etienne86/project_2.png
-    link: https://openclassrooms-student-center.github.io/alumnis/students/etienne86.html
+    link: https://github.com/etienne86/alumnis
     finished: true
 ---
