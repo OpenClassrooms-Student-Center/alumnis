@@ -1,0 +1,250 @@
+/****** COLORS *******/
+/* blue: #4c88a1; */
+/* orange: #f56900; */
+
+/************ COMMON ***************/
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 10%;
+    color: rgba(1,1,1, 0.8);
+}
+
+a {
+    color: #f56900;
+}
+
+h1, h2 {
+    font-weight: 200;
+    text-align: center;
+}
+
+h2, h3 {
+    margin: 3% 0;
+}
+
+.button {
+    padding: 7px;
+    cursor: pointer;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    background: #9b9b9b;
+    border-radius: 3px;
+    border: 1px solid #9b9b9b;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px auto;
+
+}
+
+.button:hover {
+    color: #f56900;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+.button-primary {
+    background: #f56900;
+    color: #fff;
+    border-color: #f56900;
+}
+
+.rounded {
+    border-radius: 50%;
+    padding: 0;
+}
+
+.text-justified {
+    text-align: justify;
+}
+
+
+
+/************ Disclaimer cookies ***************/
+#disclaimer {
+    background-color: #4c88a1;
+    color: white;
+    /*width: 100%;*/
+    /*position: relative;*/
+    text-align: center;
+    /*margin: 0;*/
+    font-size: 14px;
+    line-height: 19px;
+    border: 1px solid rgba(0,0,0,.1);
+    padding: 7px;
+}
+
+#disclaimer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#disclaimer a:hover {
+    text-decoration: underline;
+}
+ 
+#disclaimer-button {
+    text-decoration: none;
+    text-align: center;
+    background: #fff;
+    /*min-width: 25px;*/
+    /*line-height: 25px;*/
+    padding: 0 5px;
+    font-weight: 700;
+    z-index: 101;
+    /*display: inline-block;*/
+    /*margin-left: 5px;*/
+    text-transform: uppercase;
+    color: #4c88a1;
+    border-style: none;
+}
+
+/************ Header ***************/
+.navbar-default {
+    min-height: 64px;
+    background-color: transparent;
+    border: 0px solid transparent;
+}
+
+.navbar-default a {
+    font-size: 16px;
+    text-decoration: none;
+    transition: color .1s ease;
+    line-height: 44px;
+    height: 44px;
+    min-width: 44px;
+    white-space: nowrap;
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 4%;
+}
+
+.navbar-brand {
+    padding: 0 15px;
+}
+
+.navbar-brand img {
+    height: 50px;
+}
+
+.navbar-default .header-logo {
+    margin-top: 0;
+}
+
+.header-logo img {
+    height: 80px;
+}
+
+/************ Banner ***************/
+
+#banner {
+    background-image: url('../../images/developpeur-application-banner.png');
+    background-color: grey;
+    background-attachment: fixed;
+    background-position: bottom center; 
+    height: 400px;
+    background-repeat: no-repeat;
+    /*background-size: 100%;*/
+    background-size: cover;
+}
+
+.black-filter {
+    background-color: rgb(1,1,1);
+    background-color: rgba(1,1,1, 0.5);
+    height: 100%;
+}
+
+#banner .titles {
+    color: #fff;
+    padding-top: 8%;
+    font-weight: 200;
+}
+
+#banner .titles h2 {
+    font-size: 2rem;
+    margin: 3rem;
+}
+
+.inset-shadow {
+    box-shadow: 0 15px 15px -10px rgba(0,0,0,.35) inset;
+    padding: 50px 0 30px 0;
+}
+
+/************ Students section ***************/
+.thumbnail {
+    max-width: 120px;
+    overflow: hidden;
+    margin: 20px auto;
+}
+
+.thumbnail.rounded {
+    border: 1px solid #f56900;
+}
+
+.student-item {
+    margin-bottom: 2%;
+    padding: 0 5%;
+}
+
+/************ Students page ***************/
+#banner.student {
+    background-image: url('../../images/student-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom right; 
+}
+
+#banner.student .titles {
+    padding-top: 4%;
+}
+
+#description {
+    text-align: center;
+    font-size: 15px;
+}
+
+#description h3 {
+    color: #f56900;
+    text-align: center;
+    margin: 0;
+    padding: 5% 0 2% 0;
+}
+
+#description h4 {
+    margin: 10% 0 6% 0;
+}
+
+#description img {
+    margin: 4% auto 0 auto;
+}
+
+.project-item {
+    padding: 1%;
+}
+
+
+.project-description {
+    text-align: justify;
+}
+
+#description .image-wrapper {
+    position: relative;
+}
+
+.unfinished {
+    background-color: rgb(1,1,1);
+    background-color: rgba(1,1,1, 0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    padding-top: 22%;
+    color: #fff;
+}
+
+.fa-map-signs {
+    margin-right: 10px;
+}
