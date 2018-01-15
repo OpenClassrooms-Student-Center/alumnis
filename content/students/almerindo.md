@@ -4,16 +4,16 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Almerindo
+title: ratus
 
 # First name or full name
 name: Almerindo
-date: 2018-01-06 08:26
+date: 2018-01-15 16:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Ne pas perdre ma vie à essayer de la gagner
-short_description: Virgule point ouvrez les guillemets
+objective: Avoir une entreprise � mon service pour ne pas �tre au service de mon entreprise
+short_description: J'aime la vie !
 
 # don't touch that
 template: students
@@ -34,23 +34,13 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Pr�sentez-vous !
+    description:Coucou, tu veux voir mon code ? Lien Linked : https://goo.gl/o8bpWA
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: Pour l'instant rien
+    link: Pour l'instant rien
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
     finished: false
 ---
