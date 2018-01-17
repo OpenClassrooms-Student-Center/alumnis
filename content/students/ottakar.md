@@ -55,7 +55,7 @@ projects:
     image: ottakar/projet_2.png
     link: https://github.com/freezed/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver a sortir !
     description: [TODO] Création d’un jeu développé en Python et utilisant PyGame.
     image: ottakar/projet_3.png
     link: https://openclassrooms.com/projects/aidez-macgyver-a-sechapper
