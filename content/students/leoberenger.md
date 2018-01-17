@@ -14,7 +14,7 @@ title: leoberenger
 
 # First name or full name
 
-name: Berenger
+name: Bérenger
 
 date: 2018-01-17 14:20
 
