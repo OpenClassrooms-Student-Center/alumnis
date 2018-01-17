@@ -17,15 +17,14 @@ date: 2017-01-15 12:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir développeur
+objective: Devenir dÃ©veloppeur
 short_description: J'aime apprendre de nouvelles choses
 
 # don't touch that
 
 template: students
 
-description:
-J'aime apprendre de nouvelles choses, découvrir le monde du développement informatique est ma nouvelle passion
+description: J'aime apprendre de nouvelles choses, dÃ©couvrir le monde du dÃ©veloppement informatique est ma nouvelle passion
 
 
 # image must be located in content/images/students
@@ -42,7 +41,7 @@ public: False
 
 projects:
   - title: Je m'appelle Maximilien
-    description: Je suis juriste en droit social et je veux devenir développeur java
+    description: Je suis juriste en droit social et je veux devenir dÃ©veloppeur java
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: maximilienleboiteux/mlb.jpg
@@ -50,7 +49,7 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
