@@ -17,8 +17,7 @@ short_description: Repenser ses objectifs et faire quelque chose qu'on veut vrai
 
 # don't touch that
 template: students
-description:
-Après avoir créé une entreprise dans le milieu du drone pro, je me reconvertis dans le développement iOS pour faire quelque chose que j’ai vraiment envie et par la même occasion acquérir des compétences qui me manques depuis toujours. Mais surtout le faire en lien avec l’écosystème Apple et travailler avec leurs technologies innovantes. 
+description: Après avoir créé une entreprise dans le milieu du drone pro, je me reconvertis dans le développement iOS pour faire quelque chose que j’ai vraiment envie et par la même occasion acquérir des compétences qui me manques depuis toujours. Mais surtout le faire en lien avec l’écosystème Apple et travailler avec leurs technologies innovantes. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
