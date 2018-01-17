@@ -37,10 +37,20 @@ projects:
   - title: Présentez-vous !
     description:Coucou, tu veux voir mon code ? Lien Linked : https://goo.gl/o8bpWA
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: Pour l'instant rien
-    link: Pour l'instant rien
+    # Image must be here: content/students/lilipte/Projet1ApprendreApprendre.PNG
+    image: Projet1ApprendreApprendre.PNG
+    link: https://openclassrooms.com/membres/almerindo
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
+
+  - title: Integrer la commu
+    description: Cours d'integration à la commu avec git et github"
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/students/lilipte/Projet2forkgithub.PNG
+    image: Projet2forkgithub.PNG
+    link: https://openclassrooms.com/membres/almerindo
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
 ---
