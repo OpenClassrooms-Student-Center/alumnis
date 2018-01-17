@@ -1,5 +1,4 @@
 ---
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -41,7 +40,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Presentez-vous
+    -title: Presentez-vous
     # max 100 characters
     description: Curieux et enthousiaste, j'ai toujours apprecie le contact de mes doigts sur un clavier. Cliquez le bouton pour visiter mon profil OpenClassrooms.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -50,13 +49,13 @@ projects:
     link: https://openclassrooms.com/membres/ottakar-44550
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
-  - title: Integrez la communaute
+    -title: Integrez la communaute
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: ottakar/projet_2.png
     link: https://github.com/freezed/alumnis
     finished: true
-  - title: Aidez Macgyver a sortir
-    description: [TODO] Creation d’un jeu developpe en Python et utilisant PyGame.
+    -title: Aidez Macgyver a sortir
+    description: (todo) Creation d’un jeu developpe en Python et utilisant PyGame.
     image: ottakar/projet_3.png
     link: https://openclassrooms.com/projects/aidez-macgyver-a-sechapper
     finished: false
