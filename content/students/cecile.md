@@ -12,13 +12,13 @@ date: 2017-12-01 10:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Learn dev languages, starting with Python, the same way I did English and become a code writer by day and a fiction writer/editor by night.
+objective: Learn dev languages, starting with Python, and become a code writer by day and a fiction writer by night.
 short_description: I'm learning to code to change my life the way I need it to be so I can do more of what I love.
 
 # don't touch that
 template: students
 description:
-    I am a freelance writer, editor, and audiobook narrator.
+    I am a freelance fiction writer, editor, and audiobook narrator.
     I write because I love it and to contribute a message of social justice
     and better representation of minorities in media.
     I'm learning to code because I enjoy the intellectual challenge of developing
