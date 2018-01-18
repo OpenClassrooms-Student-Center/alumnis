@@ -29,8 +29,8 @@ description:
 # name should be the same as this file. Eg: celinemartinet.png
 image: cecile.JPG
 
-# Change this to True when you do your pull request.
-public: False
+# Change this to True when you do you pull request.
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
