@@ -33,7 +33,7 @@ image: thomas26.jpg
 public: True
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentation
+  - title: thomas26
     # max 100 characters
     description: Etudiant OpenClassrooms motivé et aux descriptions redondantes ! Voici donc mon linkedin :  https://github.com/Vyslon.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -51,5 +51,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: true
 ---
