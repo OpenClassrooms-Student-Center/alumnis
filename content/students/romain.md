@@ -42,7 +42,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: romain/romainprojet2.png
     link: https://github.com/mclouu/alumnis
-    finished: false
+    finished: true
   - title: Mémorisez votre humeur du jour
     description: Création d’une application qui permet de notez votre humeur dans l’application.
     image: romain/romainprojetNT.png
