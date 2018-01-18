@@ -17,8 +17,7 @@ short_description: parcours iOS
 # don't touch that
 template: students
 description:
-    je suis inscrit au parcours iOS dans le cadre d'un CIF-CDI.
-		je fais aussi de la musique électro-acoustique et noise.
+    je suis inscrit au parcours iOS dans le cadre d'un CIF-CDI. je fais aussi de la musique électro-acoustique et noise.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: morganOC.jpg
