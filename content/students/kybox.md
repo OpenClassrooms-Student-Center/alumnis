@@ -25,9 +25,7 @@ date: 1983-05-19 00:00
 
 objective: Apprendre toujours plus
 
-short_description: K(a /\ b) > K(a) /\ K(b)
-    "La connaissance unie sera toujours supérieure à la connaissance individuelle."
-
+short_description: En formation sur le parcours développeur d'application Java
 
 # don't touch that
 
