@@ -25,7 +25,7 @@ date: 1988-04-07
 
 objective: Me lancer professionellement.
 
-short-description: Ayant des bases en informatique je souhaite me parfaire.
+short_description: Ayant des bases en informatique je souhaite me parfaire.
 
 
 # don't touch that
