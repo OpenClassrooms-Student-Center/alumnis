@@ -2,11 +2,8 @@
 
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-
 # Example: https://openclassrooms.com/membres/gaetanshin
-
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
-
 # lowercase, no blank space, Capital case or special character.
 
 title: GaetanB
@@ -15,30 +12,25 @@ title: GaetanB
 # First name or full name
 
 name: Babulle Gaetan
-
 date: 2018-01-11 03:40
 
 
 # One line.
-
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
 objective: Me lancer professionnellement dans l'informatique.
-
 short_description: Ayant des bases en informatique et algorithmie je souhaite percer dans le sujet et acquerir de solide connaissance.
 
 
 # don't touch that
 
 template: students
-
 description:
 
     Au chomage je profite de ce temps imparti pour réaliser cette formation.
 
 
 # image must be located in content/images/students
-
 # name should be the same as this file. Eg: celinemartinet.png
 
 image: gaetanB.jpg
@@ -77,7 +69,7 @@ projects:
 
     image: GaetanB/Projet2.png
 
-    link: https://github.com/Shiningbull
+    link: https://github.com/Shiningbull/alumnis
 
     finished: true
 
