@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: gaetanb
+title: GaetanB
 
 
 # First name or full name
@@ -46,7 +46,7 @@ image: gaetanB.jpg
 
 # Change this to True when you do you pull request.
 
-public: True
+public: true
 
 
 # You need to keep the exact same structure for each new project.
