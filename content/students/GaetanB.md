@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: GaetanB
+title: gaetanb
 
 
 # First name or full name
