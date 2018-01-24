@@ -12,7 +12,7 @@ date: 2018-01-24 18:44
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Être diplomé pour pouvoir vivre de ma passion.
+objective: Être diplomé pour pouvoir vivre de ma passion. 
 
 # don't touch that
 template: students
