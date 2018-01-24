@@ -33,8 +33,7 @@ short_description: La Cuisine, les Animaux, l’Informatique et la Nature sont d
 template: students
 
 description:
-
-J’aimerais être capable de développer des applications en Swift
+    J’aimerais être capable de développer des applications en Swift
 pour réaliser des projets tant professionnels que personnels.
 J’aimerais également apprendre à écrire du code propre.
 
