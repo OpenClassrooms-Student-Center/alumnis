@@ -7,7 +7,7 @@
 title: dylan
 
 # First name or full name
-name: Dylan
+name: dylan
 date: 2018-01-24 18:44
 
 # One line.
