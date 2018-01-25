@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: david
 
 
 # First name or full name
 
-name: Ratus
+name: David
 
-date: 2016-10-28 17:20
+date: 2018-01-20 15:24
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Apprendre python pour la programmation l'analyse. 
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime le sport, la danse et par dessous tout l'informatique. Hâte d'avoir des projets arduino :) 
 
 
 # don't touch that
@@ -34,17 +34,10 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    
+    Après un an de DUT GEII et un an de DUT R&T inachevés, je me tourne vers ma passion qu'est le dévelloppement pour en faire mon métier.
+    Après mes études en économie gestion, j'ai décidé de me lancer dans l'informatique parce qu'il n'est jamais trop tard !
+    Je complèterai ainsi ma formation d'analyse économique et statistique avec python en plus de R. 
 
 
 # image must be located in content/images/students
