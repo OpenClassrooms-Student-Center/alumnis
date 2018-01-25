@@ -29,7 +29,7 @@ description:
 image: gregory.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -46,6 +46,8 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: gregory/projet_2.png
     link: https://github.com/Neoscris/alumnis/blob/gregory/content/images/students/gregory/projet_2.png
+    image: gregory/pull_request
+    link: https://github.com/Neoscris/alumnis/blob/gregory/content/images/students/gregory/pull_request.png
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
