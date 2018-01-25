@@ -35,7 +35,7 @@ template: students
 description:
 
     
-    Après un an de DUT GEII et un an de DUT R&T inachevés, je me tourne vers ma passion qu'est le dévelloppement pour en faire mon métier.
+    
     Après mes études en économie gestion, j'ai décidé de me lancer dans l'informatique parce qu'il n'est jamais trop tard !
     Je complèterai ainsi ma formation d'analyse économique et statistique avec python en plus de R. 
 
@@ -44,12 +44,12 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: david28.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -64,9 +64,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: david28/projet1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/david-vanmak-72a303ba/
 
     # 'true' makes it fully available.
 
