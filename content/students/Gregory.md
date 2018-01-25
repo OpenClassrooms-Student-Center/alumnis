@@ -22,7 +22,7 @@ description:
     Je vis dans la région grenobloise, il y a plein d'activité à faire toute l'année. 
     J'aime le ski l'hiver, la randonnée en été et je peux passer aussi des heures derrière 
     un Pc pour apprendre ou cherche un problème de code ou autres.
-
+    J'ai grandi avec l'informatique et j'espère faire de ma passion mon métier.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -37,14 +37,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: gregory/projet_1.png
     link: www.linkedin.com/in/grégory-oltra-426b52157
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: gregory/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
