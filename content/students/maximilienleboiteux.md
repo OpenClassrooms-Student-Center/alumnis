@@ -44,15 +44,15 @@ projects:
     description: Je suis juriste en droit social et je veux devenir développeur java
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: maximilienleboiteux/mlb.jpg
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: project1.jpg
+    link: https://github.com/Toysurusse/alumnis
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: project2.png
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/459
     finished: true
 
 ---
