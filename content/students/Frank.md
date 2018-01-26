@@ -19,7 +19,7 @@ short_description: Je me présente, Frank, de Strasbourg.
 template: students
 description:
   Je me présente, je m'appelle Frank SERRA, 33 ans le mois prochain et je vis à Strasbourg.
-  Je viens d’intégrer le parcours Développeur d’application Java dans le cadre d’une reconversion professionnelle.
+  Je viens d'intégrer le parcours Développeur d'application Java dans le cadre d'une reconversion professionnelle.
   En effet, j'étais infirmier de bloc opératoire puis cadre de service, mais j'ai décidé de changer de voie.
   Du coup, je retourne à mes premiers amours: l'informatique et la programmation.
 
@@ -34,7 +34,7 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-meme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Frank/projet_1.png
