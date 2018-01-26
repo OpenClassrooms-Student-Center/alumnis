@@ -12,13 +12,13 @@ date: 24-01-18 10:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: objective: acquérir les bases du développement et me spécialiser dans le language Python
+objective: acquérir les bases du développement et me spécialiser dans le language Python
 short_description: En pleine réorientation professionnelle, je me lance de le developpement d'applis sous Python.
 
 # don't touch that
 template: students
 description: Ayant travaillé dans la relation clientèle pendant près de dix ans, il est temps pour moi de me réorienter dans un domaine qui me plait vraiment. 
-Gros changement, nouveau départ, gros chantier car le terrain est vide mais très motivé et bosseur!
+Gros changement, nouveau départ, gros chantier car le terrain est vide mais très motivé!
 
 
 
@@ -30,12 +30,13 @@ image: ali.jpg
 public: False
 
 # You need to keep the exact same structure for each new project.
-projects:  - title: Je m'appel Stan et j'aspire à devenir un expert de Python 
+projects:
+  - title: Je m'appel Stan et j'aspire à devenir un expert de Python 
     description: https://www.linkedin.com/in/stan-bruyere/.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ali/projet_1.png
-    link: 
+    link: https://www.linkedin.com/in/stan-bruyere/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
