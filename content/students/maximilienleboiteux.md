@@ -35,7 +35,7 @@ image: mlb.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 
@@ -44,7 +44,7 @@ projects:
     description: Je suis juriste en droit social et je veux devenir développeur java
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: project1.jpg
+    image: project1.png
     link: https://github.com/Toysurusse/alumnis
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
