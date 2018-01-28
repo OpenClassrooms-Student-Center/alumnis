@@ -13,7 +13,7 @@ date: 2018-01-27 16:20
 
 objective: Apprendre à coder pour en faire mon métier.
 
-short_description: Je suis un pur geek. Passionné de sciences, d'informatique et de jeu vidéo.
+short description: Je suis un pur geek. Passionné de sciences, d'informatique et de jeu vidéo.
 
 
 # don't touch that
@@ -59,7 +59,7 @@ projects:
     finished: false
 
     title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d'un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
