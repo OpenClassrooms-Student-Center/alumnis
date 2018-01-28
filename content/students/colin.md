@@ -46,19 +46,19 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+    title: Présentez-vous !
     description: Je m'appelle Colin, j'ai 26 ans. Je viens de commencer la formation python.
     image: colin/projet1.png
     link: https://www.linkedin.com/in/colin-brehier-181039157/
     finished: true
 
-  - title: Intégrez la communauté !
+    title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: colin/projet2.png
     link: https://github.com/KanardHeure/alumnis
     finished: false
 
-  - title: Aidez MacGyver à sortir !
+    title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
