@@ -11,7 +11,7 @@ date: 2018-01-27 16:20
 objective:
     Apprendre à coder pour en faire mon métier.
 
-short_description:
+shortdescription:
     Je suis un pur geek. Passionné de sciences, d'informatique et de jeu vidéo.
 
 
