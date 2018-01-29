@@ -1,6 +1,5 @@
 ---
 
-
 title: colin
 
 
@@ -9,10 +8,10 @@ date: 2018-01-27 16:20
 
 
 objective:
-    Apprendre à coder pour en faire mon métier.
+    Apprendre Ã  coder pour en faire mon mÃ©tier.
 
 shortdescription:
-    Je suis un pur geek. Passionné de sciences, d'informatique et de jeu vidéo.
+    Je suis un pur geek. PassionnÃ© de sciences, d'informatique et de jeu vidÃ©o.
 
 
 # don't touch that
@@ -42,20 +41,20 @@ public: True
 # You need to keep the exact same structure for each new project.
 
 projects:
-  - title: Présentez-vous !
+  - title: PrÃ©sentez-vous !
     description: Je m'appelle Colin, j'ai 26 ans. Je viens de commencer la formation python.
     image: colin/projet1.png
     link: https://www.linkedin.com/in/colin-brehier-181039157/
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: colin/projet2.png
     link: https://github.com/KanardHeure/alumnis
     finished: false
 
-  - title: Aidez MacGyver à sortir !
-    description: Création d'un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: CrÃ©ation d'un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
