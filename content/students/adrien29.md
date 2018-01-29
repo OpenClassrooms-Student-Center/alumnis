@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: adrien
+title: adrien29
 # First name or full name
 name: Adrien
 date: 2017-11-30 13:46
@@ -17,9 +17,7 @@ short_description: J'aime l'informatique, les jeux vidéos et les nouvelles tech
 # don't touch that
 template: students
 description:
-    J'ai 28 ans, je suis détenteur d'une licence pro métiers de l'informatique de l'université de limoges.
-	Je souhaite me spécialiser pour m'aider dans ma recherche de travail et c'est dans ce but que j'ai rejoins OpenClassroom.
-	Je suis actuellement sans emploi et souhaite utiliser les compértences que je vais aquérir ici pour y remédier.
+    J'ai 28 ans, je suis détenteur d'une licence pro métiers de l'informatique de l'université de limoges. Je souhaite me spécialiser pour m'aider dans ma recherche de travail et c'est dans ce but que j'ai rejoins OpenClassroom. Je suis actuellement sans emploi et souhaite utiliser les compértences que je vais aquérir ici pour y remédier.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
