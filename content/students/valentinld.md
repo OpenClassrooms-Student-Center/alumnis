@@ -13,10 +13,7 @@ template: students
 description:
     Passionné de sciences et technologies et après quelques années à faire mes armes dans le monde professionnel, je fais mon retour dans les études pour devenir développeur Python. Je souhaite aujourd'hui faire de mes passions les outils qui me permettront de gagner ma vie demain. Naturellement curieux, avide de connaissance et détestant la routine, je m'intéresse à tout et adore les défis. Je suis également un passionné de cuisine et de sport quand je ne suis pas devant mon ordi.
     
-
-# image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
-image: valentinld.png
+image: valentinld.jpg
 
 public: True
 
@@ -28,8 +25,8 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: valentinld/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: valentinld/Projet_2.png
+    link: https://github.com/valld27/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
