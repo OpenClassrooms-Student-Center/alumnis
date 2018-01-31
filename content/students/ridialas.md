@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: ridialas/projet2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ridialas.html
+    link: https://openclassrooms-student-center.github.io/alumnis//ridialas.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
