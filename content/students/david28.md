@@ -1,6 +1,5 @@
 ---
 
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -23,22 +22,20 @@ date: 2018-01-20 15:24
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Apprendre python pour la programmation l'analyse. 
+objective: Devenir developpeur full-stack python. 
 
-short_description: J'aime le sport, la danse et par dessous tout l'informatique. Hâte d'avoir des projets arduino :) 
+short_description: J'aime le sport, les danses latines et l'informatique. 
 
 
 # don't touch that
 
 template: students
 
-description:
-
-    
-    
+description: 
     Après mes études en économie gestion, j'ai décidé de me lancer dans l'informatique parce qu'il n'est jamais trop tard !
-    Je complèterai ainsi ma formation d'analyse économique et statistique avec python en plus de R. 
-
+    Je complèterai ainsi ma formation d'analyse économique et statistique avec python en plus de R. La communauté est très
+    important
+    
 
 # image must be located in content/images/students
 
@@ -78,9 +75,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: david28/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/Peuda
 
     finished: true
 
@@ -88,7 +85,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: david28/projet_3.png
 
     link: https://www.github.com
 
