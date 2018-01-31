@@ -8,12 +8,12 @@ title: Dylan
 
 # First name or full name
 name: Dylan
-date: 2018-01-17 15:03
+date: 2018-01-31 16:24
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective:
-short_description:
+objective: Être diplomé pour pouvoir vivre de ma passion.
+short_description: La Cuisine, les Animaux, l'Informatique et la Nature sont des sujets que j'aime beaucoup.
 
 # don't touch that
 template: students
@@ -27,7 +27,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: dylan.jpg
+image: dylan.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description:
+    description: Une présentation de moi-même et un lien vers mon LinkedIn
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: dylan/projet_1.png
@@ -48,5 +48,10 @@ projects:
     image: dylan/projet_2.png
     link: https://github.com/
     finished: true
-	
+    - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
+
 ---
