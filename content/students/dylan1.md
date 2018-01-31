@@ -7,13 +7,9 @@ date: 2018-01-31 17:00
 
 objective: Changer de métier.
 short_description: J'aimerai devenir developpeur iOS pour changer de métier.
-
 template: students
 description:
-Je me tourne vers ma passion qu'est le dévelloppement pour en faire mon métier.
-
 image: dylan.png
-
 public: True
 
 projects:
