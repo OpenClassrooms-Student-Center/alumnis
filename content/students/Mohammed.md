@@ -12,14 +12,14 @@ date: 2018-01- 23:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir developpeur Java et créer plein d'applications intéressantes. 
-short_description: Aprés la finance et la paie, place à la programmation... et pourquoi pas avec Java !!
+objective: Devenir developpeur Java et crÃ©er plein d'applications intÃ©ressantes. 
+short_description: AprÃ©s la finance et la paie, place Ã  la programmation... et pourquoi pas avec Java !!
 
 # don't touch that
 template: students
 description:
-     J'ai 44 ans et je suis ingénieur d'application et passionné par l'informatique.
-    j'ai choisi cette formation pour pouvoir créer es applications en lien avec
+     J'ai 44 ans et je suis ingÃ©nieur d'application et passionnÃ© par l'informatique.
+    j'ai choisi cette formation pour pouvoir crÃ©er des applications en lien avec
     mon travail... ou pas.  
     
 
@@ -32,8 +32,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: PrÃ©sentez-vous !
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Mohammed/Projet1.png
@@ -41,14 +41,9 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Mohammed/projet2.png
     link: https://github.com/Simofaris
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
----
+  ---
