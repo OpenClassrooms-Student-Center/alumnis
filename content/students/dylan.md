@@ -12,7 +12,7 @@ date: 2018-01-17 15:03
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective:
+objective: Être diplomé pour pouvoir vivre de ma passion.
 short_description:
 
 # don't touch that
