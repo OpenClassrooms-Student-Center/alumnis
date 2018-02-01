@@ -13,7 +13,7 @@ date: 2018-01-17 15:03
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Être diplomé pour pouvoir vivre de ma passion.
-short_description:
+short_description: j'aime l'informatique, la cuisine, les jeux videos, la nature etc..
 
 # don't touch that
 template: students
@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description:
+    description: une presentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: dylan/projet_1.png
