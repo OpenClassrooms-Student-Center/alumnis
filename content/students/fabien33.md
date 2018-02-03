@@ -42,11 +42,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: fabien33/projet_2.png
-    link: https://github.com/Ronflonflon
+    link: https://github.com/Ronflonflon/alumnis
     finished: true
   - title: Mettez votre logique à l'épreuve
     description: Créer deux jeux de logique
     image: TODO
-    link: https://www.github.com/Ronflonflon
+    link: https://www.github.com/Ronflonflon/logique
     finished: false
 ---
