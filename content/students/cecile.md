@@ -27,7 +27,7 @@ description:
 image: cecile.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -44,7 +44,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: cecile/projet2.png
     link: https://github.com/cec28/alumnis
-    finished: false
+    finished: true
   - title: Mémorisez votre humeur du jour
     description: Développement d'une application android "MoodTracker".
     image: cecile/projet3.png
