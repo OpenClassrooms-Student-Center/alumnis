@@ -8,7 +8,7 @@ title: mohammedmorchikh
 
 # First name or full name
 name: Mohammed
-date: 2018-01- 23:35
+date: 2018-02-01 23:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -46,4 +46,5 @@ projects:
     image: mohammedmorchikh/projet2.png
     link: https://github.com/Simofaris
     finished: true
-  ---
+	
+---
