@@ -8,7 +8,7 @@ title: mohammedmorchikh
 
 # First name or full name
 name: Mohammed
-date: 2018-01- 23:35
+date: 2018-02-01 23:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,7 +18,7 @@ short_description: Aprés la finance et la paie, place à la programmation... et
 # don't touch that
 template: students
 description:
-     J'ai 44 ans et je suis ingénieur d'application et passionné par l'informatique.
+     J'ai 44 ans, je suis ingénieur d'application et passionné par l'informatique.
     j'ai choisi cette formation pour pouvoir créer des applications en lien avec
     mon travail... ou pas.  
     
@@ -46,4 +46,5 @@ projects:
     image: mohammedmorchikh/projet2.png
     link: https://github.com/Simofaris
     finished: true
-  ---
+	
+---
