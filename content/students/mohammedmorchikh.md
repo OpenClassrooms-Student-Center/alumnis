@@ -18,7 +18,7 @@ short_description: Aprés la finance et la paie, place à la programmation... et
 # don't touch that
 template: students
 description:
-     J'ai 44 ans et je suis ingénieur d'application et passionné par l'informatique.
+     J'ai 44 ans, je suis ingénieur d'application et passionné par l'informatique.
     j'ai choisi cette formation pour pouvoir créer des applications en lien avec
     mon travail... ou pas.  
     
