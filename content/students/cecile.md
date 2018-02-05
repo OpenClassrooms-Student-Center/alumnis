@@ -18,7 +18,7 @@ short_description: Le code... Tombée dedans quand j'étais petite (BASIC / ATAR
 # don't touch that
 template: students
 description:
-    Après avoir travaillé en gestion de projet informatique (côté fonctionnel), j'ai envie de retourner à mes premiers amours : Le code !
+    Après avoir travaillé en gestion de projet informatique (côté fonctionnel), j'ai envie de retourner à mes premiers amours - Le code !
     J'ai codé pour la 1ere fois en Basic.... puis j'ai appris les bases du C et C++ à la fac, me suis amusée avec VBA au travail...
     Maintenant j'ai envie de faire du vrai developpement !
 
