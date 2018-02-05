@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Gaelle
+title: gaelle
 
 # First name or full name
 name: Gaelle Lefeuvre
@@ -18,14 +18,14 @@ short_description: J'aime la lecture, les animaux et tout ce qui a un rapport av
 # don't touch that
 template: students
 description:
-    Je suis infirmière depuis maintenant 16 ans mais je souhaite maintenant changer totalement de voie et faire un métier dans le monde de l'informatique. j'adore créer, je suis plus que curieuse de savoir et comprendre comment une application se créer et fonctionne. Et j'adore le monde d'Apple. Donc me voici pour tenter de devenir développeuse d'applications IOS.
+   Je suis infirmière depuis maintenant 16 ans mais je souhaite maintenant changer totalement de voie et faire un métier dans le monde de l'informatique. j'adore créer, je suis plus que curieuse de savoir et comprendre comment une application se créer et fonctionne. Et j'adore le monde d'Apple. Donc me voici pour tenter de devenir développeuse d'applications IOS.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: gaellemini.jpg
+image: gaelle.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: rprojet1.png
+    image: projet1.png
     link: www.linkedin.com/in/gaellelefeuvre
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
