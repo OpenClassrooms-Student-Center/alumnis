@@ -4,26 +4,28 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: mohamed
+title: mohammedmorchikh
 
 # First name or full name
-name: Mohamed
-date: 2018-01-25 23:20
+name: Mohammed
+date: 2018-02-01 23:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Acquerir des nouvelles compétences en JAVA/J2EE.
-short-description: Remettre à niveau mes connaissances en développement Web.
+objective: Devenir developpeur Java et créer plein d'applications intéressantes. 
+short_description: Aprés la finance et la paie, place à la programmation... et pourquoi pas avec Java !!
 
 # don't touch that
 template: students
-description: >
-    Je souhaiterais reprendre les arguments et les nouvautés de JAVA8, monter en competence en Back-end: J2EE, Struts2,Spring, Hibernate, WebService.
+description:
+     J'ai 44 ans, je suis ingénieur d'application et passionné par l'informatique.
+    j'ai choisi cette formation pour pouvoir créer des applications en lien avec
+    mon travail... ou pas.  
+    
 
-
-    # image must be located in content/images/students
+# image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: mohamed.jpg
+image: mohammedmorchikh.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -34,15 +36,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Mohamed/projet_1.PNG
-    link: https://drive.google.com/open?id=0B1LjRB0nbObeNWx5OENGSVkxRjA
+    image: mohammedmorchikh/Projet1.png
+    link: www.linkedin.com/in/mohammed-morchikh-663b29156
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: Mohamed/projet_2.PNG
-    link: https://github.com/MohamedElkarhat/alumnis
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: mohammedmorchikh/projet2.png
+    link: https://github.com/Simofaris
     finished: true
-
+	
 ---
