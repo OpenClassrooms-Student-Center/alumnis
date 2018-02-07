@@ -36,7 +36,7 @@ projects:
     link: https://www.linkedin.com/in/constance-louise-gauriau-11a040117?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3BF9pYcdRkeg5I0NEV%2BLiA%3D%3Dl
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: Falsee
+    finished: False
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
