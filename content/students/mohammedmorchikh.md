@@ -1,4 +1,4 @@
----
+﻿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -37,13 +37,13 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: mohammedmorchikh/Projet1.png
-    link: www.linkedin.com/in/mohammed-morchikh-663b29156
+    link: https://www.linkedin.com/in/mohammed-morchikh-663b29156
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: mohammedmorchikh/projet2.png
+    image: mohammedmorchikh/Projet2.png
     link: https://github.com/Simofaris
     finished: true
 	
