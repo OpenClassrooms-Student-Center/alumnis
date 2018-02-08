@@ -17,7 +17,7 @@ objective: Apprendre un métier, devenir indépendante et pouvoir travailler d'u
 # don't touch that
 template: students
 description:
-    Je m'appelle Constance et j'ai 23 ans. J'ai touché une ligne de code pour la première fois à 13 ans et j'ai tout de suite adoré ça. Je suis la formation python sur OpenClassrooms.
+    Je m'appelle Constance et j'ai 23 ans. J'ai touché une ligne de code pour la première fois à 13 ans et j'ai tout de suite adoré ça. Je suis la formation python sur OpenClassrooms et j'adore ça.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
