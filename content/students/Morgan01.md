@@ -38,12 +38,12 @@ projects:
     link: https://www.linkedin.com/in/morgan-pichat-a34a30158/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Projet 2 Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Morgan01/projet_2.png
     link:
-    finished: false
+    finished: true
   - title: Projet 3 Mettez votre logique à l'épreuve
     description: Créer une application proposant des jeux de logique.
     image:
