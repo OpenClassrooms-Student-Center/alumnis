@@ -72,7 +72,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: projet_1.ng
+    image: sebastien92/projet_1.ng
 
     link: https://www.linkedin.com/in/s%C3%A9bastien-lesouef-68075524/
 
@@ -86,7 +86,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: projet_2.png
+    image: sebastien92/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/alumnis/students/sebastien92.html
 
@@ -96,7 +96,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: projet_3.png
+    image: sebastien92/projet_3.png
 
     link: https://github.com/slesouef/EscapeGame
 
