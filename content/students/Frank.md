@@ -21,7 +21,7 @@ description:
   Je me présente, je m'appelle Frank SERRA, 33 ans le mois prochain et je vis à Strasbourg.
   Je viens d'intégrer le parcours Développeur d'application Java dans le cadre d'une reconversion professionnelle.
   En effet, j'étais infirmier de bloc opératoire puis cadre de service, mais j'ai décidé de changer de voie.
-  Du coup, je retourne à mes premiers amours, l'informatique et la programmation.
+  Du coup, je retourne à mes premiers amours, l'informatique et la programmation. 
 
 
 # image must be located in content/images/students
