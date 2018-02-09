@@ -72,7 +72,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: sebastien92/projet_1.ng
+    image: sebastien92/projet_1.png
 
     link: https://www.linkedin.com/in/s%C3%A9bastien-lesouef-68075524/
 
