@@ -13,7 +13,7 @@ title: https://openclassrooms.com/membres/sigalaremitita
 
 # First name or full name
 
-name: Siala Remi TITA
+name: siala1
 
 date: 2018-02-02 02:50
 
@@ -51,53 +51,52 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: sigala1.jpg
+image: content/images/students/sigala_3.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: true
 
 
 # You need to keep the exact same structure for each new project.
 
 projects: devenir un develeppeur java
 
-  - title: Sigala
+  - title: sigala1
 
-    description: https://www.linkedin.com/in/sigala-remi-tita-8a952bb9/
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    description: repositoir pour mes photo
+    # Create a new repository for y
+    our images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: sigala2/projet_1.jpg
+    image: content/students/sigala1/sigala_3.jpg
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
-
+    link: https://github.com/sigalaremitita/alumnis
     # 'true' makes it fully available.
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: photo de mon githup !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: sigala2/projet_2.jpg
+    image: sigala1/projet_1.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-
+    link:  https://github.com/sigalaremitita/alumnis
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: photo de mon git pusll !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: sigala2/projet_3.jpg
+    image: sigala1/projet_2.jpg
 
-    link: https://www.github.com
-
+    link:https://github.com/sigalaremitita
+    
     finished: true
 
 ---
