@@ -13,7 +13,7 @@ date: 2018-02-06 21:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Changer de métier tout en réalisant mon rêve.
-short_description: J'aime le sport, la lecture, le cinéma et les séries. J'aime la domotique et le bricolage.
+short_description: Mickaël, 36 ans. J'aime le sport, la lecture, le cinéma et les séries, la domotique et le bricolage.
 
 # don't touch that
 template: students
@@ -21,9 +21,9 @@ description:
     Je m'appelle Mickaël. J'ai 36 ans et suis père de 2 enfants (des terreurs).
     Je suis cherbourgeois d'adoption (j'avoue j'ai pas eu le choix) depuis une
     dizaine d'année. J'aime la lecture (livres/mangas/bds), le cinéma, les séries
-    et les jeux vidéos (on dirait un cv de vieux geek :/). Je fais un peu de crossfit
+    et les jeux vidéos (on dirait un cv de vieux geek :/). Je fais un peu de sport
     quand on m'en laisse le temps et je bricole dans la maison. J'aime bien
-    cuisiner aussi, enfin surtout manger en fait. 
+    cuisiner aussi... enfin surtout manger en fait. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -38,7 +38,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: krysnn-15916/projet_1.jpg
+    image: krysnn-15916/projet_1.png
     link: https://www.linkedin.com/in/mickael-coz/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -46,7 +46,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: krysnn-15916/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/Kamika-ZE
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
