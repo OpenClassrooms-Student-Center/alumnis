@@ -56,7 +56,7 @@ image: content/images/students/sigala_3.jpg
 
 # Change this to True when you do you pull request.
 
-public: true
+public: false
 
 
 # You need to keep the exact same structure for each new project.
@@ -78,7 +78,7 @@ projects: devenir un develeppeur java
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: true
+    finished: false
 
   - title: photo de mon githup !
 
@@ -87,7 +87,7 @@ projects: devenir un develeppeur java
     image: sigala1/projet_1.jpg
 
     link:  https://github.com/sigalaremitita/alumnis
-    finished: true
+    finished: false
 
   - title: photo de mon git pusll !
 
@@ -97,6 +97,6 @@ projects: devenir un develeppeur java
 
     link:https://github.com/sigalaremitita
     
-    finished: true
+    finished: false
 
 ---
