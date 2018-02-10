@@ -70,7 +70,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: sigala2/projet_1.png
+    image: sigala2/projet_1.jpg
 
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
@@ -84,7 +84,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: sigala2/projet_2.png
+    image: sigala2/projet_2.jpg
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
@@ -94,7 +94,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: sigala2/projet_3.png
+    image: sigala2/projet_3.jpg
 
     link: https://www.github.com
 
