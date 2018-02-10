@@ -25,8 +25,7 @@ date: 2018-02-02 02:50
 objective: devenir devellopeur java
 
 short_description: 
-Mon  objectif au long terme c'est pour
-développer une nouveaux tallent qui me permuteras de trouver une travaille
+Mon  objectif au long terme c'est pourdévelopper une nouveaux tallent qui me permuteras de trouver une travaille
 
 
 # don't touch that
@@ -57,7 +56,7 @@ image: sigala1.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
