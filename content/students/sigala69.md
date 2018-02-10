@@ -56,14 +56,14 @@ image: sigala1.jpg
 
 # Change this to True when you do you pull request.
 
-public: True
+public: False
 
 
 # You need to keep the exact same structure for each new project.
 
-projects:
+projects: devenir un develeppeur java
 
-  - title: Sigala remi TITA 
+  - title: Sigala
 
     description: https://www.linkedin.com/in/sigala-remi-tita-8a952bb9/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
