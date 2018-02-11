@@ -9,14 +9,14 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Sigala
 
 
 # First name or full 
 
 name: Sigala remi TITA
 
-date: 2018-11-02 17:20
+date: 2018-11-02 18:20
 
 
 # One line.
@@ -63,7 +63,7 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Sigala !
 
     description: https://www.linkedin.com/in/sigala-remi-tita-8a952bb9/
 
@@ -93,7 +93,7 @@ projects:
 
   - title: Git pull !
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: comment fait une git pull.
 
     image: sigala_3/projet_2.jpg
 
