@@ -87,11 +87,11 @@ projects:
 
     image: sigala1/projet_1.jpg
 
-    link: link: https://openclassrooms-student-center.github.io/presentation/students/sigala.html
+    link:  https://github.com/sigalaremitita/alumnis/blob/master/content/students/sigala69.md
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Git pull !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
@@ -99,6 +99,6 @@ projects:
 
     link: https://www.github.com
 
-    finished: false
+    finished: true
 
 ---
