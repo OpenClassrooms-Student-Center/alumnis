@@ -9,14 +9,14 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Présentation
 
 
 # First name or full name
 
-name: Ratus
+name: aurelia
 
-date: 2016-10-28 17:20
+date: 2018-02-15 13:20
 
 
 # One line.
@@ -34,24 +34,14 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    32 ans, humaine vivant dans le 41
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: photo_aurelia41.jpg
 
 
 # Change this to True when you do you pull request.
@@ -63,9 +53,9 @@ public: False
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Mes projets
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: https://www.linkedin.com/in/aur%C3%A9lia-brunet-671499b7/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -73,7 +63,7 @@ projects:
 
     image: photo_aurelia41.jpg
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: http://zupimages.net/viewer.php?id=18/07/nu3n.jpg
 
     # 'true' makes it fully available.
 
