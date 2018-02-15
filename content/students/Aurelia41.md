@@ -14,18 +14,20 @@ title: Présentation
 
 # First name or full name
 
-name: aurelia
+name: Aurelia
 
-date: 2018-02-15 13:20
+date: 2018-02-15 13:35
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Le premier : obtenir mon diplôme de dév Android.
+Le deuxième : Trouver un emploi pour utiliser tout ce potentiel !
+Le trois... Laissez-tomber, la liste est trop longue.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Il y a 10 types de personnes dans le monde : celles qui comprennent le binaire, et celles qui ne le comprennent pas.
 
 
 # don't touch that
@@ -34,7 +36,9 @@ template: students
 
 description:
 
-    32 ans, humaine vivant dans le 41
+    J'ai 32 ans, humaine vivant dans le 41 avec mari et maison et buveuse de thé hors pair.
+    Joueuse compulsive cyclique et touche à tout, je ne m'ennuie jamais !
+    Parce que chaque minute compte, welcome to my world.
 
 
 # image must be located in content/images/students
