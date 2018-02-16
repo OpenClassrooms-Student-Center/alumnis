@@ -64,7 +64,7 @@ image: nicolas_iguiniz.JPG
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 
@@ -83,7 +83,7 @@ picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: nicolas_iguiniz/projet_1.png
 
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
@@ -98,7 +98,7 @@ picture.
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de 
 Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: nicolas_iguiniz/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
@@ -108,7 +108,7 @@ Github et des pull requests.
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: nicolas_iguiniz/projet_3
 
     link: https://www.github.com
 
