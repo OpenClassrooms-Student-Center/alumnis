@@ -10,15 +10,15 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: nicolas_iguiniz
 
 
 
 # First name or full name
 
-name: Ratus
+name: L'1prestable
 
-date: 2016-10-28 17:20
+date: 2018-02-16 02:00
 
 
 
@@ -27,10 +27,10 @@ date: 2016-10-28 17:20
 # If you need more space, go to the next line and add 4 spaces on the left, as in 
 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Apprendre a developper en Python.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à 
-coder pour me faire une nouvelle jeunesse.
+short_description: J'adore le digitale, je suis un dingue de technologie. je suis impatien de 
+pouvoir developper en python.
 
 
 
@@ -58,7 +58,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: nicolas_iguiniz.JPG
 
 
 
@@ -74,7 +74,9 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Je suis actuellement 
+    chef d'une petite entreprise d'installation de materiel audiovisuel, 
+    vous pouvez me suivre sur linkedin ici:  https://www.linkedin.com/in/nicolas-iguiniz-a85385136.
 
     # Create a new repository for your images. Name it the same as your nickname and profile 
 picture.
