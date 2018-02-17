@@ -23,8 +23,7 @@ date: 2018-02-15 13:35
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: 
-    Le premier, obtenir mon diplôme de dév Android. Le deuxième, trouver un emploi pour utiliser tout ce potentiel ! Le trois... laissez-tomber, la liste est trop longue.
+objective: Le premier, obtenir mon diplôme de dév Android. Le deuxième, trouver un emploi pour utiliser tout ce potentiel ! Le trois... laissez-tomber, la liste est trop longue.
 short_description: Il y a 10 types de personnes dans le monde : celles qui comprennent le binaire, et celles qui ne le comprennent pas.
 
 
