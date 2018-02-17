@@ -43,8 +43,9 @@ projects:
     image: kaiqiang/projet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Mettez votre logique à l'épreuve
+    description: Création d’un jeu développé en Java, en mode console ou avec
+    Swing.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
