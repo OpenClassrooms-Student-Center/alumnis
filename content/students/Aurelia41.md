@@ -27,7 +27,6 @@ objective:
     Le premier, obtenir mon diplôme de dév Android.
     Le deuxième, Trouver un emploi pour utiliser tout ce potentiel !
     Le trois... Laissez-tomber, la liste est trop longue.
-
 short_description: Il y a 10 types de personnes dans le monde : celles qui comprennent le binaire, et celles qui ne le comprennent pas.
 
 
