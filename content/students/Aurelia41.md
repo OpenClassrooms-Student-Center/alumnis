@@ -23,9 +23,10 @@ date: 2018-02-15 13:35
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Le premier : obtenir mon diplôme de dév Android.
-Le deuxième : Trouver un emploi pour utiliser tout ce potentiel !
-Le trois... Laissez-tomber, la liste est trop longue.
+objective: 
+    Le premier : obtenir mon diplôme de dév Android.
+    Le deuxième : Trouver un emploi pour utiliser tout ce potentiel !
+    Le trois... Laissez-tomber, la liste est trop longue.
 
 short_description: Il y a 10 types de personnes dans le monde : celles qui comprennent le binaire, et celles qui ne le comprennent pas.
 
@@ -59,15 +60,15 @@ projects:
 
   - title: Mes projets
 
-    description: https://www.linkedin.com/in/aur%C3%A9lia-brunet-671499b7/
+    description: Mon profil linkedin pour mieux connaître mon parcours professionnel.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: photo_aurelia41.jpg
+    image: Aurelia41/linkedin.jpg
 
-    link: http://zupimages.net/viewer.php?id=18/07/nu3n.jpg
+    link: https://www.linkedin.com/in/aur%C3%A9lia-brunet-671499b7/
 
     # 'true' makes it fully available.
 
@@ -79,17 +80,17 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: Aurelia41/github.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/alumnis/students/Aurelia41.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Mémorisez votre humeur du jour
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d’une application avec Java.
 
-    image: ratus/projet_3.png
+    image: Aurelia41/humeur.jpg
 
     link: https://www.github.com
 
