@@ -12,7 +12,7 @@ date: 2018-02-15 13:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Obtenir mon diplôme de dév Android.
+objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 short_description: Il y a 10 types de personnes dans le monde : celles qui comprennent le binaire, et celles qui ne le comprennent pas.
 
 # don't touch that
