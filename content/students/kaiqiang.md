@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: kaiqiang/projet2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/kaiqiang.html
     finished: true
   - title: Mettez votre logique à l'épreuve
     description: Création d’un jeu développé en Java, en mode console ou avec
