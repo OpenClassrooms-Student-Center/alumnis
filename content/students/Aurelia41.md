@@ -75,7 +75,7 @@ projects:
 
     image: Aurelia41/github.jpg
 
-    link: https://openclassrooms-student-center.github.io/alumnis/students/Aurelia41.html
+    link: https://github.com/lilidemon/alumnis
 
     finished: true
 
