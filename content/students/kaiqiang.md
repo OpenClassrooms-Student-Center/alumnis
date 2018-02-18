@@ -41,12 +41,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: kaiqiang/projet2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/kaiqiang.html
+    link: https://openclassrooms-student-center.github.io/alumnis/students/kaiqiang.html
     finished: true
   - title: Mettez votre logique à l'épreuve
-    description: Création d’un jeu développé en Java, en mode console ou avec
-    Swing.
+    description: Création d’un jeu développé en Java, en mode console ou avec Swing.
     image:
     link: https://www.github.com
-    finished: false
+    finished: true
 ---
