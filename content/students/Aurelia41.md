@@ -20,9 +20,7 @@ date: 2018-02-15 13:35
 
 
 # One line.
-
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-
 objective: Obtenir mon diplôme de dév Android.
 short_description: Il y a 10 types de personnes dans le monde : celles qui comprennent le binaire, et celles qui ne le comprennent pas.
 
@@ -32,7 +30,6 @@ short_description: Il y a 10 types de personnes dans le monde : celles qui compr
 template: students
 
 description:
-
     J'ai 32 ans, humaine vivant dans le 41 avec mari et maison et buveuse de thé hors pair.
     Joueuse compulsive cyclique et touche à tout, je ne m'ennuie jamais !
     Parce que chaque minute compte, welcome to my world.
