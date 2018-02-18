@@ -46,7 +46,7 @@ projects:
   - title: Mettez votre logique à l'épreuve
     description: Création d’un jeu développé en Java, en mode console ou avec
     Swing.
-    image: ratus/projet_3.png
+    image:
     link: https://www.github.com
     finished: false
 ---
