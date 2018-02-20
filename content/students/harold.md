@@ -15,7 +15,7 @@ short_description: J'aime le sport. la lecture, l'informatique et l'histoire du 
 # don't touch that
 template: students
 description:
-    Après un BTS électroctechnique j'ai travaillé plus 5 ans tant que techncien en télécommunication chez tous les opérateur. Suite à ma première exérience chez Bouygues Télécom une passion pour l'informatique est né. Je tourne aujourd'hui vers ma passion pour en faire mon métier.
+Après un BTS électroctechnique j'ai travaillé plus 5 ans tant que technicien en télécommunication chez tous les opérateurs. Suite à ma première exérience chez Bouygues Télécom une passion pour l'informatique est né. Je me tourne aujourd'huivers ma passion pour en faire mon métier.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: harold.jpg
