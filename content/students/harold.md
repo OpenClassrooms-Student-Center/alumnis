@@ -5,28 +5,22 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: ratus
-
 # First name or full name
 name: harold
 date: 2018-01-24
-
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur d'application mobile.
 short_description: J'aime le sport. la lecture, l'informatique et l'histoire du monde arabe. 
-
 # don't touch that
 template: students
 description:
     Après un BTS électroctechnique j'ai travaillé plus 5 ans tant que techncien en télécommunication chez tous les opérateur. Suite à ma première exérience chez Bouygues Télécom une passion pour l'informatique est né. Je tourne aujourd'hui vers ma passion pour en faire mon métier.
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: harold.jpg
-
 # Change this to True when you do you pull request.
 public: True
-
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
