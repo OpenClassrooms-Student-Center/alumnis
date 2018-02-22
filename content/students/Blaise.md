@@ -33,7 +33,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description:  https://www.linkedin.com/in/nicolassarkozy/?ppe=1
+    description:  https://www.linkedin.com/in/williamhgates/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Blaise/projet_1.png
