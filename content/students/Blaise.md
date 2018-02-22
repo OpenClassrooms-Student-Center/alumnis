@@ -21,14 +21,9 @@ description:
   On est jeunes et ambitieux
 Parfois vicieux
 Faut qu'tu te dises que
-Tu peux être le prince de la ville si tu veux (si tu veux)
-Où tu veux (où tu veux) quand tu veux (quand tu veux)
-Ambitieux parfois vicieux
-Faut qu'tu te dises que
-Tu peux être le prince de la ville si tu veux (si tu veux)
-Où tu veux (où tu veux) quand tu veux (c'est quand tu veux)
-  
+Tu peux être le prince de la ville si tu veux ,si tu veux
 
+ 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: image.jpg
