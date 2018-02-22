@@ -1,10 +1,10 @@
 ---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
+# FILENAME : 
+# Example: 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: Blaise
 
 # First name or full name
 name: Blaise
@@ -18,7 +18,7 @@ short_description: J'apprends à coder pour Conquérir le monde.
 # don't touch that
 template: students
 description:
-On est jeunes et ambitieux
+  On est jeunes et ambitieux
 Parfois vicieux
 Faut qu'tu te dises que
 Tu peux être le prince de la ville si tu veux (si tu veux)
@@ -27,6 +27,7 @@ Ambitieux parfois vicieux
 Faut qu'tu te dises que
 Tu peux être le prince de la ville si tu veux (si tu veux)
 Où tu veux (où tu veux) quand tu veux (c'est quand tu veux)
+  
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
