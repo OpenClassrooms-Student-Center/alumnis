@@ -7,12 +7,12 @@
 title: flavien
 
 # First name or full name
-name: Satiat Flavien
-date: 2018-02-12 19:20
+name: Flavien Satiat
+date: 2018-02-22 18:25
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur d'application IOS.
+objective: Devenir développeur d'application IOS
 short_description: Je suis passioné de nouvelle technologie et de sport. Et surtout de DEV !
 
 # don't touch that
@@ -34,11 +34,11 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Coucou c'est moi !
-    description: Bonjour à tous, je suis Flavien et j'adore le developpement !
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: flavien/projet_1.jpg
+    image: flavien/projet_1.png
     link: www.linkedin.com/in/flavien-satiat-528778155
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -48,5 +48,9 @@ projects:
     image: flavien/projet_2.png
     link: https://github.com/SykSama/alumnis
     finished: true
-
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
