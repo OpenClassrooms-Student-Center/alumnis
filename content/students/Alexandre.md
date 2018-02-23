@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Alexandre
 
 
 # First name or full name
 
-name: Ratus
+name: Alexandre Bardiaux
 
-date: 2016-10-28 17:20
+date: 2018-02-23 10:20
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Devenir développeur de sites web et d'applications web.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Je suis passionné par le développement. Je suis curieux, autodidacte et autonome.
 
 
 # don't touch that
@@ -34,29 +34,29 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    J’adore affronter de nouveaux challenges et les surmonter.
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    J'ai une maîtrise Junior de plusieurs langages informatiques et Frameworks :
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    HTML5, CSS3, JavaScript, Bootstrap, jQuery, Python, Flask, Django, SQL et UML.
 
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    Je suis passionné par l’informatique et le numérique. Je suis aussi très curieux
 
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    des dernières avancées technologiques et scientifiques. J’adore voyager et
 
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    je pratique la plongée sous-marine depuis que j’ai 8 ans.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: Alexandre.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -71,9 +71,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: Alexandre/Projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/alexandre-bardiaux-2185b4104/
 
     # 'true' makes it fully available.
 
@@ -85,20 +85,11 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: Alexandre/Projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/Alexandre.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
-    link: https://www.github.com
-
-    finished: false
 
 ---
