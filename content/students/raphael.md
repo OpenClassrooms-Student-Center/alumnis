@@ -16,8 +16,6 @@ template: students
 description:
 Je cherche Ã me convertir professionnellement. Je suis actuellement concepteur de cuisine pour une grande enseigne, mais je préfére travailler sur mon ordinateur.
 
-# Rappel:image must be located in content/images/students
-
 image: raphael.jpg
 
 public: True
