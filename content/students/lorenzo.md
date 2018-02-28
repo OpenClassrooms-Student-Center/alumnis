@@ -32,15 +32,15 @@ projects:
   - title: lorenzo !
     description: Bonjour, je m'appelle Lorenzo j'ai 27 ans et je reprends la formation de développeur d'applications Python ici pour me reformer. j'étais bijoutier et je voulais changer car j'ai commencé jeune et ça ne me plaisait plus. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: lorenzo/lorenzo.jpg
+    # Image must be here: content/students/lorenzo/index.png
+    image: lorenzo.jpg
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image:lorenzo/pull_request2.gif 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
