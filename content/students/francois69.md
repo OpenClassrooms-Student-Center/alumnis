@@ -1,29 +1,28 @@
 ---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
+# FILENAME : https://openclassrooms.com/membres/lefort69
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: francois69
 
 # First name or full name
-name: Ratus
-date: 2016-10-28 17:20
+name: Francois
+date: 2018-03-01 16:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Compétiteur de Lasergame Mégazone en ordre d'attaque vers la baseFlag Développement Android. Piew. Piew.
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Compétiteur dans l’âme, je me suis toujours surpassé dans mes passions en me fixant
+    des objectifs ambitieux et en essayant de les atteindre. 
+    En reconversion professionnelle après 17 ans en tant que technicien qualité, je me
+    lance dans le développement android pour faire de mon nouveau métier ma prochaine passion.
+    Après la musique, puis le lasergame, … anonymous me voilà!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
