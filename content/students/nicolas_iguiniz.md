@@ -73,8 +73,8 @@ projects:
   - title: Présentez-vous !
 
     description:
-		Je suis actuellement chef d'une petite entreprise d'installation de materiel audiovisuel,
-		vous pouvez me suivre sur linkedin ici:  https://www.linkedin.com/in/nicolas-iguiniz-a85385136.
+    Je suis actuellement chef d'une petite entreprise d'installation de materiel audiovisuel,
+    vous pouvez me suivre sur linkedin ici:  https://www.linkedin.com/in/nicolas-iguiniz-a85385136.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
