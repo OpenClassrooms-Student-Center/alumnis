@@ -24,13 +24,11 @@ date: 2018-02-16 02:00
 
 # One line.
 
-# If you need more space, go to the next line and add 4 spaces on the left, as in 
-'description'.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
 objective: Apprendre a developper en Python.
 
-short_description: J'adore le digitale, je suis un dingue de technologie. je suis impatien de 
-pouvoir developper en python.
+short_description: J'adore le digitale, je suis un dingue de technologie. je suis impatien de pouvoir developper en python.
 
 
 
@@ -74,12 +72,11 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Je suis actuellement 
-    chef d'une petite entreprise d'installation de materiel audiovisuel, 
-    vous pouvez me suivre sur linkedin ici:  https://www.linkedin.com/in/nicolas-iguiniz-a85385136.
+    description:
+		Je suis actuellement chef d'une petite entreprise d'installation de materiel audiovisuel,
+		vous pouvez me suivre sur linkedin ici:  https://www.linkedin.com/in/nicolas-iguiniz-a85385136.
 
-    # Create a new repository for your images. Name it the same as your nickname and profile 
-picture.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
@@ -95,8 +92,7 @@ picture.
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de 
-Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
     image: nicolas_iguiniz/projet_2.png
 
