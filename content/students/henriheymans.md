@@ -1,0 +1,53 @@
+---
+
+# FILENAME : henriheymans
+# Example: https://openclassrooms.com/membres/celinemartinet
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
+title: henriheymans
+
+# First name or full name
+name: Henri
+date: 2018-03-02 17:10
+
+# One line.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+objective: Ouvrir une entreprise de développement web ! 
+short_description: J'aime les sorties, les nouvelles technologies, les animaux
+
+# don't touch that
+template: students
+description:
+    Je m'appelle Henri Heymans, j'ai 22 ans, j'ai commencé la programmation web il y a un peu moins d'un an
+    sur openclassrooms, j'ai ensuite fait une courte formation ou j'ai pu apprendre les bases de PHP5,
+    mySQL, JavaScript. Je me lance désormais dans l'apprentissage de python via un parcours Openclassrooms !
+
+# image must be located in content/images/students
+# name should be the same as this file. Eg: celinemartinet.png
+image: henriheymans.jpg
+
+# Change this to True when you do you pull request.
+public: True
+
+# You need to keep the exact same structure for each new project.
+projects:
+  - title: Présentez-vous !
+    description: Henri Heymans, jeune étudiant de 22 ans !
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/students/yourrepo/project1.png
+    image: henriheymans/projet_1.png
+    link: https://www.linkedin.com/in/henri-heymans-a4469b136/
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: ratus/projet_2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    finished: false
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
+---
