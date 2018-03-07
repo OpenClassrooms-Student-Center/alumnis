@@ -23,7 +23,7 @@ description: Je suis a la recherche d'un tremplin pour pouvoir Intégrer une éc
 image: aurelien29.jpg
 
 # Change this to True when you do you pull request.
-public : True
+public : False.
 
 # You need to keep the exact same structure for each new project.
 projects:
