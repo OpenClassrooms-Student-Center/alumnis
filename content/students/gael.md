@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: projet1.jpg
     link: www.linkedin.com/in/gaël-cheyrouse
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: projet2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+  - title: Mémorisez votre humeur du jour !
+    description: Création d’une application android qui permet de mémorisez votre humeur du jour.
+    image: projet3.jpg
     link: https://www.github.com
     finished: false
 ---
