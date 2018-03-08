@@ -1,0 +1,27 @@
+title	name	date	objective	short_description	template	description	image	public	projects
+Laurent
+Laurent Marro
+2018-08-03 16:00
+Devenir développeur d'Android de métier.
+Après 20 ans dans l'administration et 5 ans de technicien de maintenance informatique à mon compte 
+Je veux finir ma vie professionnelle en faisant un métier qui me plait.
+laurent30.png
+true
+title	description	image	link	finished
+Présentez-vous !
+Une présentation de moi-même et un lien vers mon LinkedIn.
+laurent30/Partie1.png
+https://www.linkedin.com/in/laurent-marro-74b686152/
+true
+title	description	image	link	finished
+Intégrez la communauté !
+Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+laurent30/Partie2.png
+https://github.com/laurent30/alumnis
+true
+title	description	image	link	finished
+Aidez MacGyver à sortir !
+Création d’un jeu développé en Python et utilisant PyGame.
+ratus/projet_3.png
+https://www.github.com
+false
