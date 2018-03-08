@@ -1,7 +1,8 @@
+---
 title	name	date	objective	short_description	template	description	image	public	projects
 Laurent
 Laurent Marro
-2018-08-03 16:00
+2018-08-03 13:16
 Devenir développeur d'Android de métier.
 Après 20 ans dans l'administration et 5 ans de technicien de maintenance informatique à mon compte 
 Je veux finir ma vie professionnelle en faisant un métier qui me plait.
@@ -25,3 +26,4 @@ Création d’un jeu développé en Python et utilisant PyGame.
 ratus/projet_3.png
 https://www.github.com
 false
+---
