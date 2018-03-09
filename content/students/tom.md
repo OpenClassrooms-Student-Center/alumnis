@@ -53,4 +53,20 @@ projects:
     image: tom/projet_3.png
     link: https://github.com/tomlemeuch/macgyver
     finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Réalisez les spécifications fonctionnelles pour la mise en place d'un système de gestion de commande de pizza pour la société OC Pizza.
+    image: tom/projet_4.png
+    link: 
+    finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+    description: Réalisez un programme qui interagit avec la base Open Food Facts pour en récupérer les aliments, les comparer et proposer à l'utilisateur un substitut plus sain à l'aliment.
+    image: tom/projet_5.png
+    link: https://github.com/tomlemeuch/pur_beurre
+    finished: true
+   - title: Concevez la solution technique d’un système de gestion de pizzeria
+    description: Réalisez les spécifications techniques pour la mise en place d'un système de gestion de commande de pizza pour la société OC Pizza..
+    image: tom/projet_6.png
+    link: 
+    finished: true
+    
 ---
