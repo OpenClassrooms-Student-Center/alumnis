@@ -40,7 +40,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: jeanfrancois/projet_1.png
-    link: www.linkedin.com/in/jean-françois-subrini-1296a7149
+    link: https://www.linkedin.com/in/jean-françois-subrini-1296a7149
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -51,7 +51,17 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image:
-    link:
-    finished: false
+    image: jeanfrancois/projet_3.png
+    link: https://github.com/jfsubrini/project3_mmg
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Création d’un dossier de spécifications fonctionnelles.
+    image: jeanfrancois/projet_4.png
+    link: ""
+    finished: true
+  - title: Utilisez les données publiques de L'OpenFoodFacts
+    description: Réaliser un programme qui propose pour un aliment donné un autre de substitution grâce aux données de l'Open Food Facts.
+    image: jeanfrancois/projet_5.png
+    link: https://github.com/jfsubrini/project5_off_converter
+    finished: true
 ---
