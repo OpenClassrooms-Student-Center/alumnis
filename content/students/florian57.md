@@ -19,7 +19,7 @@ short_description: J'aime composer de la musique, jouer du piano et de la guitar
 template: students
 description:
     Le développement informatique quelle que soit le langage utilisé, est un loisir dont j'ai toujours voulu en faire mon métier. Aujourd'hui grâce à openclassroms je vais peut être 
-    pouvoir enfin réaliser mon souhait. Ma deuxième passion est la musique. Vous pouvez retrouver mes compositions sur ma chaîne Youtube; https://www.youtube.com/watch?v=T0cGrfoMmAQ
+    pouvoir enfin réaliser mon souhait. Ma deuxième passion est la musique. Vous pouvez retrouver mes compositions sur ma chaîne Youtube /watch?v=T0cGrfoMmAQ
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
