@@ -40,11 +40,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Marginie/Projet2
-    link:https://github.com/Marginy95
+    link: https://github.com/Marginy95
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
-    link: https://www.github.com
+    link:  https://www.github.com
     finished: false
 ---
