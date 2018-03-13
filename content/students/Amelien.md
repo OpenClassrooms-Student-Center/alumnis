@@ -26,10 +26,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: amelienboussard.png
+image: profil.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -37,19 +37,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: /content/images/students/Amelien/profil.jpg
+    image: Amelien/projet1.png
     link: https://www.linkedin.com/in/amelien-boussard/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: ratus/projet2.png
+    link: https://github.com/AmelienBOUSSARD
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    image: ratus/projet3.png
+    link: https://github.com/AmelienBOUSSARD
     finished: false
 ---
