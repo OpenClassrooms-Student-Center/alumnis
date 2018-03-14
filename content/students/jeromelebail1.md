@@ -13,7 +13,7 @@ date: 2018-10-03 10:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Réussir la formation.
-short_description: Je m'appelle Jérôme j'ai 24 ans, j'aime l'informatique et le badminton. 
+short_description: Je m'appelle Jerome j'ai 24 ans, j'aime l'informatique et le badminton. 
 
 # don't touch that
 template: students
