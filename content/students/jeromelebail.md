@@ -51,7 +51,7 @@ projects:
     finished: true
   - title: Mettez votre logique à l'épreuve
     description: Création d’un Mastermind en Java pour développer notre logique.
-    image: jeromelebail/projet3.png
+    image: jeromelebail/projet3.jpg
     link: https://github.com/JEROME0905/projet3
     finished: false
 ---
