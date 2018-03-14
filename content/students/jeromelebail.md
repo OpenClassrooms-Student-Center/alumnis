@@ -18,15 +18,17 @@ short_description: Je m'appelle, Jérôme j'ai 24 ans je suis ici pour avoir un 
 # don't touch that
 template: students
 description:
-    A la base je suis un technicien en électronique. Suite à une année de travail passée  dans la réparation de cartes 
-    électroniques je ne vois pas d’avenir professionnel dans ce domaine d’activité. C’est pour cela que je souhaite me 
-    réorienter dans l’informatique et plus précisément dans le développement. Mon objectif à court terme est de réussir
-    le parcours développeur d’application Java. Dans le long terme je souhaiterai devenir un expert dans la technologie 
+    A la base je suis un technicien en électronique. Suite à une année de travail
+    passée  dans la réparation de cartes électroniques je ne vois pas d’avenir
+    professionnel dans ce domaine d’activité. C’est pour cela que je souhaite me 
+    réorienter dans l’informatique et plus précisément dans le développement. 
+    Mon objectif à court terme est de réussir le parcours développeur d’application
+    Java. Dans le long terme je souhaiterai devenir un expert dans la technologie 
     Java EE.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: jeromelebail.jpg
+image: jeromelebail.png
 
 # Change this to True when you do you pull request.
 public: True
