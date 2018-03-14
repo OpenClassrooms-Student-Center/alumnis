@@ -7,7 +7,7 @@
 title: jeromelebail
 
 # First name or full name
-name: jérôme
+name: jerome
 date: 2018-10-03 10:30
 
 # One line.
