@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: jeromelebail-1
+title: jeromelebail1
 
 # First name or full name
 name: jerome
@@ -28,7 +28,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: jeromelebail-1.jpg
+image: jeromelebail1.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -39,19 +39,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: jeromelebail-1/projet1.png
+    image: jeromelebail1/projet1.png
     link: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-lebail-526b62ab/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: jeromelebail-1/projet2.png
+    image: jeromelebail1/projet2.png
     link: https://github.com/JEROME0905/alumnis
     finished: true
   - title: Mettez votre logique à l'épreuve
     description: Création d’un Mastermind en Java pour développer notre logique.
-    image: jeromelebail-1/projet3.jpg
+    image: jeromelebail1/projet3.jpg
     link: https://github.com/JEROME0905/projet3
     finished: false
 ---
