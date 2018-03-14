@@ -13,7 +13,7 @@ date: 2018-10-03 10:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Réussir la formation.
-short_description: Je m'appelle, Jérôme j'ai 24 ans je suis ici pour avoir un travail ou la routine ne s'installe pas. 
+short_description: Je m'appelle Jérôme j'ai 24 ans, j'aime l'informatique et le badminton. 
 
 # don't touch that
 template: students
@@ -28,7 +28,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: jeromelebail.png
+image: jeromelebail.jpg
 
 # Change this to True when you do you pull request.
 public: True
