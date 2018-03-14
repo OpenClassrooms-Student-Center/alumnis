@@ -13,7 +13,7 @@ date: 2018-10-03 10:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Réussir la formation.
-short_description: Je m'appelle Jerome j'ai 24 ans, j'aime l'informatique et le badminton. 
+short_description: Je m'appelle jerome j'ai 24 ans, j'aime l'informatique et le badminton. 
 
 # don't touch that
 template: students
@@ -23,8 +23,8 @@ description:
     professionnel dans ce domaine d’activité. C’est pour cela que je souhaite me 
     réorienter dans l’informatique et plus précisément dans le développement. 
     Mon objectif à court terme est de réussir le parcours développeur d’application
-    Java. Dans le long terme je souhaiterai devenir un expert dans la technologie 
-    Java EE.
+    java. Dans le long terme je souhaiterai devenir un expert dans la technologie 
+    java EE.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
