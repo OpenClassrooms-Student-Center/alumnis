@@ -31,8 +31,7 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Je suis Jean-François et j'intègre la communauté OpenClassRooms pour me former dans le développement d'applications IOS.
-Lien vers mon LinkedIn : https://www.linkedin.com/in/jean-françois-santolaria/
-
+    Lien vers mon LinkedIn : https://www.linkedin.com/in/jean-françois-santolaria/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/jeanfrancois13/projet_1.png
     image: jeanfrancois13/projet_1.png
@@ -45,5 +44,4 @@ Lien vers mon LinkedIn : https://www.linkedin.com/in/jean-françois-santolaria/
     image: jeanfrancois13/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/jeanfrancois13.html
     finished: true
-  
 ---
