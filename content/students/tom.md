@@ -63,7 +63,7 @@ projects:
     image: tom/projet_5.png
     link: https://github.com/tomlemeuch/pur_beurre
     finished: true
-   - title: Concevez la solution technique d’un système de gestion de pizzeria
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
     description: Réalisez les spécifications techniques pour la mise en place d'un système de gestion de commande de pizza pour la société OC Pizza..
     image: tom/projet_6.png
     link: 
