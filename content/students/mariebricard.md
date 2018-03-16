@@ -42,12 +42,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: mariebricard/projet_2.jp2
+    image: mariebricard/projet_2.png
     link: https://github.com/marielarry/alumnis
     finished: true
   - title: Aidez MacGyver à sortir, help !
     description: Cours pour la création de mon futur premier jeu vidéo avec swift !
-    image: mariebricard/projet_3.jp2
+    image: mariebricard/projet_3.png
     link: 
     finished: false
 ---
