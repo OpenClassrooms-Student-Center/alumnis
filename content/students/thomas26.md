@@ -35,7 +35,7 @@ public: True
 projects:
   - title: thomas26
     # max 100 characters
-    description: Etudiant OpenClassrooms motivé et aux descriptions redondantes ! Voici donc mon linkedin :  https://github.com/Vyslon.
+    description: Etudiant OpenClassrooms motivé et aux descriptions redondantes !.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: thomas26/projet_1.png
