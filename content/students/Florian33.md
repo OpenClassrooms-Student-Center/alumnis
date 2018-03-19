@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Bonjour je m’appelle Florian, j’ai 19 ans, j’habite en gironde sur le bassin d’Arcachon. J’aime bien faire du sport et je suis actuellement étudiant chez Openclassrooms dans le parcours Développeur d’application Android. Mon lien linkedin : https://www.linkedin.com/in/florian-breton-20858115b/
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
