@@ -44,9 +44,9 @@ projects:
     image: fabrice/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+  - title: Créer une application Pizzeria !
+    description: Création une application pour un pizzeria.
+    image: fabrice/projet_3.png
     link: https://www.github.com
     finished: false
 ---
