@@ -19,8 +19,8 @@ objective: Apprendre le Java ainsi que d'autres langage de programmation afin de
 template: students
 description:
     J'aime les voyages, le sport, la cuisine et la logique. C'est en partie pour ce
-    dernier point que j'ai décidé de me lancer dans la programmation. Avec
-    Openclassrooms j'espère pouvoir enfin me lancer vraiment dans la vie et faire ce
+    dernier point que j'ai décide de me lancer dans la programmation. Avec
+    Openclassrooms j'espere pouvoir enfin me lancer vraiment dans la vie et faire ce
     que j'aime
 
 # image must be located in content/images/students
@@ -33,7 +33,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Apprendre à apprendre
-    description: J'aime la difficulté, mais je préfère la facilité lien linkedin : www.linkedin.com/in/rémi-clavié/
+    description: J'aime la difficulte, mais je prefere la facilite lien linkedin: www.linkedin.com/in/remi-clavie/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: content/students/images/students/remi/projet_1.png
@@ -41,13 +41,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: Integrez la communaute !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: content/students/images/students/remi/projet_2.png
     link: https://openclassrooms.com/projects/integrez-la-communaute-openclassrooms
     finished: true
-  - title: Mettez votre logique à l'épreuve !
-    description: Créer un mastermind en Java !
+  - title: Mettez votre logique à l'epreuve !
+    description: Creer un mastermind en Java !
     image: ratus/projet_3.png
     link: https://openclassrooms.com/projects/mettez-votre-logique-a-l-epreuve
     finished: false
