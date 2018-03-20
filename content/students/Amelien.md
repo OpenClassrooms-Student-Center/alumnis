@@ -34,7 +34,7 @@ template: students
 
 description:
 
- A changer
+ Passionner par l'informatique depuis le plus jeune âge, j'aime coder et apprendre de nouvelles choses.
 
 
 
