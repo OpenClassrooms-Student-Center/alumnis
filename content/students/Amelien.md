@@ -34,17 +34,7 @@ template: students
 
 description:
 
- Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
- tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
- quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
- consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
- cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
- proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ A changer
 
 
 
@@ -68,40 +58,40 @@ projects:
 
  - title: Présentation
 
- description: Une présentation de moi-même et un lien vers mon LinkedIn.
+   description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
  # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
  # Image must be here: content/students/yourrepo/project1.png
 
- image: Amelien/projet1.png
+   image: Amelien/Projet1.png
 
- link: https://www.linkedin.com/in/amelien-boussard/
+   link: https://www.linkedin.com/in/amelien-boussard/
 
  # 'true' makes it fully available.
 
  # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
- finished: true
+   finished: true
 
  - title: Intégrez la communauté !
 
- description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+   description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
- image: Amelien/projet2.png
+   image: Amelien/Projet2.png
 
- link: https://github.com/AmelienBOUSSARD
+   link: https://github.com/AmelienBOUSSARD
 
- finished: true
+   finished: true
 
  - title: Aidez MacGyver à sortir !
 
- description: Création d’un jeu développé en Python et utilisant PyGame.
+   description: Création d’un jeu développé en Python et utilisant PyGame.
 
- image: Amelien/projet3.png
+   image: Amelien/Projet3.png
 
- link: https://github.com/AmelienBOUSSARD
+   link: https://github.com/AmelienBOUSSARD
 
- finished: false
+   finished: false
 
 ---
