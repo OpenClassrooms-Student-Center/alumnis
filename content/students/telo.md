@@ -42,12 +42,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: telo/projet3.png   
+    image: content/images/students/telo/projet2.png   
     link: https://github.com/TeloBeuze/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: telo/projet3.png   
+    description: Création dun jeu développé en Python et utilisant PyGame.
+    image: content/images/students/telo/projet3.png   
     link: https://www.github.com
     finished: false
 ---
