@@ -13,13 +13,13 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: yann/projet_1.png
-    link: https://www.linkedin.com/in/yann-hamdi-936b93145/
+    image: telo/projet_1.png
+    link: https://www.linkedin.com/in/telo-beuze-54796215b/
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: yann/projet_2.png
-    link: https://github.com/yannhamdi
+    image: telo/projet_2.png
+    link: https://github.com/TeloBeuze/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d'un jeu développé en Python et utilisant PyGame.
