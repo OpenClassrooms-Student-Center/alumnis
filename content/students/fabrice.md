@@ -41,12 +41,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: fabrice/projet_2.png
+    image: FabriceCC/vague.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Créer une application Pizzeria !
     description: Création une application pour un pizzeria.
-    image: fabrice/projet_3.png
+    image: FabriceCC/mer.jpg
     link: https://www.github.com
     finished: false
 ---
