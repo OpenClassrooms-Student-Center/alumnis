@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Créer une application Pizzeria !
     description: Création une application pour un pizzeria.
-    image: FabriceCC/mer.jpg
+    image: FabriceCC/mont.jpg
     link: https://www.github.com
     finished: false
 ---
