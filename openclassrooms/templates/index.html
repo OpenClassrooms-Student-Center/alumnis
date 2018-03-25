@@ -17,8 +17,8 @@
                 {% set ns = namespace(nb_ignored_students=0) %}
                 {% for student in pages %}
                     {% if  student.public != "True" %}
-                        {% set new_nb =  ns.nb_ignored_students + 1%}
-                        {% set ns.nb_ignored_students = new_nb  %}
+                        {% set new_nb =  ns.nb_ignored_students + 1 %}
+                        {% set ns.nb_ignored_students = new_nb %}
 
                     {% endif %}
                     {% if (student.public == "True") %}
@@ -37,13 +37,8 @@
                             </div>
                             <div class="row">
                         {% endif %}
-
-
                     {% endif %}
-{% else %}
-                    <!---->
                 {% endfor %}
-
                 </div>
         </div>
 
