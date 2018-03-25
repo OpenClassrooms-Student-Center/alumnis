@@ -36,7 +36,7 @@
             <h3>Mes projets</h3>
             <div class="container">
                 <div class="row">
-                    {% set counter = 1 %}
+
                     {% for project in page.projects %}
                         <div class="col-sm-4 project-item">
                             <div class="image-wrapper">
@@ -61,11 +61,12 @@
                                 <a href="{{ project.link }}" target="_blank"class="button button-primary">Voir le projet</a>
                             {% endif %}
                         </div>
-                    {% if (counter % 3 == 0): %}
+
+                        {% if loop.index % 3 == 0 %}
                         </div><div class="row">
                     {% endif %}
 
-                    {% set counter = counter + 1 %}
+
 
                     {% endfor %}
                 </div>
