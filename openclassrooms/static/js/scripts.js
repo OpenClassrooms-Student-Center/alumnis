@@ -9,22 +9,29 @@ function getCookie(key) {
     return keyValue ? keyValue[2] : null;
 }
 
+// replace non-existent images with generic one
+function imgError(image) {
+    image.onerror = "";
+    image.src = "/images/oc-logo.svg";
+    return true;
+}
 
-$(document).ready(function(){
+
+$(document).ready(function () {
 
     // Remove header when someone clicks on it.
 
     if (getCookie('disclaimer') == null) {
-        $('#disclaimer-button').on('click', function(){
-            $('#disclaimer').slideUp("normal", function() { $(this).remove(); } );
-            setCookie('disclaimer','0');
+        $('#disclaimer-button').on('click', function () {
+            $('#disclaimer').slideUp("normal", function () {
+                $(this).remove();
+            });
+            setCookie('disclaimer', '0');
         });
     }
     else if (getCookie('disclaimer') == 0) {
         $('#disclaimer').addClass('hidden');
     }
-
-
 
 
 });
