@@ -12,7 +12,7 @@
     <section id="students" class="inset-shadow">
         <h2>Nos fantastiques étudiants</h2>
         <div class="container">
-            <div class="row">
+            <div class="row students-row">
                 {% for student in pages if student.public %}
                     <div class="col-md-4 student-item">
                         <div class="rounded thumbnail">
@@ -26,10 +26,13 @@
                     </div>
                     {% if loop.index % 3 == 0 %}
                         </div>
-                        <div class="row">
+                        <div class="row  students-row">
                     {% endif %}
                 {% endfor %}
                 </div>
+        <div id="page_navigation" class="text-center">
+            <ul class="pagination"></ul>
+        </div>
         </div>
     </section>
 {% endblock %}
