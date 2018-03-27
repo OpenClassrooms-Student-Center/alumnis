@@ -11,38 +11,25 @@
 
     <section id="students" class="inset-shadow">
         <h2>Nos fantastiques étudiants</h2>
-
         <div class="container">
             <div class="row">
-                {% set ns = namespace(nb_ignored_students=0) %}
-                {% for student in pages %}
-                    {% if  student.public != "True" %}
-                        {% set new_nb =  ns.nb_ignored_students + 1 %}
-                        {% set ns.nb_ignored_students = new_nb %}
-
-                    {% endif %}
-                    {% if (student.public == "True") %}
-                        <div class="col-md-4 student-item">
-                            <div class="rounded thumbnail">
-                                <a href="{{ SITEURL }}/students/{{ student.slug }}.html">
-                                    <img src="{{ SITEURL }}/images/students/{{ student.image }}"
-                                         class="img-responsive">
-                                </a>
-                            </div>
-                            <h3 class="text-center">{{ student.name }}</h3>
-                            <div class="text-justified">{{ student.short_description }}</div>
+                {% for student in pages if student.public %}
+                    <div class="col-md-4 student-item">
+                        <div class="rounded thumbnail">
+                            <a href="{{ SITEURL }}/students/{{ student.slug }}.html">
+                                <img src="{{ SITEURL }}/images/students/{{ student.image }}"
+                                     class="img-responsive">
+                            </a>
                         </div>
-
-                        {% if ((loop.index)-(ns.nb_ignored_students)) % 3 == 0 %}
-                            </div>
-                            <div class="row">
-                        {% endif %}
+                        <h3 class="text-center">{{ student.name }}</h3>
+                        <div class="text-justified">{{ student.short_description }}</div>
+                    </div>
+                    {% if loop.index % 3 == 0 %}
+                        </div>
+                        <div class="row">
                     {% endif %}
                 {% endfor %}
                 </div>
         </div>
-
-
     </section>
-
 {% endblock %}
