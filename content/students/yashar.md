@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+    image: yashar/projet3.png
+    link: https://github.com/ymae/MacGyver-labyrinth-game
+    finished: true
 ---
