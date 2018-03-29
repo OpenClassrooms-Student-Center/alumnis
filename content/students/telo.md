@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    Après avoir travaillé en tant qu'ingé son, je souhaiterais me réorienter vers un millieux qui m'as toujours attiré.
+    Après avoir travaillé en tant qu'ingé son, je souhaiterais me réorienter vers un millieux qui m'a toujours attiré.
 
 
 
@@ -84,14 +84,6 @@ projects:
 
    finished: true
 
- - title: Aidez MacGyver à sortir !
 
-   description: Création d’un jeu développé en Python et utilisant PyGame.
-
-   image: 
-
-   link: 
-
-   finished: false
 
 ---
