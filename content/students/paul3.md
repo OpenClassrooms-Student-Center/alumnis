@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: paul3
+title: Paul Julienne
 
 # First name or full name
 name: Paul Julienne
@@ -35,8 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je suis un jeune diplômé, j'ai travaillé dans la communication (les RP) et je change d'orientation à 25 ans.
-    https://www.linkedin.com/in/pauljulienne/
+    description: Je suis un jeune diplômé et j'ai travaillé dans la communication. / https://www.linkedin.com/in/pauljulienne/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: paul3/projet_1.png
@@ -47,7 +46,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: paul3/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/pauljulienne.html
+    link: https://github.com/Grrravity/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
