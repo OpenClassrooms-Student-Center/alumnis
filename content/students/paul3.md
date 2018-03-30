@@ -35,8 +35,8 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je suis un jeune diplômé, j'ai travaillé dans la communication (les RP) et je change d'orientation à 25 ans !
-	https://www.linkedin.com/in/pauljulienne/
+    description: Je suis un jeune diplômé, j'ai travaillé dans la communication (les RP) et je change d'orientation à 25 ans.
+    https://www.linkedin.com/in/pauljulienne/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: paul3/projet_1.png
