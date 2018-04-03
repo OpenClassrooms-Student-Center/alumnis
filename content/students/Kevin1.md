@@ -16,7 +16,7 @@ title: Kevin
 
 name: Kevin Quintana
 
-date: 2018-04-03 2:20
+date: 2018-04-03
 
 
 # One line.
