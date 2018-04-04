@@ -38,6 +38,10 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  
+    -title: Integrez la communaute
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    image: abrahamaguidissou/projet_2.png
+    link: https://github.com/yann1294/alumnis
+    finished: true
 ---
 
