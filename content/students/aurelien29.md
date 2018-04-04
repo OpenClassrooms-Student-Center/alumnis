@@ -87,7 +87,7 @@ projects:
 
     image: aurelien29/projet_2.png
 
-    link:en cours de validation
+    link: en cours de validation
 
     finished: false
 
