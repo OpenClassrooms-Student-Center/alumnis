@@ -12,14 +12,14 @@ date: 2018-03-27 17:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Réaliser mon rève , participer dans le développement de mon Pays.
-short_description: Passionné par les nouvelles technologies, aussi Les sports collectifs.
+objective: Réaliser mon rêve, participer au développement dans mon pays.
+short_description: Passionné par les nouvelles technologies, mais aussi par les sports collectifs.
 
 # don't touch that
 template: students
 description: 
-    Après avoirs rester long temps dans la 'confort-zone', me voilas décider de me lancer dans une carrière
-    que j'aime et des challenges à faire, dont beaucoup de traveaux m'attends en futur pour réaliser ce que Je rève de faire. 
+    Après être resté longtemps dans la 'confort-zone', me voilà décidé à me lancer dans une carrière
+    que j'aime et dans des challenges à accomplir, donc beaucoup de travail m'attend pour réaliser ce que je rêve de faire. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
