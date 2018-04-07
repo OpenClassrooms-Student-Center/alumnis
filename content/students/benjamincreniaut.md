@@ -7,13 +7,13 @@
 title: benjamincreniaut
 
 # First name or full name
-name: creniaut
+name: benjamincreniaut
 date: 2018-02-06 19:21
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre le métier de développeur pour décrocher un métier qui me plaît.
-short_description: Je suis passioné par atteindre de nouveaux horizon, j'aime voyager, le sport ainsi que l'informatique
+short_description: Je suis passionné par atteindre de nouveaux horizons, j'aime voyager, le sport ainsi que l'informatique.
 
 # don't touch that
 template: students
@@ -40,19 +40,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: benjamincreniaut/projet1.png
+    image: benjamincreniaut/projet_1.png
     link: https://www.linkedin.com/in/benjamin-creniaut-7b2860158/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: 
-    link: 
-    finished: false
+    image: benjamincreniaut/projet_2.png
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/blob/master/content/students/benjamincreniaut.md
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+    image: benjamincreniaut/projet_3.png
+    link: https://github.com/CreniautB/Macgyver
+    finished: true
 ---
