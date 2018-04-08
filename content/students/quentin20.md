@@ -41,11 +41,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: quentin20/projet_2.png
-    link: https://github.com/quentin1495
+    link: https://github.com/quentinprevost
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Créez votre premier jeu vidéo avec Swift !
     image: quentin20/projet_3.png
-    link: https://github.com/quentin1495/terminalGame
+    link: https://github.com/quentinprevost/terminalGame
     finished: true
 ---
