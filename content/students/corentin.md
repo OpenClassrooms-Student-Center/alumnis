@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Corentin
+title: corentin
 
 # First name or full name
 name: Corentin
@@ -19,9 +19,9 @@ short_description: J'aime résoudre des problèmes et apprendre de nouvelles cho
 template: students
 description:
     J'ai 29 ans, j'habite à Paris, j'aime les animaux, les jeux vidéo, la musique, les films et les séries.
-	Actuellement en recherche d'emploi, je suis la formation Développeur d'applications Python d'OpenClassrooms
-	afin de renouer avec la programmation que je n'ai pas pratiquée depuis plusieurs années malgré un DUT Informatique. 
-	Cette formation m'offre l'occasion de me mettre à jour et de m'assurer un bon bagage technique pour trouver du travail.
+    Actuellement en recherche d'emploi, je suis la formation Développeur d'applications Python d'OpenClassrooms afin 
+    de renouer avec la programmation que je n'ai pas pratiquée depuis plusieurs années après un DUT Informatique. 
+    Cette formation m'offre l'occasion de me mettre à jour et de m'assurer un bon bagage technique pour trouver du travail.
 
 
 # image must be located in content/images/students
