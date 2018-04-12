@@ -16,7 +16,7 @@ short_description: J'aime le sport et l'informatique.
 # don't touch that
 template: students
 description:
-    Bonjour je m appelle Noureddine et j ai décidé de suivre le parcours développeur d'application android.
+    Bonjour, je m appelle Noureddine et j ai décidé de suivre le parcours développeur d'application android.
     J espére pouvoir acquérir les compétences nécessaire qui me permettront de trouver un emploi dans ce secteur.J'ai hate de commencer a développer mes premiéres applications.
    
 
