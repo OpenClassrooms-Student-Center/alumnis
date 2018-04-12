@@ -19,7 +19,7 @@
 +template: students
 +description:
 +  Bonjour je m appelle noureddine et j ai décidé de suivre le parcours développeur d'application android. 
-+  J espére pouvoir acquérir les compétences nécessaire qui me permettront de trouver un emploi dans ce secteur.
++  J espére pouvoir acquérir les compétences nécessaire qui me permettront de trouver un emploi dans ce +  secteur.
 +
 +# image must be located in content/images/students
 +# name should be the same as this file. Eg: celinemartinet.png
@@ -38,3 +38,5 @@
 +    # 'true' makes it fully available.
 +    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 +    finished: true
++
++---
