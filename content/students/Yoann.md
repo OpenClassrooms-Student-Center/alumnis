@@ -23,7 +23,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: Yoann.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -34,14 +34,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: Yoann/Linkedin.jpg
     link: https://www.linkedin.com/in/yoann-roche-370484161/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: Yoann/GitHub.jpg
     link: https://github.com/Yocorps
     finished: true
   - title: Aidez MacGyver à sortir !
