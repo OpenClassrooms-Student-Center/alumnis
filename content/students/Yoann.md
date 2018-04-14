@@ -13,7 +13,7 @@ date: 12/04/2018 19:50
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Investir tout mon temps dans une reconversion de métier. Je me fixe l'objectif de finir cette formation en an si possible.
-short_description:  J'aime le handball et passer sur un ordi. J'ai commencer ma formation Développeur d'application Java.
+short_description:  J'aime le handball et passer du temps sur un ordi. J'ai commencer ma formation Développeur d'application Java.
 
 # don't touch that
 template: students
