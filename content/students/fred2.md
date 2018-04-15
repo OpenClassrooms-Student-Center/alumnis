@@ -35,10 +35,11 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Ancien technicien de laboratoire spécialise en developpement et optimisation
-    dans les méthodes immunologiques, pour des molécules dans le traitement de
-    different cancers, mileux bien trop hypocrite et sans réelle ethique,
-    j'ai fais le choix d'une reconversion afin de vivre de ma deuxième passion.
+    description: 
+    #Ancien technicien de laboratoire spécialise en developpement et optimisation
+    #dans les méthodes immunologiques, pour des molécules dans le traitement de
+    #different cancers, mileux bien trop hypocrite et sans réelle ethique,
+    #j'ai fais le choix d'une reconversion afin de vivre de ma deuxième passion.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
    
