@@ -41,7 +41,7 @@ projects:
     j'ai fais le choix d'une reconversion afin de vivre de ma deuxième passion.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: fred2/Projet_1.png
+   
     link: https://www.linkedin.com/in/frederic-leroux-772a5015b/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
