@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-description:
+    description:
     Ancien technicien de laboratoire spécialise en developpement et optimisation
     dans les méthodes immunologiques, pour des molécules dans le traitement de
     different cancers, mileux bien trop hypocrite et sans réelle ethique,
