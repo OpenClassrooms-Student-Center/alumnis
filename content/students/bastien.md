@@ -63,7 +63,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: bastien/projet_1.png
+    image: bastien/projet1.png
 
     link: https://www.linkedin.com/in/bastien-canivez-18a235135/
 
