@@ -21,12 +21,12 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     image: marion/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/marion-labarre-06002673/
     finished: true
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: marion/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/marion.html
+    link: https://github.com/marionl4b/
     finished: true
 ---
