@@ -54,7 +54,7 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et en utilisant PyGame.
     image: /content/students/Nelson/projet3.jpg
-link: https://github.com/Neldurion
-finished: false
+    link: https://github.com/Neldurion
+    finished: false
 
 ---
