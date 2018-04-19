@@ -1,3 +1,0 @@
-Je voulais voir s'il était possible de créer un dossier depuis l'interface web GitHub 
-afin d'y uploader des fichiers directement en drag & drop.
-Je crois que ça fonctionne, je vais donc supprimer ce fichier .txt dès que possible.
