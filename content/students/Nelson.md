@@ -35,9 +35,8 @@ template: students
 description:
 
     Ma passion pour l'Informatique est telle que je souhaite en connaître et maîtriser tous les aspects au cours de ma vie.
-	J'ai d'abord été administrateur systèmes et réseaux de part ma formation initiale.
-	Désormais, je souhaite devenir développeur et c'est pourquoi j'ai choisi OpenClassrooms et la formation DA-Python pour y parvenir.
-	Mes loisirs sont les jeux vidéo, les mangas et comics mais je pratique aussi l'airsoft et les arts martiaux !
+J'ai d'abord été administrateur systèmes et réseaux de part ma formation initiale.
+Désormais, je souhaite devenir développeur et c'est pourquoi j'ai choisi OpenClassrooms et la formation DA-Python pour y parvenir. Mes loisirs sont les jeux vidéo, les mangas et comics mais je pratique aussi l'airsoft et les arts martiaux !
 
 
 # image must be located in content/images/students
@@ -80,7 +79,7 @@ projects:
 
     image: /content/students/Nelson/projet2.png
 
-    link: 
+    link: https://github.com/Neldurion
 
     finished: true
 
@@ -88,9 +87,9 @@ projects:
 
     description: Création d’un jeu développé en Python et en utilisant PyGame.
 
-    image: /content/students/Nelson/projet3.png
+    image: /content/students/Nelson/projet3.jpg
 
-    link: 
+    link: https://github.com/Neldurion
 
     finished: false
 
