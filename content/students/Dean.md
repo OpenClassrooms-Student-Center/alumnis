@@ -13,7 +13,7 @@ date: 2018-04-15 17:26
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime les belles lettres, le fromage et les pages Ã©cornÃ©es. J'apprends Ã  coder pour me faire une nouvelle jeunesse.
 
 # don't touch that
 template: students
@@ -33,8 +33,8 @@ image: dean.jpg
 public: True
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: PrÃ©sentez-voussentez-vous !
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
@@ -42,13 +42,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ¨grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: CrÃ©ation d'un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
