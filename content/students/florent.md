@@ -43,6 +43,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: florent/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: false
+    link: https://github.com/FlorentLne/alumnis
+    finished: true
 ---
