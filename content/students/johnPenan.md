@@ -64,7 +64,7 @@ projects:
 
     image: johnPenan/johnPenan.jpg
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/jean-penan-goumou-78b265162/
 
     # 'true' makes it fully available.
 
@@ -76,7 +76,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: johnPenan/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
