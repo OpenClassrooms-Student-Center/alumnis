@@ -14,9 +14,9 @@ title: philippe-michels
 
 # First name or full name
 
-name: phil
+name: Phil
 
-date: 2018-04-16 15:20
+date: 2018-04-16 17:20
 
 
 # One line.
@@ -34,11 +34,17 @@ template: students
 
 description:
 
-    32 ans de carrière en informatique comme senior it consultant (15 ans au Canada),
-	ingénieur réseau, chef de projets, directeur de projets et finalement DSI.
-	Malheureusement une maladie handicapante m'oblige à reconsidérer ma carrière et
-	j' ai choisi pour cela le développement.
-	Je possède déjà quelques connaissances en HTML, CSS, PHP et MySQL.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 # image must be located in content/images/students
@@ -50,7 +56,7 @@ image: philippe-michels.jpg
 
 # Change this to True when you do you pull request.
 
-public: True
+public: False
 
 
 # You need to keep the exact same structure for each new project.
@@ -61,28 +67,29 @@ projects:
 
     description: Passionner par l'informatique depuis le plus jeune âge, déjà une longue et fructueuse carrière, 
 	Coder est ce qui m'a ammené dans cet univers et voilà que la vie me permet d'y retourner.
+	https://www.linkedin.com/in/phil-michaels-b96624161/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: phil/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/phil-michaels-b96624161/
 
     # 'true' makes it fully available.
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: true
+    finished: false
 
   - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: phil/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms.com/membres/philippe-michels
 
     finished: true
 
