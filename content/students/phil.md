@@ -66,8 +66,8 @@ projects:
   - title: Présentez-vous !
 
     description: Passionner par l'informatique depuis le plus jeune âge, déjà une longue et fructueuse carrière, 
-	Coder est ce qui m'a ammené dans cet univers et voilà que la vie me permet d'y retourner.
-	https://www.linkedin.com/in/phil-michaels-b96624161/
+Coder est ce qui m'a ammené dans cet univers et voilà que la vie me permet d'y retourner.
+https://www.linkedin.com/in/phil-michaels-b96624161/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
