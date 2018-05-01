@@ -47,7 +47,7 @@ projects:
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: eric/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ericUp.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/eric.html
     finished: false
   
 ---
