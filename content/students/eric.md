@@ -7,7 +7,7 @@
 title: eric
 
 # First name or full name
-name: eric
+name: Eric
 date: 2018-04-30 12:09
 
 # One line.
@@ -47,7 +47,7 @@ projects:
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: eric/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/ericUp.html
     finished: false
   
 ---
