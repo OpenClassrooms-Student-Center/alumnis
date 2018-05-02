@@ -1,13 +1,13 @@
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
+# Example: https://openclassrooms.com/membres/philippe
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: philippe
 
 # First name or full name
-name: Philippe Plaxine
+name: Philippe
 date: 2018-05-03 10:20
 
 # One line.
@@ -42,6 +42,5 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: philippe/projet_2.jpg
     link: https://github.com/pplaxine
-    finished: true
-  
+    finished: false
 ---
