@@ -29,7 +29,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Projet n.1 : Apprendre à apprendre !
+  - title: Projet n1 : Apprendre à apprendre !
     description: Rédaction des objectifs d'apprentissage, mise à jour de son CV et profil LinkedIn, mise en place d'un journal de bord. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/philippe/project_1.jpg
