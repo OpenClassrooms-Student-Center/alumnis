@@ -12,7 +12,7 @@ date: 2018-05-4 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Maîtriser mon parcours DA, réussir ma formation et faire partie de ce monde rare d'élites programmeurs...
 
 # max 100 characters
 short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
