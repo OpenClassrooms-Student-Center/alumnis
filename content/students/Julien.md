@@ -5,7 +5,7 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Julien
 
 
 # First name or full name
@@ -19,9 +19,9 @@ date: 2018-05-03 15:00
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Apprendre JAVA et me reconvertir dans le développement d'applications
+objective: Apprendre JAVA et pouvoir développer des applications utiles au plus grand nombre.
 
-short_description: J'aime résoudre des problèmes, la logique, la beauté, la mer, le vent. 
+short_description: Je suis en train de découvrir la programmation et j'aime beaucoup ça! 
 
 
 # don't touch that
@@ -29,14 +29,14 @@ short_description: J'aime résoudre des problèmes, la logique, la beauté, la m
 template: students
 
 description:
-    Après avoir travaillé près de 15 ans dans la gestion d'institutions culturelles en France et en Allemagne, j'ai décidé de me lancer dans     une nouvelle aventure et d'apprendre la programmation et le développement d'applications.
+    Après avoir travaillé près de 15 ans dans la gestion d'institutions culturelles en France et en Allemagne, j'ai décidé de me lancer dans     une nouvelle aventure et de me reconvertir dans la programmation et le développement d'applications.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: julien.jpg
+image: Julien.jpg
 
 
 # Change this to True when you do you pull request.
@@ -56,7 +56,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: julien/projet_1.png
+    image: Julien/projet_1.png
 
     link: https://www.linkedin.com/in/julien-berthoud-31716769/
 
@@ -70,7 +70,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: julien/projet_2.png
+    image: Julien/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/julien.html
 
