@@ -15,7 +15,7 @@ date: 2018-05-4 17:20
 objective: Maîtriser mon parcours DA, réussir ma formation et faire partie de ce monde rare d'élites programmeurs...
 
 # max 100 characters
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime tout ce qui touche à la logique, je déteste l'injustice, je suis de nature curieux, et l'informatique est ma passion.
 
 # don't touch that
 template: students
