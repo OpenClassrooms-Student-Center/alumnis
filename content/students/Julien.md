@@ -19,7 +19,7 @@ date: 2018-05-03 15:00
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Apprendre JAVA et pouvoir développer des applications utiles au plus grand nombre.
+objective: Apprendre Java et pouvoir développer des applications utiles au plus grand nombre.
 
 short_description: Je suis en train de découvrir la programmation et j'aime beaucoup ça! 
 
@@ -72,7 +72,7 @@ projects:
 
     image: Julien/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/julien.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/Julien.html
 
     finished: true
 
