@@ -15,7 +15,7 @@ date: 2018-05-05 22:49
 objective: Maîtriser les codes informatiques, réussir ma formation et faire partie de ce monde rare de grands programmeurs
 
 # max 100 characters
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Je m'appelle Abdoulaye, j'ai 38 ans, l'informatique est ma passion, j'adore les enfants, la guitare et je déteste l'injustice.
 
 # don't touch that
 template: students
