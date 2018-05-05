@@ -40,13 +40,13 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: abdoulaye/projet_1.png
-    link: www.linkedin.com/in/abdoulaye-soumare04071979
+    link: https://www.linkedin.com/in/abdoulaye-soumare04071979
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: abdoulaye/projet_2.png
+    link: https://www.linkedin.com/in/abdoulaye-soumare04071979
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
