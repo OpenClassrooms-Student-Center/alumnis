@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: jeanpenan
 
 
 # First name or full name
 
-name: Ratus
+name: jeanpenan
 
-date: 2016-10-28 17:20
+date: 2018-05-05 23:00
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Je veux être expert en développement d'application Java EE.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Je suis passionné par les nouvelles technologies.Je suis passionné par les nouvelles technologies.
 
 
 # don't touch that
@@ -34,17 +34,15 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    Je suis motivé d'approfondir mes connaissances en développement d'application 
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    Java EE. Java est un langage beaucoup demandé pour le développement
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    d'application pour les entreprises.
 
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    J'aimerais en faire une carrière professionnelle.
 
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 # image must be located in content/images/students
