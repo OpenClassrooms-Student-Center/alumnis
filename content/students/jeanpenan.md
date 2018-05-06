@@ -4,10 +4,10 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: andre
+title: jean
 
 # First name or full name
-name: andre
+name: jean
 date: 2017-09-07 11:30
 
 # One line.
