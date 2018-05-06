@@ -8,7 +8,7 @@ title: jean
 
 # First name or full name
 name: jean
-date: 2017-09-07 11:30
+date: 2018-05-07 01:10
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -26,7 +26,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: andre.jpg
+image: jeanpenan.JPG
 
 # Change this to True when you do you pull request.
 public: True
@@ -37,15 +37,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: andre/projet_1.png
-    link: linkedin.com/in/andre-monnier-b378a9114
+    image: jean/jeanpenangoumou.JPG
+    link: https://www.linkedin.com/in/jean-penan-goumou-78b265162/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: andre/projet_2.png
-    link: https://github.com/AndreM-1
+    image: jean/projet_alumnis
+    link: https://github.com/johnPenan/alumnis
     finished: true
 
 ---
