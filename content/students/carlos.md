@@ -13,8 +13,7 @@ date: 2018-05-07 16:45
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur iOS et m'épanouir dans un nouveau métier passionnant.
-short_description: J'adore les bons films/séries, bien manger, sortir, voir des amis, bien manger 
-et manger bien ! 
+short_description: J'adore les bons films/séries, bien manger, sortir, voir des amis, bien manger. 
 
 # don't touch that
 template: students
