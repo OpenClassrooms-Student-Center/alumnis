@@ -22,12 +22,7 @@ template: students
 
 # max 500 characters
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je me nomme Abdoulaye Soumaré, j'ai 38 ans, titulaire d'un BTS en informarique de gestion et d'un diplôme supérieur en génie informatique. J'ai un élan passionné pour les activités de l'esprit. Ma passion c'est les mathematiques et l'informatique. Je veux maîtriser la programmation et en devenir un expert pour mourir heureux.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
