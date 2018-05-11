@@ -43,7 +43,7 @@ projects:
     image: jeanfrancois94/projet2.png
     link: https://github.com/casabiancajf/alumnis
     finished: true
-  - title: Aidez MacGyver à s'échapper!
+  - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: jeanfrancois94/projet3.png
     link: https://www.github.com/
