@@ -34,7 +34,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: jeanfrancois94/projet1.png
-    link: https://www.linkedin.com/in/jean-francois-casabianca-a004b268/
+    link: https://lu.linkedin.com/in/jean-francois-casabianca-a004b268
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
