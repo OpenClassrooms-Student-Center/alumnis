@@ -42,7 +42,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source: comprendre le fonctionnement de Git, Github et des pull requests.
+    description: Modifier un projet Open Source, comprendre le fonctionnement de Git, Github et des pull requests.
     image: Arthur/projet2.png
     link: https://github.com/MrDiben
     finished: true
@@ -87,7 +87,7 @@ projects:
     link: https://drive.google.com/open?id=17r-JvOfF9vbU_70N8Dd_R4R8F9PC3xdA
     finished: true
   - title: Améliorez un projet existant en Python.
-    description: Amélioration du projet 8: purbeurre.
+    description: Amélioration du projet 8, purbeurre.
     image: Arthur/projet11.png
     link: https://drive.google.com/open?id=1QlPO5jLQsW3M9MdSNzXYjLU0XxLX5SKF
     finished: true
@@ -96,8 +96,8 @@ projects:
     image: Arthur/projet12.png
     link: https://drive.google.com/open?id=1LMdzde1VHgE_NQV44m0Db7jgQEq6I_KJ
     finished: true
-  - title: Projet final : Sportice App.
-    description: Application mobile et web codée en Python (Django:web, Kivy: mobile).
+  - title: Projet final, Sportice App.
+    description: Application mobile et web codée en Python (Django, Kivy).
     image: Arthur/projet13.jpg
     link: http://www.sportice.fr
     finished: true
