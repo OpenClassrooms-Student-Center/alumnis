@@ -45,4 +45,9 @@ projects:
     image: etienne86/project_2.png
     link: https://github.com/etienne86/alumnis
     finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame. 
+    image: etienne86/project_3.jpg
+    link: https://github.com/etienne86/oc_p3_mac_laby
+    finished: true
 ---
