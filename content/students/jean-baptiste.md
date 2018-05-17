@@ -1,5 +1,5 @@
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
+# Example: https://openclassrooms.com/membres/jean-baptistedeslandes
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: jean-baptiste
@@ -28,7 +28,7 @@ description:
 image: jean-baptiste.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -44,7 +44,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: jean-baptiste/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/jean-baptiste.html
     finished: true
   - title: Création de mon premier jeu vidéo sur iOS !
     description: Création d’un jeu développé sur iOS en utilisant Xcode.
