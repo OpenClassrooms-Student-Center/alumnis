@@ -8,7 +8,7 @@ title: richard31
 
 # First name or full name
 name: Richard ANDRIAN
-date: 2018-5-18 12:00
+date: 2018-5-18 14:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -25,15 +25,15 @@ description:
     Je suis Richard ANDRIAN, j'ai 31 ans et suis originaire de Toulouse.
     Passionné d'informatique depuis mon plus jeune âge.
     Etant curieux de nature, le fonctionnement d'un ordinateur m'a rapidement intrigué.
-    Heureusement j'ai découvert le SiteDuZero. Cette ressource de cours gratuit et en francais m'avais permis d'avoir quelques bagages fort utiles dans divers domaines.
-    Et me voilà de retour avec OpenClassrooms pour devenir développeur J2EE.
+    Heureusement j'ai découvert le SiteDuZero. Cette ressource de cours gratuits et en francais m'avait permis d'avoir quelques bagages fort utiles dans divers domaines.
+    Et me voilà de retour avec OpenClassrooms pour devenir développeur J2EE !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: richard31.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
