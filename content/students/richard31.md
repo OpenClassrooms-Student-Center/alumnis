@@ -15,19 +15,18 @@ date: 2018-5-18 12:00
 objective: Devenir développeur J2EE et m'accomplir dans ce métier !
 
 # max 100 characters
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Passionné d'informatique, j'adore cet univers. Et il est temps d'en faire ma carrière.
 
 # don't touch that
 template: students
 
 # max 500 characters
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je suis Richard ANDRIAN, j'ai 31 ans et suis originaire de Toulouse.
+    Passionné d'informatique depuis mon plus jeune âge.
+    Etant curieux de nature, le fonctionnement d'un ordinateur m'a rapidement intrigué.
+    Heureusement j'ai découvert le SiteDuZero. Cette ressource de cours gratuit et en francais m'avais permis d'avoir quelques bagages fort utiles dans divers domaines.
+    Et me voilà de retour avec OpenClassrooms pour devenir développeur J2EE.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
