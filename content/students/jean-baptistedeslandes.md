@@ -13,22 +13,17 @@ date: 2018-05-18 14:55
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur d'applications iOS.
-short_description: Féru de nouvelles technologies et passioné de digital.
-
-Actuellement en reconversion professionnelle du secteur Financier vers le Développement, j'ai décidé de me spécialiser sur le secteur mobile qui m'intéresse depuis longtemps. J'ai par la suite choisi l'écosystème iOS de Apple naturellement pour leur vision singulière des appareils mobiles.
-
-Je saute aujourd'hui le pas par le biais d'OpenClassrooms, et me lance dans cette belle aventure.
+short_description: Féru de nouvelles technologies et passioné de digital. Actuellement en reconversion professionnelle du secteur Financier vers le Développement, j'ai décidé de me spécialiser sur le secteur mobile qui m'intéresse depuis longtemps. J'ai par la suite choisi l'écosystème iOS de Apple naturellement pour leur vision singulière des appareils mobiles. Je saute aujourd'hui le pas par le biais d'OpenClassrooms, et me lance dans cette belle aventure.
 
 # don't touch that
 template: students
 description:
-    Bourlingueur de grand chemin, vivant actuellement sous le soleil et la
-    douceur de l’Andalousie. J’ai découvert récemment un goût pour le code
-    qui me mènera peut-être vers de nouveaux horizons professionnels.
-    Mon attrait pour la nature et les animaux sauvages m’a fait choisir Python.
-    Non, je blague ! Mon parcours, entre la Finance, l’entreprenariat et
-    les voyages, paraît aussi sinueux que le déplacement de notre reptile,
-    mais au fond, je tâche de garder le cap, tout droit.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
