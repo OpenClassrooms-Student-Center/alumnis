@@ -25,7 +25,7 @@ date: 2018-05-18 17:20
 
 objective: Devenir developpeur application Android en 1 an.
 
-short_description: J'aime le poulet, surtout le blanc de poulet, très bon pour le corps, enfin je crois...
+short_description: curieux et motiver, hâte d'apprendre de nouvelles choses
 
 
 # don't touch that
@@ -34,17 +34,11 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    depuis mon passage dans une association ou j'effectuais des tâches de maintenances informatiques
+    je me suis intéresser au développement d'applications, en développant une petite application avec 4D
+    par la suite je me suis donner les moyens d'avoir un diplôme dans le domaine informatique.
+    suite à 2 années passée derrière un téléphone à régler des incidents informatiques mineurs,
+    j'ai décider de me lancer dans la formation développeur application Android.
 
 
 # image must be located in content/images/students
@@ -56,7 +50,7 @@ description:
 
 # Change this to True when you do you pull request.
 
-public: False
+public: false
 
 
 # You need to keep the exact same structure for each new project.
@@ -73,7 +67,7 @@ projects:
 
   #  image: ratus/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link:
 
     # 'true' makes it fully available.
 
@@ -81,15 +75,15 @@ projects:
 
     finished: true
 
-  # - title: Intégrez la communauté !
+   - title: Intégrez la communauté !
 
     # description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
-    # image: ratus/projet_2.png
+     image:
 
-    # link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+     link:
 
-    # finished: true
+     finished: true
 
   # - title: Aidez MacGyver à sortir !
 
