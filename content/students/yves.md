@@ -23,7 +23,7 @@ date: 2018-05-18 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir developpeur application Android en 1 an.
+objective: Devenir développeur application Android en 1 an.
 
 short_description: curieux et motiver, hâte d'apprendre de nouvelles choses
 
@@ -35,10 +35,10 @@ template: students
 description:
 
     depuis mon passage dans une association ou j'effectuais des tâches de maintenances informatiques
-    je me suis intéresser au développement d'applications, en développant une petite application avec 4D
-    par la suite je me suis donner les moyens d'avoir un diplôme dans le domaine informatique.
+    je me suis intéressé au développement d'application, en développant une petite application avec 4D
+    par la suite je me suis donné les moyens d'avoir un diplôme dans le domaine informatique.
     suite à 2 années passée derrière un téléphone à régler des incidents informatiques mineurs,
-    j'ai décider de me lancer dans la formation développeur application Android.
+    j'ai décidé de me lancer dans la formation développeur application Android.
 
 
 # image must be located in content/images/students
@@ -50,7 +50,7 @@ description:
 
 # Change this to True when you do you pull request.
 
-public: false
+public: True
 
 
 # You need to keep the exact same structure for each new project.
