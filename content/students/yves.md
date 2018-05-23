@@ -65,9 +65,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-  #  image: ratus/projet_1.png
+   image: yves/projet1.png
 
-    link:
+    link: https://github.com/excence/alumnis/tree/master/content/images/students/yves/yves.jpg
 
     # 'true' makes it fully available.
 
@@ -79,20 +79,10 @@ projects:
 
     # description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
-     image:
+     image: yves/projet2.png
 
-     link:
+     link: https://github.com/excence/alumnis/tree/master/content/images/students/yves
 
      finished: true
-
-  # - title: Aidez MacGyver à sortir !
-
-    # description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    # image: ratus/projet_3.png
-
-    # link: https://www.github.com
-
-    # finished: false
 
 ---
