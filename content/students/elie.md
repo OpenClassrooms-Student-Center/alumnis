@@ -18,9 +18,12 @@ short_description: J'aime le développement informatique, c'est vraiment une pas
 # don't touch that
 template: students
 description:
-    L'informatique est trop vaste ! Un domaine aujourd'hui d'excellence mais pour y arriver, il faudra beaucoup travailler et ce n'est pas facile.
-    Je me bats pour donner le meilleur de moi-même pour y arriver. J'évite la distraction. Tout ce qui me motive dans mon apprentissage, c'est
-    que j'ai un très bon entourage. Je dirai aussi que c'est une garantie avant même que l'emploi vienne garantir ma sécurité sociale.
+    L'informatique est trop vaste ! Un domaine aujourd'hui d'excellence mais pour y arriver, 
+    il faudra beaucoup travailler et ce n'est pas facile.
+    Je me bats pour donner le meilleur de moi-même pour y arriver. J'évite la distraction. 
+    Tout ce qui me motive dans mon apprentissage, c'est
+    que j'ai un très bon entourage. Je dirai aussi que c'est une garantie avant même que 
+    l'emploi vienne garantir ma sécurité sociale.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -32,7 +35,8 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je me nomme Elie Kanyinda, étudiant au parrcours diplômant DA Java et mon lien LinkedIn est https://www.linkedin.com/in/elie-kanyinda-67a551a3/.
+    description: Je me nomme Elie Kanyinda, étudiant au parrcours diplômant DA Java 
+    et mon lien LinkedIn est https://www.linkedin.com/in/elie-kanyinda-67a551a3/.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
