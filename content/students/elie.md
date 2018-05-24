@@ -8,7 +8,7 @@ title: ratus
 
 # First name or full name
 name: Elie Kanyinda
-date: 2018-05-24 15 : 03
+date: 2018-05-24 15 : 47
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,12 +18,10 @@ short_description: J'aime le développement informatique, c'est vraiment une pas
 # don't touch that
 template: students
 description:
-    L'informatique est trop vaste ! Un domaine aujourd'hui d'excellence mais pour y arriver, 
-    il faudra beaucoup travailler et ce n'est pas facile.
+    L'informatique est trop vaste ! Un domaine aujourd'hui d'excellence mais pour y arriver, il faudra beaucoup travailler et ce n'est pas facile.
     Je me bats pour donner le meilleur de moi-même pour y arriver. J'évite la distraction. 
     Tout ce qui me motive dans mon apprentissage, c'est
-    que j'ai un très bon entourage. Je dirai aussi que c'est une garantie avant même que 
-    l'emploi vienne garantir ma sécurité sociale.
+    que j'ai un très bon entourage. Je dirai aussi que c'est une garantie avant même que l'emploi vienne garantir ma sécurité sociale.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
