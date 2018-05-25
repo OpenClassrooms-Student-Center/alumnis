@@ -15,7 +15,7 @@ date: 2018-05-25 13:48
 objective: Me faire un nouveau papier digital en quittant la jeunesse.
 
 # max 100 characters
-short_description: Le monde se divise en deux catégories : ceux qui passent par la porte et ceux qui passent par la fenêtre.
+short_description: Le monde se divise en deux catégories. Ceux qui passent par la porte et ceux qui passent par la fenêtre.
 
 # don't touch that
 template: students
