@@ -14,7 +14,7 @@ title: mickael
 
 # First name or full name
 
-name: Mickael
+name: Mickael Q
 
 date: 2018-05-29 12:00
 
@@ -50,7 +50,7 @@ image: mickael.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -81,11 +81,11 @@ projects:
 
     image: mickael/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/mickael.html
+    link: https://github.com/MikaQ56/alumnis
 
     finished: true
 
-  - title: Créer un jeu vidéo avec Swift !
+  - title: Créez un jeu vidéo avec Swift !
 
     description: Création d’un jeu développé en Swift.
 
