@@ -49,4 +49,9 @@ projects:
     image: yashar/projet3.png
     link: https://github.com/ymae/MacGyver-labyrinth-game
     finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: OC Pizza
+    image: yashar/projet4.png
+    link: https://github.com/ymae
+    finished: true  
 ---
