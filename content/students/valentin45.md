@@ -23,9 +23,9 @@ date: 2018-05-29 18:30
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Reconversion professionnelle
+objective: Me former pour travailler dans un domaine qui me passionne
 
-short_description: Passionné d'informatique depuis longtemps, je me lance pour enfin faire un métier qui me plait !
+short_description: J'ai 25 ans j'habite à Orléans et je suis le parcours Python pour une reconversion professionnelle
 
 
 # don't touch that
