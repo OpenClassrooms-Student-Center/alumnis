@@ -34,11 +34,10 @@ template: students
 
 description:
 
-    Je m'appelle valentin, j'ai 25 ans, après le bac je n'ai pas fait d'étude et j'ai commencé a travailler pour être indépendant financièrement.
-    Je suis passionné par l'informatique depuis toujours, ma curiosité m'a fait acquérir des connaissances diverses que ce soit en développement, base de donnée ou système d'exploitation.
-    Après 5 ans d'un boulot qui ne m'intéressait pas je me décide enfin à me lancer dans une formation pour continuer d'apprendre et transformer mes connaisssances en compétences.
+    Je m'appelle valentin, j'ai 25 ans, après le bac je n'ai pas fait d'étude et j'ai commencé a travailler.
+    Je suis passionné par l'informatique depuis toujours, ma curiosité m'a fait acquérir des connaissances diverses.
+    Après 5 ans d'un boulot qui ne m'intéressait pas je me décide enfin à me lancer dans une formation.
     Mon but étant de trouver un boulot dans un domaine qui m'intéresse avec des possibilités d'évoluer tout au long de ma carrière.
-    A part ça j'aime la mécanique, les jeux vidéos, la nature et les sports de plein air, tout ce qui est randonnée, canyoning, via ferrata et surtout le vélo, sport que j'ai pratiqué (trial) durant 6 ans au travers de compétitions nationnales.
 
 
 
