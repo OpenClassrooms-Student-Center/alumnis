@@ -67,7 +67,7 @@ projects:
 
     image: ratus/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/rousseau-vlntn/
 
     # 'true' makes it fully available.
 
