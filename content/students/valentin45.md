@@ -65,7 +65,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: valentin45/
 
     link: https://www.linkedin.com/in/rousseau-vlntn/
 
