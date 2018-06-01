@@ -36,14 +36,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: hamza/projet2.png
+    image: hamza/Linkedin_Hamza-Projet-1.jpg
     link: https://www.linkedin.com/in/hamzabouchama/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: hamza/projet2.png
+    image: hamza/GitHub_Hamza-Projet-2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/hamza.html
     finished: true
 ---
