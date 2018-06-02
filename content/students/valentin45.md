@@ -45,7 +45,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: valentin45.jpg
 
 
 # Change this to True when you do you pull request.
@@ -79,9 +79,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: valentin45/projet2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/voudoudin/alumnis
 
     finished: true
 
