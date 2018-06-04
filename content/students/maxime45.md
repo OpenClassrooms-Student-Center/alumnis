@@ -1,4 +1,5 @@
-iii---
+
+---
 
 title: maxime45
 
@@ -29,7 +30,7 @@ projects:
 
   - title: Intégrez la communauté openclassroom
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image:
+    image: maxime45/projet_2.png
     link: 
     finished: true
 ---
