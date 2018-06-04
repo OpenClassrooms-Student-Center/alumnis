@@ -23,7 +23,7 @@ public: True
 projects:
   - title: Presentation
     description:Je suis actuellement le Parcours Développeur d'Application IOS
-    image: alix42/projet_1.png
+    image: maxime45/projet_1.png
     link: https://www.linkedin.com/in/maximebontemps45/
     finished: true
 
@@ -32,5 +32,4 @@ projects:
     image:
     link: 
     finished: true
-
----
+--
