@@ -12,7 +12,7 @@ short_description: J'aime l informatique, le sport , manger et surotut dormir !!
 template: students
 
 description: Passionne d informatique c est avec joie que je me reoriente dans le developpemnt d application IOS avec Openclassroom
-image:
+image:maxime455/projet_1.png
 public: True
 
 
