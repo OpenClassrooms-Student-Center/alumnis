@@ -11,9 +11,7 @@ short_description: J'aime l informatique, le sport , manger et surotut dormir !!
 # don't touch that
 template: students
 
-description:
-    Passionne d informatique c est avec joie que je me reoriente d
-ans le developpemnt d application IOS avec Openclassroom
+description: Passionne d informatique c est avec joie que je me reoriente dans le developpemnt d application IOS avec Openclassroom
 image:
 public: True
 
