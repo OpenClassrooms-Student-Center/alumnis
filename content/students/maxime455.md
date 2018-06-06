@@ -13,22 +13,21 @@ short_description: J'aime l informatique, le sport , manger et surotut dormir !!
 template: students
 
 description:
-    Passionné d informatique c est avec joie que je me reoriente d
-ans le developpemnt d application IOS avec Openclassroom
-image:
+    Passionné d informatique c est avec joie que je me reoriente dans le developpemnt d application IOS avec Openclassroom
+image :
 public: True
 
 
 projects:
   - title: Presentation
     description:Je suis actuellement le Parcours Développeur d'Application IOS
-    image: maxime45/projet_1.png
+    image: maxime455/projet_1.png
     link: https://www.linkedin.com/in/maximebontemps45/
     finished: true
 
   - title: Intégrer la communauté openclassroom
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: maxime45/projet_2.png
+    image: maxime455/projet_2.png
     link:
     finished: true
 ---
