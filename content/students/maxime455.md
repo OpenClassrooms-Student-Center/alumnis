@@ -26,7 +26,7 @@ projects:
     link: https://www.linkedin.com/in/maximebontemps45/
     finished: true
 
-  - title: Intégrez la communauté openclassroom
+  - title: Intégrer la communauté openclassroom
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: maxime45/projet_2.png
     link:
