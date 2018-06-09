@@ -36,19 +36,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: à mettre
+    image: mikaelb/linkedin.jpg
     link: https://www.linkedin.com/in/mikael-briolet-117696134/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: StarLab
     description: Un jeu de labyrinthe pygame.
-    image: à mettre
+    image: mikaelb/starlab.jpg
     link: https://github.com/8area8/StarLab-v2
     finished: true
   - title: My scripts
     description: Un Repo où je rassemble des petits scripts en python.
-    image: à mettre
+    image: mikaelb/my_script
     link: https://github.com/8area8/my_scripts
     finished: false
 ---
