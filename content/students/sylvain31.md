@@ -30,8 +30,8 @@ projects:
     
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: sylvain31/projet_2.png
+    image: sylvain31/projet2.png
     link: 
-    finished: true
+    finished: false
 
 ---
