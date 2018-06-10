@@ -14,8 +14,8 @@ template: students
 
 description: 
     Ancien aide comptable, en pleine reconversion professionnelle.
-Mon but est de devenir développeur d'application android et de travailler en freelance.
-J'aimerais pouvoir développer des applis à portée ludo-éducatives, car je pense que le numérique, si l'on s'en sert bien, peut être un formidable outil pédagogique.
+    Mon but est de devenir développeur d'application android et de travailler en freelance.
+    J'aimerais pouvoir développer des applis à portée ludo-éducatives, car je pense que le numérique, si l'on s'en sert bien, peut être un formidable outil pédagogique.
 image: sylvain31.jpg
 public: True
 
