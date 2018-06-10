@@ -24,14 +24,14 @@ public: True
 projects:
   - title: Définissez votre stratégie d'apprentissage !
     description: Créer et mettre à jour votre CV, Développer votre visibilité sur les réseaux sociaux d'entreprise, Définir une stratégie d'apprentissage. 
-    image: alix42/profil_linkedin.PNG
+    image: sylvain31/projet1.PNG
     link: https://www.linkedin.com/in/sylvain-letellier/
     finished: true
     
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: alix42/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/alix42.html
+    image: sylvain31/projet_2.png
+    link: 
     finished: true
 
 ---
