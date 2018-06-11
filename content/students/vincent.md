@@ -13,7 +13,7 @@ date: 2018-06-11 14:25
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir developpeur android pour apporter un peu au monde si vaste de l'informatique.
-short_description: J'aime l'informatique, la musique, les jeux vidéos et faire la fétes, et je suis plutot sympathique ! :)
+short_description: J'aime l'informatique, la musique, les jeux vidéos et faire la fétes, et je suis très sympathique!
 
 # don't touch that
 template: students
