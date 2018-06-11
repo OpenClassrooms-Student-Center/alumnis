@@ -1,0 +1,58 @@
+---
+
+# FILENAME : please use your OpenClassrooms's name, available in your url.
+# Example: https://openclassrooms.com/membres/celinemartinet
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
+title: Vincent
+
+# First name or full name
+name: Vincent
+date: 2018-06-11 14:25
+
+# One line.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+objective: Devenir developpeur android pour apporter un peu au monde si vaste de l'informatique.
+short_description: J'aime l'informatique, la musique, les jeux vidéos et faire la fétes, et je suis très sympathique!
+
+# don't touch that
+template: students
+description:
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in repretemplate: students
+    description:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		    consequat. Duis aute irure dolor in repre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		        image: vincent/projet_1.png
+			    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+			                                                                           24,46 94%
+# Change this to True when you do you pull request.
+public: True
+
+# You need to keep the exact same structure for each new project.
+projects:
+  - title: Je me présente !
+    description: Je m'appel vincent, j'ai 21 ans, je suis interesser par l'informatique depuis le collège ou j'ai commencer a apprendre le C/C++ et le java, je suis une personne sympathique et je suis pour l'entraide et l'échange entre developpeurs ! Voici mon lien linkdn : https://www.linkedin.com/in/vincent-hais-946a5a165/
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/students/yourrepo/project1.png
+    image: vincent/projet_1.png
+    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    # 'true' makes 
