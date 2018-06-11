@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Je me présente !
-    description: Je m'appel vincent, j'ai 21 ans, je suis interesser par l'informatique depuis le collège ou j'ai commencer a apprendre le C/C++ et le java, je suis une personne sympathique et je suis pour l'entraide et l'échange entre developpeurs !
+    description: Je m'appel vincent, j'ai 21 ans, je suis interesser par l'informatique depuis le collège ou j'ai commencer a apprendre le C/C++ et le java, je suis une personne sympathique et je suis pour l'entraide et l'échange entre developpeurs ! Voici mon lien linkdn : https://www.linkedin.com/in/vincent-hais-946a5a165/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: vincent/projet_1.png
@@ -50,7 +50,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: vincent/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: true
 ---
