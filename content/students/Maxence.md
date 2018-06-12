@@ -17,9 +17,7 @@ short_description: Violence, speed, momentum and code.
 
 # don't touch that
 template: students
-description:
-
-	Grand passionné high tech, hardware/software, Jeux-vidéo depuis mon plus jeune âge, moteurs de jeu, développement etc.. Fan of retro-wave, DrDisRespect, Devolver.
+description: Grand passionné high tech, hardware/software, Jeux-vidéo depuis mon plus jeune âge, moteurs de jeu, développement etc.. Fan of retro-wave, DrDisRespect, Devolver.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
