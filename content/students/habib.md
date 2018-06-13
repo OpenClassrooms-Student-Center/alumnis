@@ -21,7 +21,9 @@ description:
     Aujourd'hui le numérique est present partout dans nos structures et je pense qu'il est important de comprendre toutes ses technologies. J'ai toujours été passiionné par le numérique et les nouvelle technologies.
 
 # image must be located in content/images/students
- image : Habib.jpg
+# name should be the same as this file. Eg: Habib.png
+image: Habib.png
+
 # Change this to True when you do you pull request.
 public: True
 
