@@ -68,5 +68,10 @@ projects:
     image: tom/projet_6.png
     link: 
     finished: true
+  - title: Créez GrandPy Bot, le papy-robot
+    description: Si vous lui demandez l'adresse d'un lieu, il vous la donnera, certes, mais agrémentée d'un long récit très intéressant.
+    image: tom/projet_7.png
+    link: https://github.com/tomlemeuch/GrandPyBot
+    finished: true
     
 ---
