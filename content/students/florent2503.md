@@ -18,8 +18,11 @@ short_description: J'aime faire de la photo, rider en longboard, écumer les soi
 # don't touch that
 template: students
 description:
-    Trvaillant actuellement dans la logistique,
-    je souhaiterais m'épanouir professionnellement dans le secteur du numérique en tant que développeur d'applications iOS.
+    Je m'appelle Florent, 32 ans, gestionnaire de stock depuis 8 ans. 
+    Mon cursus scolaire s'étant arrêté relativement tôt, je cherche depuis plusieurs années à reprendre les études
+    dans le but de me reconvertir professionnellement. Après avoir essuyé un échec lors du passage de mon DAEU B, j'ai
+    entrepris de me lancer dans une formation moins théorique et plus professionnalisante. J'ai donc ouvert les portes 
+    d'OpenClassrooms et je suis actuellement le parcours de développeur d'applications iOS.
 
 
 
