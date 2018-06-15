@@ -36,7 +36,9 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Gestionnaire de stock depuis huit ans et en parallèle étudiant à OpenClassrooms parcours développeur
+    d'applications iOS.
+    Linkedin : https://www.linkedin.com/in/florent-bruel-vazeux-574090166/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
