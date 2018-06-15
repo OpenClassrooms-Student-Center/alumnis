@@ -36,12 +36,11 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Gestionnaire de stock et étudiant à OpenClassrooms parcours développeur d'applications iOS.
-    https://www.linkedin.com/in/florent-bruel-vazeux-574090166/
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: florent2503/projet1.png
+    link: https://www.linkedin.com/in/florent-bruel-vazeux-574090166/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
