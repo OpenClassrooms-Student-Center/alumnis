@@ -74,6 +74,11 @@ projects:
     image: jeanfrancois/projet_7.png
     link: https://github.com/jfsubrini/project7_grandpy_bot
     finished: true
+  - title: Créez une plateforme pour amateurs de Nutella
+    description: Site web de la startup Pur Beurre qui permet à tous de trouver un substitut sain à tout aliment.
+    image: jeanfrancois/projet_8.png
+    link: https://github.com/jfsubrini/project8_pur_beurre
+    finished: true
   - title: Effectuez un stage ou construisez une veille technologique
     description: Conception d'outils de veille technologique avec Twitter et Feedly.
     image: jeanfrancois/projet_12.png
