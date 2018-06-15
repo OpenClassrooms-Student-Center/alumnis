@@ -1,17 +1,16 @@
 ---
 
 
-# FILENAME : please use your OpenClassrooms's name, available in your 
-url.
+# FILENAME : damgal
 
-# Example: https://openclassrooms.com/membres/celinemartinet
+# Example: https://openclassrooms.com/membres/damgal
 
 # must be the name of your file. If file name is celinemartinet.md, 
 title is celinemartinet.
 
 # lowercase, no blank space, Capital case or special character.
 
-title: Damien
+title: damien
 
 
 # First name or full name
