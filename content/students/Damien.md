@@ -13,8 +13,7 @@ date: 2017-09-07 22:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir developpeur python.
-short_description: En reconversion professionnelle dans le domaine de 
-l'informatique, et plus précisément Python. 
+short_description: En reconversion professionnelle dans le domaine de l'informatique, et plus précisément Python. 
 
 # don't touch that
 template: students
