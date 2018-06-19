@@ -13,13 +13,13 @@ date: 2018-06-19 02:09
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir developpeur python.
-short_description: En reconversion professionnelle dans le domaine de l'informatique, et plus précisément Python. 
+short_description: En reconversion professionnelle dans le domaine de l'informatique, et plus précisément Python.
 
 # don't touch that
 template: students
 description:
-  Je suis de Lille, et j'ai 31 ans. Je suis passionné de Tennis, jeux-vidéo, lecture, et biend 'autres choses.... J'ai choisi l'informatique car j'ai toujours aimé cet environnement. 
-    
+  Je suis de Lille, et j'ai 31 ans. Je suis passionné de Tennis, jeux-vidéo, lecture, et biend 'autres choses.... J'ai choisi l'informatique car j'ai toujours aimé cet environnement.
+ 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 
