@@ -17,8 +17,7 @@ short_description: En reconversion professionnelle dans le domaine de l'informat
 
 # don't touch that
 template: students
-description:
-  Je suis de Lille, et j'ai 31 ans. Je suis passionné de Tennis, jeux-vidéo, lecture, et biend 'autres choses.... J'ai choisi l'informatique car j'ai toujours aimé cet environnement.
+description: Je suis de Lille, et j'ai 31 ans. Je suis passionné de Tennis, jeux-vidéo, lecture, et bien d 'autres choses.... J'ai choisi l'informatique car j'ai toujours aimé cet environnement.
  
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
