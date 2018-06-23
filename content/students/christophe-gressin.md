@@ -13,7 +13,7 @@ date: 2018-06-22 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire plaisir dans une activité qui m'a toujours attiré : le développement web.
+objective: Me faire plaisir dans une activité qui m'a toujours attiré, le développement web.
 short_description: Passionné de photo et d'informatique, curieux... la photo est mon métier, je souhaite le compléter avec du développement.
 
 # don't touch that
