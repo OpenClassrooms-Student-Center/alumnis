@@ -10,7 +10,6 @@ title: christophe-gressin
 name: Christophe
 date: 2018-06-22 17:20
 
-
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me faire plaisir dans une activité qui m'a toujours attiré, le développement web.
@@ -36,7 +35,7 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Nouveau changement de vie avec une orientation vers le développement web. Mon LinkedIn :  A venir
+    description: Nouveau changement de vie avec une orientation vers le développement web.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: christophe-gressin/p2-photo1.jpg
