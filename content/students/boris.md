@@ -1,3 +1,5 @@
+# ----
+
 # FILENAME : Boris mbaute ndo.
 # Example: https://openclassrooms.com/membres/boris-mbaute-ndo
 # must be the name of your file. If file name is boris.md, title is boris.
@@ -36,7 +38,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: boris/projet_1.png
+    image: boris.png
     link: https://www.linkedin.com/in/boris-mbaute-ndo-279515163/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
@@ -44,4 +46,4 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: boris/projet_2.png
     link: https://github.com/MBAUTENDO
-    finished: true
+    finished: true.
