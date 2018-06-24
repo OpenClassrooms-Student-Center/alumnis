@@ -39,7 +39,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: christophe-gressin/p2-photo1.jpg
-    link: https://openclassrooms.com/membres/christophe-gressin
+    link: https://www.linkedin.com/in/christophe-gressin-developpeur/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
