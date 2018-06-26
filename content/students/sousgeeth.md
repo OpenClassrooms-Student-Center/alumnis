@@ -44,8 +44,8 @@ projects:
     image: sousgeeth/projet_2.jpg
     link: https://github.com/sharingan23/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Créez votre premier jeu avec swift !
+    description: Création d’un jeu développé en Swift.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
