@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Créez votre premier jeu avec swift !
     description: Création d’un jeu développé en Swift.
-    image: ratus/projet_3.png
+    image: sousgeeth/projet_3.png
     link: https://www.github.com
     finished: false
 ---
