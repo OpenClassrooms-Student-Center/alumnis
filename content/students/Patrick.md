@@ -16,7 +16,7 @@ title: patrick
 
 name: Wiley
 
-date: 2016-10-28 17:20
+date: 2018-06-26 13:40
 
 
 # One line.
@@ -80,5 +80,14 @@ projects:
 
     finished: true
 
+  - title: Aidez MacGyver à sortir !
+
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+
+    image: ratus/projet_3.png
+
+    link: https://www.github.com
+
+    finished: false
 
 ---
