@@ -25,7 +25,7 @@ date: 2018-06-26 13:40
 
 objective: Devenir développeur Application IOS.
 
-short_description: De formation plutôt technique. Sous-Chef de Cuisine, ces dernières années, je reviens à ma première "vibration".Devenir Développeur Application IOS est la première étape de ma nouvelle vie professionnelle.
+short_description: Sous-Chef de Cuisine, ces dernières années, je reviens à ma première "vibration", en devenant Développeur Application IOS.
 
 
 # don't touch that
@@ -54,7 +54,7 @@ public: True
 
 projects:
 
-  - title: Je m'appelle Patrick, de formation plutôt technique. Sous-Chef de Cuisine de métier, ces dernières années, je reviens à ma première "vibration".
+  - title: Je m'appelle Patrick, Sous-Chef de Cuisine ces dernières années, je reviens à ma première "vibration".
 
     description: Je reviens dans un monde, ma première vibration, avec sagesse et impatience d'apprendre.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
