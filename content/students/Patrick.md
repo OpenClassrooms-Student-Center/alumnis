@@ -56,7 +56,7 @@ projects:
 
   - title: Je m'appelle Patrick, Sous-Chef de Cuisine ces dernières années, je reviens à ma première "vibration".
 
-    description: Je reviens dans un monde, ma première vibration, avec sagesse et impatience d'apprendre.
+    description: Avec sagesse et impatience d'apprendre.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/patrick/project1.png
