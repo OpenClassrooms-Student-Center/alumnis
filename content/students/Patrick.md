@@ -14,18 +14,18 @@ title: patrick
 
 # First name or full name
 
-name: patrick francois
+name: Wiley
 
-date: 2016-10-28 17:20
+date: 2018-06-26 13:40
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir développeur de métier.
+objective: Devenir développeur Application IOS.
 
-short_description: J'aime l'informatique, les jeux vidéo et les animés japonais.
+short_description: Sous-Chef de Cuisine, ces dernières années, je reviens à ma première "vibration", en devenant Développeur Application IOS.
 
 
 # don't touch that
@@ -54,16 +54,16 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Je m'appelle Patrick, Sous-Chef de Cuisine ces dernières années, je reviens à ma première "vibration".
 
-    description: J'aime le développement informatique, les applications et l'apprentissage.
+    description: Avec sagesse et impatience d'apprendre.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/patrick/project1.png
 
     image: patrick/projet_1.png
 
-    link: www.linkedin.com/in/patrick-francois-266801155
+    link: www.linkedin.com/in/patrick-wiley-a1aa0a159
     # 'true' makes it fully available.
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
