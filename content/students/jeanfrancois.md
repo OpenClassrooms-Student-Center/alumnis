@@ -79,6 +79,11 @@ projects:
     image: jeanfrancois/projet_8.png
     link: https://github.com/jfsubrini/project8_pur_beurre
     finished: true
+  - title: Déployez votre application sur un serveur comme un pro !
+    description: Mise en ligne d'une application Django en déploiement continu.
+    image: jeanfrancois/projet_10.png
+    link: https://github.com/jfsubrini/project10_pur_beurre_deploy
+    finished: true
   - title: Effectuez un stage ou construisez une veille technologique
     description: Conception d'outils de veille technologique avec Twitter et Feedly.
     image: jeanfrancois/projet_12.png
