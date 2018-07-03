@@ -65,8 +65,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Bonjour! Je démarre le cours de programmation Android sur OpenClassrooms depuis peu.
-	Android, me voila !
+    description: Je démarre le cours de programmation Android sur OpenClassrooms depuis peu. Android, me voila !
 	https://www.linkedin.com/in/ka-ak-19519a166/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -85,7 +84,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests. 
 
     image: karine/projet_2.png
 
