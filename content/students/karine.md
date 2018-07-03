@@ -23,9 +23,9 @@ date: 2018-07-01 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me former au développement ANDROID, et plus si affinités
+objective: Me former au développement ANDROID, et plus si affinités.
 
-short_description: J'aime apprendre, la programmation, la magie... quelques idées de programme ANDROID dans ce domaine.
+short_description: J'aime apprendre, la programmation, la magie... quelques idées de programme en tête.
 
 
 # don't touch that
@@ -56,7 +56,7 @@ image: karine.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -66,7 +66,6 @@ projects:
   - title: Présentez-vous !
 
     description: Je démarre le cours de programmation Android sur OpenClassrooms depuis peu. Android, me voila !
-	https://www.linkedin.com/in/ka-ak-19519a166/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -74,7 +73,7 @@ projects:
 
     image: karine/projet_1.png
 
-    link: https://openclassrooms.com/membres/karine-ausset
+    link: https://www.linkedin.com/in/ka-ak-19519a166/
 
     # 'true' makes it fully available.
 
@@ -84,11 +83,11 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github, des pull requests. 
 
     image: karine/projet_2.png
 
-    link: https://github.com/Kaak99
+    link: https://github.com/Kaak99/alumnis
 
     finished: true
 
