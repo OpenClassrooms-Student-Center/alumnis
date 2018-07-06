@@ -12,13 +12,11 @@ date: 2018/07/06 12:25
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Add some code lines to the existing ones. 
-# max 100 characters
+objective: To add some code lines to the existing ones.
 short_description: What I like most in life : reading, learning, making things, puzzles and sport.  
 
 # don't touch that
 template: students
-# max 500 characters
 description:
     Curious andLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -29,7 +27,6 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-# max size: 200ko
 image: delphine.png
 
 # Change this to True when you do you pull request.
@@ -38,7 +35,6 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    # max 100 characters
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # create a new repository for your images. Name it the same as your nickname and profile picture.
     # image must be here: content/students/yourrepo/project1.png
@@ -51,10 +47,5 @@ projects:
     image: delphine/projet_2.png
     link: https://github.com/BuzzLightYear152
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
     
 ---
