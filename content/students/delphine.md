@@ -1,4 +1,4 @@
----
+ï»¿---
 
 
 
@@ -75,11 +75,11 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: PrÃ©sentez-vous !
     
 # max 100 characters
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -93,7 +93,7 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
@@ -102,8 +102,8 @@ projects:
     link: https://github.com/BuzzLightYear152
     finished: true
 
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: CrÃ©ation dâ€™un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
