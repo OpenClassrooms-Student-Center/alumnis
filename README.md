@@ -1,4 +1,4 @@
- # Sens de la vie ?
+# Pourquoi, comment, quel est le sens de la vie ?
 Vaste question qu'il serait trop long de discuter ici ! Quant à ce site, il a pour but de rassembler nos fabuleux élèves qui suivent le parcours Développeur d'Application spécialité Python chez OpenClassrooms.
 [Visiter le site](https://Openclassrooms-student-center.github.io/alumnis)
 
