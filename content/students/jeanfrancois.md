@@ -55,13 +55,33 @@ projects:
     link: https://github.com/jfsubrini/project3_mmg
     finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
-    description: Création d’un dossier de spécifications fonctionnelles.
+    description: Création d’un dossier de spécifications fonctionnelles pour le projet OC Pizza.
     image: jeanfrancois/projet_4.png
     link: ""
     finished: true
-  - title: Utilisez les données publiques de L'OpenFoodFacts
+  - title: Utilisez les données publiques de l'OpenFoodFacts
     description: Réaliser un programme qui propose pour un aliment donné un autre de substitution grâce aux données de l'Open Food Facts.
     image: jeanfrancois/projet_5.png
     link: https://github.com/jfsubrini/project5_off_converter
+    finished: true
+  - title: Concevez la solution technique d'un système de gestion de pizzeria
+    description: Conception d'un dossier technique pour la projet OC Pizza.
+    image: jeanfrancois/projet_6.png
+    link: https://github.com/jfsubrini/project6_oc_pizza
+    finished: true
+  - title: Créez GrandPy Bot, le papy-robot
+    description: Conception d'un site web de recherche d'adresse avec un robot conversationnel.
+    image: jeanfrancois/projet_7.png
+    link: https://github.com/jfsubrini/project7_grandpy_bot
+    finished: true
+  - title: Créez une plateforme pour amateurs de Nutella
+    description: Site web de la startup Pur Beurre qui permet à tous de trouver un substitut sain à tout aliment.
+    image: jeanfrancois/projet_8.png
+    link: https://github.com/jfsubrini/project8_pur_beurre
+    finished: true
+  - title: Effectuez un stage ou construisez une veille technologique
+    description: Conception d'outils de veille technologique avec Twitter et Feedly.
+    image: jeanfrancois/projet_12.png
+    link: ""
     finished: true
 ---

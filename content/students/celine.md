@@ -13,7 +13,7 @@ date: 2017-09-28 10:03
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Réussir la formation.
 short_description: >
-    Je m'appelle Céline Lin , j'ai 19 ans. Je me lance dans cette formation pour pouvoir avoir un changement de ma vie actuel.
+    Je m'appelle Céline Lin, j'ai 19 ans. Je me lance dans cette formation pour pouvoir avoir un changement de ma vie actuel.
 
  
 # don't touch that

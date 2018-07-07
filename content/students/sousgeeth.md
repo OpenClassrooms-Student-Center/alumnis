@@ -4,48 +4,49 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: morgan
+title: sousgeeth
 
 # First name or full name
-name: Morgan
-date: 2017-09-19 18:04
+name: Sousgeeth
+date: 2018-06-18 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Réussir le parcours développeur d'application JAVA
-short_description: En reconversion professionnelle en développement d'application JAVA
+objective: Etre un developpeur iOS brillant, et créer plein d'applications.
+short_description: J'aime le curry , les jeux videos , les sports en general.
 
 # don't touch that
 template: students
 description:
-    Passionné par les nouvelles technologies, de formation financière je souhaite élargir mes compétences
-    et essayer de me reconvertir dans ce métier passionnant.
+    J'ai 26 ans, j'entretiens la relation client serveur dans un bar les week-ends. Et j'étais à l'UPMC.
+
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: morgan.jpg
+image: sousgeeth.jpg
 
-# Change this to True when you do you pull request.
+# Change this to True when you do your pull request.
 public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    description: J'ai 26 ans, je suis un passioné de l'informatique surtout de la programmation, et je pratique beaucoup de sports, et je travaille en tant que serveur les week-ends.
+# Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: morgan/projet_1.png
-    link: https://www.linkedin.com/in/morgan-brighi-1187b0a4/
+    image: sousgeeth/projet_1.jpg
+    link: https://www.linkedin.com/in/sugeethkumar-vigneswaranathan-6993a3166
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: morgan/projet_2.png
-    link: https://github.com/MorganB69
+    image: sousgeeth/projet_2.jpg
+    link: https://github.com/sharingan23/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d'un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+  - title: Créez votre premier jeu avec swift !
+    description: Création d’un jeu développé en Swift.
+    image: sousgeeth/projet_3.png
     link: https://www.github.com
     finished: false
 ---
