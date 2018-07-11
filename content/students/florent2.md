@@ -18,12 +18,9 @@ short_description: Passionné d'informatique, de Jeux Vidéo et de la culture ge
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Développeur depuis maintenant quelques années, 
+    je souhaite fonder ma propre entreprise de jeux vidéo !
+    Je suis passionné d'informatique et de la culture geek en général.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
