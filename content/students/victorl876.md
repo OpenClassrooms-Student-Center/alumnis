@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Victor
+title: victorl876.md
 
 # First name or full name
 name: Victor LE
@@ -13,7 +13,7 @@ date: 2018-06-27 18:10
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Acquérir les compétences de développement en Java EE/Spring.
-short_description: Fan de développement d'applications web, je commence à découvrir les rudiments de la programmation objet/nouvelle technologie.
+short_description: Fan de développement d'applications web, je commence à découvrir les rudiments de la programmation obj.
 
 # don't touch that
 template: students
@@ -34,19 +34,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: victorl876/victor-p1.jpeg
+    image: content/images/students/victorl876/victorl876-linkedin.jpeg
     link: https://www.linkedin.com/in/victor-le-93644435/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: victorl876/victor-p2.jpeg
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et des pullrequests. 
+    image: content/images/students/victorl876/victor-p2.jpeg
     link: https://github.com/victorle876/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+  - title: Mastermind contre l'ordinateur !
+    description: Création d’un mastermind en java.
+    image: content/images/students/victor-p1.jpeg
     link: https://www.github.com
     finished: false
 ---
