@@ -20,7 +20,7 @@ description: A 31 ans j'ai décidé de reprendre mes études au CNAM d'abord et 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: steven.png
 
 # Change this to True when you do you pull request.
 public: False
