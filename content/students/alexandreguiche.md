@@ -13,7 +13,7 @@ date: 2018-07-16 13:33
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Mes objectifs sont de consolider mes bases en programmation Python ainsi qu'en programmation web afin d'en faire mon métier.
-short_description: "Il y a deux moyens d’oublier les tracas de la vie, la musique et les chats." Albert Schweitzer
+short_description: Il y a deux moyens d’oublier les tracas de la vie, la musique et les chats. Albert Schweitzer
 
 # don't touch that
 template: students
