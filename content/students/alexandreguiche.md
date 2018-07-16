@@ -18,8 +18,8 @@ short_description:
 # don't touch that
 template: students
 description:
-    Il y a deux moyens d’oublier les tracas de la vie : 
-    la musique et les chats.
+    "Il y a deux moyens d’oublier les tracas de la vie,
+    la musique et les chats."
        Albert Schweitzer 
 
 # image must be located in content/images/students
