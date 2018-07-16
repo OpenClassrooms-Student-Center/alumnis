@@ -1,4 +1,4 @@
-﻿---
+---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -12,7 +12,7 @@ date: 2018-07-13 17:15
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Mes objectifs sont de consolider mes bases en programmation Python, ainsi qu'apprendre la programmation web afin d'en faire mon métier.
+objective: Mes objectifs sont de consolider mes bases en programmation Python, ainsi qu'apprendre la programmation web afin d'en faire        mon métier.
 short_description: 
 
 # don't touch that
