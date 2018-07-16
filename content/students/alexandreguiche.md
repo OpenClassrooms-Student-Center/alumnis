@@ -8,20 +8,21 @@ title: alexandreguiche
 
 # First name or full name
 name: Alexandre
-date: 2018-07-13 17:15
+date: 2018-07-16 13:33
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Mes objectifs sont de consolider mes bases en programmation Python, ainsi qu'apprendre la programmation web afin d'en faire        mon métier.
-short_description: 
+objective: Mes objectifs sont de consolider mes bases en programmation Python, ainsi qu'apprendre la programmation web afin d'en faire       mon métier.
+short_description: "Il y a deux moyens d’oublier les tracas de la vie, la musique et les chats." Albert Schweitzer
 
 # don't touch that
 template: students
-description: "Il y a deux moyens d’oublier les tracas de la vie, la musique et les chats." Albert Schweitzer 
+description: 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: alexandreguiche.JPG
+
 # Change this to True when you do you pull request.
 public: True
 
@@ -39,11 +40,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: alexandreguiche/projet_2.png
-    link: https://github.com/Larstranas/alumnis
+    link: https://github.com/Larstranas
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: alexandreguiche/projet_3.png
+    image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
 ---
