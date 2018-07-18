@@ -41,7 +41,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet2_.png
+    image: image/projet2_.png
     link: www.linkedin.com/in/steven-orcun-a2a7b1166
     finished: true
 ---
