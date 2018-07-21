@@ -1,6 +1,4 @@
 ﻿---
-
-
 title: vincentjavelle
 
 name: Vincent Javelle
@@ -8,15 +6,13 @@ date: 2016-10-28 17:20
 
 objective: Me diversifier dans mes compétences
 
-short_description: Dev php voulant se diversifier et ainsi pouvoir évoluer dans sa carrière
+short_description: Dev php voulant se diversifier et ainsi pouvoir évoluer dans sa carrière.
 
 template: students
-
 description:
-    J'aime le développement web
+    J'aime le développement web.
 
 image: photo-vincent.jpg
-
 public: False
 
 projects:
