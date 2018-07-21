@@ -9,6 +9,7 @@ objective: Dev php voulant se diversifier et ainsi pouvoir évoluer dans sa carr
 short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
 
 template: students
+
 description:
     J'aime le développement web
 
