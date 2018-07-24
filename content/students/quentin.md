@@ -192,7 +192,7 @@ projects:
 
     finished: true
 
-  - title: Projet final : prêt pour le feu d’artifices ?
+  - title: Projet final, prêt pour le feu d’artifices ?
 
     description: Création d'un site de comparasion de prix de cartes Pokémon et reconnaissance d'image
 
