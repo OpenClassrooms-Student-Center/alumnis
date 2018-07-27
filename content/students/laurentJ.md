@@ -29,8 +29,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Je m'appelle laurent, Lo pour le intimes, j'ai 34 ans et je souhaite me lancer un nouveau défis dans la programation : créer des applications iOS!
+  - title: I am here
+    description: Je m'appelle laurent, j'ai 34 ans et je souhaite créer des applications iOS!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: laurentJ/laurentJ.jpg
