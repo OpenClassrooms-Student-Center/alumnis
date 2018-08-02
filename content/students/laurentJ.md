@@ -7,7 +7,7 @@
 title: laurentJ
 
 # First name or full name
-name: LaurentJ
+name: laurentJ
 date: 2018-07-26 17:20
 
 # One line.
