@@ -13,7 +13,7 @@ description:
     J'aime le développement web.
 
 image: photo-vincent.jpg
-public: False
+public: True
 
 projects:
   - title: Présentez-vous !
