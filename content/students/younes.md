@@ -48,5 +48,11 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: True
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias !
+    description: Analyser le besoin d'un client a partir d'un cahier de charge et faire la modélisation du projet avec UML.
+    image: ratus/younes/projet4.png
+    link: https:https://drive.google.com/open?id=1ai_yRj0JBsJ0TUT6OWBX_gBQOm-gT8FT
+    finished: True
+
 ---
