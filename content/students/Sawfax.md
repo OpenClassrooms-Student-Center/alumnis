@@ -9,24 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: sofiane
 
 
 # First name or full name
 
-name: Ratus
+name: Sofiane
 
-date: 2016-10-28 17:20
+date: 2018-08-10 02.29:00:03
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
-
+objective: Devenir polyvalent sur plusieurs langages informarique. Adaptation 
+short_description: 
+Devenir polyvalent sur plusieurs langages informatiques aussi bien en back ou front end, pour devenir plus polyvalent et avoir une meilleure capacité d'adapation.
 
 # don't touch that
 
@@ -51,13 +50,12 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: sofiane.jpg
 
 
 # Change this to True when you do you pull request.
 
 public: False
-
 
 # You need to keep the exact same structure for each new project.
 
