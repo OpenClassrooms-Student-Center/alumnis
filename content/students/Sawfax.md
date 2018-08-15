@@ -3,7 +3,7 @@
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
-# Example: https://openclassrooms.com/membres/celinemartinet
+# Example: https://openclassrooms.com/fr/membres/sofianeaidoudi
 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 
@@ -22,28 +22,24 @@ date: 2018-08-15
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir polyvalent sur plusieurs langages informarique. Adaptation 
-short_description: 
-Devenir polyvalent sur plusieurs langages informatiques aussi bien en back ou front end, pour devenir plus polyvalent et avoir une meilleure capacité d'adapation.
-
+objective: Devenir polyvalent sur plusieurs langages informatique back end et front end.
+short_description:J'aime bien réfléchir,échanger et débattre sur des sujets aussi intéressant que différents. Curieux et intérésser de tout !
 # don't touch that
 
 template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+Bien le bonjour à la personne qui me lit.
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+Coucou moi c'est Sofiane, j'ai 28 ans et je viens suivre le parcours DA Python, je suis ici pour une reconversion professionnelle.
+Après de nombreuses recherches infructueuses, j'espère trouver un emploi dans ce domaine vaste et éclectique !
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+Sinon, je pratique l'astronomie, la photographie, les jeux vidéo, de la guitare, de la basse, le théâtre et je fait de temps en temps de l’interprétation des rêves pour les gens intéresser ^^
 
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+J'espère que ça se passera bien et je suis ravi de faire votre connaissance.;)
+Au plaisir !
+Peace
 
 # image must be located in content/images/students
 
@@ -62,7 +58,8 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Je suis une personne ouverte au débat, réflexion, profiter de l'instant de temps en temps pour suporter la vie ou la survivre. Je ne sais mais dans tous les je me prepare mon tracé. https://www.linkedin.com/in/sofiane-aidoudi-97670973/
+    description: Je suis une personne ouverte au débat, réflexion, profiter de l'instant de temps en temps pour suporter la vie ou la survivre.
+Pour ainsi préparer mon avenir dans l'informatique. https://www.linkedin.com/in/sofiane-aidoudi-97670973/
 
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
