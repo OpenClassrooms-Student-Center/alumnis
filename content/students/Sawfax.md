@@ -58,7 +58,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Je suis une personne ouverte au débat, réflexion, profiter de l'instant de temps en temps pour suporter la vie ou la survivre.
+    description: Je suis une personne ouverte au débat, réflexion, profiter de l'instant de temps en temps même si la vie est dure !
 Pour ainsi préparer mon avenir dans l'informatique. https://www.linkedin.com/in/sofiane-aidoudi-97670973/
 
 
