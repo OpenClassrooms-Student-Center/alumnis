@@ -28,9 +28,7 @@ short-description: J'aime bien réfléchir,échanger et débattre sur des sujets
 
 template: students
 
-description:
-
-Bien le bonjour à la personne qui me lit.
+description: Bien le bonjour à la personne qui me lit. :D
 
 Coucou moi c'est Sofiane, j'ai 28 ans et je viens suivre le parcours DA Python, je suis ici pour une reconversion professionnelle.
 Après de nombreuses recherches infructueuses, j'espère trouver un emploi dans ce domaine vaste et éclectique !
