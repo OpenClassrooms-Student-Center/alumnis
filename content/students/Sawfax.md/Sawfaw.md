@@ -23,7 +23,7 @@ date: 2018-08-15
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
 objective: Devenir polyvalent sur plusieurs langages informatiques back end et front end.
-short-description:J'aime bien réfléchir,échanger et débattre sur des sujets aussi intéressant que différents. Curieux et intérésser de tout !
+short-description: J'aime bien réfléchir,échanger et débattre sur des sujets aussi intéressant que différents. Curieux et intérésser de tout !
 # don't touch that
 
 template: students
