@@ -1,4 +1,32 @@
-Oui, j'ai oublié de taper quelques
-lignes de code. Sans quoi mon
-fichier serait resté vide 
-Voyons maintenat pour l'encodage
+https://openclassrooms.com/fr/paths/88-developpeur-dapplication-java/georgesnordon
+
+
+title : NORDON
+
+Name: NORDON
+date: 2016-10-28 17:20
+
+
+objective: Apprendre le langage Java
+
+short_description: J'apprends à coder pour me faire une nouvelle jeunesse.
+
+template: students
+
+description:
+
+    Je ne maitrise pas le latin, mais j'ai quelques notions, sans doute peu utiles en Java. Mai qui peuvent toujours servir dans d'autres circonstances : Morituri te salutant. Quo vadis ? Errare humanum est sed perseverare diabolicum. But probably more useful when it comes to learning Java, I can read and write English rather well. But I admit I have no credit for that because my mother and her family are English from Western Super Mare and from Derby. Ich kann auch ein wenig deutsch sprechen, nur nicht so gut. Aber am besten natürlich möchte ich Java lernen and flüssig sprechen können.
+   
+ 
+
+image: nordon.jpg
+
+
+
+# Change this to True when you do you pull request.
+
+public: True
+
+---
+
+
