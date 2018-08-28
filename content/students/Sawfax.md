@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 # FILENAME :Sawfax
 =======
-# FILENAME : Sofiane Aidoudi
+# FILENAME :Sawfax
 >>>>>>> 14b80de1a32dafbbcdc58f5e1d703f2467835fc4
 
 # Example: https://openclassrooms.com/fr/membres/sofianeaidoudi
@@ -13,7 +13,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title:Sofiane
+title:Sawfax
 
 
 # First name or full name
@@ -46,7 +46,7 @@ Peace
 <<<<<<< HEAD
 image:Sawfax.jpg
 =======
-image:sofiane.jpg
+image:Sawfax.jpg
 
 >>>>>>> 14b80de1a32dafbbcdc58f5e1d703f2467835fc4
 
@@ -67,7 +67,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image:Projet 1 Sofiane 91.png
+    image:Projet 1.png
 
     link: https://github.com/Sawfax/alumnis/blob/master/content/images/students/Projet%201%20Sofiane%2091.png
     # 'true' makes it fully available.
@@ -80,7 +80,7 @@ projects:
 
     description:Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image:Projet 2 Sofiane 91.png
+    image:Projet 2.png
 
     link: https://github.com/Sawfax/alumnis/blob/master/content/images/students/Projet%202%20Sofiane%2091.png
 
