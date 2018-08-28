@@ -1,7 +1,7 @@
 ---
 
 
-# FILENAME :Sofiane Aidoudi
+# FILENAME :Sawfax
 
 # Example: https://openclassrooms.com/fr/membres/sofianeaidoudi
 
@@ -39,8 +39,7 @@ Peace
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image:sofiane.jpg
-
+image:Sawfax.jpg
 
 # Change this to True when you do you pull request.
 
