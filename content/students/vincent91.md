@@ -37,14 +37,14 @@ projects:
     description: Faire une présentation de soi-même, mettre son CV à jour et s'inscrire et créer un profil sur LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: vincent91/projet1.jpg
+    image: vincent91/project01.png
     link: https://www.linkedin.com/in/vincent-houillon-00aa5a63/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: vincent91/github_fork.png
+    image: vincent91/project02.png
     link: https://github.com/vincenthouillon/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
