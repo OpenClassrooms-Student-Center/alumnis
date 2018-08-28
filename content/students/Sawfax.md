@@ -1,7 +1,11 @@
 ---
 
 
+<<<<<<< HEAD
 # FILENAME :Sawfax
+=======
+# FILENAME : Sofiane Aidoudi
+>>>>>>> 14b80de1a32dafbbcdc58f5e1d703f2467835fc4
 
 # Example: https://openclassrooms.com/fr/membres/sofianeaidoudi
 
@@ -16,7 +20,7 @@ title:Sofiane
 
 name:Sofiane
 
-date:23-08-2018
+date:29-08-2018
 
 # One line.
 
@@ -39,7 +43,12 @@ Peace
 
 # name should be the same as this file. Eg: celinemartinet.png
 
+<<<<<<< HEAD
 image:Sawfax.jpg
+=======
+image:sofiane.jpg
+
+>>>>>>> 14b80de1a32dafbbcdc58f5e1d703f2467835fc4
 
 # Change this to True when you do you pull request.
 
