@@ -8,7 +8,7 @@ title: barandil
 
 # First name or full name
 name: Baran 
-date: 2016-10-28 17:20
+date: 2016-10-29 15:39
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -38,16 +38,16 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: barandil/projet_1.png
     link: https://www.linkedin.com/in/baran-dilek-075/ 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: 
+    image: barandil/projet_2.png
     link: https://github.com/Barandil/alumnis
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
