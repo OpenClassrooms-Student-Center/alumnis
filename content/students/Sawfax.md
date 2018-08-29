@@ -1,12 +1,6 @@
 ---
 
-
-<<<<<<< HEAD
 # FILENAME :Sawfax
-=======
-# FILENAME :Sawfax
->>>>>>> 14b80de1a32dafbbcdc58f5e1d703f2467835fc4
-
 # Example: https://openclassrooms.com/fr/membres/sofianeaidoudi
 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -14,7 +8,6 @@
 # lowercase, no blank space, Capital case or special character.
 
 title:Sawfax
-
 
 # First name or full name
 
@@ -43,12 +36,7 @@ Peace
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-<<<<<<< HEAD
 image:Sawfax.jpg
-=======
-image:Sawfax.jpg
-
->>>>>>> 14b80de1a32dafbbcdc58f5e1d703f2467835fc4
 
 # Change this to True when you do you pull request.
 
