@@ -13,12 +13,9 @@ objective: Devenir polyvalent sur plusieurs langages informatique back end et fr
 short-description: J'aime bien réfléchir,échanger et débattre sur des sujets aussi intéressant que différents. Curieux et intérésser de tout !
 # don't touch that
 template: students
-description: Bien le bonjour à la personne qui me lit.D
-Coucou moi c'est Sofiane, j'ai 28 ans et je viens suivre le parcours DA Python, je suis ici pour une reconversion professionnelle. Après de nombreuses recherches infructueuses, j'espère trouver un emploi dans ce domaine vaste et éclectique !
-Sinon, je pratique l'astronomie, la photographie, les jeux vidéo, de la guitare, de la basse, le théâtre et je fait de temps en temps de l’interprétation des rêves pour les gens intéresser ^^
-J'espère que ça se passera bien et je suis ravi de faire votre connaissance.;)
-Au plaisir !
-Peace
+description: Bien le bonjour à la personne qui me lit :D Coucou moi c'est Sofiane, j'ai 28 ans et je viens suivre le parcours DA Python, je suis ici pour une reconversion professionnelle. Après de nombreuses recherches infructueuses, j'espère trouver un emploi dans ce domaine vaste et éclectique !
+    Sinon, je pratique l'astronomie, la photographie, les jeux vidéo, de la guitare, de la basse, le théâtre et je fait de temps en temps de l’interprétation des rêves pour les gens intéresser ^^
+    J'espère que ça se passera bien et je suis ravi de faire votre connaissance.;) Au plaisir ! Peace
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: Sawfax.jpg
