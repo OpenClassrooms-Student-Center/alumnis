@@ -26,16 +26,16 @@ projects:
   - title: Présentez-vous !
     description: Je suis une personne ouverte d'estprit et au débat à la réflexion, profiter de l'instant même si la vie est dure ! Tres exciter de travailler dans la programmation. voici mon linkedin https://www.linkedin.com/in/sofiane-aidoudi-97670973/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: Projet1.png
-    link: https://github.com/Sawfax/alumnis/blob/master/content/images/students/Projet%201%20Sofiane%2091.png
+    # Image must be here: content/students//project1.png
+    image: Sawfax/Projet1.png
+    link: 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Projet2.png
-    link: https://github.com/Sawfax/alumnis/blob/master/content/images/students/Projet%202%20Sofiane%2091.png
+    image: Sawfax/Projet2.png
+    link: 
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
