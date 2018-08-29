@@ -67,7 +67,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image:Projet 1.png
+    image:Projet1.png
 
     link: https://github.com/Sawfax/alumnis/blob/master/content/images/students/Projet%201%20Sofiane%2091.png
     # 'true' makes it fully available.
@@ -80,7 +80,7 @@ projects:
 
     description:Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image:Projet 2.png
+    image:Projet2.png
 
     link: https://github.com/Sawfax/alumnis/blob/master/content/images/students/Projet%202%20Sofiane%2091.png
 
