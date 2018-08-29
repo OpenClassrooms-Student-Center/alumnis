@@ -22,7 +22,7 @@ description: >
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: jb.jpg
+image: 
 
 # Change this to True when you do you pull request.
 public: True
@@ -44,7 +44,9 @@ projects:
     finished: True
   - title: Mettez votre logique à l'épreuve !
     description: Création d'un jeu pour tester la logique.
-    image: lorraine/projet_3.png
-    link: https://www.github.com
+    image: jb3.png
+    link: https://github.com/jbservais
     finished: false
 ---
+
+
