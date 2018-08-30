@@ -20,7 +20,7 @@ description:    Je m'appelle Benoit, j'ai 23 ans et j'apprends à coder en Swift
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Benoit.svgg
+image: Benoit.svg
 
 # Change this to True when you do you pull request.
 public: True
