@@ -1,0 +1,30 @@
+---
+
+# FILENAME : 
+# Example: 
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
+title: Georges
+
+# First name or full name
+name: Georges
+date: 2018-08-31
+
+# One line.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+objective: Apprendre Java
+short_description: Débutant mais motivé
+
+# don't touch that
+template: students
+description:
+    Je suis retraité mais l'informatique m'intéresse et je considère qu'à 63 ans j'ai encore quelques semaines devant moi pour apprendre
+
+# image must be located in content/images/students
+# name should be the same as this file. Eg: celinemartinet.png
+image: nordon.jpg
+
+# Change this to True when you do you pull request.
+public: false
+
+---
