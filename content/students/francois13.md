@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Francois13/Projet1.png
+    image: francois13/Projet1.png
     link: https://www.linkedin.com/in/fran%C3%A7ois-ponsaill%C3%A9-613903142/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
