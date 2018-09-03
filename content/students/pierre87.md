@@ -4,16 +4,16 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: pierremrcr
+title: pierre87
 
 # First name or full name
 name: Pierre
-date: 2017-11-19 19:00
+date: 2018-09-03 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à coder pour devenir développeur
-short_description: J'aime la musique, le cinéma, le web et les nouvelles technologies.
+objective: Devenir codeur, développeur, programmeur ascendant développeur.
+short_description: J'aime la musique, le cinéma, les voyages, faire du sport.
 
 # don't touch that
 template: students
@@ -27,7 +27,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: pierremrcr.jpg
+image: pierre87.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -38,19 +38,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: projet_1.png
+    image: pierre87/projet_1.png
     link: https://www.linkedin.com/in/pierremrcr/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: projet_2.png
+    image: pierre87/projet_2.png
     link: https://github.com/pierremrcr/alumnis
     finished: true
-  - title: Mettez votre logique à l'épreuve
-    description: Pret à programmer ? Et si vous commenciez par développer un jeu pour tester votre logique ?
-    image: projet_3.png
-    link: https://www.github.com
-    finished: false
+  
 ---
