@@ -21,10 +21,10 @@ description:
 
 image: robin.jpg
 
-# Change this to True when you do you pull request.
-public: False
 
-# You need to keep the exact same structure for each new project.
+public: True
+
+
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
@@ -42,7 +42,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: robin/projet_3.png
     link: https://www.github.com
     finished: false
 ---
