@@ -6,17 +6,17 @@ title : NORDON
 
 # First name or full name
 name: Georges
-date: 2018-09-03 9:00
+date: 2018-09-05 9:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre Java
-short_description: Débutant mais motivé
+short_description: Debutant mais motive
 
 # don't touch that
 template: students
 description:
-Je pense que j'ai encore la possibilité d'apprendre Java avant que Microsoft n'ait encore complètement décidé pour moi de ce que je devais faire
+Je pense que j'ai encore la possibilite d'apprendre Java avant que Microsoft n'ait encore completement decide pour moi de ce que je devais faire. Et j'ajoute (c'est le commit)que grace � Microsoft et � ses failles j'ai appris quelques commandes de Linux
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
