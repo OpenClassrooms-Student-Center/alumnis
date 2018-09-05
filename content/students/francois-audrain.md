@@ -34,17 +34,8 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Titulaire d'un Bac ES au départ, j'ai par la suite travaillé, voyagé et fait diverses autres choses avant de reprendre des études d'histoire. Mon master terminé, je me lance dans une reconversion
+    complète dans le développement d'application en Python. La formation ne fait que commencer, mais je me réjouis déjà de mes quelques nouvelles compétences !
 
 
 # image must be located in content/images/students
@@ -73,7 +64,7 @@ projects:
 
     image: francois-audrain/projet1.png
 
-    link: https://www.linkedin.com/in/fran%C3%A7ois-audrain?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ0nEPAdAReKPvlBUBBfB5g%3D%3D
+    link: https://www.linkedin.com/in/fran%C3%A7ois-audrain/
 
     # 'true' makes it fully available.
 
