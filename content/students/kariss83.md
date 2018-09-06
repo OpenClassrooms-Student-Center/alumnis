@@ -71,7 +71,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: kariss/capture_linkedin.png
 
     link: https://www.linkedin.com/in/romain-vache/
 
