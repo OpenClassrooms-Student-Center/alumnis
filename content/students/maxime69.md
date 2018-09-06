@@ -18,12 +18,10 @@ short_description: Je suis sorti de biologie et je m'oriente vers l'informatique
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    J'ai fait une licence en Science de la vie, spécialisation microbiologie et bioinformatique 
+	à l'Université des sciences de Montpellier. N'ayant pu entreprendre un Master de ce cursus dans 
+	la région de Nice suite à un déménagement, j'ai travaillé dans le commerce pendant 1 an. 
+	Maintenant j'entreprend de suivre le parcours Développement d'application Java d'OpenClassrooms.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -35,7 +33,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même sur le workplace d'OpenClassrooms et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: maxime69/projet_1.png
