@@ -36,7 +36,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: jeremie13/projet_1cv.png 
+    image: jeremie13/projet_1cv.jpg
     link: https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-alcaraz-281847a2/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -50,7 +50,7 @@ projects:
     
   - title: Git Certificate
     description: Obtention d'un certificat de compétences sur Git
-    image: jeremie13/projet_3git.png 
+    image: jeremie13/projet_3git.jpg
     link: https://openclassrooms.com/fr/course-certificates/2295384679
     finished: true
 ---
