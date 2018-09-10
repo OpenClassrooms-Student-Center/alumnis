@@ -46,11 +46,11 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: jeremie13/projet_2p.png 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: false
+    finished: true
     
   - title: Git Certificate
     description: Obtention d'un certificat de compétences sur Git
     image: jeremie13/projet_3git.png 
     link: https://openclassrooms.com/fr/course-certificates/2295384679
-    finished: false
+    finished: true
 ---
