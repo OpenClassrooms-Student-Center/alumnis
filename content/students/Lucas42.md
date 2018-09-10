@@ -52,5 +52,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://github.com
-    finished: false
+    finished: true
 ---
