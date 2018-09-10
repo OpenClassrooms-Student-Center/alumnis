@@ -45,7 +45,7 @@ projects:
   - title: Projet pour intégrer la communauté avec GitHub
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: jeremie13/projet_2p.png 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/Alvindu13
     finished: true
     
   - title: Git Certificate
