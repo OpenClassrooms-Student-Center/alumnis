@@ -14,7 +14,7 @@ short_description : Debutant mais motive
 #don't touch that
 template : students
 description :
-	Je pense que j'ai encore la possibilite d'apprendre Java 	avant que Microsoft n'ait encore completement decide pour 	moi de ce que je devais faire. Et j'ajoute(c'est le 	commit) que grace à Microsoft et à ses failles j'ai appris 	quelques commandes Linux.
+	Je pense que j'ai encore la possibilite d'apprendre Java 	avant que Microsoft n'ait encore completement decide pour 	moi de ce que je devais faire. Et j'ajoute(c'est le 	commit) que grace a Microsoft et a ses failles j'ai appris 	quelques commandes Linux.
 #image must be located in content/images/students
 #name should be the same as this file. Eg: celinemartinet.png
 image : nordon.jpg
