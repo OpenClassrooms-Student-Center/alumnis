@@ -29,8 +29,8 @@ projects :
 #max 100 characters
 description : j'ai 63 ans et suis en retraite de l'education nationale. La programmation informatique m'a toujours interesse meme si cela fait longtemps que je n'ai pas pratique. C'est un peu complique de s'y remettre mais je ne desespere pas d'y arriver...
 
-Create a repository for your images. Name it the same as your nick nameand profile picture
-#Image must be here : content/students/Georges/projet_1.png
+#Create a repository for your images. Name it the same as your nick nameand profile picture
+#Image must be here : content/students/georges/projet_1.png
 image : Georges/projet_1.png
 Un lien vers LinkedIn :
 https://www.linkedin.com/in/georges-nordon-733486100/
