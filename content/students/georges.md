@@ -32,8 +32,7 @@ description : j'ai 63 ans et suis en retraite de l'education nationale. La progr
 #Create a repository for your images. Name it the same as your nick nameand profile picture
 #Image must be here : content/students/georges/projet_1.png
 image : Georges/projet_1.png
-Un lien vers LinkedIn :
-https://www.linkedin.com/in/georges-nordon-733486100/
+#Un lien vers LinkedIn :https://www.linkedin.com/in/georges-nordon-733486100/
 #true makes it public. If false, then it will not show on the website.
 finished : true
 
