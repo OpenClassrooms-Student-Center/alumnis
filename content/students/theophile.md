@@ -34,17 +34,13 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    Bonjour à tous. J'ai 38 ans, actuellement salarié d'un grand groupe equipementier auto
+    Je travaille actuellement dans le domaine de l'impression 3D et des robots collaboratifs.
+    Je souhaite ajouter des compétences informatiques à mon profil dans le but de devenir
+    responsable innovation. Je possède déjà un diplome d'ingénieur à dominante mécanique et 
+    un diplome en marketing. Je travaille avec des stagiaires et apprentis qui developpent 
+    des projets IoT. J'ai besoin de pouvoir suivre et guider leurs avancées.
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 # image must be located in content/images/students
@@ -56,7 +52,7 @@ image: theophile.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -71,7 +67,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: theophile/projet1.jpg
 
     link: www.linkedin.com/in/tguettier
 
@@ -85,9 +81,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: theophile/projet2.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/starsys/alumnis
 
     finished: true
 
