@@ -25,7 +25,7 @@ public: True
 
 #You need to keep the exact same structure for each new project
 projects :
-	- Présentez vous !
+title: Présentez vous !
 #max 100 characters
 description : j'ai 63 ans et suis en retraite de l'education nationale. La programmation informatique m'a toujours interesse meme si cela fait longtemps que je n'ai pas pratique. C'est un peu complique de s'y remettre mais je ne desespere pas d'y arriver...
 
