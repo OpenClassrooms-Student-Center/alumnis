@@ -39,7 +39,7 @@ finished : true
 title : Integrez la communaute !
 description : Modifier un projet Open Source pour comprendre le fonctionnement de Git , de GitHub et des pull requests
 image : Georges/projet_2.png
-link : https://openclassrooms-student-center.github.io/presentatio/stidents/Georges.html
-- title : Effectuer un pull request
+#link : https://openclassrooms-student-center.github.io/presentatio/stidents/Georges.html
+#- title : Effectuer un pull request
 finished : true
 ---
