@@ -1,10 +1,10 @@
 ---
 
 
-FILENAME :https://openclassrooms.com/fr/paths/88-developpeur-d'application-java/georgesnordon
-- title:NORDON
+#FILENAME :https://openclassrooms.com/fr/paths/88-developpeur-d'application-java/georgesnordon
+# title:NORDON
 #First name or full name
-name: Georges
+#name: Georges
 date:  2018-09-07 9:00
 
 #One line
