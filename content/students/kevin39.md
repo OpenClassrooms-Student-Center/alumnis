@@ -1,5 +1,4 @@
----
-
+﻿---
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -8,7 +7,7 @@ title: kevin-le-bihan
 
 # First name or full name
 name: Kevin
-date: 2018-09-05 15:04
+date: 2018-09-11 11:47
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -17,13 +16,9 @@ short_description: J'aime les ballades en longboard, le fromage, les comics et l
 
 # don't touch that
 template: students
-description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+description: >
+    Je suis un parisien de 39 ans qui espère devenir developpeur et travailler un maximum de chez lui.
+	J'aime les ballades en longboard, le fromage, les comics et la radio.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -35,8 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je suis un parisien de 39 ans qui espère devenir developpeur et travailler un maximum de chez lui.
-	Si vous désirez en savoir plus sur moi voici ma page linkedin: 
+    description: Bonjour!! Je m'appelle Kevin et voici mon linkedin.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: kevin39/projet_1.png
@@ -45,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: kevin39/projet_2.png
     link: https://github.com/Kariboupseudo/alumnis
     finished: true
