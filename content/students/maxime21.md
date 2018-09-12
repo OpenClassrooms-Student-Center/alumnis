@@ -13,13 +13,18 @@ image: maxime21.jpg
 public: True
 projects:
  - title: Présentation
-   description: Une courte présentation et lien vers mon LinkedIn.
+   description: Une présentation de moi-même et un lien vers mon LinkedIn.
    image: maxime21/projet_1.JPG
    link: https://www.linkedin.com/in/maxime-soro-93ba0216a/
    finished: true
  - title: Intégrez la communauté !
-   description: Comprendre le fonctionnement de Git, de Github et des pull requests.
+   description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
    image: maxime21/projet_2.JPG
    link: https://github.com/mahxwell
    finished: true
+   - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
