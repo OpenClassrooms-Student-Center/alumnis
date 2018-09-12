@@ -69,7 +69,7 @@ projects:
 
     image: theophile/projet1.jpg
 
-    link: www.linkedin.com/in/tguettier
+    link: https://www.linkedin.com/in/tguettier/
 
     # 'true' makes it fully available.
 
