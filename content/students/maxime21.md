@@ -12,9 +12,14 @@ description:
 image: maxime21.jpg
 public: True
 projects:
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: drissrais/Capture3.PNG
-    link: https://openclassrooms.com/fr/projects/integrez-la-communaute-openclassrooms
-    finished: true
+ - title: Présentation
+   description: Une courte présentation et lien vers mon LinkedIn.
+   image: maxime21/Projet_1.png
+   link: https://www.linkedin.com/in/maxime-soro-93ba0216a/
+   finished: true
+ - title: Intégrez la communauté !
+   description: Comprendre le fonctionnement de Git, de Github et des pull requests.
+   image: maxime21/Projet_2.png
+   link: https://github.com/mahxwell
+   finished: true
 ---
