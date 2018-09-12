@@ -22,9 +22,13 @@ projects:
    image: maxime21/projet_2.JPG
    link: https://github.com/mahxwell
    finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+   
+ - title: Aidez MacGyver à sortir !
+
+   description: Création d’un jeu développé en Python et utilisant PyGame.
+
+
+   link: https://github.com
+
+   finished: false
 ---
