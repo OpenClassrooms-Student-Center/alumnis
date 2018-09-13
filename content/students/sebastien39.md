@@ -18,12 +18,12 @@ short_description: J'apprend à devenir développeur Java chez et suis pompier v
 # don't touch that
 template: students
 description:
-    J'ai 43 ans, je suis en reconversion professionnelle pour devenir développeur d'applications Android grace à Openclassroom. Je suis titulaire d'un DEUST/EJS et j'ai principalement travailler       dans la gestion de centres de profits.
+    J'ai 43 ans, je suis en reconversion professionnelle pour devenir développeur d'applications Android grace     à Openclassroom. Je suis titulaire d'un DEUST/EJS et j'ai principalement travaillerdans la gestion de          centres de profits.
     Je suis également pompier volontaire.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: sebastien39.jpg
+image: sebastien39/sebastien39.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -44,10 +44,10 @@ projects:
     image: sebastien39/projet_2.png
     link: https://github.com/sdoublet/alumnis
     finished: true
-  - title: Mémoriser votre humeur du jour
-    description:Développer l'application MoodTracker avec Java
+  - title: Aidez Macgyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
-    finished: true
+    finished: false
 
     ---
