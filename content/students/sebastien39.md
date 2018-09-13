@@ -13,7 +13,7 @@ date: 2018-09-12 15:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.ls
 objective: Devenir développeur d'applications Android.
-short_description: J'apprend à devenir développeur Java chez et suis pompier volontaire.
+short_description: J'apprend à devenir développeur Java avec Openclassroom et suis pompier volontaire.
 
 # don't touch that
 template: students
