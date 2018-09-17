@@ -52,7 +52,7 @@ projects:
     image: jeanfrancois34/1.png
     link: https://openclassrooms.com/fr/projects/integrez-la-communaute-openclassrooms
     finished: false
-	 - title: Intégrez la communauté OpenClassrooms ! 
+  - title: Intégrez la communauté OpenClassrooms ! 
     description: 
     image: jeanfrancois34/1.png
     link: https://openclassrooms.com/fr/projects/integrez-la-communaute-openclassrooms
