@@ -47,14 +47,61 @@ projects:
     link: https://www.linkedin.com/in/jean-fran%C3%A7ois-vincler-837450154/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: jeanfrancois34/2.png
-    link: https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
-    finished: true
-  - title: Apprenez à apprendre
-    description: Adopter une posture propice à l'apprentissage.
-    image: jeanfrancois/3.jpg
-    link: https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre
-    finished: true
+  - title: Définissez votre stratégie d'apprentissage ! 	
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/integrez-la-communaute-openclassrooms
+    finished: false
+	 - title: Intégrez la communauté OpenClassrooms ! 
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/integrez-la-communaute-openclassrooms
+    finished: false
+  - title: Mémorisez votre humeur du jour 	
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/memorisez-votre-humeur-du-jour
+    finished: false
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias 
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/analysez-les-besoins-de-votre-client-pour-son-groupe-de-pizzerias
+    finished: false
+  - title: Renouez avec l'actualité 
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/renouez-avec-l-actualite
+    finished: false
+  - title: Trouvez un restaurant pour déjeuner avec vos collègues 	
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/trouvez-un-restaurant-pour-dejeuner-avec-vos-collegues
+    finished: false
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/concevez-la-solution-technique-d-un-systeme-de-gestion-de-pizzeria
+    finished: false
+  - title: Devenez un as de la gestion immobilière 
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/devenez-un-as-de-la-gestion-immobiliere
+    finished: false
+  - title: Documentez votre système de gestion de pizzeria 	
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/documentez-votre-systeme-de-gestion-de-pizzeria
+    finished: false
+  - title: Effectuez un stage ou construisez une veille technologique 	
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/effectuez-un-stage-ou-construisez-une-veille-technologique
+    finished: false
+  - title: Réalisez un projet libre à impact social 
+    description: 
+    image: jeanfrancois34/1.png
+    link: https://openclassrooms.com/fr/projects/realisez-un-projet-libre-a-impact-social-1
+    finished: false
+ 
+ 
 ---
