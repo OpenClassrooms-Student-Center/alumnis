@@ -7,11 +7,11 @@ title: ratus
 
 # First name or full name
 name: Lucas
-date: 2018-09-12 11:25
+date: 2018-09-17 11:25
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Augmenter mes compétences informatique, avoir une diplôme supérieur aainsi que progrésser professionnellement 
+objective: Augmenter mes compétences informatique, avoir un diplôme supérieur ainsi que progrésser professionnellement 
 # don't touch that
 template: students
 description:
@@ -19,7 +19,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: lucas.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -30,19 +30,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: ratus/p1.png
     link: https://www.linkedin.com/in/lucas-hacher-210a54149/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: ratus/p2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+  - title: Jeux vidéo Swift
+    description: Création d’un jeu développé en Swift et xCode.
+    image: ratus/p3.png
     link: https://www.github.com
     finished: false
 ---
