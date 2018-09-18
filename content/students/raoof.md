@@ -36,7 +36,7 @@ public: True
 projects:
   - title: Présentez-vous !
     description: >
-    Je m'appelle Raoof, actuellement en formation chez OpenClassrooms, voici mon profil LinkedIn, https://www.linkedin.com/in/raoof-rachidi-318b5014b/
+    	Je m'appelle Raoof, actuellement en formation chez OpenClassrooms, voici mon profil LinkedIn, https://www.linkedin.com/in/raoof-rachidi-318b5014b/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     finished: true
