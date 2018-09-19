@@ -35,7 +35,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: hugues/p1.jpg
-    link: https://www.linkedin.com/in/hugues-carpentier-909458b7/
+    link: https://www.linkedin.com/in/hugues-fils-caparos-32711716b
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
