@@ -18,7 +18,7 @@ short_description: J'aime les ballades en longboard, le fromage, les comics et l
 # don't touch that
 template: students
 description:
-    Je suis un parisien de 39 ans qui espère devenir developpeur et travailler un maximum de chez lui.
+	Je suis un parisien de 39 ans qui espère devenir developpeur et travailler un maximum de chez lui.
 	J'aime les ballades en longboard, le fromage, les comics et la radio.
 
 # image must be located in content/images/students
