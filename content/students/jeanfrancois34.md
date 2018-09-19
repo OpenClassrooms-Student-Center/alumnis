@@ -102,6 +102,4 @@ projects:
     image: jeanfrancois34/1.png
     link: https://openclassrooms.com/fr/projects/realisez-un-projet-libre-a-impact-social-1
     finished: false
- 
- 
 ---
