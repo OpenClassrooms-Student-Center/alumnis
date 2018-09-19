@@ -76,7 +76,7 @@ projects:
 
    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et Github et des pull requests !
 
-   image: mickaelm51/projet2.png
+   image: mickaelm51/projet_2.png
 
    link: https://github.com/MickaelM51
 
