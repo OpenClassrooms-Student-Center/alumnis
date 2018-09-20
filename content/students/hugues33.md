@@ -15,7 +15,7 @@ date: 2018-09-20 14:58
 objective: Devenir développeur et vivre de ce que j'aime.
 
 # max 100 characters
-short_description: Amateur de metal (Black,Speed et 80's Heavy), je souhaite développer ma créativité dans la création d'application.
+short_description: Apprenti développeur iOS.
 
 # don't touch that
 template: students
