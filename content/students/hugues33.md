@@ -22,13 +22,13 @@ template: students
 
 # max 500 characters
 description:
-    Après des études de théâtre à Paris puis de philosophie à Bordeaux je me suis tourné vers OpenClassrooms.
-    Je souhaite travailler dans le développement d'application pour allier technique et créativité. 
+    Après des études de théâtre à Paris puis de philosophie à Bordeaux, je me suis tourné vers OpenClassrooms.
+    Je souhaite travailler dans le développement d'application pour allier technique et créativité.  
     
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: hugues33.jpg
+image: hugues33.png
 
 # Change this to True when you do you pull request.
 public: False
@@ -39,15 +39,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: hugues33/projet_1.png
+    link: https://www.linkedin.com/in/hugues-fils-caparos-32711716b
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: hugues33/projet_2.png
+    link: https://github.com/huguesfils/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
