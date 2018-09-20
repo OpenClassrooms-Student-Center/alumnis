@@ -48,8 +48,8 @@ projects:
     image: alex78/projet_2.png
     link: https://github.com/agrosson/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Créez votre premier jeu vidéo avec Swift
+    description: Création d’un jeu de combats développé en Swift pour jouer sur la console 
     image: alex78/projet_3.png
     link: https://www.github.com
     finished: false
