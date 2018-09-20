@@ -15,7 +15,7 @@ date: 2018-09-20 14:58
 objective: Devenir développeur et vivre de ce que j'aime.
 
 # max 100 characters
-short_description: Amateur de metal (Black,Speed et 80's Heavy) et de MADMAX, je souhaite développer ma créativité dans la création d'application.
+short_description: Amateur de metal (Black,Speed et 80's Heavy), je souhaite développer ma créativité dans la création d'application.
 
 # don't touch that
 template: students
@@ -45,7 +45,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git. 
     image: hugues33/Projet_2.png
     link: https://github.com/huguesfils/alumnis
     finished: true
