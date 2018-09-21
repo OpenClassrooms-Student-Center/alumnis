@@ -12,7 +12,7 @@ date: 2018-9-12 18H09
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective:c'est de devenir un devellopeur d'application accomplie est de cree la meilleur application possible au niveau de ca conception est de c'est fonctionallité.
-short_description: je m'appele zidane messaili J'adore l'informatique est tout ce qui dans le domaine artistique"dessin lecture..." 
+short_description: je m'appele zidane messaili J'adore l'informatique est tout ce qui dans le domaine artistique dessin lecture...
 
 # don't touch that
 template: students
