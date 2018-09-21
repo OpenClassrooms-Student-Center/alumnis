@@ -15,7 +15,7 @@ date: 2018-08-29 11:41
 objective: Pratiquer un métier passionnant
 
 # max 100 characters
-short_description: J'aime créer, apprendre des choses, et manger des sushis :-)
+short_description: J'aime créer, apprendre des choses, et manger des sushis !
 
 # don't touch that
 template: students
