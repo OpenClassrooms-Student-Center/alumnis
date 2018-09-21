@@ -21,12 +21,7 @@ short_description: J'aime créer, apprendre des choses, et manger des sushis
 template: students
 
 # max 500 characters
-description:
-	Je m'appelle Jean-François et je suis actuellement la formation 
-	OpenClassrooms de développeur d'application Android. Je réside 
-	actuellement à Montpellier et j'apprécie le climat et la 
-	proximité des plages ! J'espère devenir développeur en 2019
-	et trouver un poste de salarié ou travailler en freelance. 
+description: Je m'appelle Jean-François et je suis actuellement la formation OpenClassrooms de développeur d'application Android. Je réside actuellement à Montpellier et j'apprécie le climat et la proximité des plages ! J'espère devenir développeur en 2019 et trouver un poste de salarié ou travailler en freelance. 
  
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
