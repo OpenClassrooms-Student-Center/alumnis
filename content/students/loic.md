@@ -63,30 +63,30 @@ projects:
     image: content/students/loic/projet_pizzeria.png
     link:
     finished: false
-  -	title: Créer un site communautaire autour de l'escalade
+  - title: Créer un site communautaire autour de l'escalade
     description: Réaliser une application web en JAVA/JEE
-	image: content/students/loic/projet_escalade.png
-	link:
-	finished: false
-  -	title: Développez le nouveau système d'information de la bibliothèque d'une grande ville
-	description: Réaliser le web service, l'application web et le batch en JAVA/JEE
-	image: content/students/loic/projet_bibliotheque.png
-	link:
-	finished: false
-  -	title: Documentez votre système de gestion de pizzeria
-	description: Produire la documentation en tant qu'analyste-progammeur
-	image: content/students/loic/projet_pizzeria.png
-	link:
-	finished: false
-  -	title: Testez vos développements JAVA
-	description: Réaliser 2 types de tests
-	image: content/students/loic/projet_test.png
-	link:
-	finished: false
-  -	title: Améliorez le système d'information de la bibliothèque
-	description: Gérer les tickets, modifier le code source et la base de données...
-	image: content/students/loic/projet_bibliotheque.png
-	link:
-	finished: false
+    image: content/students/loic/projet_escalade.png
+    link:
+    finished: false
+  - title: Développez le nouveau système d'information de la bibliothèque d'une grande ville
+    description: Réaliser le web service, l'application web et le batch en JAVA/JEE
+    image: content/students/loic/projet_bibliotheque.png
+    link:
+    finished: false
+  - title: Documentez votre système de gestion de pizzeria
+    description: Produire la documentation en tant qu'analyste-progammeur
+    image: content/students/loic/projet_pizzeria.png
+    link:
+    finished: false
+  - title: Testez vos développements JAVA
+    description: Réaliser 2 types de tests
+    image: content/students/loic/projet_test.png
+    link:
+    finished: false
+  - title: Améliorez le système d'information de la bibliothèque
+    description: Gérer les tickets, modifier le code source et la base de données...
+    image: content/students/loic/projet_bibliotheque.png
+    link:
+    finished: false
 	
 ---
