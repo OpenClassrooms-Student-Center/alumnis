@@ -31,10 +31,10 @@ finished: true
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 image: Roland/projet_2.png
 link: https://github.com/austinzheng/swift-2048/pull/31
-finished: true
+finished: false
 - title: Aidez MacGyver à sortir !
 description: Petit projet pour apprendre personnellement à faire un commit.
 image: Roland/projet_3.png
 link: https://github.com/Sparklydust/Story
-finished: true
+finished: false
 ---
