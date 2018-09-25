@@ -71,7 +71,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: content/images/students/edan/projet_1.png
+    image: edan/projet_1.png
 
     link: https://www.linkedin.com/in/edan-lopalo-87a8a6149
 
@@ -85,7 +85,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: /content/images/students/edan/projet_2.png
+    image: edan/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
