@@ -27,7 +27,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: projet1.png
+    image: rayan/projet1.png
     link: www.linkedin.com/in/rayan-yanat-a383b5171
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -35,12 +35,12 @@ projects:
 	
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: projet2.png
+    image: rayan/projet2.png
     link: https://github.com/RayanYanat/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: projet3.png
+    image: rayan/projet3.png
     link: https://www.github.com
     finished: false
 ---
