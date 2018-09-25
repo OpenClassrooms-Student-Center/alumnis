@@ -18,7 +18,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: Luc-olivier projet2.docx
+    image: Luc-olivier projet 2.jpg
     link: https://github.com/LudovicBruhat
     finished: true
   - title: Aidez MacGyver à sortir !
