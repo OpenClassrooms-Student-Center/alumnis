@@ -27,17 +27,17 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: thibaut8.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définir ma stratégie d'apprentissage
   description: Ce projet regroupe mon cv, mon profile linkedIn, mes objectifs d'aprentissage et enfin une partie de mon journal d'apprentissage
     image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-voge
+    link: https://www.linkedin.com/in/thibaut-jouen-1994aa95/
     finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
