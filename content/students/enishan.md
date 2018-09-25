@@ -20,7 +20,7 @@ short_description:
 # don't touch that
 template: students
 description:
-    Je suis un jeune homme suisse de 27 ans, j'ai décidé de me réorienter dans ce secteur. J'avais toujours eu un grand intérêt pour l'informatique, les technologies et les jeux. Je veux désormais évoluer dans cette voie pour m'épanouir profesionnellement 
+    Je suis un jeune homme suisse de 27 ans, j'ai décidé de me réorienter dans ce secteur. J'avais toujours eu un grand intérêt pour l'informatique, les technologies et les jeux. Je veux désormais évoluer dans cette voie pour m'épanouir prof esionnellement 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -35,8 +35,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: enishan/projet_1.JPG
+    link: https://www.linkedin.com/in/enishan-yeter-390239171/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
