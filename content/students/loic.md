@@ -47,7 +47,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et des pull requests 
     image: content/students/loic/projet_communaute.png
     link: https://github.com/Archytekt77
-    finished: false
+    finished: true
   - title: Mettez votre logique à l'épreuve
     description: Créer une application proposant des jeux de logique
     image: content/students/loic/projet_logique.png
