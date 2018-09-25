@@ -26,22 +26,22 @@ public: True
 
 
 projects:
-- title: Déterminer à devenir senior en Swift.
-description: Une ré orientation pour un homme nouveau. 
+  - title: Déterminer à devenir senior en Swift.
+  description: Une ré orientation pour un homme nouveau. 
     lien vers mon compte linkedIn: www.linkedin.com/in/roland-lariotte
 
-image: Roland/projet_1.png
-link: https://github.com/Sparklydust
-finished: true
-- title: Intégrez la communauté !
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-image: Roland/projet_2.png
-link: https://github.com/austinzheng/swift-2048/pull/31
-finished: false
-- title: Aidez MacGyver à sortir !
-description: Petit projet pour apprendre personnellement à faire un commit.
-image: Roland/projet_3.png
-link: https://github.com/Sparklydust/Story
-finished: false
+  image: Roland/projet_1.png
+  link: https://github.com/Sparklydust
+  finished: true
+  - title: Intégrez la communauté !
+  description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+  image: Roland/projet_2.png
+  link: https://github.com/austinzheng/swift-2048/pull/31
+  finished: false
+  - title: Aidez MacGyver à sortir !
+  description: Petit projet pour apprendre personnellement à faire un commit.
+  image: Roland/projet_3.png
+  link: https://github.com/Sparklydust/Story
+  finished: false
 
 ---
