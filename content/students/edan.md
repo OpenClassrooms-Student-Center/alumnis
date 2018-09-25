@@ -1,4 +1,4 @@
----
+ï»¿---
 
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
@@ -23,9 +23,9 @@ date: 2018-09-25 01:26
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: obtenir le diplôme et devenir developpeur python.
+objective: obtenir le diplÃ´me et devenir developpeur python.
 
-short_description: Administrateur système windows en quête de nouveau savoir dans la programmation.
+short_description: Administrateur systÃ¨me windows en quÃªte de nouveau savoir dans la programmation.
 
 
 # don't touch that
@@ -51,27 +51,27 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: edan.png
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
 
 projects:
 
-  - title: Présentez-vous !
+  - title: PrÃ©sentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: content/images/students/edan/projet_1.png
 
     link: https://www.linkedin.com/in/edan-lopalo-87a8a6149
 
@@ -81,19 +81,19 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: /content/images/students/edan/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver Ã  sortir !
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: CrÃ©ation dâ€™un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
 
     image: ratus/projet_3.png
 
