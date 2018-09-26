@@ -1,4 +1,4 @@
----
+﻿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définir ma stratégie d'apprentissage
-  description: Ce projet regroupe mon cv, mon profile linkedIn, mes objectifs d'aprentissage et enfin une partie de mon journal d'apprentissage
+    description: Ce projet regroupe mon cv, mon profile linkedIn, mes objectifs d'aprentissage et enfin une partie de mon journal d'apprentissage
     image: ratus/projet_1.png
     link: https://www.linkedin.com/in/thibaut-jouen-1994aa95/
     finished: false
