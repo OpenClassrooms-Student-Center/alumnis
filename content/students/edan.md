@@ -1,4 +1,4 @@
-﻿---
+---
 
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
@@ -9,12 +9,12 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: edan
 
 
 # First name or full name
 
-name: Edan Lopalo
+name: Edan
 
 date: 2018-09-25 01:26
 
@@ -56,7 +56,7 @@ image: edan.png
 
 # Change this to True when you do you pull request.
 
-public: true
+public: True
 
 
 # You need to keep the exact same structure for each new project.
