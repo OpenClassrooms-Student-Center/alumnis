@@ -30,7 +30,7 @@ description:
 image: alex78.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -49,7 +49,7 @@ projects:
     link: https://github.com/agrosson/alumnis
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift
-    description: Création d’un jeu de combats développé en Swift pour jouer sur la console 
+    description: Création d’un jeu de combats développé en Swift pour jouer sur la console
     image: alex78/projet_3.png
     link: https://www.github.com
     finished: false
