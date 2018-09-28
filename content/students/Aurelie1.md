@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Aurelie/GitHub Profile.png
-    link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/Aurelie
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
