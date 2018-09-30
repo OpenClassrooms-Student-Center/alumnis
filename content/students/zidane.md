@@ -1,5 +1,4 @@
 ---
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -43,5 +42,13 @@ projects:
     image: zidane/projet_2.png
     link:https://github.com/zidane456/alumnis
     finished: true
-  
----
+  - title: 
+
+    description: page d'acceuil de git hub
+
+    image: zidane/projet_3.png
+
+    link: https://www.github.com
+
+    finished: false
+	---  
