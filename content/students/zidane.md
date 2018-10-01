@@ -44,7 +44,7 @@ projects:
     link:https://github.com/zidane456/alumnis
     finished: true
     
-  - title: github
+    - title: github
 
     description: page d'acceuil de git hub
 
