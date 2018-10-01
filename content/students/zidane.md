@@ -52,5 +52,4 @@ projects:
     link: https://www.github.com
 
     finished: false
-
 ---  
