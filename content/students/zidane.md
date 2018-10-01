@@ -43,7 +43,7 @@ projects:
     image: zidane/projet_2.png
     link:https://github.com/zidane456/alumnis
     finished: true
-  - title: 
+  - title: github
 
     description: page d'acceuil de git hub
 
