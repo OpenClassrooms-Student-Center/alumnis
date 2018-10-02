@@ -8,7 +8,7 @@ title: Karim
 
 # First name or full name
 name: Karim
-date: 2018-10-01 23:10
+date: 2018-10-02 22:12
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -32,7 +32,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-màªme et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: karim/projet1.png
