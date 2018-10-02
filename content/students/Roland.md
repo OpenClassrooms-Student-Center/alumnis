@@ -32,7 +32,7 @@ public: True
 
 projects:
   - title: Déterminer à devenir senior en Swift.
-    description: linkedIn: www.linkedin.com/in/roland-lariotte
+    description: www.linkedin.com/in/roland-lariotte
     
 
     image: Roland/projet_1.png
