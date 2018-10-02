@@ -12,8 +12,8 @@ date: 2018-10-01 07:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Accroitre mes connaissances en ajoutant la création de site WEB et de programmes en python.
-short_description: Ingénieur études et développements  depuis 2014.
+objective: Accroitre mes connaissances en ajoutant la création de site WEB et de programmation en python.
+short_description: Ingénieur études et développements  depuis 2014, en congé de reclassement depuis fin 2017.
 
 # don't touch that
 template: students
@@ -30,7 +30,7 @@ description:
 image: JackyBurget.png
 
 # Change this to True when you do you pull request.
-public: True
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
