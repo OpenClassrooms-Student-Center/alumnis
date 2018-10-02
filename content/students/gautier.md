@@ -44,7 +44,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: gautier/projet_1.png
+    image: gautier/projet_1.jpg
 
     link: https://www.linkedin.com/in/gcliquet/
 
@@ -58,7 +58,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: gautier/projet_2.png
+    image: gautier/projet_2.jpg
 
     link: https://github.com/GautierClqt
 
