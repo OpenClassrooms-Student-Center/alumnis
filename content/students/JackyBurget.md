@@ -20,7 +20,7 @@ template: students
 description:
     Je m'appel Jacky, j'ai 61 ans, pas loin de la retraite. 
     Je quitte mon entreprise dans le cadre d'un plan de départ volontaire.
-    Je suis en congé reclassement, j'ai donc l'opportunité de me former.
+    Je suis en congé de reclassement, j'ai donc l'opportunité de me former.
     Je profite de cette occassion  pour apprendre à créer des sites Web et à programmer en python.
     Python va me servir pour mon hobby qui est l'électronique. Je m'interresse à Raspberry.
     Je suis dans une association de type ludothèque et je vais mettre en pratique ce que j'apprends pour monter leur outil 
