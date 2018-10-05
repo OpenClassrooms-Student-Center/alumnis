@@ -89,6 +89,11 @@ projects:
     image: jeanfrancois/projet_10.png
     link: https://github.com/jfsubrini/project10_pur_beurre_deploy
     finished: true
+  - title: Améliorez un projet existant en Python
+    description: Rajout de deux fonctionnalités à l'application Django Pur Beurre.
+    image: jeanfrancois/projet_11.png
+    link: https://github.com/jfsubrini/project11_pur_beurre_better
+    finished: true
   - title: Effectuez un stage ou construisez une veille technologique
     description: Conception d'outils de veille technologique avec Twitter et Feedly.
     image: jeanfrancois/projet_12.png
