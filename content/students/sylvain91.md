@@ -3,25 +3,25 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Sylvain91
+title: sylvain91
 
 # First name or full name
-name: Sylvain91
+name: Sylvain Chazette
 date: 2017-09-15 00:38
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Développer mes compétences, construire des applis Androïd !
+objective: Etre meilleur si c'est possible !
 
 # don't touch that
 template: students
 description:
-    48 ans, après une reconversion faite de l'industrie vers le dev, je poursuis mon évolution vers la formation développeur d'application Androïd.
+    Presque 50 ans, après une reconversion faite de l'industrie vers le dev, je poursuis mon évolution vers la formation développeur d'application Androïd.
     C'est le début de l'aventure avec OC, qui doit durer 2ans.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Sylvain91.jpg
+image: sylvain91.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -32,14 +32,14 @@ projects:
     description: Bonjour!! Je m'appelle Sylvain et voici mon linkedin.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Sylvain91/Sylvain91LDin.PNG
+    image: sylvain91/sylvain91ldin.png
     link: https://www.linkedin.com/in/sylvain-chazette-72a811134/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Sylvain91/Sylvain91.png
+    image: sylvain91/sylvain91.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
 ---
