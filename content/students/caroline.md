@@ -27,8 +27,11 @@ description:
     J'envisage une reconversion professionnelle donc j'ai décidé d'apprendre le développement.
     Et pourquoi pas créer mes propres jeux plus tard.
 
+
+	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
+
 image: caroline.jpg
 
 # Change this to True when you do you pull request.
@@ -36,8 +39,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  -  title: Présentez-vous !
-    # max 100 characters
+  - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
