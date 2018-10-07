@@ -12,13 +12,13 @@ date: 2018-10-07 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Arreter de prendre les joyeux bouchons tous les matins!
+objective: Arreter de prendre les joyeux bouchons tous les matins.
 short_description: J'aime le fromage et les bonnes histoires avec une soupe.
 
 # don't touch that
 template: students
 description:
-    Oui oui oui, ne vous inquietez pas, tout va de mieux en mieux. Dans le meilleur des mondes? Ah ca, je ne sais pas.
+    Oui oui oui, ne vous inquietez pas, tout va de mieux en mieux. Dans le meilleur des mondes. Ah ca, je ne sais pas.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
