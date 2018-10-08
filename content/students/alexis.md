@@ -1,4 +1,4 @@
----
+﻿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
@@ -25,6 +25,8 @@ date: 2018-10-01 11:00
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
 objective: changer de carrière professionnelle pour être en phase avec ce que j'aime.
+
+short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
 
 
 # don't touch that
