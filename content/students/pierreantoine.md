@@ -21,7 +21,6 @@ description:
     Le code a toujours eu quelque chose de magique pour moi, une sorte de sentiment d'attirance inavoué... 
     Cette année, j'ai décidé que je sautais le pas et ce, pour plusieurs raisons, un ennui grandissant dans mon domaine d'activité, un manque de perspectives et cette envie de liberté... que je compte bien combler avec ma future activité de développeur. En effet, mon objectif est de devenir développeur freelance et de parcourir le monde :)
 
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: pabissonnier.jpg
