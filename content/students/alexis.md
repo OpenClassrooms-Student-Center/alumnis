@@ -39,7 +39,6 @@ description:
 Je m'appelle alexis, j'ai 22 ans et je suis actuellement engagé dans un parcours de développeur d'applications Python. J'ai voulu changer complètement de métier car, dans mon ancien travail, je ne me sentais plus être à ma place pour diverses raisons. Donc j'ai recherché un métier qui me corespondrait le mieux pour débuter une nouvelle vie, et, je me suis dis que l'informatique pourrait m'apporter ce que je voudrais vraiment, un métier passionnant, étonnant et la chance de réaliser mes rêves.
 
 
-
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
