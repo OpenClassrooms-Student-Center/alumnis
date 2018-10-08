@@ -23,7 +23,7 @@ projects:
     link: https://github.com/ludo45100
     finished: true
   - title: Mémorisez votre humeur du jour
-    description: Développer une application mobile Android d’un nouveau genre : MoodTracker.
+    description: Développer une application mobile Android MoodTracker.
     image: ludovic45/Projet/projet3_finish.png
     link: https://github.com/ludo45100/MoodTracker
     finished: false
