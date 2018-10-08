@@ -41,8 +41,8 @@ projects:
 
     image : riyad/projet_2b.png
 
-    link : 
+    link : https://github.com/OpenClassrooms-Student-Center/alumnis/pull/985
 
-    finished: false
+    finished: true
   - 
 ---
