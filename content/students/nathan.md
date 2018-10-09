@@ -18,7 +18,7 @@ short_description: Passionné par l'informatique, j'ai appris de nombreuses comp
 # don't touch that
 template: students
 description:
-    Je m'appelle Nathan, je vis en Occitanie. Depuis toujours intéressé au développement de site ou d'application. J'ai donc décider de suivre le parcours iOS.
+    Je m'appelle Nathan, je vis en Occitanie. Depuis toujours intéressé par le développement de sites ou d'applications. J'ai donc décidé de suivre le parcours iOS.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
