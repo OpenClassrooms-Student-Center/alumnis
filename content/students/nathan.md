@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: nathan-ben-soussan
+title: nathan
 
 # First name or full name
 name: Nathan
@@ -12,8 +12,8 @@ date: 2018-09-24 16:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Savoir faire de vrai application professionnel iOS !
-short_description: Passioner par l'informatique, j'ai appris de nombreuses compétences en autodidacte.
+objective: Savoir faire de vraies applications professionnelles iOS !
+short_description: Passionné par l'informatique, j'ai appris de nombreuses compétences en autodidacte.
 
 # don't touch that
 template: students
@@ -25,7 +25,7 @@ description:
 image: nathan.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
