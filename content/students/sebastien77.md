@@ -13,17 +13,13 @@ date: 2018-10-06 14:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre le dévoleppemnt d'application Android dans le cardre d'une reconversion
-short_description: J'aime le sport, la moto et l'informatique. Je cherche Ã  acquÃ©rir des compÃ©tences dans le dÃ©veloppement dans le cadre d'un reconvertion professionnelle
+short_description: J'aime le sport, en particulier les arts martiaux, la moto et l'informatique
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    En pleine reconversion professionnelle. Je suis totalement débutant dans le secteur de l'informatique,
+	mais je trouve ce secteur d'activité vraiment passionnant.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -43,15 +39,15 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - DÃ©finissez votre stratÃ©gie d'apprentissage !
-	description : DÃ©finir ses objectifs d'apprentissage, faire son C.V., son profile Linkedin, et faire son journal d'apprentissage
-	image: sebastien77/Projet1.png
-	link: https://www.linkedin.com/in/s%C3%A9bastien-chestier-ab24b1172/
-	finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: sebastien77/projet_2.png
+    image: sebastien77/Projet2.png
     link: https://github.com/Seb77410
     finished: true
  
 ---
+  
+
+  
+  
+  
