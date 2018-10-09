@@ -12,8 +12,8 @@ date: 2018-10-06 14:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre le d�voleppemnt d'application Android dans le cardre d'une reconversion
-short_description: J'aime le sport, la moto et l'informatique. Je cherche à acquérir des compétences dans le développement dans le cadre d'un reconvertion professionnelle
+objective: Apprendre le dévoleppemnt d'application Android dans le cardre d'une reconversion
+short_description: J'aime le sport, la moto et l'informatique. Je cherche Ã  acquÃ©rir des compÃ©tences dans le dÃ©veloppement dans le cadre d'un reconvertion professionnelle
 
 # don't touch that
 template: students
@@ -34,8 +34,8 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Pr�sentez-vous !
-    description: Une pr�sentation de moi-m�me et un lien vers mon LinkedIn.
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
@@ -43,12 +43,12 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - Définissez votre stratégie d'apprentissage !
-	description : Définir ses objectifs d'apprentissage, faire son C.V., son profile Linkedin, et faire son journal d'apprentissage
+  - DÃ©finissez votre stratÃ©gie d'apprentissage !
+	description : DÃ©finir ses objectifs d'apprentissage, faire son C.V., son profile Linkedin, et faire son journal d'apprentissage
 	image: sebastien77/Projet1.png
 	link: https://www.linkedin.com/in/s%C3%A9bastien-chestier-ab24b1172/
 	finished: true
-  - title: Int�grez la communaut� !
+  - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: sebastien77/projet_2.png
     link: https://github.com/Seb77410
