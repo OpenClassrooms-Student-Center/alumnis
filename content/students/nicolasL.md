@@ -87,7 +87,7 @@ projects:
 45
     link: https://openclassrooms-student-center.github.io/presentation/students/nicolasL.html
 46
-    finished: true
+    finished: False
 47
   - title: Aidez MacGyver à sortir !
 48
