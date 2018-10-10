@@ -53,7 +53,7 @@ projects:
     description: Création d'une application MOOD 
     image: sebastien77/Projet3.png
     link: https://www.github.com
-    finished: false
+    finished: true
 ---
   
 
