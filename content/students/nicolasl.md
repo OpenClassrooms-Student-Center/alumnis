@@ -83,11 +83,11 @@ projects:
 43
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 44
-    image: nicolasL/project2.png
+    image: nicolasl/project2.png
 45
     link: https://openclassrooms-student-center.github.io/presentation/students/nicolasL.html
 46
-    finished: False
+    finished: false
 47
   - title: Aidez MacGyver à sortir !
 48
