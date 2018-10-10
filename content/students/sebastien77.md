@@ -4,18 +4,18 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: seb77
+title: Seb77
 
 # First name or full name
-name: seb77
-date: 2018-10-06 14:20
+name: Seb77
+date: 2016-10-10 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre le dévoleppemnt d'application Android dans le cardre d'une reconversion.
 
 # max 100 characters
-short_description: J'aime le sport, en particulier les arts martiaux, la moto et l'informatique
+short_description: J'aime le sport, en particulier les arts martiaux, la moto et l'informatique.
 
 # don't touch that
 template: students
@@ -30,7 +30,7 @@ description:
 # max size: 200ko
 image: sebastien77.jpg
 
-# Change this to True when you do your pull request.
+# Change this to True when you do you pull request.
 public: True
 
 # You need to keep the exact same structure for each new project.
@@ -42,21 +42,16 @@ projects:
     # Image must be here: content/students/yourrepo/project1.png
     image: sebastien77/Projet1.png
     link: https://www.linkedin.com/in/s%C3%A9bastien-chestier-ab24b1172/
-    # 'true' makes it fully available.
+    # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: sebastien77/Projet2.png
-    link: https://github.com/Seb77410
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d'une application MOOD 
     image: sebastien77/Projet3.png
     link: https://www.github.com
-    finished: true
+    finished: false
 ---
-  
-
-  
-  
-  
