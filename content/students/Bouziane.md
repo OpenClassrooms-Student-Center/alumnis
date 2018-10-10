@@ -1,7 +1,7 @@
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: :
+# Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: boubou10
@@ -17,8 +17,7 @@ short_description: J'aime le sport, les sushis et les jeux vidéos en ligne. J'a
 
 # don't touch that
 template: students
-description:
-    Suite à une mauvaise orientation j'ai choisi de me reconvertir en tant que développeur d'applications mobiles sous IOS pour enfin exercer un métier qui me correspond.
+description: Suite à une mauvaise orientation j'ai choisi de me reconvertir en tant que développeur d'applications mobiles sous IOS pour enfin exercer un métier qui me correspond.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
