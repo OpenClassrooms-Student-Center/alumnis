@@ -8,16 +8,16 @@ title: nicolasl
 
 # First name or full name
 name: Nicolas
-date: 2018-10-10
+date: 2018-10-10 17:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur d'applications IOS
-short_description: Je m'appelle Nicolas, j'ai 26 ans et j'aime le football et les jeux vidéo.
+objective: Devenir développeur d'applications IOS.
+short_description: J'aime le football et les jeux vidéo.
 
 # don't touch that
 template: students
-description: >
+description:
     Hello ! J'ai 26 ans, je suis de Montpellier et je suis technicien chez Apple.
     J'adore cet environnement et c'est pourquoi j'ai choisis de devenir développeur IOS.
 
@@ -31,7 +31,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Mise à jour de mes profils et présentation.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: nicolasl/project1.png
@@ -39,16 +39,14 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté d'Openclassrooms!
+  - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: nicolasl/project2.jpg
-    link: 
+    image: nicolasl/project2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
-
-
 ---
