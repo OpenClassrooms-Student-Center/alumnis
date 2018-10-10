@@ -63,7 +63,7 @@ public: False
 
 projects:
 
-  - title: Présentez-vous !
+  - title: test!
 
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
