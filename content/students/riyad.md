@@ -6,7 +6,7 @@ date: 2018-10-08 17:20
 
 objectif: Une reconversion, pour pouvoir travailler dans les nouvelles technologies.
 
-J'apprends à coder, et je suis déterminé !
+J'apprends à coder, et je suis déterminé ! 
 
 template: students
 
