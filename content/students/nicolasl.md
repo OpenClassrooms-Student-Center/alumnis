@@ -10,7 +10,7 @@
 6
 # lowercase, no blank space, Capital case or special character.
 7
-title: nicolasL
+title: nicolasl
 8
 ​
 9
@@ -47,7 +47,7 @@ description:
 25
 # name should be the same as this file. Eg: celinemartinet.png
 26
-image: nicolasL.jpg
+image: nicolasl.jpg
 27
 ​
 28
@@ -69,7 +69,7 @@ projects:
 36
     # Image must be here: content/students/yourrepo/project1.png
 37
-    image: nicolasL/project1.png
+    image: nicolasl/project1.png
 38
     link: https://www.linkedin.com/in/nicolas-lion-77ab08133/
 39
