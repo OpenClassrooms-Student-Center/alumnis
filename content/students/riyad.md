@@ -39,10 +39,5 @@ projects:
     
     link : https://github.com/RiyadHennaoui/alumnis
 
-    image : riyad/projet_2b.png
-
-    link : https://github.com/OpenClassrooms-Student-Center/alumnis/pull/985
-
     finished: true
-  - 
 ---
