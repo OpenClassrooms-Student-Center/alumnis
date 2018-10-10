@@ -51,12 +51,12 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: yayass.jpg
+image: ilyas.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: False 
 
 
 # You need to keep the exact same structure for each new project.
