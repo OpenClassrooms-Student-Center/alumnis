@@ -56,16 +56,16 @@ image: anthony9.md
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
 
 projects:
 
-  - title: Je m'apelle Anthony
+  - title: Fork du projet alumnis
 
-    description: Je suis passionné d'informatique et de programation, voici un lien vers mon LinkedIn.
+    description: For du projet alumnis pour modification.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -73,7 +73,7 @@ projects:
 
     image: anthony9/projet_1.png
 
-    link: https://www.linkedin.com/in/anthony-goncalves-477938172/
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/996
 
     # 'true' makes it fully available.
 
@@ -81,7 +81,7 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: Effectuez un pull request !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
