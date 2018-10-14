@@ -18,7 +18,7 @@ objective: Devenir développeur d'applications IOS.
 template: students
 description:
     Hello ! Je m'appelle Nicolas, j'ai 26 ans et j'habite Montpellier dans le sud de la france.
-    Je suis technicien en Apple Store, j'adore l'environnement IOS er c'est pourquoi j'ai décider 
+    Je suis technicien en Apple Store, j'adore l'environnement iOS er c'est pourquoi j'ai décidé 
     de me lancer dans ce parcours.
 
 # image must be located in content/images/students
