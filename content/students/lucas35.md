@@ -44,5 +44,5 @@ projects:
     description: Création d’un jeu développé en Swift.
     image: 
     link: https://github.com/lhacher/projet3-cr-ationJeuxVideo
-    finished: false
+    finished: true
 ---
