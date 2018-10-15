@@ -43,6 +43,6 @@ projects:
   - title: Jeux vidéo Swift
     description: Création d’un jeu développé en Swift et xCode.
     image: ratus/p3.png
-    link: https://www.github.com
+    link: google.com
     finished: false
 ---
