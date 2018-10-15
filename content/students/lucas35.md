@@ -38,7 +38,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/p2.png
-    link: https://github.com/lhacher/alumnis/blob/fca2ef52f768bdc4892a320cef2e74e82c1a2278/content/students/lucas35.md
+    link: https://github.com/lhacher/alumnis/blob/master/content/students/lucas35.md
     finished: true
   - title: Jeux vidéo Swift
     description: Création d’un jeu développé en Swift et xCode.
