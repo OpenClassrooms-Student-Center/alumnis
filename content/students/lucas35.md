@@ -27,11 +27,11 @@ public: true
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: https://www.linkedin.com/in/lucas-hacher-210a54149/
+    description: Je suis un étudiant de 21 ans chez OpenClassroom en licence de développement d'application IOS
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: images/lucas35
-    image: https://github.com/lhacher/alumnis/blob/master/content/images/students/lucas35.jpg
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: https://github.com/lhacher/alumnis/commit/d5ad40e527fb8dfa37d16c093a7b5e201652690a
+    link: https://www.linkedin.com/in/lucas-hacher-210a54149/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
