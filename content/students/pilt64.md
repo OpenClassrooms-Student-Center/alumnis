@@ -25,7 +25,7 @@ date: 2016-10-28 17:20
 
 objective: Explorer des sommets enneigés, de gorges profondes, des océans d'incertitudes et de silence infini.
 
-short_description: Fin amateur de charcutterie, explorateur intrépide je vainc la monotonie en apprenant chaque jours de nouveaux paradigmes.
+short_description: Fin amateur de charcutterie, explorateur intrépide je vainc la monotonie en apprenant chaque jours de nouveaux paradigmes. http://sud0lemediocre.fr/
 
 
 # don't touch that
@@ -34,24 +34,14 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ J'aime bien l'informatique. Je suis un apprentissage pour lequel je code plus en php/js et je proffite des cours pour découvrir en même temps python :) 
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: pilt64.jpg
+image: pilt64.jpeg
 
 
 # Change this to True when you do you pull request.
@@ -65,7 +55,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: J'ai fais mes classes en physique et chimie et préfère maintenand jouer avec les ordinateurs. http://sud0lemediocre.fr/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
