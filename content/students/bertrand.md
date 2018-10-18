@@ -13,7 +13,7 @@ date: 2018-10-18 11:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Milieu de parcours pro, un bon moment pour repartir vers de nouveaux horizons et sur de nouvelles bases (binaires en l'occurrence)
-short_description: Curieux d'en apprendre plus sur le petit robot.
+short_description: Curieux de plein de choses et en particulier pour cette formation, d'en apprendre plus sur le petit robot.
 
 # don't touch that
 template: students
@@ -38,14 +38,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: bertrand/project1.png
+    image: bertrand/project1.jpg
     link: https://www.linkedin.com/in/bertrand-ripoche-6175b51/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: bertrand/project2.png
+    image: bertrand/project2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/bertrand.html
     finished: true
   - title: Mémorisez votre humeur du jour
