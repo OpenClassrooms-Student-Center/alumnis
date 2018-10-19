@@ -12,12 +12,12 @@ date: 2018-10-16 06:37
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à developper et trouver facilement un travail à l'étranger 
+objective: Apprendre à developper et trouver facilement un travail à l'étranger
 
 # don't touch that
 template: students
 description:
-	XXX
+	Apprendre à developper et trouver facilement un travail à l'étranger
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -38,7 +38,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: ratus/projet2.png
     link: https://github.com/kardelen-karatas/alumnis
     finished: true
