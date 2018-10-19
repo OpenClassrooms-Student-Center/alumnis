@@ -93,14 +93,14 @@ projects:
     finished: true
 
   - title: Mettez votre logique à l'épreuve
-                                   
+
     description: Création de deux jeux, Recherche combinaison et Mastermind !
 
     image: nicolas31/Projet_3.jpg
 
     link: https://github.com/nicowtt
 
-    finished: true
+    finished: false
 
 ---
 
