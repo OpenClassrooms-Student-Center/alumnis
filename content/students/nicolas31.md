@@ -93,8 +93,8 @@ projects:
     finished: true
 
   - title: Mettez votre logique à l'épreuve
-
-    description: Création de deux jeux: Recherche combinaison et Mastermind !
+                                   
+    description: Création de deux jeux, Recherche combinaison et Mastermind !
 
     image: nicolas31/Projet_3.jpg
 
