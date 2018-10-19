@@ -12,19 +12,19 @@ date: 2018-10-18 13:48
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur.
+objective: Devenir dÃ©veloppeur.
 
 # max 100 characters
-short_description: J'aime la culture japonaise, les jeux vidéos, le cinéma et la musique (le métal et les ost).
+short_description: J'aime la culture japonaise, les jeux vidÃ©os, le cinÃ©ma et la musique (le mÃ©tal et les ost).
 
 # don't touch that
 template: students
 
 # max 500 characters
 description:
-    Je m'appelle Florent Allard. J'ai 34 ans. Je suis originaire de Montigny le Bretonneux près de Versailles. 
-    Titulaire d'un Diplôme Supérieur de Comptabilité et Gestion, j'ai pratiqué la comptabilité pendant 16 ans dans divers secteurs d'activités.
-    J'ai décidé de faire cette formation dans le but d'une reconversion professionnelle. Le métier de comptable étant voué à disparaitre avec les progrès de l'intelligence artificielle.
+    Je m'appelle Florent Allard. J'ai 34 ans. Je suis originaire de Montigny le Bretonneux prÃ¨s de Versailles. 
+    Titulaire d'un DiplÃ´me SupÃ©rieur de ComptabilitÃ© et Gestion, j'ai pratiquÃ© la comptabilitÃ© pendant 16 ans dans divers secteurs d'activitÃ©s.
+    J'ai dÃ©cidÃ© de faire cette formation dans le but d'une reconversion professionnelle. Le mÃ©tier de comptable Ã©tant vouÃ© Ã  disparaitre avec les progrÃ¨s de l'intelligence artificielle.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -36,22 +36,22 @@ public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
+  - title: PrÃ©sentez-vous !
     # max 100 characters
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/Florent78/project1.png
     image: Florent78/projet_1.png
     link: https://www.linkedin.com/in/florentallard/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Florent78/projet_2.jpg
     link: https://github.com/F-Allard
     finished: true
-  - title: Aidez MacGyver Ã  sortir !
-    description: Création d'un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver ÃƒÂ  sortir !
+    description: CrÃ©ation d'un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: Florent78/projet_3.png
     link: https://www.github.com
     finished: false
