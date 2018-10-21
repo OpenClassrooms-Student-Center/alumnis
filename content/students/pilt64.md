@@ -16,14 +16,14 @@ title: pilt64
 
 name: PierreLT
 
-date: 2016-10-28 17:20
+date: 2018-10-12 17:20
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Explorer des sommets enneigés, de gorges profondes, des océans d'incertitudes et de silence infini.
+objective: Explorer des sommets enneigés, de profondes abysses, des océans d'incertitudes et de silence infini.
 
 short_description: Fin amateur de charcutterie, explorateur intrépide je vainc la monotonie en apprenant chaque jours de nouveaux paradigmes. http://sud0lemediocre.fr/
 
@@ -53,17 +53,17 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Coucou c'est moi !
 
-    description: J'ai fais mes classes en physique et chimie et préfère maintenand jouer avec les ordinateurs. http://sud0lemediocre.fr/
+    description: J'ai fais mes classes en physique et chimie et préfère désormais jouer avec les ordinateurs. 
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: pilt64/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: http://sud0lemediocre.fr/
 
     # 'true' makes it fully available.
 
@@ -71,23 +71,23 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: Simuler un site pour l'office de tourisme de Strasbourg !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Utiliser des CMS (wordpress en l'occurence) pour améliorer (moai) le site de l'OT de Strasbourg. 
 
-    image: ratus/projet_2.png
+    image: pilt64/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: http://sud0lemediocre.fr/
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Unification et expansion des peuples francs!
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Conquête et évangélisation d'abord des saliens puis de tous les francs.
 
-    image: ratus/projet_3.png
+    image: pilt64/projet_3.png
 
-    link: https://www.github.com
+    link: https://fr.wikipedia.org/wiki/Clovis_Ier
 
     finished: false
 
