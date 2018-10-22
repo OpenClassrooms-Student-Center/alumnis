@@ -71,7 +71,7 @@ projects:
 
     image: jonathan_34/linkedIn_34.png
 
-    link: https://www.linkedin.com/in/johnannerosemanobi/presentation/students/ratus.html
+    link: https://www.linkedin.com/in/johnannerosemanobi
 
     # 'true' makes it fully available.
 
