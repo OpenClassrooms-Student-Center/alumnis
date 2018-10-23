@@ -14,7 +14,7 @@ title: ilyas
 
 # First name or full name
 
-name: yayass
+name: ilyas
 
 date: 2018-10-10 17:20
 
@@ -25,7 +25,7 @@ date: 2018-10-10 17:20
 
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+
 
 
 # don't touch that
@@ -34,17 +34,11 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ 
+ Objectifs lié à la formation :
+ Développer des mécanismes de compréhension en algorithmique ainsi que les bonnes pratiques pour apprendre à développer dans de bonnes conditions.
+ Apprendre à mettre en place un projet (par où commencer, quantifier, etc)
+ Me mettre à jour sur les dernières technologies liées à la profession.
 
 
 # image must be located in content/images/students
@@ -65,15 +59,12 @@ projects:
 
   - title: test!
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+   
 
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-
-    # Image must be here: content/students/yourrepo/project1.png
 
     image: ratus/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/ilyas-chodkiewiez-067291173/
 
     # 'true' makes it fully available.
 
