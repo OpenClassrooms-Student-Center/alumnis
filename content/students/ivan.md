@@ -8,7 +8,7 @@ title: Ivan
 
 # First name or full name
 name: ivan
-date: 09/10/2018
+date: 23/10/2018
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,7 +18,9 @@ short_description: Anciennement en licence de mathématiques je cherche à me re
 # don't touch that
 template: students
 description:
-    Bonjour, je m'appele Ivan j'ai 23 ans, suite à des difficultés rencontré en licence de mathématiques j'envisage une reconversion dans le domaine informatique et plus précisement devenir developeur backend python pour une entreprise.
+    Bonjour, je m'appele Ivan j'ai 23 ans, suite à des difficultés rencontré en licence de mathématiques 
+    j'envisage une reconversion dans le domaine informatique et plus précisement devenir
+    developeur backend avec python.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
