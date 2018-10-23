@@ -21,7 +21,7 @@ description:
     Bonjour, je m'appele Ivan j'ai 23 ans, suite à des difficultés
     rencontrées en licence de mathématiques j'envisage une reconversion 
     dans le domaine informatique et plus précisément 
-    devenir développeur, plus tard, backend avec python.
+    devenir, plus tard, développeur backend avec python.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
