@@ -37,10 +37,10 @@ projects:
     link: https://www.linkedin.com/in/pascal-r-351a24161/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: pascal123/projet2.jpg
     link: https://github.com/pascal123
-    finished: false
+    finished: true
 ---
