@@ -97,6 +97,6 @@ projects:
 
     link: https://openclassrooms.com/fr/projects/aidez-macgyver-a-sechapper
 
-    finished: true
+    finished: false
 
 ---
