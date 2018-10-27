@@ -39,13 +39,13 @@ projects:
     description: Linkedin.com/in/caroline-chemin-073b8ab3
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: caroline1.jpg
+    link: 
     # 'true' makes it public. If 'false', then it will not show on the website.
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: caroline1.jpg
+    image:
     link: 
     finished: false
   - title: Aidez MacGyver à sortir !
