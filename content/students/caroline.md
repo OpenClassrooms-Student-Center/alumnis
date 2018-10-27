@@ -15,7 +15,7 @@ date: 2018-10-27 13:40
 objective: Apprendre la programmation.
 
 # max 100 characters
-short_description: J'aime lire, écrire, les cultures et souhaite apprendre la programmation pour peut être en faire une de mes activités si l'envie suit. Linkedin.com/in/caroline-chemin-073b8ab3
+short_description: J'aime lire, écrire, les cultures et souhaite apprendre la programmation pour peut être en faire une de mes activités si l'envie suit.
 
 # don't touch that
 template: students
@@ -34,9 +34,9 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
+  - title: Caroline enchantée !
     # max 100 characters
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Linkedin.com/in/caroline-chemin-073b8ab3
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
@@ -45,12 +45,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
+    image: caroline1.jpg
+    link: 
+    finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: 
     link: https://www.github.com
     finished: false
 ---
