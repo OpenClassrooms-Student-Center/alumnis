@@ -21,7 +21,7 @@ short_description: Je suis fan de Nadal, ami de la mécanique deux roues et appr
 template: students
 
 # max 500 characters
-description
+description:
 Je m'appelle Alexandre, j'ai 26 ans et j'ai commencé début octobre mon
 parcours en développement iOS. Je souhaite à l'issue de celui-ci avoir
 acquis suffisament d'expérience en développement en Swift pour pouvoir
