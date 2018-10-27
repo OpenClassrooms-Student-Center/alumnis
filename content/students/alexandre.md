@@ -21,7 +21,7 @@ description:
     acquis suffisament d'expérience en développement en Swift pour pouvoir
 	prétendre à un poste de développeur junior. J'ai toujours été passionné
 	par l'informatique même si j'ai découvert la programmation que très
-récemment.
+    récemment.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
