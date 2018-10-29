@@ -35,7 +35,7 @@ template: students
 description: je travaille dans le monde de l animation est souhaite evoluer dans ce milieu.
 
  
- Objectifs lié à la formation :
+ 
  Développer des mécanismes de compréhension en algorithmique ainsi que les bonnes pratiques pour apprendre à développer dans de bonnes conditions.
  Apprendre à mettre en place un projet (par où commencer, quantifier, etc)
  Me mettre à jour sur les dernières technologies liées à la profession.
