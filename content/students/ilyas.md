@@ -32,7 +32,7 @@ objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 
 template: students
 
-description:
+description: je travaille dans le monde de l animation est souhaite evoluer dans ce milieu.
 
  
  Objectifs lié à la formation :
