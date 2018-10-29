@@ -4,25 +4,24 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: robin
+title: kardelen
 
 # First name or full name
-name: robin
-date: 2018-10-01 09:54
+name: Kardelen
+date: 2018-10-16 06:37
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me former au mieux au Python grâce à OpenClassRooms.
-short_description: Je m'appelle Robin, je suis actuellement le parcours Développeur d'Application Python.
+objective: Apprendre à developper et trouver facilement un travail à l'étranger
 
 # don't touch that
 template: students
 description:
-    Je suis ingénieur avec le désir d'en apprendre encore plus.
+	Apprendre à developper et trouver facilement un travail à l'étranger
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: robin.jpg
+image: kardelen.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,19 +32,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: roeun/projet_1.jpg
-    link: https://www.linkedin.com/in/robinmahou/
+    image: ratus/projet1.png
+    link: https://www.linkedin.com/in/kardelen-karatas-943b3577/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: roeun/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/robin.html
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    image: ratus/projet2.png
+    link: https://github.com/kardelen-karatas/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: roeun/projet_3.jpg
+    image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
 ---
