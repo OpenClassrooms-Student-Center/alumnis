@@ -1,5 +1,4 @@
 ﻿---
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -47,6 +46,5 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: alban/projet_2.png
     link: https://github.com/Megabiquette/alumnis
-    finished: true
-	
+    finished: true	
 ---
