@@ -1,4 +1,4 @@
----
+ï»¿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -13,7 +13,7 @@ date: 2018-11-02 17:19
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: bien maitrisser Github et valider mon Projet.
-short_description: J'aime la danse, le foot. J'apprends à utiliser github.
+short_description: J'aime la danse, le foot. J'apprends Ã  utiliser github.
 
 # don't touch that
 template: students
@@ -34,8 +34,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: PrÃ©sentez-vous !
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: tarek/projet_1.png
@@ -43,13 +43,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: tarek/projet_2.png
     link: https://github.com/Tbasri/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: CrÃ©ation dâ€™un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: tarek/projet_3.png
     link: https://www.github.com
     finished: false
