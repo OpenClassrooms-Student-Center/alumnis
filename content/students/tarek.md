@@ -5,6 +5,7 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: tarek
+
 # First name or full name
 name: Tarek
 date: 2018-11-02 17:19
@@ -17,8 +18,7 @@ short_description: J'aime la danse, le foot. J'apprends à utiliser github.
 # don't touch that
 template: students
 description:
-       Après un bep un bac pros puis un bts et de l'experience en tant que tech 
-   je me consacre au developement pour en faire mon metier.
+j'ai fait un bep un bac pros puis un bts.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
