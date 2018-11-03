@@ -35,9 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Animateur 3D à la base, accro au cinéma et au design graphique, j'ai changé une première fois d'orientation en partant vers la relation clientèle.
-    Après quelques années dans ce domaine, un changement et un besoin de nouveauté se sont fait sentir !
-    J'ai toujours eu cette passion de la création et de la logique, le développement m'a donc toujours attiré et aujourd'hui j'ai décidé d'en faire mon métier !
+    description: Animateur 3D à la base, accro au cinéma et au design graphique, j'ai changé une première fois d'orientation en partant vers la relation clientèle. Après quelques années dans ce domaine, un changement et un besoin de nouveauté se sont fait sentir ! J'ai toujours eu cette passion de la création et de la logique, le développement m'a donc toujours attiré et aujourd'hui j'ai décidé d'en faire mon métier !
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: crosart/01_projet_linkedin.JPG
