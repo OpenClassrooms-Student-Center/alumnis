@@ -17,7 +17,8 @@ short_description: J'aime lire Noam Chomsky et coder.
 
 # don't touch that
 template: students
-        J'aime lire Noam Chomsky, coder et la géopolitique.
+description:
+	J'aime lire Noam Chomsky, coder et la géopolitique.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
