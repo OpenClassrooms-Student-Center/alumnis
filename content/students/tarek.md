@@ -17,8 +17,7 @@ short_description: J'aime la danse, le foot. J'apprends à utiliser github.
 
 # don't touch that
 template: students
-description:
-    Apres un bep puis un bts dans le domaine de l'éléctronique et une experience en tant que technicien des systemes de securité j'ai decider d'attaquer une formation dans le developpement des application android.
+description: Apres un bep puis un bts dans le domaine de l'éléctronique et une experience en tant que technicien des systemes de securité j'ai decider d'attaquer une formation dans le developpement des application android.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
