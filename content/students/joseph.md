@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: joseph/joseph.png
+image: joseph.png
 
 # Change this to True when you do you pull request.
 public: true
@@ -32,20 +32,15 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/images/joseph/linux.png
-    image: joseph/linux.png
+    # Image must be here: content/images/joseph/
+    image: joseph/projet1.png
     link: https://www.linkedin.com/in/joseph-herradi-11212381/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: joseph/joseph.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: joseph/pullReq.png
+    link: https://openclassrooms.com/fr/projects/integrez-la-communaute-openclassrooms
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: joseph/joseph.png
-    link: https://www.github.com
-    finished: false
 ---
