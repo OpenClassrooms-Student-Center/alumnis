@@ -26,23 +26,15 @@ image: elodie.jpg
 
 public: True
 
-
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    
+  - title: PrÃ©sentez-vous !
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     image: elodie/projet_1.png
     link: https://www.linkedin.com/in/elodie-confavreux/
-   
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: elodie/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/elodie.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: elodie/projet_3.png
-    link: https://www.github.com
-    finished: false
----
+  ---
