@@ -17,9 +17,7 @@ objective: Apprendre à développer sous Android pour travailler dans l'informat
 # don't touch that
 template: students
 description:
-    Meum nomen est Paulus ego XXII annorum. Ego amo video ludos, animalium. 
-    I vivere in area Paris.
-    traduction instantanée : Je m'appelle Paul, J'ai 22 ans.
+    Je m'appelle Paul, J'ai 22 ans.
     J'adore les jeux vidéos, les animaux. j'habite en region parisienne. 
 
 # image must be located in content/images/students
