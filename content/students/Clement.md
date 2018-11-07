@@ -30,8 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Pere de famille, ancien manip radio, fou de sport, et fan de domotique DIY,https://www.linkedin.com/in/clement-
-martin-aa95a4133.
+    description: Pere de famille, ancien manip radio, fou de sport, et fan de domotique DIY, https://www.linkedin.com/in/clement-martin-aa95a4133.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Clément/projet_1.png
