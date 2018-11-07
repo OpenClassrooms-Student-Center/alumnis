@@ -1,4 +1,6 @@
-﻿# FILENAME : please use your OpenClassrooms's name, available in your url.
+﻿---
+
+# FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
@@ -36,4 +38,5 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
+
 ---
