@@ -1,4 +1,4 @@
----
+ï»¿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -12,15 +12,15 @@ date: 2018-06-11 10:40
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à développer sous Android pour travailler dans l'informatique.
+objective: Apprendre Ã  dÃ©velopper sous Android pour travailler dans l'informatique.
 
 # don't touch that
 template: students
 description:
     Meum nomen est Paulus ego XXII annorum. Ego amo video ludos, animalium. 
     I vivere in area Paris.
-    traduction instantanée : Je m'appelle Paul, J'ai 22 ans.
-    J'adore les jeux vidéos, les animaux. j'habite en region parisienne. 
+    traduction instantanÃ©e : Je m'appelle Paul, J'ai 22 ans.
+    J'adore les jeux vidÃ©os, les animaux. j'habite en region parisienne. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -31,8 +31,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Pr sentez-vous !
+    description: Une prÃ©sentation de moi-m me et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
@@ -40,13 +40,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: Int grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: Cr ation d'un jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
