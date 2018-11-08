@@ -39,13 +39,13 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: thomas74/projet_1.png
-    link: https://github.com/Isioblast/alumnis
+    link: https://www.linkedin.com/in/thomasdvl/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: thomas74/projet_2.png
-    link: https://www.linkedin.com/in/thomasdvl/
+    link: https://github.com/Isioblast/alumnis
     finished: true
 ---
