@@ -12,8 +12,8 @@ date: 2018-10-24 21:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à faire des trucs chouettes.
-short_description: J'aime tout.
+objective: Faire des apps chouettes
+short_description: J'aime tout
 
 # don't touch that
 template: students
@@ -44,7 +44,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: alban/projet_2.png
     link: https://github.com/Megabiquette/alumnis
     finished: true
@@ -52,5 +52,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
-    finished: false	
+    finished: false
 ---
