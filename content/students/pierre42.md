@@ -45,7 +45,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: pierres/projet_1.png
+    image: pierre42/projet_1.png
 
     link: www.linkedin.com/in/pierre-saumet-000aa7112
 
@@ -59,7 +59,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: pierres/projet_2.jpg
+    image: pierre42/projet_2.jpg
 
     link: https://github.com/
 
