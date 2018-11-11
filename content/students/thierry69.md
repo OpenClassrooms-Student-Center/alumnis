@@ -24,7 +24,7 @@ description:
 image: thierry69.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -32,14 +32,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: thierry69/projet_1.png
+    image: thierry69/projet_1.PNG
     link: https://www.linkedin.com/in/haim-thierry-benhamou-73a13499/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: thierry/projet_2.png
+    image: thierry/projet_2.PNG
     link: https://openclassrooms-student-center.github.io/presentation/students/thierry69.html
     finished: true
 ---
