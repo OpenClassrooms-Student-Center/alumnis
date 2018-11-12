@@ -13,7 +13,7 @@ date: 2018-11-10 18:10
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir developpeur IOS
-short_description: J'aime les jeux vidéos, les animes, les sciences, j'apprends le swift.
+short_description: J'aime les jeux vidéos, les animes, les sciences et la programmation informatique.
 
 # don't touch that
 template: students
@@ -30,7 +30,7 @@ description:
 image: ayyub7.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -47,7 +47,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ayyub7/projet_2.png
     link: https://github.com/Ayyub7Papuru/alumnis
-    finished: true
+    finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
