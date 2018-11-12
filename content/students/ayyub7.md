@@ -18,12 +18,7 @@ short_description: J'aime les jeux vidéos, les animes, les sciences et la progr
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je m'appelle Ayoub, je suis actuellement en formation de développeur IOS afin de devenir développeur Swift et créer des applications sur l'écosystème Apple, j'aimes les sciences en général et l'astronomie, je regarde beaucoup d'animes et j'aime lire de temps en temps, je suis passioné de jeux vidéos, je joue sur console et Pc et j'aime beaucoup de cinéma
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -47,10 +42,5 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ayyub7/projet_2.png
     link: https://github.com/Ayyub7Papuru/alumnis
-    finished: false
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+    finished: true
 ---
