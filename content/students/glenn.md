@@ -48,5 +48,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: glenn/projet_3.png
     link: https://github.com/thedev1992
-    finished: false
+    finished: true
 ---
