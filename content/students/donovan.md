@@ -16,7 +16,7 @@ short_description: Passionner par la programmation je souhaite un jour pouvoir c
 # don't touch that
 template: students
 description:
-    j'ai 22, je suis vosgien, passionner par un peu tout ce qui touche a l'informatique et surtout par la programmation. Je voit la programmation comme la magie moderne(avec une bonne formule on peut tout faire :D). j'aimerait un jour pouvoir automatiser toute une maison et pouvoir la gerer par voix. 
+    j'ai 22, je suis vosgien, passionner par un peu tout ce qui touche a l'informatique et surtout par la programmation. Je voit la programmation comme la magie moderne(avec une bonne formule on peut tout faire :D).
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -41,9 +41,4 @@ projects:
     image: donovan/projet_2.png
     link: https://github.com/tetrew88/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
