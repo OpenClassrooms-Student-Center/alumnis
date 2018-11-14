@@ -16,7 +16,7 @@ short_description: Passionner par la programmation je souhaite un jour pouvoir c
 # don't touch that
 template: students
 description:
-    j'ai 22, je suis vosgien, passionner par un peu tout ce qui touche a l'informatique et surtout par la programmation. Je voit la programmation comme la magie moderne(avec une bonne formule on peut tout faire :D).
+    j'ai 22, je suis vosgien, passionner par un peu tout ce qui touche a l'informatique et surtout par la programmation.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
