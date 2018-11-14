@@ -1,4 +1,6 @@
+---
 
+# FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
@@ -6,17 +8,17 @@ title: donovan
 
 # First name or full name
 name: donovan
-date: 2018-11-14 22:11
+date: 2018-11-14 22:31
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir le meilleure programmeur ^^ .
-short_description: Passionner par la programmation je souhaite un jour pouvoir créer une maison entièrement autonome
+objective: percer dans la programmation
+short_description: passionner d'informatique et surtout de programmation
 
 # don't touch that
 template: students
 description:
-    j'ai 22, je suis vosgien, passionner par un peu tout ce qui touche a l'informatique et surtout par la programmation.
+    j'ai 22ans, je suis vosgien, je suis passionner de programmation car pour moi c'est la magie des temp moderne avec une bonne formule on peut tout faire :P
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -39,6 +41,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: donovan/projet_2.png
-    link: https://github.com/tetrew88/alumnis
+    link: https://github.com/tetrew88/alumnis/tree/master/content/students/donovan
     finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
