@@ -1,33 +1,26 @@
 ---
-
- # FILENAME : https://openclassrooms.com/membres/gilles-angerville
+  # FILENAME : https://openclassrooms.com/membres/gilles-angerville
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: tgmtgm1
-
-# First name or full name
+ # First name or full name
 name: Elisabet
 date: 2018-16-11 10:23
-
-# One line.
+ # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeuse et combiner la programmation avec mon métier de kinésithérapeute entre autre
 short_description: J'aime faire du sport comme flamenco, course à pied, randonnée, aïkido etc. Philosphie, psychologie, etc..
-
-# don't touch that
+ # don't touch that
 template: students
 description:
    Kinésithérapeute avec une envie de continuer à apprendre et innover. 
-
-# image must be located in content/images/students
+ # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: tgmtgm1.jpg
-
-# Change this to True when you do you pull request.
+ # Change this to True when you do you pull request.
 public: True
-
-# You need to keep the exact same structure for each new project.
+ # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -46,7 +39,7 @@ projects:
     image: tgmtgm1/project2.png
     link: https://www.github.com
     finished: true
-     - title: Mémorisez votre humeur du jour 
+  - title: Mémorisez votre humeur du jour 
     image: tgmtgm1/project3.png
     link: https://github.com/Eliza13210/moodtracker_oc.git
     finished: true
