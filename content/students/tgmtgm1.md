@@ -6,7 +6,7 @@
 title: tgmtgm1
  # First name or full name
 name: Elisabet
-date: 2018-16-11 10:23
+date: 2018-11-16 18:23
  # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeuse et combiner la programmation avec mon métier de kinésithérapeute entre autre
