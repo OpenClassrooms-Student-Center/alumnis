@@ -13,7 +13,7 @@ date: 2018-11-2 16:11
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre un nouveau langage et concevoir des applications.
-short_description: Je suis passionné par la tech et son environnement, j'adore le sport et les rimes qui s'abîment.
+short_description: Je suis passionné par la Tech et son environnement, j'adore le sport et les rimes qui s'abîment.
 
 # don't touch that
 template: students
@@ -38,14 +38,14 @@ projects:
     description: https://www.linkedin.com/in/developpeurapplicationjavaedouard-leroy-84300854/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: projet_1.png
+    image: Edouard/Projet_1.png
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: projet_2.png
+    image: Edouard/Projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/edouard.html
     finished: true
   - title: Aidez MacGyver à sortir !
