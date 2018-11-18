@@ -18,7 +18,7 @@ short_description: J'aime les belles lettres, le fromage et les pages écornées
 
 # don't touch that
 template: students
-description:J'aime voyager et découvrir de nouvelles choses ! 
+description: J'aime voyager et découvrir de nouvelles choses ! 
 
 
 # image must be located in content/images/students
