@@ -82,7 +82,7 @@ projects:
 
   - title: J'intègre la communauté !
 
-    description: 1ère étape : modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: 1ère étape, modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
     image: sophie/projet_2.png
 
