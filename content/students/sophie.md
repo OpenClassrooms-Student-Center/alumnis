@@ -90,7 +90,7 @@ projects:
 
     finished: true
 
-  - title: Du sérieux : il faut aider MacGyver à sortir !
+  - title: Du sérieux, il faut aider MacGyver à sortir !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
