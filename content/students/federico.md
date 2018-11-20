@@ -42,7 +42,7 @@ description: Une présentation de moi-même et un lien vers mon LinkedIn.
 image: federico/projet_1.png
 link: https://www.linkedin.com/in/federico-desmoulin/
 # 'true' makes it public. If 'false', then it will not show on the website.
-finished: true
+finished: false
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 image: federico/projet_2.png
