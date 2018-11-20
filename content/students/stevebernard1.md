@@ -17,7 +17,7 @@ short_description: J'ai 38 ans passionné par l'informatique, la technologie. J'
 
 # don't touch that
 template: students
-description:
+'description':
 J'aime les challenges, l'esprit d'equipe, les voyages, la musique, faire de nouvelles rencontres et plein d'autres. Je suis quelqu'un qui aime beaucoup le contact humain. 
 
 # image must be located in content/images/students
