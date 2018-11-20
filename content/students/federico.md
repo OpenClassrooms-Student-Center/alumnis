@@ -5,8 +5,7 @@
     objective: Devenir un expert en Java !
     short_description: Passionné par Internet, les nouvelles technologies et surtout de 3D.
     template: students
-    description:
-    Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
+    description: Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
     image: federico.png
     public: True
     projects:
