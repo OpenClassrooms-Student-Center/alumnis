@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: Sarah
 
 # First name or full name
 name: Sarah
@@ -33,14 +33,14 @@ projects:
     description: Parcours DA iOS www.linkedin.com/in/sarah-maimoun-20bbab172
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: sarah91/projet1.jpg 
+    image: sarah91/projet_1.jpg 
     link: http://www.linkedin.com/in/sarah-maimoun-20bbab172
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: sarah91/projet2.jpg
+    image: sarah91/projet_2.jpg
     link: https://github.com/sarahmy
     finished: true
   - title: Aidez MacGyver à sortir !
