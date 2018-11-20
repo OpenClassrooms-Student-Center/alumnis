@@ -25,12 +25,12 @@ description:
 image: federico.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-- title: Présentez-vous !
-description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
 image: federico/projet_1.png
