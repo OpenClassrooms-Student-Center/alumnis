@@ -50,9 +50,9 @@ public: True
 
 projects:
 
-- title: Présentez-vous !
+  - title: Présentez-vous !
 
-description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -68,9 +68,9 @@ link: https://www.linkedin.com/in/federico-desmoulin/
 
 finished: true
 
-- title: Intégrez la communauté !
+  - title: Intégrez la communauté !
 
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
 image: content/images/students/federico/projet_2.png
 
@@ -78,9 +78,9 @@ link: https://openclassrooms-student-center.github.io/presentation/students/fede
 
 finished: true
 
-- title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à sortir !
 
-description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d’un jeu développé en Python et utilisant PyGame.
 
 image: antoine91/antoine91_project3.png
 
@@ -89,4 +89,3 @@ link: https://www.github.com
 finished: false
 
 ---
-
