@@ -12,7 +12,7 @@ date: 2018-11-20 17:37
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir un aigle en developpement informatique
+objective: Devenir un aigle en developpement informatique.
 short_description: J'ai 38 ans passionné par l'informatique, la technologie. J'aime voyager le cinema et le trading
 
 # don't touch that
