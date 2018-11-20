@@ -65,8 +65,7 @@ link: https://www.linkedin.com/in/federico-desmoulin/
 
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-finished: false
-
+finished: true
   - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
