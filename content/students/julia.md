@@ -38,19 +38,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: julia/projet_1.png
+    image: julia/projet1.PNG
     link: https://www.linkedin.com/in/julia-wabant/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: julia/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/julia.html
+    image: julia/projet2.PNG
+    link: https://github.com/juliawabant/alumnis
     finished: true
   - title: Mettez votre logique à l'épreuve
     description: Création d’une application proposant des jeux de logique
-    image: julia/projet_3.png
+    image: julia/projet3.PNG
     link: https://www.github.com
     finished: false
 ---
