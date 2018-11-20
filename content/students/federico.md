@@ -1,6 +1,5 @@
 ---
 
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -72,20 +71,20 @@ finished: true
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-image: content/images/students/federico/projet_2.png
+    image: content/images/students/federico/projet_2.png
 
-link: https://openclassrooms-student-center.github.io/presentation/students/federico.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/federico.html
 
-finished: true
+    finished: true
 
   - title: Aidez MacGyver à sortir !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-image: antoine91/antoine91_project3.png
+    image: antoine91/antoine91_project3.png
 
-link: https://www.github.com
+    link: https://www.github.com
 
-finished: false
+    finished: false
 
 ---
