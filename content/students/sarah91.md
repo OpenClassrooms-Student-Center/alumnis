@@ -33,19 +33,19 @@ projects:
     description: Parcours DA iOS www.linkedin.com/in/sarah-maimoun-20bbab172
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: sarah91/projet1.png 
+    image: sarah91/projet1.jpg 
     link: http://www.linkedin.com/in/sarah-maimoun-20bbab172
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: sarah91/projet2.png
+    image: sarah91/projet2.jpg
     link: https://github.com/sarahmy
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: sarah91/projet_3.png
+    image: 
     link: https://www.github.com
     finished: true
 ---
