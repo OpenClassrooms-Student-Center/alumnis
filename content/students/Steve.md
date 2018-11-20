@@ -7,7 +7,6 @@
 # lowercase, no blank space, Capital case or special character.
 title:steve
 
-# First name or full name
 name: Steve
 date: 2018-11-14 11:20
 
