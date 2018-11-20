@@ -17,8 +17,7 @@ short_description: Passionné par Internet, les nouvelles technologies et surtou
 
 # don't touch that
 template: students
-description:
-Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
+description: Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
