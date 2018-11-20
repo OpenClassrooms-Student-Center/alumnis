@@ -57,7 +57,7 @@ projects:
 
 # Image must be here: content/students/yourrepo/antoine91_project1.png
 
-image: content/images/students/federico/projet_1.png
+image: federico/projet_1.png
 
 link: https://www.linkedin.com/in/federico-desmoulin/
 
@@ -71,7 +71,7 @@ finished: true
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: content/images/students/federico/projet_2.png
+    image: federico/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/federico.html
 
