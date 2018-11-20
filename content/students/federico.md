@@ -7,7 +7,7 @@
     template: students
     description: Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
     image: federico.png
-    public: True
+    public: true
     projects:
     - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
