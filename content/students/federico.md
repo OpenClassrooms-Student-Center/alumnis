@@ -46,14 +46,15 @@ image: federico/projet_1.png
 link: https://www.linkedin.com/in/federico-desmoulin
 # 'true' makes it public. If 'false', then it will not show on the website.
 finished: true
-    - title: Intégrez la communauté !
+- title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 image: content/images/federico/projet_2.png
 link: https://openclassrooms-student-center.github.io/presentation/students/federico.html
 finished: true
-    - title: Aidez MacGyver à sortir !
+- title: Aidez MacGyver à sortir !
 description: Création d’un jeu développé en Python et utilisant PyGame.
 image: ratus/projet_3.png
 link: https://www.github.com
 finished: false
+
 ---
