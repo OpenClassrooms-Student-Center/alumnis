@@ -37,7 +37,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-- title: Présentez-vous !
+    - title: Présentez-vous !
 # max 100 characters
 description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -46,7 +46,7 @@ image: federico/projet_1.png
 link: https://www.linkedin.com/in/federico-desmoulin
 # 'true' makes it public. If 'false', then it will not show on the website.
 finished: true
-- title: Intégrez la communauté !
+    - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 image: content/images/federico/projet_2.png
 link: https://openclassrooms-student-center.github.io/presentation/students/federico.html
