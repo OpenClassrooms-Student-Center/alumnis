@@ -9,12 +9,12 @@
     image: federico.png
     public: true
     projects:
-    - title: Présentez-vous !
+    title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     image: federico/projet_1.png
     link: https://www.linkedin.com/in/federico-desmoulin/
     finished: true
-    - title: Intégrez la communauté !
+    title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: federico/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/federico.html
