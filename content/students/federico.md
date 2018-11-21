@@ -12,7 +12,8 @@ date: 2018-11-22 22:22
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir un expert en Java ! ;)
+objective: 
+    Devenir un expert en Java ! ;)
 
 # max 100 characters
 short_description: Passionné par Internet, les nouvelles technologies et surtout de 3D.
