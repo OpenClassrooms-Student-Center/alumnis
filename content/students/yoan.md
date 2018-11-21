@@ -16,7 +16,7 @@ title: yoan
 
 name: yoan
 
-date: 2018-11-21 02:30
+date: 2018-11-21 17:30
 
 
 # One line.
@@ -45,7 +45,7 @@ image: yoan.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -60,9 +60,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: content/students/yoan/yoan.jpg
+    image: content/students/yoan/ssLinkedin.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/yoanav/
 
     # 'true' makes it fully available.
 
@@ -74,20 +74,12 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: content/students/yoan/yoan.jpg
+    image: content/students/yoan/ssRepo.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/yoan.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: content/students/yoan/yoan.jpg
-
-    link: https://www.github.com
-
-    finished: false
 
 ---
+
