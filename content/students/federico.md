@@ -37,7 +37,7 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-    - title: Présentez-vous !
+- title: Présentez-vous !
 # max 100 characters
 description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
