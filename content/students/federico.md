@@ -36,11 +36,11 @@ projects:
 description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
-image: federico/projet_1.png
-link: https://www.linkedin.com/in/federico-desmoulin/
+    image: federico/projet_1.png
+    link: https://www.linkedin.com/in/federico-desmoulin/
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-finished: true
+    finished: true
 - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: federico/projet_2.png
