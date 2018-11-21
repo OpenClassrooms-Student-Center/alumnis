@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Clément.jpg
+image: Clement1.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -32,15 +32,16 @@ projects:
   - title: Présentez-vous !
     description: Pere de famille, ancien manip radio, fou de sport, et fan de domotique DIY, .
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: clemenmartin23/projet_1.png
+    # Image must be here: content/students/yourrepo/project1.jpg
+
+    image: Clement1/projet1.jpg
     link: https://www.linkedin.com/in/clement-martin-aa95a4133
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: clementmartin23/projet_2.png
+    image: Clement1/projet2.jpg
     link: 
     finished: true
   - title: Aidez MacGyver à sortir !
