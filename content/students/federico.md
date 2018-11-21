@@ -15,7 +15,8 @@
     objective: Devenir un expert en Java ! ;)
 
 # max 100 characters
-    short_description: Passionné par Internet, les nouvelles technologies et surtout de 3D.
+    short_description: 
+    Passionné par Internet, les nouvelles technologies et surtout de 3D.
 
 # don't touch that
     template: students
