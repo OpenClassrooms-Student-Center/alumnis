@@ -4,47 +4,52 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: elia
+    title: federico
 
 # First name or full name
-name: Elia
-date: 2017-11-028 17:20
+    name: Federico
+    date: 2018-11-22 22:22
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Obtenir mon diplôme et devenir développeur d'applications python
-short_description: Passioné par l'informatique j'ai décidé de me lancer dans ce parcours. 
+    objective: Devenir un expert en Java ! ;)
+
+# max 100 characters
+    short_description: Passionné par Internet, les nouvelles technologies et surtout de 3D.
 
 # don't touch that
-template: students
-description:
-Je suis un etudiant de 21 ans et je travaille également comme animateur. J'étais toujours très passionné par l'informatique, en particulier par le développement web, car Internet c'est un outil que l'on utilise tout les jours et pourtant on s'en rend pas compte de son fonctionnement et tout ce qu'il se passe coté serveur.
+    template: students
+
+# max 500 characters
+    description: Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de développeur d’applications Java avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: elia.jpg
+# max size: 200ko
+    image: federico.png
 
 # Change this to True when you do you pull request.
-public: True
+    public: True
 
 # You need to keep the exact same structure for each new project.
-projects:
-- title: Présentez-vous !
-description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    projects:
+    - title: Présentez-vous !
+# max 100 characters
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
-image: elia/projet_1.png
-link: https://www.linkedin.com/in/elia-benfatto-765262153/
-# 'true' makes it fully available.
-# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-finished: true
-- title: Intégrez la communauté !
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-image: elia/projet_2.png
-link: https://github.com/EliaTB/alumnis
-finished: true
-- title: Aidez MacGyver à sortir !
-description: Création d’un jeu développé en Python et utilisant PyGame.
-image: ratus.jpg
-link: https://www.github.com
-finished: false
+    image: federico/projet_1.png
+    link: https://www.linkedin.com/in/federico-desmoulin
+# 'true' makes it public. If 'false', then it will not show on the website.
+    finished: true
+    - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    image: content/images/federico/projet_2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/federico.html
+    finished: true
+    - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
+---
