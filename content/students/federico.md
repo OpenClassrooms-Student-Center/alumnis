@@ -41,7 +41,7 @@ description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
 image: federico/projet_1.png
-link: https://www.linkedin.com/in/federico-desmoulin/
+link: https://www.linkedin.com/in/federico-desmoulin
 # 'true' makes it public. If 'false', then it will not show on the website.
 finished: true
 - title: Intégrez la communauté !
