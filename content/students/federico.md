@@ -47,6 +47,4 @@ finished: true
 
   link: https://github.com/MokoMaracucho
 
-  finished: true
-
 ---
