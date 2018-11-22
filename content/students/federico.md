@@ -26,4 +26,16 @@ image: federico.png
 
 # Change this to True when you do you pull request.
 public: True
+
+# You need to keep the exact same structure for each new project.
+projects:
+- title: Qui suis-je ?
+description: Retrouvez ma présentation sur ma page LinkedIn.
+# Create a new repository for your images. Name it the same as your nickname and profile picture.
+# Image must be here: content/students/yourrepo/project1.png
+image: federico/projet_1.png
+link: https://www.linkedin.com/in/federico-desmoulin/
+# 'true' makes it fully available.
+# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+finished: true
 ---
