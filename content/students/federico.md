@@ -43,9 +43,9 @@ finished: true
 
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
-image: Alexis/Projet-2.png
+image: federico/projet_2.png
 
-link: https://github.com/sumac666
+link: https://github.com/MokoMaracucho
 
 finished: true
 
