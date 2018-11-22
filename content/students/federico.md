@@ -6,13 +6,13 @@
 # lowercase, no blank space, Capital case or special character.
 title: federico
 
-# First name or full name
+# First name or full names
 name: Federico
 date: 2018-11-21 22:22
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir un expert en Java ! ;)
+objective: Devenir un expert en Java !
 short_description: assionné par Internet, les nouvelles technologies et surtout de 3D.
 
 # don't touch that
