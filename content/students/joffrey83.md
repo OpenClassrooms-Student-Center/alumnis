@@ -43,7 +43,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: joffrey83/projet_2.png
+    image: joffrey83/projet_1.png
     link: https://github.com/JBonifay/alumnis 
     finished: true
   - title: Mon premier certificat Git
