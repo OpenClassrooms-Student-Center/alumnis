@@ -36,7 +36,7 @@ projects:
     description: Mon Linkedin
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: photo_fred.jpg
+    image: Fredo54/photo_fred.jpg
     link: https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-juppont-66402b141/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
