@@ -7,12 +7,12 @@
 title: joffrey83
 
 # First name or full name
-name: Joffrey 
+name: Joffrey
 date: 2018-11-23 14:45
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir un développeur java / android
+objective: Devenir un développeur java / android.
 short_description: J'aime l'informatique en général, appuyer sur des button et que des choses magique se passent !!!
 
 # don't touch that
@@ -43,19 +43,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-<<<<<<< HEAD
     image: joffrey83/projet_1.png
-    link: https://github.com/JBonifay/alumnis 
+    link: https://github.com/JBonifay/alumnis
     finished: true
-  - title: Mon premier certificat Git
-=======
-    image: joffrey83/projet_2.png
-    link: https://github.com/JBonifay/alumnis 
-    finished: true
-  - title: Mon premier certificat Git !!!
->>>>>>> 39cae2380917d9c91dabb105550ca0ee1ebd2e18
-    description: Mon certificat de réussite sur le cours : "Gérez votre code avec Git et GitHub"
-    image: joffrey83/projet_2.png
-    link: https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
     finished: false
 ---
