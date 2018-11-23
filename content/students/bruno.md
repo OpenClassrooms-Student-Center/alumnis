@@ -47,7 +47,11 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: bruno/proj2_1.jpg
-    link: https://github.com/DevBrunoFilipe/alumnis
+    image: 
+        bruno/proj2_1.jpg
+        bruno/proj2_2.jpg
+    link: 
+        https://github.com/DevBrunoFilipe/alumnis
+        https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1156
     finished: true
 ---
