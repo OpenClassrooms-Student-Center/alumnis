@@ -43,10 +43,17 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+<<<<<<< HEAD
     image: joffrey83/projet_1.png
     link: https://github.com/JBonifay/alumnis 
     finished: true
   - title: Mon premier certificat Git
+=======
+    image: joffrey83/projet_2.png
+    link: https://github.com/JBonifay/alumnis 
+    finished: true
+  - title: Mon premier certificat Git !!!
+>>>>>>> 39cae2380917d9c91dabb105550ca0ee1ebd2e18
     description: Mon certificat de réussite sur le cours : "Gérez votre code avec Git et GitHub"
     image: joffrey83/projet_2.png
     link: https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
