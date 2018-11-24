@@ -35,9 +35,7 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je m'appelle Eric et je débute une formation de DA en Java.
-    J'ai pris contact avec mon mentor et je travaille actuellement sur le projet 3
-    Le lien vers mon profil LinkedIn est le suivant : https://www.linkedin.com/in/aubrun-eric-81533a77
+    description: Je m'appelle Eric et je débute une formation de DA en Java. J'ai pris contact avec mon mentor et je travaille actuellement sur le projet 3. Le lien vers mon profil LinkedIn est le suivant : https://www.linkedin.com/in/aubrun-eric-81533a77
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: eric/projet_1.png
