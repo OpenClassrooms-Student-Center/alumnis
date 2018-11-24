@@ -44,4 +44,4 @@ projects:
     image: Stanimir/projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/alumnis
     finished: true
-	---
+---
