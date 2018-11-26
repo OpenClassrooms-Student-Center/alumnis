@@ -35,16 +35,16 @@ image: content/images/students/steve/Project_1.jpg
 link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-finished: 'true'
+finished: True
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 image: content/images/students/steve/Project_2.jpg
 link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-finished: true
+finished: True
 - title: Créez votre premier jeu vidéo avec swift!
 description: Création d’un jeu développé en Python et utilisant PyGame.
 image: content/images/students/steve.jpg
 link: https://www.github.com
-finished: 'true'
+finished: True
 ---
 
