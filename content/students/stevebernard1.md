@@ -12,8 +12,8 @@ date: 2016-11-26 12:49
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir un aigle en développement..
-short_description: J'aime le cinema, le trading, la mode,  J'apprends à coder pour me faire une nouvelle reconversion.
+objective: Devenir un aigle en dÃ©veloppement..
+short_description: J'aime le cinema, le trading, la mode,  J'apprends Ã  coder pour me faire une nouvelle reconversion.
 
 # don't touch that
 template: students
@@ -34,8 +34,8 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Aprendre à apprendre
-    description: Aime créér lien vers linkedin: https://www.linkedin.com/in/steve-bernard-23a13099/
+  - title: Aprendre Ã  apprendre
+    description: Aime crÃ©Ã©r lien vers linkedin: https://www.linkedin.com/in/steve-bernard-23a13099/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: content/students/stevebernard1/project1.jpg
@@ -43,13 +43,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: content/students/myrepo/project2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: CrÃ©ation dâun jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     link: https://www.github.com
     finished: false
 ---
