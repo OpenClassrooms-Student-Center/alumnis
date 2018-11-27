@@ -13,7 +13,7 @@ date: 2016-11-26 12:49
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un aigle en développement..
-short_description: J'aime le cinema, le trading, la mode,  J'apprends Ã  coder pour me faire une nouvelle reconversion.
+short_description: J'aime le cinema, le trading, la mode, J'apprends À  coder pour me faire une nouvelle reconversion.
 
 # don't touch that
 template: students
@@ -27,7 +27,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: stevebernard1.jpg
+image: content/images/students/stevebernard1.jpg
 
 # Change this to True when you do you pull request.
 public: True
