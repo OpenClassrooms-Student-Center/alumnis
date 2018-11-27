@@ -33,7 +33,7 @@ image: content/images/students/stevebernard1.jpg
 public: True
 
 # You need to keep the exact same structure for each new project.
-projects: Intégrez la communauté !
+projects:
   - title: stevebernard1
     description: Aime créer lien vers linkedin: https://www.linkedin.com/in/steve-bernard-23a13099/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
