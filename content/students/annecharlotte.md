@@ -21,14 +21,14 @@ description:
     Mon parcours, un peu atypique, fait de moi une ancienne moniale, et une ingénieur agronome.
     Après des expériences de modélisation informatique au sein de CNRS et du CEA dans le cadre de la recherche sur le changement climatique,j'ai monté une entreprise sociale.
     Mais je ne suis pas faite pour être chef d'entreprise, mais pour créer.
-    Alors j'ai décidé de joindre ces deux façons en faisant du développement au service de startups sociales.
+    Alors j'ai décidé de joindre ces deux facettes en faisant du développement au service de startups sociales.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: annecharlotte.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
