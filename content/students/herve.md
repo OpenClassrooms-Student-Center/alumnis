@@ -25,7 +25,7 @@ date: 2018-11-28 13:33
 
 objective: Travailler en tant que développeur full-stack.
 
-short_description: J'aime bien râler, mais pas souvent, et pas longtemps... donc je développe...
+short_description: J'aime bien râler après mon PC, mais pas souvent, et pas longtemps... donc je développe...
 
 
 # don't touch that
@@ -44,7 +44,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: herve.jpg
+image: herve.png
 
 
 # Change this to True when you do you pull request.
@@ -90,7 +90,7 @@ projects:
 
     image: herve/projet_3.png
 
-    link: https://www.github.com
+    link: https://github.com/hervep530/mastermind
 
     finished: false
 
