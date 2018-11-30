@@ -13,8 +13,7 @@ date: 2018-11-30 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeuse iOS.
-short_description: En reconversion dans le developpement iOS.
-J'aime les défis, les voyages, et la patisserie !
+short_description: En reconversion dans le developpement iOS. J'aime les défis, les voyages, et la patisserie !
 
 
 # don't touch that
@@ -29,10 +28,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: janin.png
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
