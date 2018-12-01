@@ -22,7 +22,7 @@ template: students
 
 # max 500 characters
 description:
-     Je m'appelle Severine et j'ai 40 ans, j'habite en Bretagne. J'envisage une reconversion pour enfin exercer un métier qui me plait.
+     Je m'appelle Severine et j'ai 40 ans, j'habite en Bretagne. J'envisage une reconversion pour enfin exercer un métier qui me plait mais je n'ai aucune notion en informatique.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
