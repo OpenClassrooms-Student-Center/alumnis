@@ -25,7 +25,7 @@ description:
 image: jeanfi.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -37,7 +37,7 @@ projects:
     link: https://www.linkedin.com/in/jérémy-barette-a9410a13a
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: jeanfi/projet2.png
