@@ -44,7 +44,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: matthieu42/Projet_2.png
-    link: 
+    link: https://github.com/Aldorinj/alumnis
     finished: true
   - title: Jeu en Swift
     description: Création d’un jeu développé avec Swift
