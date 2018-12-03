@@ -8,7 +8,7 @@ title: jessangel79
 
 # First name or full name
 name: Angélique
-date: 2018-11-27 11:26
+date: 2018-12-03 14:37
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -46,11 +46,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: jessangel79/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/jessangel79/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: jessangel79/projet_3.png
+    image: jessangel79/projet_3.jpg
     link: https://www.github.com
     finished: false
 ---
