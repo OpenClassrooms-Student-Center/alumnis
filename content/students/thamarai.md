@@ -13,12 +13,12 @@ date: 2018-12-07 23:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Terminer ma formation de développeur d'application Java et devenir par la suite développeur Java.
-short_description: Etudiante OpenClassrooms suivant le parcours de développeur d'application web. 
+short_description: Etudiante OpenClassrooms suivant le parcours de développeur d'application Java. 
 
 # don't touch that
 template: students
 description:
-    Etudiante OpenClassrooms suivant le parcours de développeur d'application web.
+    Etudiante OpenClassrooms suivant le parcours de développeur d'application Java.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
