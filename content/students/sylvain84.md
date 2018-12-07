@@ -25,7 +25,7 @@ date: 2018-12-07 11:00
 
 objective: Je souhaiterais me reconvertir dans l'informatique, pour travailler tout d'abord comme développeur Python et à long terme comme data scientist.
 
-    short_description: Expatrié en Pologne, je suis traducteur indépendant traduisant du polonais   et de l'anglais vers le français. J'ai découvert Python par hasard il y a quelques mois, et à ma grande surprise ça m'a beaucoup plu.
+short_description: Expatrié en Pologne, je suis traducteur indépendant traduisant du polonais   et de l'anglais vers le français. J'ai découvert Python par hasard il y a quelques mois, et à ma grande surprise ça m'a beaucoup plu.
 
 
 # don't touch that
