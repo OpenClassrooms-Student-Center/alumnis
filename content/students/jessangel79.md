@@ -18,12 +18,12 @@ short_description: J'aime le rock et le métal,les mangas, les animés, Netflix 
 # don't touch that
 template: students
 description:
-	Je m’appelle Angélique, j’ai 39 ans et 2 grandes filles.
-	J’ai été technicienne support informatique pendant 6 ans et je souhaite me reconvertir
-	dans le développement afin de pouvoir exercer le métier que j’ai toujours souhaité faire.
-	J'ai pris en charge le déploiement ainsi que la maintenance des équipements mobiles
-	iPhone et iPad pour les agents de direction dans mon ancien travail, ce qui a
-	donc orienté mon choix vers le parcours de développeur d’application iOS.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
