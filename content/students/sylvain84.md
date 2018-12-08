@@ -71,7 +71,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: Projet_1.png
 
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
@@ -85,7 +85,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: Projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
@@ -95,7 +95,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: Projet_3.jpg
 
     link: https://www.github.com
 
