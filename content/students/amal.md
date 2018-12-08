@@ -24,7 +24,7 @@ je commence ma formation pour devenir Développeur JAVA.
 image: amal.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: false
 
 # You need to keep the exact same structure for each new project.
 projects:
