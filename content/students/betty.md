@@ -34,23 +34,23 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Magnifique oiseau qui fait mouche ce colibri !
+    description: le lien vers mon LinkedIn : https://www.linkedin.com/in/bettyourry/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: betty/project_1.jpg
+    link: https://axiomcafe.fr/le-colibri-est-loiseau-de-tous-les-records
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: betty/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: betty/projet_3.png
     link: https://www.github.com
     finished: false
 ---
