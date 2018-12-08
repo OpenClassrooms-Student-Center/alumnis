@@ -4,16 +4,16 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: betty
 
 # First name or full name
-name: Ratus
-date: 2016-10-28 17:20
+name: betty
+date: 2018-12-08
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Participer à un monde meilleur
+short_description: Entrepreneur Maker. (4x) Mum. .cyclosportive .womenintech 🚴‍♀️👩‍💻🇫🇷
 
 # don't touch that
 template: students
@@ -27,10 +27,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: betty.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
