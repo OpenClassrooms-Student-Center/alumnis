@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Magnifique oiseau qui fait mouche ce colibri !
-    description: le lien vers mon LinkedIn : https://www.linkedin.com/in/bettyourry/
+    description: le lien pour tout connaître
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: betty/project_1.jpg
