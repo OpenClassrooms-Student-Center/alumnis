@@ -16,8 +16,9 @@ objective: Devenir super forte en JAVA!
 
 # don't touch that
 template: students
-description: J'ai 27 ans, je suis passionnée de Design et de photos.
-je commence ma formation pour devenir Développeur JAVA.
+description: 
+    J'ai 27 ans, je suis passionnée de Design et de photos.
+    je commence ma formation pour devenir Développeur JAVA.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
