@@ -51,7 +51,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: Benjamin47.jpg
+image: content/images/students/Benjamin47/Benjamin47.jpg
 
 
 # Change this to True when you do you pull request.
@@ -71,7 +71,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: Benjamin47/projet_1.png
+    image: content/images/students/Benjamin47/projet_1.png
 
     link: https://www.linkedin.com/in/benjamin-boitelet/
 
@@ -85,7 +85,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: Benjamin47/projet_2.png
+    image: content/images/students/Benjamin47/projet_2.png
 
     link: https://github.com/Aruldir?tab=repositories
 
