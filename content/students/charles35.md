@@ -12,21 +12,19 @@ date: 2018-12-10 1:12
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: developpeur d'application ios.
+objective: developpeur d'application Python / Django.
 short_description: >
-    J'aime le sport les nouvelles technologies et les jeux videos.
+    J'aime les auteurs russes du XIX, la philosophie et la bonne bouffe.
 
 # don't touch that
 template: students
 description: >
-    Je m'appelle Charles, j'ai 19 ans et j'ai commencé une formation de developpeur d'applications ios.
-    J'aime le sport en particulier le tennis et les produits apple.
-    j'aime aussi la musique ainsi que sortir avec mes amis.
+    je m'appelle Charles Casassus, j'ai 48 ans et j'ai d'abord suivi une formation en psychologie sociale et industrielle. Passionné d'informatique depuis longtemps, je viens de commencer le DA Python aprés un passage par le CNAM pour compléter ma culture générale (hard et soft) ainsi que le parcours de base OC (html, CSS, PHP, javascript) avant d'attaquer ce langage de haut niveau. Jusqu'à maintenant je kiff OC !
 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: charles.png
+image: charles35.png
 
 # Change this to True when you do you pull request.
 public: True
