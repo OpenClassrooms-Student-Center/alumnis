@@ -63,7 +63,7 @@ projects:
 
     image: patrick01/projet_1.png
 
-    link: http : https://www.linkedin.com/in/patrick-gansane-099082b0/
+    link: https://www.linkedin.com/in/patrick-gansane-099082b0/
 
     # 'true' makes it fully available.
 
@@ -89,6 +89,7 @@ projects:
 
     link: https://www.github.com
 
-    finished: true
+    finished: false
+
 
 ---
