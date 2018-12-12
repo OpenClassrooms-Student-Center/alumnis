@@ -36,11 +36,11 @@ description:
 
     J'ai 30 ans et je vis dans le sud-ouest, après quelques virages professionnels 
 	
-	j'ai décidé de me lancer dans une nouvelle carrière dans l'informatique. 
+    j'ai décidé de me lancer dans une nouvelle carrière dans l'informatique.
 	
-	Cela faisait quelques années que j'avais ce projet en tête et je suis vraiment 
+    Cela faisait quelques années que j'avais ce projet en tête et je suis vraiment 
 	
-	content de vivre cette nouvelle aventure même si le plus dur reste encore à venir.
+    content de vivre cette nouvelle aventure même si le plus dur reste encore à venir.
 
 # image must be located in content/images/students
 
