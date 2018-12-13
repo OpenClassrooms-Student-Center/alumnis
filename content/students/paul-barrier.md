@@ -13,7 +13,7 @@ date: 22018/12/12 20:25
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les sciences, la zététique et le chocolat 
+short_description: J'aime les sciences, la zététique et le chocolat
 
 # don't touch that
 template: students
@@ -27,7 +27,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: paul-barrier.jpg
+image: paul-barrier.png
 
 # Change this to True when you do you pull request.
 public: False
