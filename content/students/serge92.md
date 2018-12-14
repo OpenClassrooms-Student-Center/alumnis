@@ -4,16 +4,16 @@
 # Example: https://openclassrooms.com/membres/serge92
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: serge
+title: serge92
 
 # First name or full name
 name: Serge
-date: 2018-12-14 10:20
+date: 2018-12-14 11:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Leanr Python and Django
+short_description: I m so oldddddd ..... But still enthousiast to learn again.
 
 # don't touch that
 template: students
@@ -38,19 +38,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: serge92/projet_1.png
+    link: https://www.linkedin.com/in/serge-bensahkoun/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: Maitriser Git et Github
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: serge92/projet_2.png
+    link: https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: serge92/projet_3.png
     link: https://www.github.com
     finished: false
 ---
