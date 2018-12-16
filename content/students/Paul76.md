@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Paul76
+title: paul76
 
 # First name or full name
 name: Paul
@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: projet_1.png
     link: https://www.linkedin.com/in/paul-leclerc-095043177/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: projet_2.jpg
     link: https://openclassrooms.com/fr/projects/151/assignment
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+  - title: Créez votre premier jeu vidéo avec Swift
+    description: Création d'un jeu narratif dans la console Xcode
+    image: projet_3.png
+    link: https://openclassrooms.com/fr/projects/59/assignment
     finished: false
 ---
