@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/fr/membres/mohamed-ali-harb
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: mohamed777.md
+title: mohamed777.
 
 # First name or full name
 name: Mohamed-Ali
@@ -35,14 +35,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: content/students/kaido-borsalino/main_page.png
-    link:https://www.linkedin.com/in/mohamed-ali-harb-3754b3154/
+    image: kaido_borsalino/project1.png
+    link: https://www.linkedin.com/in/mohamed-ali-harb-3754b3154/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: kaido_borsalino/projet_2.png
     link: https://github.com/Kaido-Borsalino/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
