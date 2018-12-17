@@ -84,7 +84,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: gustav/projet_2.png
 
     link: https://github.com/kylak/alumnis
 
