@@ -3,6 +3,7 @@
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
 title: stevebernard1
 
 # First name or full name
@@ -32,6 +33,8 @@ image: content/images/students/stevebernard1.jpg
 public: True
 
 # You need to keep the exact same structure for each new project.
+projects:
+  - title: Qui suis je ?
     description: Aime créer.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
@@ -50,4 +53,3 @@ public: True
     link: https://www.github.com
     finished: false
 ---
-
