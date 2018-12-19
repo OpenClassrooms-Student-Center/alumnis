@@ -20,7 +20,8 @@ template: students
 description:
     Bonjour, je me suis inscrit sur openclassrooms pour faire une reconversion.
     Je suis actuellement cordonnier. C'est un métier qui demande de la patience 
-    avec les clients, moi je n'en ai pas. 
+    avec les clients, moi je n'en ai pas. J'ai donc décidé de reprendre les études 
+    pour faire quelque chose que j'apprécie. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
