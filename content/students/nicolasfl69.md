@@ -18,8 +18,7 @@ short_description: J'apprends à coder pour changer de vie, me faire plaisir, et
 # don't touch that
 template: students
 description:
-    J'ai toujours été attiré par deux choses: l'innovation et la création.
-    Le plus j'avançai dans la vie, et plus je m'apperçu que je voulais créer avec rien d'autre que quelques lignes de code.
+    J'ai toujours été attiré par l'innovation et la création.
     Je veux apprendre, je veux m'amuser en apprenant, je veux créer. Apprendre à coder me permettra de façon actif d'orienter ma vie selon mes objectifs.
 
 # image must be located in content/images/students
