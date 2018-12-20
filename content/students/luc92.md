@@ -18,12 +18,7 @@ short_description: j'aime aussi le fromage de chèvre au bleu,  le rhum arrangé
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Comme la connerie, la connaissance est infinie. Idriss Aberkane défend que dans l'économie de la connaissance, il est possible de maintenir une croissance économique exponentielle, ce qui est impossible dans l'économie des matières premières. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
