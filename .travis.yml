@@ -6,10 +6,13 @@ python:
 install: pip install -r requirements.txt
 
 script:
-  - pelican content
+  - pelican content --fatal=warnings
+
+after_failure:
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make revert_push; fi'
 
 after_success:
-  - make github
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make github; fi' 
 
 branches:
   only:
@@ -17,4 +20,7 @@ branches:
 
 env:
   global:
-  - secure: "xuNIN7LAenb/NvNKMIas9JQYgHvGEUy0i4twjqJ5ibO5o5yorbAwjFYiMQ+Sc9ydpDUS05+DU7JdalZlDnpwNULrAKmbFsBcDEX99NsJC++NC9f21BxBkX5m5uflU3Ka1Fky9fIgBZ50gCwB4N2hQnzUdro4tZnGyjh8EpF6gK++4FvYULwHmKszag8fqNMDl8lBw+UefdONyUvLc92AO63QHYFkDaovS8R2N8kH5DMeEBzh+Po9iJSXuRSWHraYln5i0CSEAeNpwWZfiHLxnq1sKn3trI70PYSJ+RnDBoJqZvYjzySgg6991eejEnm5d66nXw0EJLMPD8ncqZlHNFfgWGOysvY67CtDhtKE0LP1ZnJocD9W1kJrDaZb5/ERgY7DPW6JBPyCjj1REj0pF950dJeDua/TT7GPfHtyKM/oOd8cFm2IJKeK35iwJxxiNHTYyGSZLYpKMBmTP0LIIsXcGzUBPZ9mSPSy+nd3FA0kvNPJTDj4XdG0BlwiqvYZEA8Suy/WMXb1eiAVQv0WNmM3lvkwxP0SzJYN5GsZ8YIFqdqGbh5nWeUZlUr0cFVFNheILmU2ud1jBrX59KebAWKJeQUrw1JL3ahtP4PeRH3HUZaixMnYU+31oH7aSRBrIo9kyUtR65EwawKiYqoKmHV3e6DQMEItG1Bhlk6+bhE="
+    - secure: "xuNIN7LAenb/NvNKMIas9JQYgHvGEUy0i4twjqJ5ibO5o5yorbAwjFYiMQ+Sc9ydpDUS05+DU7JdalZlDnpwNULrAKmbFsBcDEX99NsJC++NC9f21BxBkX5m5uflU3Ka1Fky9fIgBZ50gCwB4N2hQnzUdro4tZnGyjh8EpF6gK++4FvYULwHmKszag8fqNMDl8lBw+UefdONyUvLc92AO63QHYFkDaovS8R2N8kH5DMeEBzh+Po9iJSXuRSWHraYln5i0CSEAeNpwWZfiHLxnq1sKn3trI70PYSJ+RnDBoJqZvYjzySgg6991eejEnm5d66nXw0EJLMPD8ncqZlHNFfgWGOysvY67CtDhtKE0LP1ZnJocD9W1kJrDaZb5/ERgY7DPW6JBPyCjj1REj0pF950dJeDua/TT7GPfHtyKM/oOd8cFm2IJKeK35iwJxxiNHTYyGSZLYpKMBmTP0LIIsXcGzUBPZ9mSPSy+nd3FA0kvNPJTDj4XdG0BlwiqvYZEA8Suy/WMXb1eiAVQv0WNmM3lvkwxP0SzJYN5GsZ8YIFqdqGbh5nWeUZlUr0cFVFNheILmU2ud1jBrX59KebAWKJeQUrw1JL3ahtP4PeRH3HUZaixMnYU+31oH7aSRBrIo9kyUtR65EwawKiYqoKmHV3e6DQMEItG1Bhlk6+bhE="
+
+notifications:
+    webhooks: https://www.travisbuddy.com/

@@ -13,6 +13,7 @@ Vous avez fini un projet et vous voulez mettre vos profil à jour ? Excellente i
 - Lancez un environnement virtuel.
 - Lancez `pip install -r requirements.txt`
 - Générez les fichiers : `pelican -r`
+- Se positionner dans le répertoire "output": `cd output`
 - Lancez le serveur en local : `python -m http.server`
 
 Contactez-nous pour toute question !
