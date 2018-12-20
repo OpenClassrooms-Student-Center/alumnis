@@ -41,7 +41,7 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Présentez-vous!
 
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
@@ -50,7 +50,7 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: Intégrez la communauté!
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
