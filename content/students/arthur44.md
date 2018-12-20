@@ -14,7 +14,7 @@ date: 2018-12-19 21:17
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: devenir quantdeveloper
 short_description: J'ai énormémement de passions dont la composition musicale, le trading et la cinématographie et le hardware.
-t
+
 # don't touch that
 template: students
 description:
