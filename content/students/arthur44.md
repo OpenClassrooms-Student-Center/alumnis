@@ -13,29 +13,26 @@ date: 2018-12-19 21:17
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: devenir quantdeveloper
-short_description: J'ai énormémement de passions dont la composition musicale, le trading et la cinématographie et le hardware.
+short_description: j'ai énormémement de passions dont la composition musicale, le trading et la cinématographie et le hardware.
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    étudiant pro-actif passioné par différents domaines, tels que la composition musicale, la photographie et videographie et la finance de marché.
+    j'aime autant travailler en équipe, qu'individuellement, je suis ouvert à de nombreux domaines et aime discuter avec des gens passionnés.
+    ouvert d'esprit et créatif, j'ai choisi le developpement en python, qui me permet d'ouvrir un nouveau domaine de créativité.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: arthur44.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: présentez-vous !
+    description: une présentation de moi-même et un lien vers mon linkedin.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: arthur44/projet1.png
@@ -43,14 +40,14 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+  - title: intégrez la communauté !
+    description: modifier un projet open source pour comprendre le fonctionnement de git, de github et des pull requests.
     image: arthur44/projet2.png
     link: https://github.com/apolloparty/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+  - title: aidez macgyver à sortir !
+    description: création d’un jeu développé en python et utilisant pygame.
+    image: arthur/projet_3.png
     link: https://www.github.com
     finished: false
 
