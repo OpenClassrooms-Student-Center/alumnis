@@ -8,7 +8,7 @@ title: Bertrand8
 
 # First name or full name
 name: Bertrand
-date: 2016-10-28 17:20
+date: 2018-12-21 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -28,7 +28,7 @@ description:
 image: Bertrand8.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
