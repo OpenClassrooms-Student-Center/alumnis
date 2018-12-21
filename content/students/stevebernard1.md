@@ -38,7 +38,6 @@ public: True
 projects:
   - title: Qui suis je ?
     description: Aime créer lien vers linkedin.
-
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: content/students/stevebernard1/project_1.jpg
@@ -56,4 +55,3 @@ projects:
     link: https://www.github.com
     finished: false
 ---
-
