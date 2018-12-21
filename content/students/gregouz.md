@@ -22,7 +22,7 @@ projects:
     
     image: gregouz/projet_1.png
     link: https://www.linkedin.com/in/gregoire-de-fleurac-408710177/
-    finished: True
+    finished: False
 
   - title: Intégrez la communauté ! 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
@@ -34,7 +34,7 @@ projects:
     description: Création d'un jeu développé en Python en utilisant PyGame.
     image: gregouz/projet_3.png
     link:
-    finished: false
+    finished: False
 
 ---
 
