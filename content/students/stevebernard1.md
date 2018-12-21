@@ -36,14 +36,9 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-<<<<<<< HEAD
-  - title: Qui suis je 
-    description: Aime créer lien vers linkedin.
-=======
-
   - title: Qui suis je ?
     description: Aime créer lien vers linkedin.
->>>>>>> b8f3bd8dc97c5ec2cc7ecdbef883acdac1228842
+
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: content/students/stevebernard1/project_1.jpg
