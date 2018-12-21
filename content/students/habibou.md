@@ -60,7 +60,7 @@ projects:
 
     finished: true
 
--title: Créez votre premier jeu vidéo avec Swift !
+- title: Créez votre premier jeu vidéo avec Swift !
   Description: crée un jeu de combat.
   Image: habibou/projet_3.png
   finished: true
