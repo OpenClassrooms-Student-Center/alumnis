@@ -1,7 +1,6 @@
 ---
 
-https://openclassrooms.com/fr/membres/gregouzdefleura://openclassrooms.com/fr/membres/gregouzdefleurac
-
+https://openclassrooms.com/fr/membres/gregouzdefleurac
 title: gregouz
 
 name: gregouz
