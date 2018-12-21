@@ -53,4 +53,19 @@ projects:
     image: antony/projet_3github.png
     link: https://github.com/antonyboivin/jeu_MacGyver
     finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias.
+    description: Découvrir UML pour analyser les besoins du client.
+    image: antony/projet_4.png
+    link: https://github.com/antonyboivin/Projet4_OCPizza
+    finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts.
+    description: Appréhender les bases de données et l'utilisation des API.
+    image: antony/projet_5.png
+    link: https://github.com/antonyboivin/Openfoodfacts
+    finished: true
+  - title: Concevez la solution technique d’un système de gestion de pizzeria.
+    description: Appofondir les bases de données avec UML.
+    image: antony/projet_6.png
+    link: https://github.com/antonyboivin/Projet6_OCpizza
+    finished: true
 ---

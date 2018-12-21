@@ -8,7 +8,7 @@ class MarkdownYAMLReader(MarkdownReader):
 
     def __init__(self, *args, **kwargs):
         super(MarkdownYAMLReader, self).__init__(*args, **kwargs)
-        self.extensions.append(MetaYamlExtension())
+        self.settings['MARKDOWN']['extensions'].append(MetaYamlExtension())
 
     def _parse_metadata(self, meta):
         """Return the dict containing document metadata"""

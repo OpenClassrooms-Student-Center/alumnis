@@ -13,7 +13,9 @@ date: 2016-11-26 12:49
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un aigle en développement..
-short_description: J'aime le cinema, le trading, la mode, J'apprends À  coder pour me faire une nouvelle reconversion.
+
+short description: J'aime le cinema, le trading, la mode, J'apprends À  coder pour me faire une nouvelle reconversion.
+
 
 # don't touch that
 template: students
@@ -34,8 +36,15 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
+<<<<<<< HEAD
   - title: Qui suis je 
     description: Aime créer lien vers linkedin.
+=======
+
+  - title: Qui suis je ?
+    description: Aime créer lien vers linkedin: https://www.linkedin.com/in/steve-bernard-23a13099/
+
+>>>>>>> b8f3bd8dc97c5ec2cc7ecdbef883acdac1228842
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: content/students/stevebernard1/project_1.jpg

@@ -4,3 +4,4 @@ output/
 .*.swp
 .DS_Store
 env/*
+.idea/

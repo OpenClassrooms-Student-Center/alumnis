@@ -2,11 +2,12 @@
 
 {% block body %}
 
-  <section id="banner" class="student">
-      <div class="black-filter titles">
+    <section id="banner" class="student">
+        <div class="black-filter titles">
             <div class="rounded thumbnail">
-                <a href="{{SITEURL}}/students/{{ page.slug }}.html">
-                    <img src="{{SITEURL}}/images/students/{{ page.image }}" class="img-responsive">
+                <a href="{{ SITEURL }}/students/{{ page.slug }}.html">
+                    <img src="{{ SITEURL }}/images/students/{{ page.image }}" class="img-responsive"
+                         onerror="imgError(this);">
                 </a>
             </div>
 
@@ -14,66 +15,71 @@
             <h2>{{ page.short_description }}</h2>
             <p class="text-center"><i class="fa fa-map-signs"></i>{{ page.region }}</p>
 
-      </div>
-  </section>
-
-  <section id="description" class="inset-shadow">
-    <div class="container">
-        <div class="row">
-            <h3>Qui suis-je ?</h3>
-            <div class="col-md-6 col-md-offset-3">
-                {{ page.description }}
-            </div>
         </div>
-        <div class="row">
-            <h3>Mon objectif</h3>
-            <div class="col-md-6 col-md-offset-3">
-                {{ page.objective }}
+    </section>
+
+    <section id="description" class="inset-shadow">
+        <div class="container">
+            <div class="row">
+                <h3>Qui suis-je ?</h3>
+                <div class="col-md-6 col-md-offset-3">
+                    {{ page.description }}
+                </div>
             </div>
-        </div>
+            <div class="row">
+                <h3>Mon objectif</h3>
+                <div class="col-md-6 col-md-offset-3">
+                    {{ page.objective }}
+                </div>
+            </div>
 
-        <div class="row">
-            <h3>Mes projets</h3>
-            <div class="container">
-                <div class="row">
-                    {% set counter = 1 %}
-                    {% for project in page.projects %}
-                        <div class="col-sm-4 project-item">
-                            <div class="image-wrapper">
+            <div class="row">
+                <h3>Mes projets</h3>
+                <div class="container">
+                    <div class="row">
 
+                        {% for project in page.projects %}
+                            <div class="col-sm-4 project-item">
+                                <div class="image-wrapper">
+
+                                    {% if project.link %}
+                                        <a href="{{ project.link }}" target="_blank">
+                                            <img src="{{ SITEURL }}/images/students/{{ project.image }}"
+                                                 class="img-responsive" onerror="imgError(this);">
+                                        </a>
+                                    {% else %}
+                                        <img src="{{ SITEURL }}/images/students/{{ project.image }}"
+                                             class="img-responsive" onerror="imgError(this);">
+                                    {% endif %}
+                                    {% if project.finished == 'false' %}
+                                        <div class="unfinished">
+                                            Bientôt fini !
+                                        </div>
+                                    {% endif %}
+                                </div>
+
+                                <h4 class="text-center">{{ project.title }}</h4>
+                                <div class="project-description">{{ project.description }}</div>
                                 {% if project.link %}
-                                <a href="{{ project.link }}" target="_blank">
-                                    <img src="{{SITEURL}}/images/students/{{ project.image }}" class="img-responsive">
-                                </a>
-                                {% else %}
-                                    <img src="{{SITEURL}}/images/students/{{ project.image }}" class="img-responsive">
+                                    <a href="{{ project.link }}" target="_blank" class="button button-primary">Voir le
+                                        projet</a>
                                 {% endif %}
-                                {% if project.finished == 'false' %}
-                                    <div class="unfinished">
-                                        Bientôt fini !
-                                    </div>  
-                                {% endif %}
-                            </div>  
+                            </div>
 
-                            <h4 class="text-center">{{ project.title }}</h4>
-                            <div class="project-description">{{ project.description }}</div>
-                            {% if project.link %}
-                                <a href="{{ project.link }}" target="_blank"class="button button-primary">Voir le projet</a>
+                            {% if loop.index % 3 == 0 %}
+                                </div>
+                                <div class="row">
                             {% endif %}
+
+
+
+                        {% endfor %}
                         </div>
-                    {% if (counter % 3 == 0): %}
-                        </div><div class="row">
-                    {% endif %}
-
-                    {% set counter = counter + 1 %}
-
-                    {% endfor %}
-                </div>
                 </div>
             </div>
         </div>
 
-    </div>
-  </section>
+        </div>
+    </section>
 
 {% endblock %}
