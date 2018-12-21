@@ -8,7 +8,6 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 
 # lowercase, no blank space, Capital case or special character.
-
 title: habibou
 
 
@@ -60,9 +59,12 @@ projects:
 
     finished: true
 
-- title: Créez votre premier jeu vidéo avec Swift !
-  Description: crée un jeu de combat.
-  Image: habibou/projet_3.png
-  finished: true
+  - title: Créez votre premier jeu vidéo avec Swift!
+  
+    description: crée un jeu de combat.
+  
+    image: habibou/projet_3.png
+  
+    finished: true
 
 ---
