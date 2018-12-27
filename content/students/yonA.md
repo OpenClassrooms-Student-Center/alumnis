@@ -16,7 +16,7 @@ title: Présentation à la communauté.
 
 name: Yonel
 
-date: 2018-12-01 16:00
+date: 2018-12-27 10h00
 
 
 # One line.
@@ -56,7 +56,7 @@ image: yonA.jpeg
 
 # Change this to True when you do you pull request.
 
-public: True
+public: false
 
 
 # You need to keep the exact same structure for each new project.
