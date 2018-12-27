@@ -92,7 +92,7 @@ projects:
 
     link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1207
 
-    finished: true
+    finished: false
 
   - title: Aidez MacGyver à sortir !
 
