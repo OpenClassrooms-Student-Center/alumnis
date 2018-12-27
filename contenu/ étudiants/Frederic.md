@@ -10,18 +10,18 @@ false
 title	description	image	link	finished
 Présentez-vous !
 Ma présentation est accessible par le lien LinkedIn.
-frederic/projet_1.png
+Frederic18/projet_1.png
 https://www.linkedin.com/in/frederic-pichot-8a32069a/
 true
 title	description	image	link	finished
 Intégrez la communauté !
 Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-frederic/projet_2.png
+Frederic18/projet_2.png
 https://openclassrooms-student-center.github.io/presentation/students/frederic.html
 true
 title	description	image	link	finished
 Aidez MacGyver à sortir !
 Création d’un jeu développé en Python et utilisant PyGame.
-frederic/projet_3.png
+Frederic18/projet_3.png
 https://www.github.com
 false
