@@ -62,11 +62,8 @@ public: true
 # You need to keep the exact same structure for each new project.
 
 projects:
-
-  - title: Présentez-vous !
-
-  description:
-      https://www.linkedin.com/in/yonel-assouvie-321483176/
+   - title: Présentez-vous !
+       description: https://www.linkedin.com/in/yonel-assouvie-321483176/
 
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -85,7 +82,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-      description: Modifier un projet Open Source, comprendre le fonctionnement de Git, de Github.
+       description: Modifier un projet Open Source, comprendre le fonctionnement de Git, de Github.
 
     image: yonA/pull_request.jpeg
 
@@ -95,7 +92,7 @@ projects:
 
   - title: Aidez MacGyver à sortir !
 
-      description: Création d’un jeu développé en Python et utilisant PyGame.
+       description: Création d’un jeu développé en Python et utilisant PyGame.
 
     image: ratus/projet_3.png
 
