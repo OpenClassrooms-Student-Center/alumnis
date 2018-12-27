@@ -34,17 +34,17 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 # image must be located in content/images/students
@@ -56,7 +56,7 @@ image: yonA.jpeg
 
 # Change this to True when you do you pull request.
 
-public: false
+public: true
 
 
 # You need to keep the exact same structure for each new project.
@@ -65,7 +65,7 @@ projects:
 
   - title: Présentez-vous !
 
-      description: Présentation et lien vers mon LinkedIn:
+  description:
       https://www.linkedin.com/in/yonel-assouvie-321483176/
 
 
