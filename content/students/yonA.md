@@ -65,11 +65,9 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn:
-    En reconversion professionnelle, j'ai trouvé en openclassrooms la meilleure plateforme adapté mon besoin. A la fin de cette formation 
-    je serais développeur d'application web en Python. Je me suis inscrit sur LinkedIn
-    pour développer mon réseau vous pouvez me trouver ici > https://www.linkedin.com/in/yonel-assouvie-321483176/
-    Je vous remercie pour votre lecture, bonne continuation
+      description: Présentation et lien vers mon LinkedIn:
+      https://www.linkedin.com/in/yonel-assouvie-321483176/
+
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -87,7 +85,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+      description: Modifier un projet Open Source, comprendre le fonctionnement de Git, de Github.
 
     image: yonA/pull_request.jpeg
 
@@ -97,7 +95,7 @@ projects:
 
   - title: Aidez MacGyver à sortir !
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+      description: Création d’un jeu développé en Python et utilisant PyGame.
 
     image: ratus/projet_3.png
 
