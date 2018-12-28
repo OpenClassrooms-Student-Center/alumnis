@@ -1,19 +1,18 @@
 ---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
+# FILENAME : farah harir.
+# https://openclassrooms.com/fr/membres/farahharir
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: jeanfi
-
+title: farben
 # First name or full name
-name: Jeanfi
-date: 2018-11-21 17:10
+name: farben
+date: 2018-12-28, 14h05
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Code pour le plaisir et pour un nouveau futur.
-short_description: Changer, profiter et avancer avec les gens que l'on aime et des personnes a decouvrir.
+objective: Code pour un nouveau futur.
+short_description: je suis tres motivee et je veux apprendre, j'espere faire de belle recontre et me construire un bel avenir.
 
 # don't touch that
 template: students
@@ -26,8 +25,8 @@ description:
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
-image: Jeanfi.jpg
+# name should be the same as this file. Eg: 
+image:
 
 # Change this to True when you do you pull request.
 public: true
