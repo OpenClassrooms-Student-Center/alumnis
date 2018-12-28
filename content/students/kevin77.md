@@ -18,12 +18,10 @@ short_description: J'aime l'informatique en général mais j'ai décidé de me s
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Anciennement technicien informatique, je me lance sur le parcours DA iOS.
+    Mon but est de revenir au métier que je voulais faire à mes débuts en informatique,
+    c’est à dire développeur. J’ai choisi le mobile et spécifiquement iOS parce que
+    j’ai beaucoup accroché avec l’environnement Apple et le langage Swift !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -44,7 +42,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: kevin77/projet_2.png
     link: https://github.com/kcourtois/alumnis
     finished: true
