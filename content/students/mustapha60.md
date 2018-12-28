@@ -46,9 +46,4 @@ projects:
     image: Mustapha60/projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/students/mustapha60/
     finished: true
-  - title: MasterMind!
-    description: Création d’un jeu développé en Java.
-    image: néant.
-    link: https: néant.
-    finished: false.
 ---
