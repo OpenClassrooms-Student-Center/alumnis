@@ -25,7 +25,7 @@ date: 2018.12.30
 
 objective: Je suis en reconversion professionnelle pour devenir développeuse d'application iOS
 
-short_description: J'aime voyager, la musique (piano et guitare), la raclette
+short_description: J'aime voyager, la musique (piano et guitare) et la raclette
 
 
 # don't touch that
