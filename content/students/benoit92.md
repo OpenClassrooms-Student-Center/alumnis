@@ -25,7 +25,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: benoit92.png
 
 # Change this to True when you do you pull request.
 public: False
@@ -46,8 +46,8 @@ projects:
     image: benoit92/project2.png
     link: https://github.com/Benlefevre/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Mémorisez votre humeur du jour !
+    description: Création d'une application Android MoodTracker.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
