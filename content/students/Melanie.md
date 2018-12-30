@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Melanie
 
 
 # First name or full name
@@ -95,7 +95,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: Melanie/Projet2.png
 
     link: https://www.github.com
 
