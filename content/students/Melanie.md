@@ -23,7 +23,7 @@ date: 2018.12.30
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Je suis en reconversion professionnelle pour devenir développeurse d'application iOS
+objective: Je suis en reconversion professionnelle pour devenir développeuse d'application iOS
 
 short_description: J'aime voyager, la musique (piano et guitare), la raclette
 
