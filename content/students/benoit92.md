@@ -19,16 +19,15 @@ short_description: Passionné depuis toujours d'informatique, j'ai décidé d'en
 template: students
 description:
 
-    Je m'appelle Benoit, 32 ans et heureux papa d'un petit garçon. Je travaillais jusqu'à présent en restauration en tant que responsable de secteur mais suite à un ennui de santé je dois me reconvertir profesionnellement.
-    Je suis depuis toujours pasionné par l'informatique et j'ai donc décider de baser mon projet de reconversion autour de cette passion.
-    J'aime le basket, la musique, le BeatMaking, l'automobile et plus généralement tout ce qui a des roues.
-
+    Je m'appelle Benoit, 32 ans et heureux papa d'un petit garçon. Je travaillais jusqu'à présent en restauration en tant que responsable de secteur mais suite à un ennui de santé je dois me reconvertir professionnellement.
+    Je suis depuis toujours passionné par l'informatique et j'ai donc décider de baser mon projet de reconversion autour de cette passion.
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: benoit92.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
