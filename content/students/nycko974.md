@@ -48,7 +48,7 @@ image: nycko974/nycko974.png
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -79,8 +79,7 @@ projects:
     Au passage, je me forme aussi sur l'invit de commande, compréhension et utilisation de Git oblige.
 
     image: nycko974/projet2.png
-
-    link: 
+    
 
     finished: true
 
