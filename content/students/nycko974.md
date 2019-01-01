@@ -76,10 +76,10 @@ projects:
   - title: J'intégre la communauté en me formant sur Git et Github!
 
     description: Je modifie le projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    
     Au passage, je me forme aussi sur l'invit de commande, compréhension et utilisation de Git oblige.
 
     image: nycko974/projet2.png
-    
 
     finished: true
 
