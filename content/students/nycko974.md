@@ -55,9 +55,9 @@ public: True
 
 projects:
 
-  - title: Nicolas "NyCko" FOSSOURIER RIVIERE
+  - title: Présentation de Nicolas "NyCko" FOSSOURIER RIVIERE
 
-    description: Présentation faite sur workplace et inscription sur linkedin faite aussi. Voir Image ci-jointe. 
+    description: Présentation faite sur workplace et inscription sur linkedin faite aussi. 
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -75,13 +75,12 @@ projects:
 
   - title: J'intégre la communauté en me formant sur Git et Github!
 
-    description: Je modifie le projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    
-    Au passage, je me forme aussi sur l'invit de commande, compréhension et utilisation de Git oblige.
+    description: Je modifie un projet Open Source pour comprendre le fonctionnement de Github et des pull requests. 
 
     image: nycko974/projet2.png
 
-    finished: true
+    link: https://github.com/NyCko93
 
+    finished: true
 
 ---
