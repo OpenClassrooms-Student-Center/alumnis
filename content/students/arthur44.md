@@ -13,7 +13,7 @@ date: 2018-12-19 21:17
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: devenir quantdeveloper
-short_description: j'ai énormémement de passions dont la composition musicale, le trading et la cinématographie et le hardware.
+short_description: j'ai énormémement de passions dont la MAO, le trading et la cinématographie et le hardware.
 
 # don't touch that
 template: students
@@ -41,13 +41,13 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: intégrez la communauté !
-    description: modifier un projet open source pour comprendre le fonctionnement de git, de github et des pull requests.
+    description: modifier un projet pour comprendre le fonctionnement de git, de github et des pull requests.
     image: arthur44/projet2.png
     link: https://github.com/apolloparty/alumnis
     finished: true
   - title: aidez macgyver à sortir !
     description: création d’un jeu développé en python et utilisant pygame.
-    image: arthur/projet_3.png
+    image: arthur44/projet_3.png
     link: https://www.github.com
     finished: false
 
