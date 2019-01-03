@@ -76,8 +76,7 @@ projects:
 
     image: jeremie95/projet2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/jerev7/alumnis
 
     finished: true
-
   ---
