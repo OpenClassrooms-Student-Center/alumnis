@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: mathieu92.md
+title: mathieu92
 
 # First name or full name
 name: Mathieu
@@ -13,8 +13,7 @@ date: 2018-12-28 17:10
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Reconversion professionnel.
-short_description: 
-J'aime apprendre de nouvelles choses surtout dans les domaines qui me passionnent.
+short_description: J'aime apprendre de nouvelles choses surtout dans les domaines qui me passionnent.
 
 # don't touch that
 template: students
