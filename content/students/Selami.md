@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Selami/Projet2.png
-    link: https://github.com/Selkobaby/alumnis/tree/master/content/students/Selami
+    link: https://github.com/Selkobaby/alumnis/tree/master/content/students/Selami.md
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
