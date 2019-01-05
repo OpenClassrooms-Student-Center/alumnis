@@ -49,6 +49,7 @@ projects:
     xavier/Projet2ScreenshotRepo.png
     xavier/Projet2ScreenshotPullRequest.png
     link: https://github.com/Jackatoa/alumnis
+    https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1301
 
     finished: true
   - title: Aidez MacGyver à sortir !
