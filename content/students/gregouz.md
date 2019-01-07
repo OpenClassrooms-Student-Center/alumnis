@@ -28,7 +28,7 @@ projects:
     
     image: gregouz/projet_1.png
     link: https://www.linkedin.com/in/gregoire-de-fleurac-408710177/
-    finished: False
+    finished: True
 
   - title: Intégrez la communauté ! 
     description: Modifier un projet Open Source pour comprendre le fonctionneme    nt de Git, de Github et des pull requests.
