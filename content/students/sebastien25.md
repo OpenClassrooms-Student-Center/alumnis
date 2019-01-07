@@ -13,7 +13,7 @@ date: 2019-01-07 18:22
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir Freelance dans le développement d'application web et Python.
-short_description: J'aime les jeux vidéos et les nouvelles technologies. J'aime surtout passer du temps avec ma famille et mes amis.
+short_description: J'aime les jeux vidéos et les nouvelles technologies. J'aime surtout passer du temps avec ma famille et mes amis...
 
 # don't touch that
 template: students
