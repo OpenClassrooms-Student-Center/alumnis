@@ -11,8 +11,7 @@ name: Thibaut
 date: 2019-01-07 12:38
 
 # One line.
-# If you need more space, go to the next line and add 4 spaces on the 
-left, as in 'description'.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Obtenir un diplome
 short_description: J'aime la culture asiatique, l'écologie, la programmation.
 
@@ -31,25 +30,20 @@ public: true
 projects:
   - title: Présentez-vous !
     description: Je m'appels Thibaut, 23 ans, je vis en irlande et souhaites partir vivre en asie.
-    # Create a new repository for your images. Name it the same as your 
-nickname and profile picture.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: thibaut34/projet_1.png
-    link: 
-https://www.linkedin.com/in/thibaut-van-dorp-8423a1178/
+    link: https://www.linkedin.com/in/thibaut-van-dorp-8423a1178/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le 
-fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: thibaut34/projet_2.png
-    link: 
-https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Cours forrest cours !
-    description: Création d’un jeu développé en Lua et utilisant 
-Love2d.
+    description: Création d’un jeu développé en Lua et utilisant Love2d.
     image: thibaut34/projet_3.png
     link: https://github.com/Lufen34/InfiniteRunner
     finished: true
