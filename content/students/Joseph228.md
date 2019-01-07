@@ -18,12 +18,7 @@ short_description: Je suis un grand timide. Je fais beaucoup de musculation.
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Respice post te! Hominem te esse memento!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -42,7 +37,7 @@ projects:
     link: https://www.linkedin.com/in/joseph-adam-574741177
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
