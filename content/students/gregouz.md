@@ -34,7 +34,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionneme    nt de Git, de Github et des pull requests.
     image: gregouz/projet_2.png
     link:
-    finished: False
+    finished: True
 
   - title: Aidez MacGyver à sortir !
     description: Création d'un jeu développé en Python en utilisant PyGame.
