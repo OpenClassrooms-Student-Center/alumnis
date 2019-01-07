@@ -44,7 +44,7 @@ projects:
     finished: true
   - title: ARMANDArthurParcours1
     description: Definir-strategie-apprentissage
-    link:https://openclassrooms.com/fr/projects/38/assignment
+    link: https://openclassrooms.com/fr/projects/38/assignment
     image: images/students/arthurarmand/github/github.jpg
     finished: false
   - title: ARMANDArthurParcours2
