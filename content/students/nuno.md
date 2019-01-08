@@ -4,11 +4,11 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: nuno
+title: https://openclassrooms.com/fr/membres/nuno-marcelino
 
 # First name or full name
 name: nuno
-date: 2016-10-28 17:20
+date: 2019-08-01 21:18
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -24,7 +24,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Nuno.jpg
+image: nuno.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -42,12 +42,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet2.0.png
-    link: https://github.com/loupy222
+    image: nuno/projet2.0.png
+    link: https://github.com/loupy222/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    image: 
+    link: 
     finished: false
 ---
