@@ -33,14 +33,14 @@ projects:
     description: Je suis Idriss Lazar, je débute tout juste mon parcours Développeur d'application - Python, je viens du monde de la sonorisation dans l'événementiel.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: raphalazar/projet_1.png
     link: https://www.linkedin.com/in/rapha%C3%ABl-lazar-568a1a153/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: La page d’alumni est un projet hébergé sur Github en open source, il était demandé de forker ce code source, le modifier avec nos informations et le pusher de nouveau sur Github.
-    image: ratus/projet_2.png
+    image: raphalazar/projet_2.png
     link: https://github.com/raphaellazd/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
