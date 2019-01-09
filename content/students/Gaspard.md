@@ -37,7 +37,7 @@ projects:
   - title: Gaspard Monier
     description: Je m'appel Gaspard, je suis passionné d'informatique et je souhaite me reconvertir dans le développement d'applications mobile.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/Gaspard/project1.png
+    # Image must be here: content/images/students/Gaspard/project1.png
     image: Gaspard/projet_1.png
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.

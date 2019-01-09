@@ -59,7 +59,7 @@ projects:
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/students/hadrien/Projet_1.png
+    # Image must be here: content/images/students/hadrien/Projet_1.png
 
     image: Projet_1.png
 

@@ -38,7 +38,7 @@ projects:
     # max 100 characters
     description: Linkedin.com/in/caroline-chemin-073b8ab3
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: caroline1.jpg
     link: 
     # 'true' makes it public. If 'false', then it will not show on the website.

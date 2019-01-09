@@ -36,7 +36,7 @@ projects:
   - title: Yo, j'ai aussi TUMBLR
     description: Grand métisse, beau gosse (nan je rigole) https://www.linkedin.com/in/dean-hawash-614427160/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: students/Dean
     link: https://www.linkedin.com/in/dean-hawash-614427160/
     # 'true' makes it fully available.

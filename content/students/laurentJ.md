@@ -32,7 +32,7 @@ projects:
   - title: I am laurentJ
     description: Je m'appelle laurent, j'ai 34 ans et je souhaite créer des applications iOS!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: laurentJ/laurentJ.jpg
     link: https://www.linkedin.com/in/laurent-jundt-49aa36167/
     # 'true' makes it fully available.

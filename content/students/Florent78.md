@@ -40,7 +40,7 @@ projects:
     # max 100 characters
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/Florent78/project1.png
+    # Image must be here: content/images/students/Florent78/project1.png
     image: Florent78/projet_1.png
     link: https://www.linkedin.com/in/florentallard/
     # 'true' makes it public. If 'false', then it will not show on the website.

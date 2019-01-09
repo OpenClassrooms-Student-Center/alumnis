@@ -35,7 +35,7 @@ projects:
   - title: Projet 1 - Présentez-vous !
     description: Grosse mise à jour du profil LinkedIn qui était laissé à l'abandon.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: frederic34/LinkedInFrederic34.png
     link: https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-fouret-89572549/
     # 'true' makes it fully available.

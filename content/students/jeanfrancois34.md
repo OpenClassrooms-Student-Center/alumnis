@@ -37,7 +37,7 @@ projects:
     # max 100 characters
     description: Je suis actuellement la formation de développeur d'application android.                                            
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: jeanfrancois34/1.png
     link: https://www.linkedin.com/in/jean-fran%C3%A7ois-vincler-837450154/
     # 'true' makes it public. If 'false', then it will not show on the website.

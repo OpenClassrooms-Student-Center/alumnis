@@ -34,7 +34,7 @@ projects:
   - title: Présentez-vous !
     description: Futur dev Android, apprécie Python et président d'association. https://www.linkedin.com/in/ryo-arfa-miyamoto-b4ab2a156/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: ryo/projet_1.jpg
     link: https://github.com/Ryo-life
     # 'true' makes it fully available.

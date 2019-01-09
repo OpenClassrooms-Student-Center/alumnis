@@ -32,7 +32,7 @@ projects:
   - title: Je travaille en tant que technicien d'exploitation et je veux élargir mes compétences dans le milieu de l'informatique.
     description: https://www.linkedin.com/in/nicolas-millet-9a8a92164/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: nicom/projet_1.png
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.

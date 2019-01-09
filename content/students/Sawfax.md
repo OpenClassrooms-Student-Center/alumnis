@@ -26,7 +26,7 @@ projects:
   - title: Présentez-vous !
     description: Je suis une personne ouverte d'estprit et au débat à la réflexion, profiter de l'instant même si la vie est dure ! Tres exciter de travailler dans la programmation. voici mon linkedin https://www.linkedin.com/in/sofiane-aidoudi-97670973/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students//project1.png
+    # Image must be here: content/images/students//project1.png
     image: Sawfax/Projet1.png
     link: 
     # 'true' makes it fully available.

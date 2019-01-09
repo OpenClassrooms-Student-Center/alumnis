@@ -37,7 +37,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/benjamin76/projet_1.png
+    # Image must be here: content/images/students/benjamin76/projet_1.png
     image: benjamin76/projet_1.png
     link: https://www.linkedin.com/in/benjamin-lescour-ab8527170
     # 'true' makes it fully available.

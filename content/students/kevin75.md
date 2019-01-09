@@ -37,7 +37,7 @@ projects:
   - title: Présentez-vous !
     description: Je suis un parisien de bientôt 40 ans travaillant dans l'informatique depuis 2014, j'apprends à coder pour renforcer mon profil et diversifier mes compétences.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: kevin75/project_1.png
     link: https://www.linkedin.com/in/kevinlebihan/
     # 'true' makes it fully available.

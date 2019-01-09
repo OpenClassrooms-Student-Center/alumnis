@@ -34,7 +34,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même au travers de mon profile Linkedin. J'y ai recensé mon parcours de formation ainsi que détaillé mes expérreinces professionelles ainsi que certains projets. Il y a aussi un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: fabien34/projet1.jpg
     link: https://www.linkedin.com/in/fabienlenoir/
     # 'true' makes it fully available.

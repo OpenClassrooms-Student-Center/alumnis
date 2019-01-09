@@ -32,7 +32,7 @@ projects:
   - title: Ma présentation !
     description: Un lien vers mon profil linkedin vous aidera à mieux me connaitre .
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: Damien/projet_1.jpg
     link: https://www.linkedin.com/in/damien-g-60109523/
     # 'true' makes it fully available.

@@ -63,7 +63,7 @@ projects:
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
 
     image: mickael/projet_1.png
 

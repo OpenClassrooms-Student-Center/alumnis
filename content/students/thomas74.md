@@ -37,7 +37,7 @@ projects:
   - title: Présentez-vous !
     description: Apres avoir obtenu un BTS en electronique je veux continuer mes etudes dans la programmation ! et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: thomas74/projet_1.png
     link: https://www.linkedin.com/in/thomasdvl/
     # 'true' makes it fully available.

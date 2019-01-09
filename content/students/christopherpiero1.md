@@ -34,7 +34,7 @@ projects:
   - title: Présentez-vous !
     description: Retrouvez moi sur LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: christopherpiero1/LinkedIn.png
     link: https://www.linkedin.com/in/christopher-piero-199b7399
     # 'true' makes it fully available.

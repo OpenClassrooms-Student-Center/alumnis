@@ -37,7 +37,7 @@ projects:
   - title: Mohamad Awaly
     description: www.linkedin.com/in/mohamadawaly
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/mohamad/p1.JPEG
+    # Image must be here: content/images/students/mohamad/p1.JPEG
     image: mohamad/p1.JPEG
     link: www.linkedin.com/in/mohamadawaly
     # 'true' makes it fully available.

@@ -37,7 +37,7 @@ projects:
   - title: Présentez-vous !
     description: J'aime le sport et l'informatique!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: sami/projet1.jpg
     link: https://www.linkedin.com/in/sami-s-94614414b/
     # 'true' makes it fully available.

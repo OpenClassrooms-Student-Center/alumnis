@@ -35,7 +35,7 @@ projects:
   - title: Bonjour, je m'appelle Bertrand !
     description: Je suis Bertrand et j'ai 23 ans. Je veux être développeur IOS.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: Bertrand8/projet_1.png
     link: https://www.linkedin.com/in/bertrand-b%C3%A2cle-a32456165/
     # 'true' makes it fully available.

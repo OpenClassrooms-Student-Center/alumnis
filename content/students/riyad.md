@@ -33,7 +33,7 @@ projects:
   - title: Présentation
     description: j'ai 35 ans, je travaille pour une filiale de la SNCF et je souhaite changer de métier pour faire développeur d'application avec comme spécialisation Android.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: riyad/projet_1.png
     link: www.linkedin.com/in/riyad-heennaoui-730465122
     # 'true' makes it fully available.

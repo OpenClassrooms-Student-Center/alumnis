@@ -37,7 +37,7 @@ projects:
   - title: Qui suis-je ?
     description: Retrouvez ma présentation sur ma page LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: 
     link: https://www.linkedin.com/in/s%C3%A9verine-bernard-28916b176/
     # 'true' makes it public. If 'false', then it will not show on the website.

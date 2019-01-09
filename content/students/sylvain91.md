@@ -31,7 +31,7 @@ projects:
   - title: Présentez-vous !
     description: Bonjour!! Je m'appelle Sylvain et voici mon linkedin.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: sylvain91/sylvain91link.png
     link: https://www.linkedin.com/in/sylvain-chazette-72a811134/
     # 'true' makes it fully available.

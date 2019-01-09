@@ -35,7 +35,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: marie30/monProjet1.png
     link: https://www.linkedin.com/in/marie-b-07485a173/
     # 'true' makes it fully available.

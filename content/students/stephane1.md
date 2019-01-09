@@ -41,7 +41,7 @@ projects:
   - title: Découvrez mon parcours et mes expériences
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: stephane1/projet_1.jpg
     link: https://www.linkedin.com/in/stephane-marin-cd/
     # 'true' makes it fully available.

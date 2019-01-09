@@ -33,7 +33,7 @@ projects:
   - title: Je suis Arnaud Joulié
     description: J'aime le cinéma et je veux me réorienter dans le développement Android.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: Arnaud/projet_1.jpg
     link: https://www.linkedin.com/in/arnaud-jouli%C3%A9-b41229171/
     # 'true' makes it fully available.

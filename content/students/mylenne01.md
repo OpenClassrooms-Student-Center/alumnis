@@ -32,7 +32,7 @@ projects:
   - title: Présentez-vous !
     description: Etudiante chez OpenClassrooms en développement d'application iOS
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/mylenne01/project_1.png
+    # Image must be here: content/images/students/mylenne01/project_1.png
     image: mylenne01/projet_1.png
     link: https://www.linkedin.com/in/mylenne-tan-profil-public/
     # 'true' makes it fully available.

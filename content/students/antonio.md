@@ -37,7 +37,7 @@ projects:
   - title: Présentez-vous !
     description: J'aime la technologie et les bananes. Un peu de vélo et quelques lectures.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: tonybeyond/project_1.jpg
     link: https://www.linkedin.com/in/antonio-cardoso-9950431/
     # 'true' makes it fully available.

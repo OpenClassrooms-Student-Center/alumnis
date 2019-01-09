@@ -32,7 +32,7 @@ projects:
   - title: Présentez-vous !
     description: Passioné par les applications, j'apprend sur Openclassrooms.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: florian79/projet_1.png
     link: https://www.linkedin.com/in/florian-peyrony-0ba181147/
     # 'true' makes it fully available.

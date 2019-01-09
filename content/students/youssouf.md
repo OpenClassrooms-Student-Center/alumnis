@@ -32,7 +32,7 @@ projects:
   - title: Présentez-vous !
     description: Arret de mes études à l'age de 20 ans pour projet personel et je reprend 5 ans    plus tard chez openclassrooms pour finalisé mon projet.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.jpg
+    # Image must be here: content/images/students/yourrepo/project1.jpg
     image: youssouf/Projet1.jpg
     link: https://www.linkedin.com/in/youssouf-kone-ba7334174/
     # 'true' makes it fully available.

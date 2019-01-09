@@ -32,7 +32,7 @@ projects:
   - title: Présentez-vous !
     description: Le projet 1 m'a fait travailler mon organisation et ma visibilité, voici un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: matthieu44/projet1.png
     link: https://www.linkedin.com/in/matthieu-thébaud-459a26145/
     # 'true' makes it fully available.

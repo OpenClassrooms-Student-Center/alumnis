@@ -39,7 +39,7 @@ projects:
   - title: Qui suis je ?
     description: Aime créer lien vers linkedin.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: content/students/stevebernard1/project_1.jpg
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.

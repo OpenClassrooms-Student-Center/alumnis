@@ -37,7 +37,7 @@ projects:
   - title: Apprendre à apprendre !
     description: Une présentation de mon parcours, un plan d'apprentissage et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: benjaminpoupel/projet_1.jpg
     link: https://www.linkedin.com/in/benjamin-poupel-0a30564a
     # 'true' makes it fully available.

@@ -32,7 +32,7 @@ projects:
   - title: Présentez-vous !
     description: Pere de famille, ancien manip radio, fou de sport, et fan de domotique DIY, .
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.jpg
+    # Image must be here: content/images/students/yourrepo/project1.jpg
 
     image: Clement1/projet1.jpg
     link: https://www.linkedin.com/in/clement-martin-aa95a4133

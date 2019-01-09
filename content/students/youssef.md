@@ -31,7 +31,7 @@ projects:
   - title: Présentez-vous !
     description: Chauffeur taxi, j'aime apprendre, voyager, le sport, la nature https://www.linkedin.com/in/youssef-chaouachi-67b160172/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: youssef/projet_1.png
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.

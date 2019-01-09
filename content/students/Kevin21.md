@@ -61,7 +61,7 @@ projects:
     description: Voici mon profil LinkedIn. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
 
     image: Kevin21/projet1.png
     link: https://www.linkedin.com/in/k%C3%A9vin-quintana-b16896128/
