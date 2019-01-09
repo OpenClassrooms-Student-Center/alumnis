@@ -13,7 +13,7 @@ date: 2019-01-07 15:07
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Travailler en freelance dans le développement web.
-short_description: j'aime le roller-skate, la formule 1, les jeux vidéo, réaliser des vidéos, aller au ciné ou regarder un bon film dans son canapé et tout nouveau j'aime coder.
+short_description: j'aime le roller-skate, la formule 1, les jeux vidéo, jouer de la musique, réaliser des vidéos, aller au ciné ou regarder un bon film dans son canapé et tout nouveau j'aime coder.
 
 # don't touch that
 template: students
