@@ -18,14 +18,16 @@ short_description: Je suis un passionné de l'image et de la vidéo, j'aime auss
 # don't touch that
 template: students
 description:
-    En quelques mots, j'ai déjà un parcours dans l'audiovisuel surtout sur les aspects techniques (tournage, montage, régie mobile, éclairage, son, etc...). J'évolue aussi aujourd'hui dans des environnements cloud et tous les écosystèmes de déploiements associés. Je souhaite aujourd'hui renforcer ces connaissances avec des compétences de développement pour  pouvoir aller plus loin dans l'automatisation des workflows et surtout pouvoir créer des programmes en fonctions des idées qui peuvent apparaître. 
+    En quelques mots, j'ai déjà un parcours dans l'audiovisuel surtout sur les aspects techniques (tournage, montage, régie mobile, éclairage, son, etc...). 
+    J'évolue aussi aujourd'hui dans des environnements cloud et tous les écosystèmes de déploiements associés. 
+    Je souhaite aujourd'hui renforcer ces connaissances avec des compétences de développement pour  pouvoir aller plus loin dans l'automatisation des workflows et surtout pouvoir créer des programmes en fonctions des idées qui peuvent apparaître. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: fabienlenoir.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
