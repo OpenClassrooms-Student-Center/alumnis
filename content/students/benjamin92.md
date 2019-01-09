@@ -18,7 +18,8 @@ short_description: J'aime la programmation, le rock des 60/70's et l'impression 
 # don't touch that
 template: students
 description:
-    Je veux etre développeur parceque j'aime ça
+    J'ai l'ambition de de venir développeur grace au parcours Python.
+    J'ai choisi Python pour la liberté que ce langage apporte, il ne nous enferme pas dans le développement web et permet de faire vite et facilement beaucoups de projets de toutes tailles. J'espère, à la suite de cette formation, changer de boulot et faire quelquechose qui me permettra de m'éclater et ne pas avoir l'impression de travailler!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
