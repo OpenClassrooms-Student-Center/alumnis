@@ -47,8 +47,6 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: xavier/ArcherGit.png
     link: https://github.com/Jackatoa/alumnis
-    https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1301
-
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
