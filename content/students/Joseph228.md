@@ -12,7 +12,7 @@ date: 2019-01-07 22:48
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre le language Java EE et devenir Tech Lead.
+objective: Apprendre le language Java EE et devenir Responsable SI.
 short_description: Je suis un grand timide. Je fais beaucoup de musculation.
 
 # don't touch that
