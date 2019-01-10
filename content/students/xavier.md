@@ -46,8 +46,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: xavier/ArcherGit.png
-    xavier/Projet2ScreenshotRepo.png
-    xavier/Projet2ScreenshotPullRequest.png
     link: https://github.com/Jackatoa/alumnis
     https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1301
 
