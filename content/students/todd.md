@@ -54,9 +54,8 @@ projects:
     finished: true
 
   - title: Mémorisez votre humeur du jour
-    description: Création d’une application Android intitulée Moodtracker.
-    Developpement à venir.
-    image: ratus/projet-3.jpg
+    description: Création d’une application Android intitulée Moodtracker. Developpement à venir.
+    image: todd/projet-3.jpg
     link: https://www.github.com
     finished: false
 
