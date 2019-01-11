@@ -4,15 +4,15 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: mariannemasse
+title: ratus
 
-marianne masse
-name:marianneji
-date: 2019-01-11 09:20
+# First name or full name
+name: Ratus
+date: 2016-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Créer des jeux pour les petits et grands.
+objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
 
 # don't touch that
