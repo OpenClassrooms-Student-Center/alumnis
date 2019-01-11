@@ -21,7 +21,7 @@ description:
     Reconversion totale pour ma part, je travaillais dans l'évènementiel privé, c'était très intéressant et excitant mais         incompatible avec ma vie de famille aujourd'hui. J'ai du me poser les bonnes questions afin de savoir quel serait mon         parcours. J'ai choisi le parcours de Développeur d'application iOS, car ma passion est de jouer et de créer des jeux           pour les enfants, (et pourquoi pas les grands).
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: marianneji.jpg
 
 # Change this to True when you do you pull request.
 public: False
