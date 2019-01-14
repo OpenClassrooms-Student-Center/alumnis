@@ -26,14 +26,14 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: images/students/arthurarmand.jpg
+image: arthurarmand.jpg
 
 # Change this to True when you do you pull request.
 public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: ARMANDArthurLinkelin
+  - title: Projet_1
     description: ARMAND-Compte-Linkedin
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
@@ -42,14 +42,14 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: ARMANDArthurParcours1
+  - title: Projet_2
     description: Definir-strategie-apprentissage
     link: https://openclassrooms.com/fr/projects/38/assignment
-    image: images/students/arthurarmand/github/github.jpg
-    finished: false
-  - title: ARMANDArthurParcours2
+    image: arthurarmand/github/github.jpg
+    finished: true
+  - title: Projet_3
     description:  Integrer-communaute-openclassrooms
-    image: images/students/arthurarmand/gitlab/gitlab.jpg
+    image: arthurarmand/gitlab/gitlab.jpg
     link: https://openclassrooms.com/fr/projects/151/assignment
     finished: false
 ---
