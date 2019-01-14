@@ -29,11 +29,12 @@ short_description: J'aime les nouvelles technologies, la musique et l'astronomie
 
 
 # don't touch that
-
 template: students
+description:
+    De l'entrepreunariat à l'assistanat de direction, j'ai eu plusieurs vies professionnelles !
 
-description: vcnk: celinemartinet.png
-
+# image must be located in content/images/students
+# name should be the same as this file. Eg: celinemartinet.png
 image: laetitia.jpg
 
 
@@ -57,17 +58,9 @@ projects:
     image: laetitia/projet_1.png
 
     link: https://www.linkedin.com/in/laetitia-papeloux-ba2a53156/
+  # 'true' makes it fully available.
+  # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    # 'true' makes it fully available.
-
-    # 'false' will add a b
-De l'entrepreunariat à l'assistanat de direction, J'ai eu plusieurs vies professionnelles.
-Chacune toutes aussi enrichissantes, elles m'ont menées vers la programmation aujourd'hui.
-Et pour débuter cet apprentissage, j'ai choisi d'apprendre le langage Java.
-
-# image must be located in content/images/students
-lack layer on the picture. IT WILL BE PUBLIC!
-olk, 
     finished: true
 
   - title: Intégrez la communauté !
