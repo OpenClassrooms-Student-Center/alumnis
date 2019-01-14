@@ -16,7 +16,7 @@ title: Laetitia
 
 name: Laetitia
 
-date: 2019-01-10 17:20
+date: 2019-01-14 17:20
 
 
 # One line.
@@ -32,21 +32,14 @@ short_description: J'aime les nouvelles technologies, la musique et l'astronomie
 
 template: students
 
-description:
-De l'entrepreunariat à l'assistanat de direction, J'ai eu plusieurs vies professionnelles.
-Chacune toutes aussi enrichissantes, elles m'ont menées vers la programmation aujourd'hui.
-Et pour débuter cet apprentissage, j'ai choisi d'apprendre le langage Java.
-
-# image must be located in content/images/students
-
-# name should be the same as this file. Eg: celinemartinet.png
+description: vcnk: celinemartinet.png
 
 image: laetitia.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -67,8 +60,14 @@ projects:
 
     # 'true' makes it fully available.
 
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    # 'false' will add a b
+De l'entrepreunariat à l'assistanat de direction, J'ai eu plusieurs vies professionnelles.
+Chacune toutes aussi enrichissantes, elles m'ont menées vers la programmation aujourd'hui.
+Et pour débuter cet apprentissage, j'ai choisi d'apprendre le langage Java.
 
+# image must be located in content/images/students
+lack layer on the picture. IT WILL BE PUBLIC!
+olk, 
     finished: true
 
   - title: Intégrez la communauté !
@@ -89,6 +88,6 @@ projects:
 
     link: https://www.github.com
 
-    finished: false
+    finished: true
 
 ---
