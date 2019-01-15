@@ -29,13 +29,12 @@ image: Massinissa.jpeg
 public: True
 
 # You need to keep the exact same structure for each new project.
-projects:
- -title: Présentation
+projects: 
+ - title: Présentation
  description: Une présentation de moi-même et un lien vers mon LinkedIn.
  # Create a new repository for your images. Name it the same as your nickname and profile picture.
  # Image must be here: content/images/students/yourrepo/project1.png
-
-   image: Projet1.png
+   image: Massinissa/Projet1.png
    link: https://www.linkedin.com/in/massinissa-rebout-984a88177/
 
  # 'true' makes it fully available.
