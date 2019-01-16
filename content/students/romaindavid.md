@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: romaindavid
 
 # First name or full name
 name: Romain-David
@@ -40,7 +40,7 @@ projects:
     finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: romaindavid/Projet1.pngromaindavid/Projet1.png
+    image: romaindavid/Projet1.png
     link: 
     finished: false
   - title: Mettez votre logique à l'épreuve
