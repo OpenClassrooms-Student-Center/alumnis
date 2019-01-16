@@ -56,7 +56,7 @@ projects:
   - title: Présentez-vous !
 
     j'aime voyager  et apprendre. l'apprentissage est un long voyage.
-	www.linkedin.com/in/paul-sebire-8808a8178
+    www.linkedin.com/in/paul-sebire-8808a8178
 	
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -65,7 +65,6 @@ projects:
     image: paul37/projet_1.png
 
     link: www.linkedin.com/in/paul-sebire-8808a8178
-	
     # 'true' makes it fully available.
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
