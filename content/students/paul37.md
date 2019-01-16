@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: paul37
 
 
 # First name or full name
@@ -59,7 +59,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: paul37/projet_1.png
+    image: paul37/projet_1.jpg
 
     link: www.linkedin.com/in/paul-sebire-8808a8178
     # 'true' makes it fully available.
@@ -72,20 +72,12 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: paul37/projet_2.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-
-    finished: false
-
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    # image: ratus/projet_3.png
-
-    link: https://www.github.com
+    link: https://openclassrooms-student-center.github.io/presentation/students/paul37.html
 
     finished: false
+
+
 
 ---
