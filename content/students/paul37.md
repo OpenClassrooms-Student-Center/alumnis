@@ -57,7 +57,6 @@ projects:
 
     j'aime voyager  et apprendre. l'apprentissage est un long voyage.
     www.linkedin.com/in/paul-sebire-8808a8178
-	
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
