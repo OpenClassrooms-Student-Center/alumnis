@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Ludovic77
 
 
 # First name or full name
 
-name: Ratus
+name: Ludovic77
 
-date: 2016-10-28 17:20
+date: 2019-01-16 14:32
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Réussir le parcours developpeur d'application java
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Fan de kaamelott
 
 
 # don't touch that
@@ -51,7 +51,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: ludovic77.jpeg
 
 
 # Change this to True when you do you pull request.
