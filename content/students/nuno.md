@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: nuno.md
+title: nuno
 
 # First name or full name
 name: nuno
@@ -35,14 +35,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Nuno/projet_1.png
+    image: Nuno/Projet_1.png
     link: www.linkedin.com/in/nuno-ricardo-da-silva-marcelino-3ba508177
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: nuno/projet2.0.png
+    image: nuno/Projet2.0.png
     link: https://github.com/loupy222/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
