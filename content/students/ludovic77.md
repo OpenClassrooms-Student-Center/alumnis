@@ -25,7 +25,7 @@ date: 2019-01-16 14:32
 
 objective: Réussir le parcours developpeur d'application java
 
-short_description: Fan de kaamelott
+short_description: En pleine reconversion professionnelle !
 
 
 # don't touch that
@@ -71,9 +71,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: ludovic77/projet1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/ludovic-souplet-b53193168/
 
     # 'true' makes it fully available.
 
@@ -85,19 +85,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: ludovic77/projet2.PNG
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-
-    finished: true
-
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
-    link: https://www.github.com
+    link: https://github.com/ludo77100/alumnis
 
     finished: false
 
