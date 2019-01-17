@@ -46,5 +46,5 @@ projects:
     description: Voici ma contribution sur le projet Open Source Alumnis. Je vous invite à faire pareil, c'est sympa.
     image: sebastien95/projet_2.png
     link: https://github.com/SebFlatBeat/alumnis
-			finished: true	
+	finished: true	
 ---
