@@ -17,8 +17,7 @@ short_description: Je ne suis pas très fort en présentation. J’ai beaucoup d
 
 # don't touch that
 template: students
-description:
-Vous êtes encore là avec ma petite description, c’est que je ne vous rebute pas de prime abord et que vous souhaitez en savoir plus !
+description: Vous êtes encore là avec ma petite description, c’est que je ne vous rebute pas de prime abord et que vous souhaitez en savoir plus !
 J’aime le foot et plus précisément l’Olympique de Marseille. Fan absolu et supporter ultra au sein du groupe « La vieille garde », je ne manque jamais un match, ni l’occasion de me déplacer.
 J’aime le code et je souhaite en faire mon métier. Véritable passionné de l’informatique depuis mon enfance, j’ai toujours considérer ce domaine comme quelque chose de ludique, alors que je peux en faire un véritable métier.
 J’aime faire la fête car la vie est une fête à elle seule.
