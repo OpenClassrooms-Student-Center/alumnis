@@ -45,6 +45,5 @@ projects:
     description: Voici ma contribution sur le projet Open Source Alumnis, je vous invite à le forker, ça vous fait manipuler Git & GitHub
     image: sebastien95/projet_2.png
     link: https://github.com/SebFlatBeat/alumnis
-    finished: true
-	
+    finished: true	
 ---
