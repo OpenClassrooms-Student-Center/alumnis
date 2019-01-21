@@ -24,7 +24,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: florent.jpg
+image: florent2.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -34,20 +34,25 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: florent/projet_1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: florent/Projet_1.png
     link: https://www.linkedin.com/in/florent-ferrere-9561b7151/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: florent/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/florent.html
+    image: florent/Projet_2.png
+    link: https://openclassrooms-student-center.github.io/alumnis/students/florent2.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: florent/projet_3.png
-    link: https://www.github.com
-    finished: false
+    image: florent/Projet_3.png
+    link: https://github.com/Claers/ProjectMacGyver
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias.
+    description: Analyser la demande d'un client et rédiger les spécifications détaillées du projet
+    image: florent/Projet_4.png
+    link: https://openclassrooms.com/fr/projects/analysez-les-besoins-de-votre-client-pour-son-groupe-de-pizzerias
+    finished: true
 ---

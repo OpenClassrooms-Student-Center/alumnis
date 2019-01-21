@@ -44,7 +44,7 @@ projects:
     # max 100 characters
     description: Curieux et enthousiaste, j'ai toujours apprecie le contact de mes doigts sur un clavier. Cliquez le bouton pour visiter mon profil OpenClassrooms.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: ottakar/projet_1.png
     link: https://openclassrooms.com/membres/ottakar-44550
     # 'true' makes it public. If 'false', then it will not show on the website.

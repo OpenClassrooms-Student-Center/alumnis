@@ -33,7 +33,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/benjamin57/project_1.png
+    # Image must be here: content/images/students/benjamin57/project_1.png
     image: benjamin57/projet_1.png
     link: https://www.linkedin.com/in/benjamin-favre-a5617b152/
     # 'true' makes it fully available.

@@ -32,7 +32,7 @@ projects:
   - title: Je me présente ci-dessus :)
     description: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-deneux-998a0b158/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: jerome92/projet1.jpg
     link: https://github.com/Zyknafein92
     # 'true' makes it fully available.

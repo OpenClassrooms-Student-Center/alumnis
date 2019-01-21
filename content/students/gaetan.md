@@ -31,7 +31,7 @@ projects:
   - title: etudiant android 
     description: interimaire dans l'industrie en reconvertion
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: gaetan-linkedin-P2.jpg
     link: https://www.linkedin.com/in/gaetan-de-freitas-7820b4119/
     # 'true' makes it fully available.

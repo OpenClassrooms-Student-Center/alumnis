@@ -32,7 +32,7 @@ projects:
   - title: Etudiant développement java
     description: Actuellement etudiant à l'université(Paris 7 Diderot) et chez open classroms, je souhaite devenir developpeur d'application java au terme de cette formation. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/capture1.png
+    # Image must be here: content/images/students/yourrepo/capture1.png
     image: Habib/capture1.png
     link: https://thiernohabibbah.imgur.com/all/?third_party=1
     # 'true' makes it fully available.

@@ -37,7 +37,7 @@ projects:
   - title: Présentez-vous !
     description: Nouveau changement de vie avec une orientation vers le développement web.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: christophe-gressin/p2-photo1.jpg
     link: https://www.linkedin.com/in/christophe-gressin-developpeur/
     # 'true' makes it fully available.

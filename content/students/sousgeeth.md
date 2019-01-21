@@ -33,9 +33,9 @@ projects:
   - title: Présentez-vous !
     description: J'ai 26 ans, je suis un passioné de l'informatique surtout de la programmation, et je pratique beaucoup de sports, et je travaille en tant que serveur les week-ends.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: sousgeeth/projet_1.jpg
-    link: https://www.linkedin.com/in/sugeethkumar-vigneswaranathan-6993a3166
+    link:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true

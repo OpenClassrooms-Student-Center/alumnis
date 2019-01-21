@@ -32,7 +32,7 @@ projects:
   - title: Présentez-vous !
     description: J'aime lire, voyager, apprendre de nouvelles choses/ https://www.linkedin.com/in/alexandra-campari-aba60655
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: boucle-dor3/projet_1.png
     link: https://www.linkedin.com/in/alexandra-campari-aba60655
     # 'true' makes it fully available.

@@ -35,7 +35,7 @@ projects:
   - title: Présentez-vous !
     description: Jeune Toulousain de 23 ans. Voici le lien de mon profil LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: neige-i/projet1.png
     link: https://www.linkedin.com/in/ibrahim-rachdi-4267ab150/
     # 'true' makes it fully available.

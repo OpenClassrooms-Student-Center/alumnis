@@ -70,7 +70,7 @@ projects:
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
 
     image: quentin/projet_01_cv_quentin.jpg
 
@@ -92,14 +92,113 @@ projects:
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à s'échapper !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
     image: quentin/projet_03.jpg
 
+    link: https://www.github.com/Synkied/OC_Projet-3
+
+    finished: true
+
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+
+    description: Première approche de l'UML.
+
+    image: quentin/projet_04.png
+
+    link: https://www.github.com/Synkied/OC_Projet-4
+
+    finished: true
+
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+
+    description: https://www.github.com/Synkied/OC_Projet-5
+
+    image: quentin/projet_05.png
+
     link: https://www.github.com
 
-    finished: false
+    finished: true
 
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+
+    description: Modèles de bases de données et UML
+
+    image: quentin/projet_06.png
+
+    link: https://www.github.com/Synkied/OC_Projet-6
+
+    finished: true
+
+  - title: Créez GrandPy Bot, le papy-robot
+
+    description: Consommation des API de GMaps et MediaWiki, utilisation de Flask
+
+    image: quentin/projet_07.png
+
+    link: https://www.github.com/Synkied/OC_Projet-7-vue
+
+    finished: true
+
+  - title: Créez une plateforme pour amateurs de Nutella
+
+    description: Création d'un site (Django) sur cahier des charges client et consommation d'API OpenFoodFacts
+
+    image: quentin/projet_08.png
+
+    link: https://www.github.com/Synkied/OC_Projet-8
+
+    finished: true
+
+  - title: Documentez votre système de gestion de pizzeria
+
+    description: Conception de documents techniques
+
+    image: quentin/projet_09.png
+
+    link: https://www.github.com/Synkied/OC_Projet-9
+
+    finished: true
+
+  - title: Déployez votre application sur un serveur comme un·e pro !
+
+    description: Déploiement sur un serveur non PaaS (type DigitalOcean)
+
+    image: quentin/projet_10.png
+
+    link: https://www.github.com/Synkied/nutellove_project
+
+    finished: true
+
+  - title: Améliorez un projet existant en Python
+
+    description: Amélioration d'un projet de mon choix (la plateforme pour amateurs de Nutella)
+
+    image: quentin/projet_08.png
+
+    link: https://www.github.com/Synkied/OC_Projet-11
+
+    finished: true
+
+  - title: Effectuez un stage ou construisez une veille technologique
+
+    description: Veille technologique et services utilisées
+
+    image: quentin/projet_12.jpg
+
+    link: https://www.github.com/Synkied/OC_Projet-12
+
+    finished: true
+
+  - title: Projet final, prêt pour le feu d’artifices ?
+
+    description: Création d'un site de comparasion de prix de cartes Pokémon et reconnaissance d'image
+
+    image: quentin/projet_13.png
+
+    link: https://www.github.com/Synkied/pokepare
+
+    finished: true
 ---

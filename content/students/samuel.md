@@ -35,7 +35,7 @@ projects:
   - title: Présentez-vous !
     description: Mise à jour de mes profils et présentation.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: samuel/project1
     link: https://www.linkedin.com/in/samuel-soleilhac/
     # 'true' makes it fully available.

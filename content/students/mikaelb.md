@@ -35,7 +35,7 @@ projects:
   - title: mikael 26 ans apprenti developpeur web.
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: mikaelb/linkedin.jpg
     link: https://www.linkedin.com/in/mikael-briolet-117696134/
     # 'true' makes it fully available.
