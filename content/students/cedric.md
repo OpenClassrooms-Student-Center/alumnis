@@ -30,7 +30,7 @@ image: cedric.jpg
 
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 
 # You need to keep the exact same structure for each new project.
@@ -57,6 +57,6 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: cedric/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: true
 
 ---
