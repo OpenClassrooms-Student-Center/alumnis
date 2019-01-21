@@ -22,17 +22,12 @@ template: students
 
 # max 500 characters
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    Ayant créé mon auto entreprise il y a peu en informatique (solution informatique pour gestion du personnel sur Excel), cette formation diplômante et qualifiante me permettra d’apporter des solutions plus       solides et diverses aux entreprises ou clients ainsi que de renforcer ma légitimité auprès d'eux'. De plus, j’ai été sollicité pour un projet qui fait sens pour moi dans lequel j’aimerai m’investir. C’est      pourquoi j’ai besoin de solides connaissances que je pourrai acquérir grâce à cette formation. Cette création d’auto entreprise provient d’une volonté de mêler harmonieusement vie professionnelle et vie        familiale. Toutefois je n’exclue pas de devenir salarié en parallèle de mon activité.
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
-image: ratus.jpg
+image: fabien49.jpg
 
 # Change this to True when you do you pull request.
 public: False
