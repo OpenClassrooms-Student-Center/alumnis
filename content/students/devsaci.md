@@ -7,8 +7,8 @@
 title: devsaci
 
 # First name or full name
-name: devsaci
-date: 2016-10-28 17:20
+name: Zakaria
+date: 2019-01-21 
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -29,7 +29,7 @@ description:
 image: devsaci.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -37,14 +37,14 @@ projects:
     description: Passionné de violoncelle, des musiques ancestrales et de nature vivante.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: devsaci/projet_1.png
+    image: devsaci/projet_1.jpg
     link: https://www.linkedin.com/in/zakaria-saci-a61322178/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: devsaci/projet_2.png
+    image: devsaci/projet_2.jpg
     link: https://github.com/Devsaci
     finished: true
 ---
