@@ -38,10 +38,15 @@ projects:
     link: https://www.linkedin.com/in/benjamin-codron-b59691144/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: benjamin92/projet_2_.png
     link: https://github.com/Zepmanbc/alumnis
-    finished: false
+    finished: true
+  - title: Aidez MacGyver à s'échapper !
+    description: Créer un jeu de labyrinthe avec de la programmation Objet en Python.
+    image: benjamin92/projet_3_.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr3
+    finished: true
 ---
