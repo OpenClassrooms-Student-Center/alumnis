@@ -45,7 +45,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: github.jpg
+    image: repository.jpg
     link: https://github.com/Fabien49/alumnis/
     finished: true
   - title: Aidez MacGyver à sortir !
