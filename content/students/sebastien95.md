@@ -36,7 +36,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn. En espérant vous y retrouver ! A bientôt
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/students/yourrepo/project1.PNG
     image: sebastien95/projet1.png
     link: https://www.linkedin.com/in/sébastien-darré-a5257616b/
     # 'true' makes it fully available.
@@ -44,7 +44,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Voici ma contribution sur le projet Open Source Alumnis. Je vous invite à faire pareil, c'est sympa.
-    image: sebastien95/projet_2.png
+    image: sebastien95/projet_2.PNG
     link: https://github.com/SebFlatBeat/alumnis
-	finished: true	
+finished: true	
 ---
