@@ -37,7 +37,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn. En espérant vous y retrouver ! A bientôt
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.PNG
-    image: sebastien95/projet1.png
+    image: sebastien95/projet1.PNG
     link: https://www.linkedin.com/in/sébastien-darré-a5257616b/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
