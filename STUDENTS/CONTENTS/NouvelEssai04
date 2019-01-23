@@ -1,0 +1,26 @@
+---
+FILENAME :https://openclassrooms.com/fr/paths/88-developpeur-dapplication-java/georgesnordon
+title : NORDON
+name: NORDON
+date: 2018 08 31 
+
+
+objective: Apprendre le langage Java
+
+short_description: J'apprends ра coder pour me faire une nouvelle jeunesse, je retournerai environ 40 ans en arriere.
+
+template: students
+
+description:
+
+             Je ne maitrise pas le latin, mais j'ai quelques notions, sans doute peu utiles en Java. Mai qui peuvent toujours servir dans           d'autres circonstances : Morituri te salutant. Quo vadis ? Errare humanum est sed perseverare diabolicum. But probably more               useful when it comes to learning Java, I can read and write English rather well. But I admit I have no credit for that because           my mother and her family are English from Western Super Mare and from Derby. Ich kann auch ein wenig deutsch sprechen, nur               nicht so gut. Aber am besten naturlich mochte ich Java lernen and flussig sprechen konnen.
+   J'ajoute donc que Java constituerait une quatrieme langue,
+une langue parlee par les ordinateurs
+ 
+
+image: nordon.jpg
+
+
+public: True
+
+---
