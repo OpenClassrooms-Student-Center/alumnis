@@ -12,13 +12,14 @@ date: 2017-11-15 16:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre le Python et trouver le sens de la vie !
-short_description: Amateur de nouvelles tecnhologies, de cinéma, de jeux vidéos et de bons mots.
+objective: Devenir développeur et voyager.
+short_description: Audiophile, amateur de metal (Black, speed et 80'S Heavy) et apprenti développeur. 
 
 # don't touch that
 template: students
 description:
-    Après avoir appris le developpement web je souhaite maintenant élargir mes horizons en apprenant Python.
+    Après des études aussi diverses que variées j'ai décider de me consacrer au développement sur iOS.
+    Cela me permet d'allier technologie, rigueur et créativité !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -34,7 +35,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: hugues/p1.jpg
-    link: https://www.linkedin.com/in/hugues-carpentier-909458b7/
+    link: https://www.linkedin.com/in/hugues-fils-caparos-32711716b
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
