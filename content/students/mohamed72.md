@@ -57,7 +57,7 @@ image: mohamed72.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True 
 
 
 # You need to keep the exact same structure for each new project.
@@ -72,7 +72,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: mohamed72/projet_1.png
+    image: mohamed72/PhotoMohamed.jpg
 
     link: http://www.linkedin.com/in/mohamed-behillil-444910125
 
@@ -86,7 +86,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: mohamed72/projet_2.png
+    image: mohamed72/gitHub.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
@@ -96,7 +96,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: mohamed72/projet_3.png
+    image: mohamed72/linkedin.png
 
     link: https://www.github.com
 
