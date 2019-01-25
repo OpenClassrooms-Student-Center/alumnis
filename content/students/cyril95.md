@@ -13,17 +13,14 @@ date: 2019-01-25 17:22
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur Java, et pourquoi pas développeur full stack à plus long terme
-short_description: J'ai 40 ans. Passionné par la technique, et plus largement la technologie, j'ai décidé de revenir à ce que j'aime le plus faire (il n'est jamais trop tard :) )
+short_description: J'ai 40 ans. Passionné par la technique, et plus largement la technologie
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    C'est parti, j'ai rejoint la Software Academy
+    Voilà un cursus génial qui démarre avec OpenClassrooms.
+    Et une chance unique de me relancer dans le développement, que j'avais quitté depuis ... trop longtemps
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -44,7 +41,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: cyril95/projet2.png
     link: https://github.com/CyrilLepretre?tab=repositories
     finished: true
