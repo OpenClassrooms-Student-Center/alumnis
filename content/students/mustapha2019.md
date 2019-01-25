@@ -8,7 +8,7 @@ title: mustapha2019
 
 # First name or full name
 name: mustapha2019
-date: 2019-01-25 12:30
+date: 2019-01-25 13:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -34,7 +34,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content\students\mustapha2019
     image: mustapha2019/projet_1.png
     link: www.linkedin.com/in/mustapha-touil
     # 'true' makes it fully available.
