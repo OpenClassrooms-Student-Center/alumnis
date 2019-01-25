@@ -19,14 +19,14 @@ description:
 	formation ne me plaisait pas. Jai ensuite effectuee un bts negociation 
 	relation client en alternance au sein d une societe de nettoyage c'est 
 	au cours de cette formation que j ai decouvert l informatique et 
-	je m y suis donc interesser au point de vouloir changer de voi.
+	je m y suis donc interesser au point de vouloir changer de voie.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: AmbrineChettih.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -34,7 +34,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: AmbrineChettih/AmbrineChettih.png
     link: https://www.linkedin.com/in/ambrine-chettih-665622161/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -42,7 +42,7 @@ projects:
 	
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: AmbrineChettih/projet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
 	
