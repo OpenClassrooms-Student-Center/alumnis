@@ -8,7 +8,7 @@ title: mustapha2019
 
 # First name or full name
 name: mustapha2019
-date: 2019-01-25 13:35
+date: 2019-01-25 19:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -42,7 +42,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: mustapha2019/projet_2.png
     link: https://github.com/touil2019/alumnis
-	    finished: true
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: mustapha2019/projet_3.png
