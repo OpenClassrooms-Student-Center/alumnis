@@ -26,7 +26,7 @@ date: 2019-01-24 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-En route pour le DevOps made in Axa ! 
+objective: En route pour le DevOps made in Axa ! 
 
 short_description: Aprés pas mal d'années dans la DSI, il est temps de retourner aux sources et être de nouveau un de ceux qui font, avant de définitivement devenir l'homme qy'à vu l'homme qui a vu le dev.
 
