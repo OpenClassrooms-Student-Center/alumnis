@@ -9,17 +9,18 @@ date: 2019-01-18 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Finir mon parcours developpeur Java pour continuer mes etudes dans la meme branche.
-short_description: J'aime pratiquer l equitation, lire, voyager et partir a l aventure
+short_description: J'aime pratiquer l'équitation, lire, voyager et partir à l'aventure.
 
 # don't touch that
 template: students
 description:
-    Je m apelle Ambrine, j ai effectuee une annee a l universite en langue 
-	etrangere en anglais espagnol que je nai pas poursuivis car le type de 
-	formation ne me plaisait pas. Jai ensuite effectuee un bts negociation 
-	relation client en alternance au sein d une societe de nettoyage c'est 
-	au cours de cette formation que j ai decouvert l informatique et 
-	je m y suis donc interesser au point de vouloir changer de voie.
+
+    Je m'apelle Ambrine, j'ai effectuée une annee à l'universite en langue 
+	étrangère en anglais espagnol que je n'ai pas poursuivis car le type de 
+	formation ne me plaisait pas. J'ai ensuite effectuée un bts negociation 
+	relation client en alternance au sein d'une societe de nettoyage c'est 
+	au cours de cette formation que j'ai decouvert l'informatique et 
+	je m'y suis donc interessée au point de vouloir changer de voie.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
