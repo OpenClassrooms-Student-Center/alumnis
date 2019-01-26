@@ -22,7 +22,7 @@ template: students
 
 # max 500 characters
 description:
-    Ayant créé mon auto entreprise il y a peu en informatique (solution informatique pour gestion du personnel sur Excel), cette formation diplômante et qualifiante me permettra d’apporter des solutions plus       solides et diverses aux entreprises ou clients ainsi que de renforcer ma légitimité auprès d'eux'. De plus, j’ai été sollicité pour un projet qui fait sens pour moi dans lequel j’aimerai m’investir. C’est      pourquoi j’ai besoin de solides connaissances que je pourrai acquérir grâce à cette formation. Cette création d’auto entreprise provient d’une volonté de mêler harmonieusement vie professionnelle et vie        familiale. Toutefois je n’exclue pas de devenir salarié en parallèle de mon activité.
+    Ayant créé mon auto entreprise il y a peu en informatique (solution informatique pour gestion du personnel sur Excel), cette        formation diplômante et qualifiante me permettra d’apporter des solutions plus solides et diverses aux entreprises ou clients ainsi que de renforcer ma légitimité auprès d'eux'. De plus, j’ai été sollicité pour un projet qui fait sens pour moi dans lequel j’aimerai m’investir. C’est pourquoi j’ai besoin de solides connaissances que je pourrai acquérir grâce à cette formation. Cette création d’auto entreprise provient d’une volonté de mêler harmonieusement vie professionnelle et vie        familiale. Toutefois je n’exclue pas de devenir salarié en parallèle de mon activité.
     
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
