@@ -23,7 +23,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: joevin.png
+image: joevin-cao-van.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -34,19 +34,19 @@ projects:
     description: Je m'appelle Joevin, j'ai 29 ans, en image ma presentation sur le workplace d'OpenClassrooms et en lien mon profil LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: joevin/projet_1.png
+    image: joevin-cao-van/projet_1.png
     link: https://www.linkedin.com/in/joevin-cao-van-b6462b155/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: joevin/projet_2.png
+    image: joevin-cao-van/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: joevin/projet_3.png
+    image: joevin-cao-van/projet_3.png
     link: https://www.github.com
     finished: false
 ---
