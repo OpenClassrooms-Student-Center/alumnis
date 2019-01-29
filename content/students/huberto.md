@@ -13,7 +13,7 @@ date: 2019-01-28 23:55
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Finaliser ma reconversion dans le développement informatique. 
-short_description: Je suis un étudiant OpenClassrooms qui suis le parcours de : Développeur d'application - Java.
+short_description: Je suis un étudiant OpenClassrooms qui suis le parcours de Développeur d'application - Java.
 
 # don't touch that
 template: students
