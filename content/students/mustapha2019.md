@@ -17,8 +17,7 @@ short_description:  j'aime le cinéma le football et la natation.j'apprends à c
 
 # don't touch that
 template: students
-description:
-je suis un amoureux du ballon rond, j'aime assister aux match au stade, sentir la ferveur,les cris d'encouragement. pour me détendre j'aime pratiquer la natation et m'évader durant mes longueurs. Pour terminer, j'aime les films d'actions, de suspense, thriller comme les films d'alfred hitchcok ou vieux westerne spaghetti.
+description: je suis un amoureux du ballon rond, j'aime assister aux match au stade, sentir la ferveur,les cris d'encouragement. pour me détendre j'aime pratiquer la natation et m'évader durant mes longueurs. Pour terminer, j'aime les films d'actions, de suspense, thriller comme les films d'alfred hitchcok ou vieux westerne spaghetti.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
