@@ -8,11 +8,11 @@ title: david56
 
 # First name or full name
 name: David
-date: 2019-01-22 12:30
+date: 2019-01-30 22:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Réussir mon parcours dans le Développement JAVA.
+objective: Réussir mon parcours dans le développement JAVA.
 short_description: J'aime les jeux vidéos, les séries, le foot et apprendre de nouvelles choses.
 
 # don't touch that
@@ -41,7 +41,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour Git, Github et les pull requests. 
     image: david56/projet_2.png
     link: https://github.com/DavidBNC/alumnis
     finished: false
