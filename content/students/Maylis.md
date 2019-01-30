@@ -28,7 +28,7 @@ La formation me plait, malgré les difficultées que je rencontre.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: Maylisgaillard.png
-image:Maylis.jpg
+image:/Users/Maylis/Desktop/Maylis.jpg
 
 # Change this to True when you do you pull request.
 public: true
@@ -39,13 +39,13 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Projet 1.png
+    image: /Users/Maylis/Desktop/Projet\ 1.png
     link: https://www.linkedin.com/in/maylis-gaillard-17027417a
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: Projet 2.png
+    image:  /Users/Maylis/Desktop/Projet\ 2.png
     link: https://github.com/Gaillard05/alumnis.git
     finished: true
