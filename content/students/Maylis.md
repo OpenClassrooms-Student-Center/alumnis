@@ -38,7 +38,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/students/yourrepo/Project1.png
     image: /Users/Maylis/Desktop/Projet\ 1.png
     link: https://www.linkedin.com/in/maylis-gaillard-17027417a
     # 'true' makes it fully available.
