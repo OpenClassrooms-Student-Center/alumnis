@@ -17,13 +17,7 @@ short_description: j'ai me la musique, les nouvelle technologie et surfer sur in
 
 # don't touch that
 template: students
-description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+description:    j'ai 29 ans, et à plusieurs périodes de ma vie, j'ai effectué plusieurs formations avec divers stages pour trouver un secteur d'activié qui me convienne. Au final je me suis tourné vers l'informatique. Et plus précisément le métier de developpeur, qui a attisé ma curiosité et qui ajourd'hui m'intéresse fortement.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
