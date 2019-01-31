@@ -54,5 +54,4 @@ projects:
     link: https://github.com/Gaillard05/alumnis.git
     finished: true
  
-   
----
+   ---
