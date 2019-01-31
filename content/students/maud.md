@@ -15,7 +15,7 @@ description:
 
 image: maud.jpg
 
-public: False
+public: True
 
   - title: Présentez-vous !
     description: Je suis étudiante, parcours Java, voici mon LinkedIn.
