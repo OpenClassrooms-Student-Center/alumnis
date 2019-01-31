@@ -33,10 +33,11 @@ short_description: Je suis Maylis Gaillard, j'ai 24 ans. Je suis en reconversion
 
 template: students
 
-description:
+description: J'ai fait de nombreux stages et postes en remplacement dans différentes enseignes d'animaleries.Mes hobby sont:les mangas, les BD, m'occuper de mes animaux, les jeux vidéos, dessiner
+
+
+
  
-
-
 
 
 # image must be located in content/images/students
