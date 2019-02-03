@@ -1,9 +1,9 @@
 ---
 
-title: AmbrineChettih
+title: ambrinne
 
 # First name or full name
-name: AmbrineChettih
+name: ambrinne
 date: 2019-01-18 17:20
 
 # One line.
