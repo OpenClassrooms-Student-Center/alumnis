@@ -1,10 +1,10 @@
 ---
 
 
-title: SarahTourrouDaSilva
+title: sarahtourroudasilva
 
 # First name or full name
-name: Sarah Tourrou Da Silva
+name: Sarah
 date: 02-02-2019 18:03
 
 # One line.
@@ -21,7 +21,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: SarahTourrouDaSilva.jpg
+image: sarahtourroudasilva.jpg
 
 # Change this to True when you do you pull request.
 public: True
