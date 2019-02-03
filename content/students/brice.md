@@ -9,12 +9,12 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: brice-steigerwald
+title: brice
 
 
 # First name or full name
 
-name: Brice
+name: brice
 
 date: 2019-02-02 12:33
 
@@ -32,7 +32,7 @@ short_description: J'aime bien les jeux vidéos, les jeux de société, le Sud O
 
 template: students
 
-description:
+descrition:
 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 
@@ -51,7 +51,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: brice-steigerwald.jpg
+image: brice.jpg
 
 
 # Change this to True when you do you pull request.
@@ -71,7 +71,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: brice/projet1.jpg
+    image: brice/projet1.jp
 
     link: https://www.linkedin.com/in/brice-steigerwald-a85baa103
 
@@ -87,7 +87,7 @@ projects:
 
     image: brice/projet2.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/Steigerwald
 
     finished: true
 
