@@ -9,12 +9,12 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: dorianmassoulier
+title: Dorian
 
 
 # First name or full name
 
-name: dorianmassoulier
+name: Dorian
 
 date: 2019-1-18 17:20
 
