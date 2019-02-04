@@ -7,7 +7,7 @@
 title: sebastien67
 
 # First name or full name
-name: Sebastien
+name: Sébastien
 date: 2019-02-04 11:23
 
 # One line.
