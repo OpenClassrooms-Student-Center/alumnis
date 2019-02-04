@@ -78,7 +78,7 @@ projects:
 
     image: dorianmassoulier/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/dorianmassoulier.html
+    link: https://github.com/MassDo
 
     finished: true
 
