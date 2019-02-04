@@ -1,4 +1,4 @@
----
+ï»¿---
 
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
@@ -16,7 +16,7 @@ title: ratus
 
 name: e7i
 
-date: 12:01 02-02-19
+date: 12:21 02-02-19
 
 
 # One line.
@@ -25,7 +25,7 @@ date: 12:01 02-02-19
 
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime les belles lettres, le fromage et les pages Ã©cornÃ©es. J'apprends Ã  coder pour me faire une nouvelle jeunesse.
 
 
 # don't touch that
@@ -63,9 +63,9 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: PrÃ©sentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -80,7 +80,7 @@ projects:
 
     finished: true
 
- # - title: Intégrez la communauté !
+ # - title: IntÃ©grez la communautÃ© !
 
  #   description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
