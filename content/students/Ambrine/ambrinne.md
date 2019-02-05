@@ -1,6 +1,6 @@
 ---
 
-title: AmbrineChettih
+title: ambrinne
 
 # First name or full name
 name: AmbrineChettih
