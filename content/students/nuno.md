@@ -35,7 +35,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Nuno/Projet_1.png
+    image: nuno/Projet_1.png
     link: www.linkedin.com/in/nuno-ricardo-da-silva-marcelino-3ba508177
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
