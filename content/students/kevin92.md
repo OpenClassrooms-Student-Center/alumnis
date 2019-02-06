@@ -47,6 +47,6 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: kevin92/projet2.png
-    link:  https://github.com/Kevin9222
+    link: https://github.com/Kevin9222
     finished: false
 ---
