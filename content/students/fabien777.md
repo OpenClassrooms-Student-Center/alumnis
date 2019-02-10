@@ -6,7 +6,7 @@
 # lowercase, no blank space, Capital case or special character.
 title: fabien777
 
-# First name or full names
+# First name or full name
 name: Fabien
 date: 2019-02-10 14:00
 
@@ -35,7 +35,8 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
 - title: Présentez-vous !
-description: 
+description: Une présentation de moi-même et un lien vers mon LinkedIn.
+
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
 image: fabien777/projet_1.png
