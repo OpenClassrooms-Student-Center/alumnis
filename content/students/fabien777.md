@@ -1,15 +1,19 @@
---- 
+---
 
+# FILENAME : please use your OpenClassrooms's name, available in your url.
+# Example: https://openclassrooms.com/membres/celinemartinet
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
 title: fabien777
 
 # First name or full name
 name: Fabien
-date: 2019-02-08 17:15
+date: 2019-02-10 15:12
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Reconversion professionnelle en tant que Développeur d'applicaiton iOS.
-short_description: Passionné par l'informatique.
+objective: Faire une reconversion professionnelle en tant que développeur iOS.
+short_description: Je suis passionné par l'informatique et l'électronique.
 
 # don't touch that
 template: students
@@ -32,17 +36,21 @@ public: True
 projects:
 - title: Présentez-vous !
 description: Une présentation de moi-même et un lien vers mon LinkedIn.
-image: fabien777/projet_1.png
-link: http://www.linkedin.com/in/fabienleboulaire
+# Create a new repository for your images. Name it the same as your nickname and profile picture.
+# Image must be here: content/students/yourrepo/project1.png
+image: ratus/projet_1.png
+link: https://www.linkedin.com/in/fabienleboulaire
+# 'true' makes it fully available.
+# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-image: fabien777/projet_2.png
+image: ratus/projet_2.png
 link: https://github.com/ZelderDev/alumnis
 finished: true
 - title: Aidez MacGyver à sortir !
 description: Création d’un jeu développé en Python et utilisant PyGame.
-image: fabien777/projet_3.png
+image: ratus/projet_3.png
 link: https://github.com/ZelderDev/PyGame-MacGyver
 finished: false
 ---
