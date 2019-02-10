@@ -34,19 +34,19 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: fabien777/projet_1.png
-    link: http://www.linkedin.com/in/fabienleboulaire
-    finished: true
-    - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: fabien777/projet_2.png
-    link: https://github.com/ZelderDev/alumnis
-    finished: true
-    - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: fabien777/projet_3.png
-    link: https://github.com/ZelderDev/PyGame-MacGyver
-    finished: false
+- title: Présentez-vous !
+description: Une présentation de moi-même et un lien vers mon LinkedIn.
+image: fabien777/projet_1.png
+link: http://www.linkedin.com/in/fabienleboulaire
+finished: true
+- title: Intégrez la communauté !
+description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+image: fabien777/projet_2.png
+link: https://github.com/ZelderDev/alumnis
+finished: true
+- title: Aidez MacGyver à sortir !
+description: Création d’un jeu développé en Python et utilisant PyGame.
+image: fabien777/projet_3.png
+link: https://github.com/ZelderDev/PyGame-MacGyver
+finished: false
 ---
