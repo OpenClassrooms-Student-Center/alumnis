@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: aureliedumont
+title: lylienanny
 
 # First name or full name
 name: Aurelie Dumont
@@ -27,10 +27,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: aureliedumont.jpg
+image: lylienanny.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -40,20 +40,20 @@ projects:
                  parcours Developpeur d application Python malgre mon amour pour Javascript.
                  J'ai un sens de l'humour très cynique et très noir. Utilisatrice de Linux convaincue.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/aureliedumont/
-    image: aureliedumont/project1printscreen.png
+    # Image must be here: content/students/lylienanny/
+    image: lylienanny/project1printscreen.png
     link: https://www.linkedin.com/in/aur%C3%A9lie-dumont-8b0055177/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: aureliedumont/project2.png
+    image: lylienanny/project2.png
     link: https://github.com/lylaie/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: aureliedumont/project3.png
+    image: lylienanny/project3.png
     link: https://www.github.com
     finished: false
 ---
