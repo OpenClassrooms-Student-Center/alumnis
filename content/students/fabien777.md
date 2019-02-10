@@ -34,7 +34,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-    - title: Présentez-vous !
+  - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     image: fabien777/projet_1.png
     link: http://www.linkedin.com/in/fabienleboulaire
