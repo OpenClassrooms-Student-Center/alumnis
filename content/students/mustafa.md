@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: mustafa/mu
+    image: project1.png
     link: www.linkedin.com/in/mustafaalic
 
     # 'true' makes it fully available.
@@ -44,9 +44,5 @@ projects:
     image: ratus/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+  
 ---
