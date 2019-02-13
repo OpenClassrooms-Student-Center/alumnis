@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: stafamu/project1.png
+    image: mustafa/project1.png
     link: www.linkedin.com/in/mustafaalic
 
     # 'true' makes it fully available.
@@ -41,7 +41,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: mustafa/project2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   
