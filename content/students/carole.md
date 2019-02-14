@@ -20,8 +20,8 @@ et d'énigmes et les créations de toutes sortes !
 template: students
 description:
     Anciennement diététicienne, j'ai profité de ma fin de contrat pour revoir mes objectifs professionnels.
-	Faire un job qui me ressemble et me donne envi de me lever le matin.
-	Et me voilà lancée dans la formation de "Développeur Python" dans laquelle je m'investie à 200% !
+    Faire un job qui me ressemble et me donne envi de me lever le matin.
+    Et me voilà lancée dans la formation de "Développeur Python" dans laquelle je m'investie à 200% !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
