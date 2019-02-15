@@ -4,10 +4,10 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Thomas
+title: thomas25
 
 # First name or full name
-name: Thomas
+name: Thomas Dutru
 date: 2019-02-14 15:00
 
 # One line.
@@ -35,8 +35,11 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Thomas 27, je travaillais avant dans l'industrie chimique, j'ai décidé de me reconvertir dans le developpement
-    d'application mobile. j'ai intégré openclassrooms depuis peu et j'en suis ravis. Ci-joint le lien de mon profile LinkedIn.
+    description: 
+    Thomas 27, je travaillais avant dans l'industrie chimique,
+    j'ai décidé de me reconvertir dans le developpement
+    d'application mobile. j'ai intégré openclassrooms depuis peu et j'en suis ravis.
+    Ci-joint le lien de mon profile LinkedIn.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
