@@ -35,8 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: 
-    Thomas 27, je travaillais avant dans l'industrie chimique,
+    description: Thomas 27 ans, je travaillais avant dans l'industrie chimique,
     j'ai décidé de me reconvertir dans le developpement
     d'application mobile. j'ai intégré openclassrooms depuis peu et j'en suis ravis.
     Ci-joint le lien de mon profile LinkedIn.
