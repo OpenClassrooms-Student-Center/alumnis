@@ -7,7 +7,7 @@
 title: guillaume44
 
 # First name or full name
-name: guillaume44
+name: Guillaume
 date: 2016-09-27
 
 # One line.
@@ -33,7 +33,7 @@ projects:
   - title: Présentez-vous !
     description: N’hésitez pas à apprendre plus sur moi en allant sur mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: guillaume44/projet_1.jpg
     link: https://www.linkedin.com/in/guillaumedelp/
     # 'true' makes it fully available.
@@ -41,7 +41,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: guillaume44/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: guillaume44/projet_2.jpg
+    link: https://openclassrooms-student-center.github.io/alumnis/students/guillaume44.html
     finished: true
 ---
