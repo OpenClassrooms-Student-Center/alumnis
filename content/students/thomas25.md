@@ -36,7 +36,6 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Thomas 27 ans, je travaillais avant dans l'industrie chimique, j'ai décidé de me reconvertir dans le developpement d'application mobile. j'ai intégré openclassrooms depuis peu et j'en suis ravis. Ci-joint le lien de mon profile LinkedIn.
-
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: thomas25/projet1.jpg
