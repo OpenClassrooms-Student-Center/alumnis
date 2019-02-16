@@ -18,7 +18,7 @@ short_description: Le basic et assembleur sur  Oric Atmos ou  Amstrad CPC64 c'es
 # don't touch that
 template: students
 description:
-Enthousiaste à l'idée de travailler en freelance dans le développement et l'architecture JEE/Spring
+    Enthousiaste à l'idée de travailler en freelance dans le développement et l'architecture JEE/Spring
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg:
