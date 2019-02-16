@@ -33,7 +33,7 @@ projects:
     description: Le management ou le management de projet, 25 ans dans ces deux job rôles. Il est temps d'aller à l'essentiel -> le dev.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: content/images/students/laurent70/project1.jpg
+    image: laurent70/project1.jpg
     link: https://www.linkedin.com/in/laurent-c-10b20317b/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
