@@ -13,7 +13,7 @@ date: 2019-02-14 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Pouvoir travailler en freelance en tant que developpeur d'application.
-short_description: Je voudrais acquérir les conaissances et le diplome necessaire pour pouvoir travailler en tant que developpeur.
+short_description: Je  voudrais acquérir les conaissances et le diplome necessaire pour pouvoir travailler en tant que developpeur.
 
 # don't touch that
 template: students
