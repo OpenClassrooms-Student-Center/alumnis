@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: mehdi85
 
 
 # First name or full name
 
-name: Ratus
+name: mehdi
 
-date: 2016-10-28 17:20
+date: 2019-02-18 10:20
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Travailler en ia/ machine learning en data analyste ou sécurité
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: passionné d'informatique et de sciences en général, j'adore apprendre.
 
 
 # don't touch that
@@ -51,12 +51,12 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: mehdi85.png
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -66,14 +66,14 @@ projects:
   - title: Présentez-vous !
 
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-
+    
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: mehdi85/mehdi85.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.noelshack.com/2019-08-1-1550496209-mehdi85.png
 
     # 'true' makes it fully available.
 
