@@ -25,7 +25,7 @@ date: 2019-02-18 10:20
 
 objective: Travailler en ia/ machine learning en data analyste ou sécurité
 
-short_description: passionné d'informatique et de sciences en général, j'adore apprendre.
+short_description: passionné d'informatique et de sciences en général.
 
 
 # don't touch that
@@ -71,9 +71,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: mehdi85/mehdi85.png
+    image: content/students/mehdi85/project1.png
 
-    link: https://www.noelshack.com/2019-08-1-1550496209-mehdi85.png
+    link: https://www.linkedin.com/in/mehdi-monfort/
 
     # 'true' makes it fully available.
 
@@ -85,7 +85,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: content/students/mehdi85/project2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
