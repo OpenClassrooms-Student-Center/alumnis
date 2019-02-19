@@ -12,15 +12,15 @@ date: 2019-02-18 14:15
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Acquérir de nouvelles compétences, devenir développeur.
+objective: AcquÃ©rir de nouvelles compÃ©tences, devenir dÃ©veloppeur.
 short_description: J'aime voyager, apprendre, rire et manger. Coder est ma nouvelle passion.
 
 # don't touch that
 template: students
 description:
-    Vivant actuellement aux États-Unis, je profites de mon expatriation 
+    Vivant actuellement aux Ã‰tats-Unis, je profites de mon expatriation 
     pour entreprendre une reconversion professionnelle dans l'informatique. 
-    J’ai choisi la formation développeur d'application Java. 
+    Jâ€™ai choisi la formation dÃ©veloppeur d'application Java. 
     
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -31,8 +31,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: PrÃ©sentez-vous !
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: charlotte/projet_1.jpg
@@ -40,12 +40,12 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: charlotte/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/charlotte.html
     finished: true
-  - title: Mettez votre logique à l'épreuve !
+  - title: Mettez votre logique Ã  l'Ã©preuve !
     description: Mettre en oeuvre les concepts fondamentaux de la programmation en Java.
     image: ratus/projet_3.png
     link: https://www.github.com
