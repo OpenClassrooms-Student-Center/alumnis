@@ -22,10 +22,7 @@ template: students
 
 # max 500 characters
 description:
-    Apres avoir travailler pendant 3 ans dans les effets
-    speciaux pour de nombreux films americains, je souhaite
-    me reconvertir de le developpement d'application Android
-    pour pouvoir travailler en Freelance.
+    Apres avoir travailler pendant 3 ans dans les effets speciaux pour de nombreux films americains, je souhaite me reconvertir de le developpement d'application Android pour pouvoir travailler en Freelance.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
