@@ -8,7 +8,7 @@ title: aurore
 
 # First name or full name
 name: Aurore
-date: 2019-02-23 15:20==37
+date: 2019-02-23
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
