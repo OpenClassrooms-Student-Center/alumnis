@@ -17,7 +17,7 @@ date: 2019-02-23 20:20
 left, as in 'description'.
 objective: Apprendre le langage python
 short_description: J'aime l'informatique , le sport ,le cinema et pleins 
-d'autres choses.
+d'autres choses .
 
 # don't touch that
 template: students
