@@ -59,15 +59,15 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: nicolaszeisser/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/nicolas-zeisser-0a4b2511a/
 
     # 'true' makes it fully available.
 
@@ -79,9 +79,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: nicolaszeisser/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/nicolaszeisser.html
 
     finished: true
 
@@ -89,7 +89,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: nicolaszeisser/projet_3.png
 
     link: https://www.github.com
 
