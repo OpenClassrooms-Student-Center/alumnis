@@ -7,13 +7,12 @@
 title: ratus
 
 # First name or full name
-name: Ratus
-date: 2016-10-28 17:20
+name: sinay0101
+date: 2019-02-25 17:52
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Devenir developpeur IOS.
 
 # don't touch that
 template: students
