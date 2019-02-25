@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Bonjour, je m'appel Cedric et j'ai 20 ans je viens de démarrer la formation. Linkedin : 
+    description: Bonjour, je m'appel Cedric et j'ai 20 ans je viens de démarrer la formation. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: content/images/students/cedric20/projet_1.png
