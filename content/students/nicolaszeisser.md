@@ -34,7 +34,11 @@ template: students
 
 description:
 
-    Diplômé d'un master 2 en Entrepreneuriat et gestion de projet, j'ai eu l'occasion de travailler dans un incubateur de startup. J'ai également conseillé des entreprises dans leur stratégie de développement (commercial, numérique, innovation). Je veux aujourd'hui évoluer vers la gestion de projet informatique, c'est pourquoi j'aimerais avant tout travailler quelques années dans le développement, afin d'aquérir de l'expérience technique.
+    Diplômé d'un master 2 en Entrepreneuriat et gestion de projet, j'ai eu l'occasion de travailler 
+    dans un incubateur de startup. J'ai également conseillé des entreprises dans leur stratégie de
+    développement (commercial, numérique, innovation). Je veux aujourd'hui évoluer vers la gestion de 
+    projet informatique, c'est pourquoi j'aimerais avant tout travailler quelques années dans le
+    développement, afin d'aquérir de l'expérience technique.
 
 
 # image must be located in content/images/students
