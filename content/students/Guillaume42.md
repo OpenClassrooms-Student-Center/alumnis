@@ -16,7 +16,7 @@ title: Guillaume
 
 name: Guillaume
 
-date: 2019-02-26 12:10
+date: 2019-02-26 20:10
 
 
 # One line.
@@ -60,7 +60,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: guillaume42/projet_1.png
+    image: Guillaume42/projet_1.png
 
     link: https://www.linkedin.com/in/guillaume-cano-230258180/
 
@@ -74,7 +74,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+#    image: ratus/projet_2.png
 
 #    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
