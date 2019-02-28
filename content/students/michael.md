@@ -24,7 +24,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: photo_michael.jpg
+image: michael.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -32,23 +32,23 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Apprendre à apprendre
-    description: Aime Entreprendre, lien vers linkedin=> https://www.linkedin.com/in/michael-aidan-31488071/
+    description: J'aime entreprendre, et apprendre de nouvelles choses  
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: content/images/students/michael/project1.jpg
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: michael/project1.png
+    link: https://www.linkedin.com/in/michael-aidan-31488071/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Réalisation d'un projet avec Git
-    image: photo_michael.jpg
-    link: https://openclassrooms-student-center.github.io/alumnis/students/michael.html
+    image: michael/project2.png
+    link: https://github.com/micadu13/alumnis
     finished: true
   - title: Créez votre premier jeu vidéo avec swift!
     description: Création d’un jeu développé en iOS puis en Android
-    image: photo_michael.jpg
-    link: https://openclassrooms.com/projects/creez-votre-premier-jeu-video-avec-swift
-    finished: false
+    image: michael/project3.png
+    link: https://github.com/micadu13/Projet-3-Openclassrooms
+    finished: true
 
 ---
