@@ -12,8 +12,8 @@ date: 2019-02-28 17:40
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir une développeuse python confirmée.
-short_description: Je suis passionnée par la programmation et allier travail et passion c'est top.
+objective: Devenir une dÃ©veloppeuse python confirmÃ©e.
+short_description: Je suis passionnÃ©e par la programmation et allier travail et passion c'est top.
 
 # don't touch that
 template: students
@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Les projets de sandrine !
-    description: Voici mon profile Linkedin : sandrine !
+    description: Voici mon profile Linkedin: sandrine !
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: sandrine/projet_1.png
@@ -43,13 +43,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: J'intègre la communauté !
-    description: J'ai modifié un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+  - title: J'intÃ¨gre la communautÃ© !
+    description: J'ai modifiÃ© un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: sandrine/projet_2.png
     link: https://github.com/sandrinesuire/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Aidez MacGyver Ã  sortir !
+    description: CrÃ©ation dâun jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: sandrine/projet_3.png
     link: https://www.github.com
     finished: false
