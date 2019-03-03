@@ -12,7 +12,7 @@ date: 2019-01-03 08:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Curieux par le domaine du numérique, je cherche approfondir mes connaissances, devenir un très heureux développeur mobile et continuer a apprendre sans arrêt.
+objective: Curieux par le domaine du numérique, je cherche approfondir mes connaissances, devenir un très heureux développeur mobile.
 
 # don't touch that
 template: students
