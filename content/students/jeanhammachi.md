@@ -17,8 +17,8 @@ objective: Curieux par le domaine du numérique, je cherche approfondir mes conn
 # don't touch that
 template: students
 description:
-    Nommé Juan, depuis que j'ai eu le droit ou l'astuce de faire en sorte de pouvoir m'acheter
-	un ordinateur de bureau, j'ai tout de suite cracké par les problématiques posées dans ce environnement. 
+    Nommé Juan, depuis que j'ai eu le droit d'acheter
+	un ordinateur de bureau, j'ai tout de suite cracké par les problématiques posées dans ces environnements. 
 	Ma curiosité a fait une place pour ma motivation qui elle, a trouvé comment me financer ce beau projet pour devenir développeur mobile et me reconvertir.
 
 # image must be located in content/images/students
@@ -26,7 +26,7 @@ description:
 image: jeanhammachi.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -34,15 +34,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: jeanhammachi/projet_1.png
+    link: https://www.linkedin.com/in/jean-hammachi-251925158/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: jeanhammachi/projet_2.png
+    link: https://github.com/hammachi92/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
