@@ -42,10 +42,11 @@ projects:
     image: faycal/projet_1.png
     link: https://www.linkedin.com/in/fayçal-zehana/
     # 'true' makes it public. If 'false', then it will not show on the website.
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: faycal/projet_2.png
-    finished: false
+    image1: faycal/projet_2.png
+    link: https://github.com/FZehana/alumnis
+    finished: true
 
 ---
