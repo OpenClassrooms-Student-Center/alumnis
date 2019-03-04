@@ -45,8 +45,10 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image1: faycal/projet_2.png
-    link: https://github.com/FZehana/alumnis
+    image1: faycal/projet_2_1.png
+    image2: faycal/projet_2_2.png
+    link1: https://github.com/FZehana/alumnis
+    link2: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1510
     finished: true
 
 ---
