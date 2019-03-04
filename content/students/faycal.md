@@ -11,14 +11,13 @@ description:
 image: faycal.JPG
 public: True 
 projects:
-  - title: Creer un CV et un LinkedIn !
-    description: Retrouvez mon profile entant que Developpeur IOS en devenir ;) dans mon LinkedIn.
-    image: projet_1.png
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    image: faycal/projet_1.png
     link: https://www.linkedin.com/in/fayçal-zehana/
     finished: false
-    - title: Partager avec la communauté OpenClassRooms
-    description: Forker et faire unePush request.
-    image: projet_2.png
+    - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    image: faycal/projet_2.png
     finished: false
 ---
-
