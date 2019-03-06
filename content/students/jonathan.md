@@ -62,7 +62,7 @@ public: True
 
 projects:
 
-  - title: PrÈsentez-vous !
+  - title: Pr√©sentez-vous !
 
     description: Je suis le cursus d√©veloppeur d'application JAVA chez OpenClassrooms.
 
@@ -80,7 +80,7 @@ projects:
 
     finished: true
 
-  - title: IntÈgrez la communautÈ !
+  - title: Int√©grez la communaut√© !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
