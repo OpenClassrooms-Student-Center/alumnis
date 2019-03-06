@@ -22,18 +22,19 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: Giovanni.jpeg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Toujours Giovanni etudiant sur openclassroom.com
+     https://www.linkedin.com/in/giovanni-gaffé-70967487/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: selfie antartique.jpeg
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
