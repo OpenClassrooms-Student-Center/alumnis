@@ -13,15 +13,19 @@ date: 2019-02-14 14:55
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Faire ce métier qui me plait tant : développeuse.
-short_description: J'adore les soirées entre amis, la cuisine, les jeux "point and click" 
-et d'énigmes et les créations de toutes sortes !  
+short_description: 
+    J'adore les soirées entre amis, la cuisine, les jeux "point and click" 
+    et d'énigmes et les créations de toutes sortes !  
 
 # don't touch that
 template: students
 description:
-    Anciennement diététicienne, j'ai profité de ma fin de contrat pour revoir mes objectifs professionnels.
-    Faire un job qui me ressemble et me donne envi de me lever le matin.
-    Et me voilà lancée dans la formation de "Développeur Python" dans laquelle je m'investie à 200% !
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
