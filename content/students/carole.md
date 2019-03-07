@@ -13,8 +13,7 @@ date: 2019-02-14 14:55
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Faire ce métier qui me plait tant : développeuse.
-short_description: 
-    J'adore les soirées entre amis, la cuisine, les jeux "point and click" 
+short_description: J'adore les soirées entre amis, la cuisine, les jeux "point and click" 
     et d'énigmes et les créations de toutes sortes !  
 
 # don't touch that
