@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: reg-chauvo
+title: reg13
 
 # First name or full name
 name: Reg13
@@ -50,9 +50,4 @@ projects:
     image: Reg13/projet_2.png
     link: LEROOOOOOOOOOOOOOOOOOOOY !
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Reg13/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
