@@ -42,12 +42,12 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: raphael_73.jpg
+image: raphael73.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -62,7 +62,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: raphael_73/projet_1.jpg
+    image: raphael73/projet_1.jpg
 
     link: https://www.linkedin.com/in/rapha%C3%ABl-mouly-b93560178/
 
@@ -76,7 +76,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: raphael_73/projet_2.jpg
+    image: raphael73/projet_2.jpg
 
     link: https://github.com/Raphaelmoi
 
