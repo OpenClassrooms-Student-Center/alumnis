@@ -3,7 +3,7 @@
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
-# Example: https://openclassrooms.com/membres/celinemartinet
+# Example: https://openclassrooms.com/membres/RaphaëlMouly
 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 
@@ -14,7 +14,7 @@ title: Raphael
 
 # First name or full name
 
-name: Raphael_73
+name: Raphael73
 
 date: 2019-03-08 11:02
 
