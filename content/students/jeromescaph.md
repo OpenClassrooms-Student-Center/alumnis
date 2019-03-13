@@ -9,12 +9,12 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: jerome
+title: jeromescaph
 
 
 # First name or full name
 
-name: Lanteri
+name: Jerome Lanteri
 
 date: 2019-03-13 22:52
 
@@ -51,7 +51,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: jerome06.jpg
+image: jeromescaph.jpg
 
 
 # Change this to True when you do you pull request.
@@ -65,15 +65,15 @@ projects:
 
   - title: Première étape, la présentation
 
-    description: Jérôme Lanteri, né à Point-À-Pitre, 42 ans, marié et sans enfant. J'aime l'informatique depuis l'âge de 8 ans (premier code en Basic et en C sur commodor 64). [linkedin[(https://www.linkedin.com/in/j%C3%A9r%C3%B4me-lanteri-87552a74/) 
+    description: Jérôme Lanteri, 42 ans, marié et sans enfant. J'aime l'informatique depuis l'age de 8 ans (premier code en Basic et en C sur commodor 64). [linkedin[(https://www.linkedin.com/in/j%C3%A9r%C3%B4me-lanteri-87552a74/) 
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project_1.jpg
 
-    image: jerome06/projet_1.jpg
+    image: jeromescaph/projet_1.jpg
 
-    link: https://www.google.com/search?biw=2560&bih=1304&tbm=isch&sa=1&ei=vCmJXMyePNvbz7sPnLeZoAc&q=bansky&oq=bansky&gs_l=img.3..0i10l5j0j0i10j0i10i30l3.54075.55149..55754...0.0..0.141.706.0j6......1....1..gws-wiz-img.......0i67.bxHYdxCF8tk#imgrc=H0cphRgTC3wkrM:
+    link: https://github.com/jerome-diver/alumnis
 
     # 'true' makes it fully available.
 
@@ -85,9 +85,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: jerome06/projet_2.png
+    image: jeromescaph/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/jerome06.html
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1527
 
     finished: true
 
@@ -95,7 +95,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: jerome06/projet_3.png
+    image: jeromescaph/projet_3.png
 
     link: https://www.github.com
 
