@@ -18,9 +18,12 @@ short_description: Personal Trainer, Formateur, Directeur OHMYGYM France
 # don't touch that
 template: students
 description:
-    Bonjour, je suis Erwan PASTE, 35 ans.
-    Je souhaite monter un projet communautaire d'application mobile
-    Dans le domaine de la remise en forme : Training, Diet, Lien Social
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
