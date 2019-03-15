@@ -38,8 +38,6 @@ link: https://www.linkedin.com/in/federico-desmoulin/
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
-
-
 - title: Mastermind
 description: Réalisation des jeux : Recherche +/- et Mastermind
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
