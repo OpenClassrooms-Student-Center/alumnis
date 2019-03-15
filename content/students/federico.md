@@ -7,12 +7,12 @@
 title: feiko
 
 # First name or full name
-name: Fabien
-date: 2019-02-10 15:12
+name: Federico
+date: 2019-03-15 18:121
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Faire une reconversion professionnelle en tant que développeur iOS.
+objective: Devenir un expert en Java ! ;)
 short_description: Je suis passionné par l'informatique et l'électronique.
 
 # don't touch that
