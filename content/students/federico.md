@@ -1,4 +1,9 @@
 ---
+
+# FILENAME : please use your OpenClassrooms's name, available in your url.
+# Example: https://openclassrooms.com/membres/celinemartinet
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
 title: feiko
 
 # First name or full name
@@ -38,4 +43,5 @@ description: Création d'un Mastermind
 image: federico/projet_3.png
 link: https://github.com/MokoMaracucho/mastermind
 finished: true
+
 ---
