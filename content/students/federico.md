@@ -42,5 +42,5 @@ finished: true
     description: Création d'un jeu de Mastermind
     image: federico/projet_3.png
     link: https://github.com/MokoMaracucho/mastermind.git
-    finished: true
+    finished: false
 ---
