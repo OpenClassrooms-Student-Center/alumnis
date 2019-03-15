@@ -8,7 +8,7 @@ title: feiko
 
 # First name or full name
 name: Federico
-date: 2016-10-28 17:20
+date: 2018-11-22 22:22
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,7 +18,7 @@ short_description: Passionné par Internet, les nouvelles technologies et surtou
 # don't touch that
 template: students
 description:
-    Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
+Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -30,18 +30,13 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
 - title: Qui suis-je ?
-description: Retrouvez ma présentation sur ma page LinkedIn
+description: Retrouvez ma présentation sur ma page LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
-# Image must be here: content/students/yourrepo/project1.png
+# Image must be here: content/images/students/yourrepo/project1.png
 image: federico/projet_1.png
 link: https://www.linkedin.com/in/federico-desmoulin/
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-finished: true
-- title: Mastermind
-description: Création d'un Mastermind 
-image: federico/projet_3.png
-link: https://github.com/MokoMaracucho/mastermind
 finished: true
 
 ---
