@@ -8,45 +8,35 @@ title: feiko
 
 # First name or full name
 name: Federico
-date: 2019-03-15 18:121
+date: 2019-03-15 18:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un expert en Java ! ;)
-short_description: Je suis passionné par l'informatique et l'électronique.
+short_description: Passionné par Internet, les nouvelles technologies et surtout de 3D.
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Bonjour ! Je m’appelle Federico. J’ai 35 ans. Je viens de commencer une formation de « développeur d’applications - Java » avec OpenClassrooms. Titulaire d’un Diplôme National d’Arts Plastiques obtenu à l’Ecole Supérieure d’Art et de Communication de Cambrai et photographe, je souhaite diversifier ma formation. Très heureux d’intégrer la communauté, je souhaite à tous les autres étudiants bonne chance !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: fabien777.jpg
+image: federico.png
 
 # Change this to True when you do you pull request.
 public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: fabien777/projet_1.png
-    link: https://www.linkedin.com/in/fabienleboulaire
+  - title: Qui suis-je ?
+    description: Retrouvez ma présentation sur ma page LinkedIn
+    image: federico/projet_1.png
+    link: https://www.linkedin.com/in/federico-desmoulin/
     finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: fabien777/projet_2.png
-    link: https://github.com/ZelderDev/alumnis
+  - title: Mastermind
+    description: Création d'un Mastermind
+    image: federico/projet_3.png
+    link: https://github.com/MokoMaracucho/mastermind
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: fabien777/projet_3.png
-    link: https://github.com/ZelderDev/PyGame-MacGyver
-    finished: false
 ---
