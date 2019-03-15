@@ -29,7 +29,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-    - title: Qui suis-je ?
+- title: Qui suis-je ?
     description: Retrouvez ma présentation sur ma page LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
@@ -38,7 +38,7 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-    - title: Mastermind
+- title: Mastermind
     description: Création d'un Mastermind 
     image: federico/projet_3.png
     link: https://github.com/MokoMaracucho/mastermind
