@@ -33,11 +33,11 @@ projects:
 description: Retrouvez ma présentation sur ma page LinkedIn.
 image: federico/projet_1.png
 link: https://www.linkedin.com/in/federico-desmoulin/
-finished: true
+finished:true
 - title: Mastermind
 description : Création d'un Mastermind
 image: federico/projet_3.png
 link: https://github.com/MokoMaracucho/mastermind
-finished: true
+finished:true
 
 ---
