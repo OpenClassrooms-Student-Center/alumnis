@@ -10,15 +10,15 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: jonathanarditi1
 
 
 
 # First name or full name
 
-name: Ratus
+name: Jonathan Arditi
 
-date: 2016-10-28 17:20
+date: 2019-03-16 17:20
 
 
 
@@ -26,9 +26,9 @@ date: 2016-10-28 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Acquérir de nouvelles compétences en programmation dans le but de lancer ma start-up.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Passionné par l'informatique, je m'attaque au parcours de dévéloppement d'application python.
 
 
 
@@ -56,7 +56,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: jonathan.png
 
 
 
@@ -72,15 +72,15 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn..
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: jojoard/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/jarditi/
 
     # 'true' makes it fully available.
 
@@ -92,7 +92,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: jojoard/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
@@ -102,7 +102,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: jojoard/projet_3.png
 
     link: https://www.github.com
 
