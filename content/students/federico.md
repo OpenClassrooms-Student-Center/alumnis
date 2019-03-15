@@ -39,9 +39,5 @@ link: https://www.linkedin.com/in/federico-desmoulin/
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
 - title: Mastermind
-description: Création d'un Mastermind 
-image: federico/projet_3.png
-link: https://github.com/MokoMaracucho/mastermind
-finished: true
 
 ---
