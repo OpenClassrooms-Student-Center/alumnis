@@ -19,7 +19,7 @@ short_description: J'ai 31 et je suis en reconversion professionnelle, je tente 
 template: students
 description:
     j'ai fais pas mal de métiers déjà et quand j'ai été obligé de choisir une reconversion l'informatique et en particulier la programmation me sont apparus comme la solution.
-    Je repars donc pour une année de formation et espère arriver à mes fins : trouver un job dans lequel je m'épanouis et je me plait.
+    Je repars donc pour une année de formation et espère arriver à mes fins en trouvant un job dans lequel je m'épanouis et je me plait.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
