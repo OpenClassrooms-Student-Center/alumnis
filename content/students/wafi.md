@@ -15,19 +15,15 @@ date: 2019-03-15 20:10
 objective: Choisissez un travail que vous aimez et vous n'aurez pas a travaillez un       seul jour de votre vie "Confucius".
 
 # max 100 characters
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime les jeux videos, l'informatique et l'électronique un vrai       GEEK lol.
 
 # don't touch that
 template: students
 
 # max 500 characters
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je suis passionner par les jeux videos et le développement des applications.
+
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
