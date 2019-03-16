@@ -32,7 +32,7 @@ description:
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
-image: ratus.jpg
+image: wafi.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -41,7 +41,7 @@ public: False
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: lien Linkedin  http://www.linkedin.com/in/ouafi-mameri-4719488b
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: ratus/projet_1.png
