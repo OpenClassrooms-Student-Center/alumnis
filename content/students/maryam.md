@@ -41,7 +41,7 @@ projects:
     image: maryam/projet_1.png
     link: https://www.linkedin.com/in/maryam-l-92223067/
     # 'true' makes it fully available     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: maryam/projet_2.png
