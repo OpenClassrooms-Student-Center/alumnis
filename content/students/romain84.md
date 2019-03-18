@@ -1,65 +1,27 @@
 ---
 
+title: romain84
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
+name: Romain Demellier
 
-# Example: https://openclassrooms.com/membres/celinemartinet
+date: 2019-03-18 16:45
 
-# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+objective: Me spécialiser dans le développement Java/JEE.
 
-# lowercase, no blank space, Capital case or special character.
-
-title: ratus
-
-
-# First name or full name
-
-name: Ratus
-
-date: 2016-10-28 17:20
-
-
-# One line.
-
-# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
-
-
-# don't touch that
+short_description: J'aime la musique, faire du sport et suivre les grands évènements sportifs à la télé.
+    J'apprends le Java pour en faire mon métier. 
 
 template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    Titulaire d'un Master 1 d'informatique j'avais eu une UE qui portait sur le langage Java.
+    J'étais passé complètement à côté. Les cours OpenClassrooms m'ont permis de redécouvrir ce 
+    langage et c'est ce qui m'a amené vers le parcours Développeur en application Java.
 
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+image: romain84.jpg
 
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-# image must be located in content/images/students
-
-# name should be the same as this file. Eg: celinemartinet.png
-
-image: ratus.jpg
-
-
-# Change this to True when you do you pull request.
-
-public: False
-
-
-# You need to keep the exact same structure for each new project.
+public: True
 
 projects:
 
@@ -71,9 +33,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: romain84/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/romain-demellier-ba0732140
 
     # 'true' makes it fully available.
 
@@ -85,21 +47,12 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: romain84/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/romain84.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
-    link: https://www.github.com
-
-    finished: false
 
 ---
  
