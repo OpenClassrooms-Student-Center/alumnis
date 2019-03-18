@@ -15,7 +15,8 @@ date: 2019-03-15 20:10
 objective: Choisissez un travail que vous aimez et vous n'aurez pas a travaillez un       seul jour de votre vie "Confucius".
 
 # max 100 characters
-short_description: J'aime les jeux videos, l'informatique et l'électronique un vrai       GEEK lol.
+short_description: J'aime les jeux videos, l'informatique et l'électronique.
+    Un vrai GEEK lol.
 
 # don't touch that
 template: students
@@ -31,13 +32,13 @@ description:
 image: wafi.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True 
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    description: lien Linkedin  http://www.linkedin.com/in/ouafi-mameri-4719488b
+    description: lien LinkedIn  http://www.linkedin.com/in/ouafi-mameri-4719488b
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: wafi/project1.png
