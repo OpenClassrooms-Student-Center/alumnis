@@ -16,8 +16,7 @@ objective: Choisissez un travail que vous aimez et vous n'aurez pas a travaillez
 
 # max 100 characters
 short_description: J'aime les jeux videos, l'informatique et l'électronique.
-    Un vrai GEEK lol.
-
+    
 # don't touch that
 template: students
 
