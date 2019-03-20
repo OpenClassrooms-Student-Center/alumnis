@@ -17,12 +17,8 @@ short_description: J'aime lire et écrire, mais aussi les jeux vidéo et surtout
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Responsable technique pour Enedis, en pleine reconversion professionnelle pour devenir développeur indépendant à Montréal au Canada.
+  Congé sabbatique sous le bras, j'ai quelques mois pour devenir développeur d'application en Python.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
