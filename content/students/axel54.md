@@ -2,7 +2,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: axel54
 
 # First name or full name
 name: Axel
@@ -15,8 +15,7 @@ short_description: j'ai toujours aimer le developpement que sa soit logiciel ou 
 
 # don't touch that
 template: students
-description:
-Effectue le parcours " Développeur Android" pour uns reconversion professionnel.
+description: Effectue le parcours " Développeur Android" pour uns reconversion professionnel.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
