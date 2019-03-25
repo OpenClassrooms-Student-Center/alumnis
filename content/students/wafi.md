@@ -37,11 +37,11 @@ public: True
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    description: lien LinkedIn  http://www.linkedin.com/in/ouafi-mameri-4719488b
+    description: Passionner par le développement 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: wafi/project1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: lien LinkedIn  http://www.linkedin.com/in/ouafi-mameri-4719488b
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
