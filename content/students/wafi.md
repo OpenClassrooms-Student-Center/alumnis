@@ -22,7 +22,7 @@ template: students
 
 # max 500 characters
 description:
-    Je suis passionner par les jeux videos et le développement des applications.
+    Je suis passionné par les jeux videos et le développement des applications.
 
 
 # image must be located in content/images/students
@@ -35,16 +35,16 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
+  - title: Définissez votre stratégie d'apprentissage !
     # max 100 characters
-    description: Passionner par le développement 
+    description: Passionné par le développement 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: wafi/project1.png
-    link: lien LinkedIn  http://www.linkedin.com/in/ouafi-mameri-4719488b
+    link: LinkedIn  http://www.linkedin.com/in/ouafi-mameri-4719488b
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
-  - title: Intégrez la communauté !
+  - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: wafi/project1.png
     link: https://openclassrooms-student-center.github.io/presentation/students/wafi.html
