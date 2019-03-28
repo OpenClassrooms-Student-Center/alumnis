@@ -19,7 +19,7 @@ short_description: Effectue le parcours " Développeur Android" pour une reconve
 template: students
 description:
     Moi c'est Axel j'ai 24 ans et je souhaite devenir développeur Android, j'ai toujours
-	voulu m'investir dans ce métier qui pour moi propose une bonne perspective d'avenir.
+    voulu m'investir dans ce métier qui pour moi propose une bonne perspective d'avenir.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
