@@ -60,7 +60,7 @@ projects:
 
   - title: DA Android !
 
-    description: Student.
+    description: Student task.
 
     # Create a new repository for your images. Name it the same as your nickname and 
 profile picture.
@@ -89,7 +89,7 @@ https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à sortir!
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
