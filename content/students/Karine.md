@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: Karine
 
 
 # First name or full name
@@ -71,7 +71,7 @@ projects:
 
     # Image must be here: content/students/Karine66/project1.png
 
-    image: ratus/projet_1.png
+    image: Karine66/projet_1.png
 
     link: www.linkedin.com/in/karine-danjard-4126a2178
 
@@ -85,20 +85,11 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: Karine66/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
-    link: https://www.github.com
-
-    finished: false
-
+ 
 ---
