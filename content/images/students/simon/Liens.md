@@ -3,7 +3,6 @@ https://github.com/sibu64/alumnis
 
 
 Lien de la pull request:
-
-
+https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1575
 
 
