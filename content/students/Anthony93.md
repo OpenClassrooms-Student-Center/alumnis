@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: anthonypereira/projet_2.jpg
+    image: Anthony93/projet_2.jpg
     link: https://github.com/lambertanthony
     finished: true
     
