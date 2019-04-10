@@ -12,7 +12,7 @@ after_failure:
   - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make revert_push; fi'
 
 after_success:
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make github; fi' 
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then ./publish.sh; fi' 
 
 branches:
   only:
