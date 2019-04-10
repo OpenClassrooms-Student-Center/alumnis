@@ -46,4 +46,5 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: maryam/projet_2.png
     link: https://https://github.com/mimLau/alumnis
+	finished: false
 ---
