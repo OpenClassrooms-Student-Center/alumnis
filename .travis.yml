@@ -7,7 +7,7 @@ install: pip install -r requirements.txt
 
 script:
   - pelican content --fatal=warnings
-  - test.py
+  - python test.py
 
 after_failure:
   - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make revert_push; fi'
