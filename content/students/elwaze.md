@@ -51,6 +51,6 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: elwaze/projet_1.svg
-    link: 
+    link: https://github.com/elwaze/MacGyver
     finished: false
 ---
