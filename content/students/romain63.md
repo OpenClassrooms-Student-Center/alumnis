@@ -13,17 +13,13 @@ date: 2019-04-11 15:08
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Etre capable de travailler en tant que développeur python.
-short_description: J'aime les jeux vidéos, les animes, la musique et je suis très intéresser par la culture chinoise.
+short_description: J'aime les jeux vidéos, les animes et ainsi que la musique.
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Après avoir fait un IUT informatique,
+		je compte m'orienter plus spécifiquement vers un parcours de developpeur d'application python.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
