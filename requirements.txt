@@ -9,7 +9,7 @@ pelican==3.7.1
 Pygments==2.2.0
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.12
+PyYAML
 six==1.11.0
 Unidecode==0.4.21
 markdown-full-yaml-metadata
