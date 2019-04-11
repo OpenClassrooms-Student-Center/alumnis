@@ -5,6 +5,7 @@ import unittest
 import codecs
 import time
 from codecs import BOM_UTF8, BOM_UTF16_BE, BOM_UTF16_LE, BOM_UTF32_BE, BOM_UTF32_LE
+from full_yaml_metadata import FullYamlMetadataExtension
 
 BOMS = (
     (BOM_UTF8, "UTF-8"),
@@ -58,7 +59,7 @@ class RandomTest(unittest.TestCase):
         markdowns = filter(lambda file: file.lower().endswith(".md"), files)
         for md_file in markdowns:
             student_file_name = md_file[:-3]
-            md = markdown.Markdown(extensions=["full_yaml_metadata"])
+            md = markdown.Markdown(extensions=[FullYamlMetadataExtension()])
             filename = "./content/students/" + md_file
             print(filename)
             fd = open(filename, "rb")
@@ -124,9 +125,9 @@ class RandomTest(unittest.TestCase):
 
 
 
-md = markdown.Markdown(extensions=["full_yaml_metadata"])
-html = md.convert(open("./gilles.md", "r").read())
-print(md.Meta)
+# md = markdown.Markdown(extensions=["full_yaml_metadata"])
+# html = md.convert(open("./gilles.md", "r").read())
+# print(md.Meta)
 # a = markdown.markdown(open("./gilles.md", "r").read(), extensions=["meta"])
 # print(a.Meta)
 
