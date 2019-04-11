@@ -6,14 +6,15 @@ python:
 install: pip install -r requirements-dev.txt
 
 script:
-  - pelican content --fatal=warnings
   - python test.py
+  - pip install -r requirements.txt
+  - pelican content --fatal=warnings
 
 after_failure:
   - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make revert_push; fi'
 
 after_success:
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then pip install -r requirments.txt && ./publish.sh; fi' 
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then ./publish.sh; fi' 
 
 branches:
   only:
