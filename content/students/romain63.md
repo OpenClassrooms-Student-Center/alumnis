@@ -34,14 +34,14 @@ projects:
     description: Je m'appelle Romain j'ai 21 j'aime les jeux vidéos et la culture asiatique de l'est en général, voici le lien vers mon LinkedIn: https://www.linkedin.com/in/romain-durand-a1b28417a/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: romain63/projet_1.png
+    image: "romain63/projet_1.png"
     link: https://www.linkedin.com/in/romain-durand-a1b28417a/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: "ratus/projet_2.png"
     link: https://github.com/Romain21Pro/alumnis
     finished: false
   - title: Aidez MacGyver à sortir !
