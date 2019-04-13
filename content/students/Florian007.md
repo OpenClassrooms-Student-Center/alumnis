@@ -24,7 +24,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Florian.jpg
+image: Florian007.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -35,14 +35,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Florian/project_1.png
+    image: Florian007/project_1.png
     link: https://www.linkedin.com/in/florian-gauglin-2809a1180/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Florian/project_2.png
+    image: Florian007/project_2.png
     link: https://github.com/megalex97/alumnis
     finished: true
 
