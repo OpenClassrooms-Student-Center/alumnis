@@ -12,8 +12,8 @@ date: 2016-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir une développeur python confirmé.
-short_description: J'aime le traitement des données. Maitriser Python pour le BIG DATA: c'est le top!
+objective: Devenir un développeur expert python.
+short_description: J'aime le traitement des données et je veux maitriser Python pour le BIG DATA.
 
 # don't touch that
 template: students
