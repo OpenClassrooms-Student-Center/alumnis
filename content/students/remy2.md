@@ -38,9 +38,9 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Presentation
-    description: Je m'appelle Rémy, j'ai 26 ans et .Je m'appelle Rémy et je commence le parcours de formation 
-    Développement d'application Android. Je viens du secteur de la culture et
-    si vous voulez en savoir plus sur moi j'ai un site CV : 
+    description: Je m'appelle Rémy, j'ai 26 ans et je commence le parcours de  
+    formation Développement d'application Android. Je viens du secteur de la 
+    culture et si vous voulez en savoir plus sur moi j'ai un site CV : 
     entrevousetmoi.weebly.com :) et un linkedin : https://www.linkedin.com/in/rémy-pouzet-69089887/
 	
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
