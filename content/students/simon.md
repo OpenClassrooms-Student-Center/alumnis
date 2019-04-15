@@ -43,5 +43,5 @@ projects:
     description: Création d’un jeu de combat (dans la console).
     image: simon/projet_3.png
     link: https://github.com/sibu64/FightingGame
-    finished: false
+    finished: true
 ---
