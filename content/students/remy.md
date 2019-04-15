@@ -18,10 +18,10 @@ short_description: J'aime apprendre, lire, l'escalade ...
 # don't touch that
 template: students
 description:
-    Je m'appelle Rémy et je commence le parcours de formation 
-    Développement d'application Android. Je viens du secteur 
-    de la culture et si vous voulez en savoir plus sur moi 
-    j'ai un site CV entrevousetmoi.weebly.com :)
+    Je m'appelle Rémy et je commence le parcours de forma-
+	-tion Développement d'application Android. Je viens   
+    du secteur de la culture et si vous voulez en savoir  
+    plus sur moi, j'ai un site :) entrevousetmoi.weebly.com
    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
