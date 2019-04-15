@@ -1,11 +1,8 @@
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-
 # Example: https://openclassrooms.com/membres/celinemartinet
-
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
-
 # lowercase, no blank space, Capital case or special character.
 title: Remy
 
@@ -26,15 +23,12 @@ description:
     de la culture et si vous voulez en savoir plus sur moi 
     j'ai un site CV : entrevousetmoi.weebly.com :)
    
-
 # image must be located in content/images/students
-
 # name should be the same as this file. Eg: celinemartinet.png
 image: Remy.jpg
 
 # Change this to True when you do you pull request.
 public: True
-
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Presentation
