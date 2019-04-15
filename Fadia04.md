@@ -12,8 +12,8 @@ date: 2019-04-15 18:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre le développement afin de donner un nouvel élan à ma carrière.
-short_description: Très intéressée par les nouvelles technologies et ouverte à de nouvelles expériences, j'ai décidé de me reconvertir dans les métiers du numérique, domaine en plein essor et qui offre de nombreuses opportunités d'emploi.
+objective: Apprendre le développement afin de donner un nouvel élan à ma carrièr    e.
+short_description: Très intéressée par les nouvelles technologies et ouverte à d    e nouvelles expériences, j'ai décidé de me reconvertir dans les métiers du n    umérique, domaine en plein essor et qui offre de nombreuses opportunités d'e    mploi.
 
 # don't touch that
 template: students
@@ -30,11 +30,11 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: De formation scientifique et médicale, et après de nombreuses a    nnées de recherche sur les maladies neuromusculaires, dans le milieu académi    que, j'ai décidé de me reconvertir.
+    description: De formation scientifique et médicale, et après de nombreuses a    nnées de recherche sur les maladies neuromusculaires, dans le milieu académi    que, j'ai décidé de me reconvertir. https://www.linkedin.com/in/fadia-medja-175343183/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: fadia/projet_1.png
-    link: https://www.linkedin.com/in/fadia-medja-175343183/
+    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -44,7 +44,7 @@ projects:
     link: https://openclassrooms-student-center.github.io/presentation/students/fadia.html
     finished: true
   - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d'un jeu développé en Python et utilisant PyGame.
     image: fadia/projet_3.png
     link: https://www.github.com
     finished: false
