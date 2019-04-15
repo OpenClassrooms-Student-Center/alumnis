@@ -19,7 +19,7 @@ short_description: j'adore faie des voyages et découvrir d'autre orizons c'est 
 template: students
 description:
     Je me prenom Etienne pascal j'ai 35 ans je vie au Cameroun je suis un passioné de l'informatique. 
-    j'ai les voyages et assi le football plus tôt débrouillard et bricolleur je suis un aussi un perfectionniste.
+    j'aime les voyages et assi le football plus tôt débrouillard et bricolleur je suis un aussi un perfectionniste.
     Actuellement benevol dans une association qui apporte de l'aide au jeunes déscolarisés; je veux devenir developpeur d'applications
     python et faire du freelance.
     
@@ -33,8 +33,7 @@ public: true
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définissez votre stratégie d'apprentissage !
-    description: je me prenom Etienne pascal j'ai 35 ans je vie au Cameroun je suis un passioné de l'informatique. 
-    j'ai les voyages et assi le football plus tôt débrouillard et bricolleur je suis un aussi un perfectionniste.https://www.linkedin.com/in/etienne-pascal-nfon-woume-299a9045/
+    vous pouvez trouver ici mon lien linkedin : https://www.linkedin.com/in/etienne-pascal-nfon-woume-299a9045/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: etienne_pascal/cv.png
