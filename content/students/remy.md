@@ -19,7 +19,7 @@ short_description: J'aime apprendre, lire, l'escalade ...
 template: students
 description:
     Je m'appelle Rémy et je commence le parcours de forma-
-	-tion Développement d'application Android. Je viens   
+    -tion Développement d'application Android. Je viens   
     du secteur de la culture et si vous voulez en savoir  
     plus sur moi, j'ai un site :) entrevousetmoi.weebly.com
    
