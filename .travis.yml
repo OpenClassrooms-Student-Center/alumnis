@@ -1,18 +1,20 @@
+# dist: xenial   # required for Python >= 3.7
 language: python
-
 python:
-  - '3.5'
+  - "3.6"
 
-install: pip install -r requirements.txt
+install: pip install -r requirements-dev.txt
 
 script:
+  - python test.py
+  - pip install -r requirements.txt
   - pelican content --fatal=warnings
 
 after_failure:
   - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make revert_push; fi'
 
 after_success:
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then make github; fi' 
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then ./publish.sh; fi' 
 
 branches:
   only:

@@ -45,8 +45,13 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pullreques
     image: Anthony93/projet_2.jpg
+    link: https://github.com/lambertanthony
+    finished: true
+  - title: Intégrez la communauté ! bis
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pullreques
+    image: Anthony93/projet_3.jpg
     link: https://github.com/lambertanthony
     finished: true
     
