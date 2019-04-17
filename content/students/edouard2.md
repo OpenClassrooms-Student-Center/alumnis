@@ -91,9 +91,9 @@ projects:
 
    description: Création d’un jeu développé en Python et utilisant PyGame.
 
-   image: Alexis/Projet-3.png
+   image: ratus/projet_3.png
 
-   link: https://github.com/sumac666
+   link: https://github.com/
 
    finished: false
 
