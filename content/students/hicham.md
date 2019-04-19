@@ -51,5 +51,5 @@ projects:
 
     link: https://github.com/HichamBenjelloun/alumnis
 
-    finished: false
+    finished: true
 ---
