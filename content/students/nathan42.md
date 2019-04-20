@@ -12,18 +12,16 @@ date: 2019-04-20 12:16
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir Développeur et en faire ma vocation !
+objective: Accomplir ma déstinée en devenant Développeur !
 short_description: Geek dans l'âme, j'aime les jeux vidéos et les gadgets. Je suis aussi intéressé par le maching learning
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je suis un jeune programmeur passionné qui a toujours tout
+	appris en autodidacte et il est finalement temps que j'en
+	fasse ma vocation grâce à la formation en alternance
+	d'OpenClassrooms
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
