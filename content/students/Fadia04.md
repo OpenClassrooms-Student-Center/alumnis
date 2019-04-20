@@ -34,14 +34,14 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: fadia/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel 
+    link:  https://github.com/Fadia04/alumnis/blob/master/content/students/Fadia04/Projet_1.PNG
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: fadia/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link:  https://github.com/Fadia04/alumnis/blob/master/content/students/Fadia04/Projet_2.PNG
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
