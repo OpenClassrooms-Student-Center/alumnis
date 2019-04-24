@@ -21,7 +21,7 @@ description:
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-image: lufina.png
+image: Lufina_f.png
 
 
 public: True
