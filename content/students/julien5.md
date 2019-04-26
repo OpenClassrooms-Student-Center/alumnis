@@ -36,14 +36,14 @@ projects:
     description: Voici un lien vers mon LinkedIn pour mieux me connaître et me contacter.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: julien5/projet_1.png
+    image: julien5/project1.png
     link: https://www.linkedin.com/in/julien-di-scala-b36809113
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Vous trouverez tous mes projets open source sur mon GitHub :
-    image: julien5/projet_2.png
+    image: julien5/project2.png
     link: https://github.com/JulienDSdev
     finished: true
 ---
