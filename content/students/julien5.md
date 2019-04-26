@@ -12,18 +12,16 @@ date: 2019-04-26 9:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Devenir développeur java et monter mon entreprise.
+short_description: Je souhaite parcourir le monde tout en travaillant !
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je m'appelle Julien, j'ai 25 ans, et il est temps de changer de métier, me voilà
+	donc sur OpenClassrooms en reconversion professionnelle. Mon rêve serait de parcourir le monde,
+	et l'informatique me semble un très bon métier pour le réaliser.
+	J'aime également le sport, le soleil et le pastis, la musique et le cinéma !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
