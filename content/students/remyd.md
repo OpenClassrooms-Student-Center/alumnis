@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: remy
+title: remyd
 
 # First name or full name
 name: Remy
@@ -22,7 +22,7 @@ description:
 	Je suis passionné par les nouvelles technologies, les jeux vidéos, séries et films. Je porte également un intérêt particulier aux domaines qui nous dépassent, tel que l'astrophysique  :) 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: remy.png
+image: remyd.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,14 +33,14 @@ projects:
     description: Voici mon profil LinkedIn. Dispo pour enrichir mon réseau.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: remy/project1.png
+    image: remyd/project1.png
     link: https://www.linkedin.com/in/r%C3%A9my-dallavalle-ba62a0b4/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Projet 2 - Intégrez la communauté OpenClassrooms.
-    image: remy/project2.png
+    image: remyd/project2.png
     link: https://github.com/Neandril/alumnis
     finished: true
 
