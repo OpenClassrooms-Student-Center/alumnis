@@ -43,7 +43,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: batman-mini.jpg
+image: batman.jpg
 
 
 # Change this to True when you do you pull request.
