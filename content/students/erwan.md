@@ -20,12 +20,8 @@ short_description:
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Après beaucoup de questions et une longue réflexion sur mon avenir professionnel, j’ai décider de me lancer dans le développement informatique. Ayant découvert ce domaine lors d’une première année de DUT GEII qui n’a pas conclu, je baigne depuis dans l’univers geek. 
+    La reprise des cours sur OpenClassrooms a été une vraie redécouverte et déclenché une passion pour le développement informatique. Fan de résolution de problématique et cherchant à toujours en savoir un peu plus, j’ai trouvé dans ce milieu des défis à surmonter et un moyen d’exprimer ma créativité. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
