@@ -38,10 +38,40 @@ projects:
     link: https://www.linkedin.com/in/benjamin-codron-b59691144/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: benjamin92/projet_2_.png
+    image: benjamin92/projet_2.png
     link: https://github.com/Zepmanbc/alumnis
-    finished: false
+    finished: true
+  - title: Aidez MacGyver à s'échapper !
+    description: Créer un jeu de labyrinthe avec de la programmation Objet en Python.
+    image: benjamin92/projet_3.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr3
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Ecrire l'analyse fonctionelle pour une application de pizzeria.
+    image: benjamin92/projet_4.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr4
+    finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+    description: Utilisation de l'API OpenFoodFacts et utilisation d'une base de données.
+    image: benjamin92/projet_5.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr5
+    finished: true
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+    description: Conception d'une base de données et utilisations des requêtes.
+    image: benjamin92/projet_6.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr6
+    finished: true
+  - title: Créez GrandPy Bot, le papy-robot 🤖 👴
+    description: Utilisation des API Google maps et Wikipedia.
+    image: benjamin92/projet_7.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr7
+    finished: true
+  - title: Créez une plateforme pour amateurs de Nutella	
+    description: Utilisation de Django.
+    image: benjamin92/projet_8.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr8
+    finished: true
 ---
