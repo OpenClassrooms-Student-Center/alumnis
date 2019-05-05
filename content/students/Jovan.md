@@ -19,9 +19,10 @@ short_description: J'aime l'informatique en général, mais aussi les mangas et 
 template: students
 description:
     Je suis actuellement salarié dans une société de service, dans un support au niveau 1
-	sans l'opportunité d'évolué, celà va bientot faire 4ans que j'occupe ce poste.
-	Je commence à avoir envie de plus étant donné que l'évolution se fait rare au sein de mon 
-	entreprise je cherche a apprendre un nouveau codage afin de pouvoir partir vers de nouvelles aventures.
+	et cela va bientot faire quatre ans que j'occupe ce même poste malgré les promesses d'évolution que l'on m'a soumises, 
+	ces dernières ne se sont toujours pas concrétisées. Sans cette opportunité d'évoluer, je voudrais me lancer dans l'apprentissage
+	du codage. En effet, savoir coder m'offrirai des opportunités que je n'ai pas actuellement et ainsi, je pourrais ouvrir mon champ
+	des possibles et être plus épanoui.
 	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
