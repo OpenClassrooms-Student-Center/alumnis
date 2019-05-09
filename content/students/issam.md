@@ -1,4 +1,5 @@
 ---
+
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/fr/membres/issam-grimet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -45,5 +46,5 @@ projects:
     title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: issam/project2.png
-    finished: true
+    finished: false
 ---    
