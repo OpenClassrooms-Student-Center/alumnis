@@ -8,12 +8,12 @@ title: issam
 
 # First name or full name
 name: Issam
-date: 2019-05-08 14:17
+date: 2019-05-09 09:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me former dans un métier d'avenir.
-short_description: J'aime le cinéma et les séries.
+objective: Me faire plaisir au jour le jour dans mon métier
+short_description: Je suis curieux, avide d'apprendre, optimiste... c'est déjà beaucoup, non?
 
 # don't touch that
 template: students
@@ -34,17 +34,18 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-    - title: Présentez-vous !
-    description: Bonjour, je m'appelle Issam j'ai 23 ans et je suis une formation dans le développement iOS.
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: issam/project1.png
-    link: https://stackoverflow.com/
+    link: https://www.linkedin.com/in/issamg/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-    - title: Intégrez la communauté !
+  - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: issam/project2.png
+    link: https://github.com/issamg/alumnis
     finished: true
----  
+---
