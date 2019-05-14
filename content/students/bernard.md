@@ -25,7 +25,7 @@ description:
 image: bernard.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: T
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: bernard/projet_1.png
+    image: bernard/projet_1.jpg
     link: https://fr.linkedin.com/in/bernard-briais-524834183
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
