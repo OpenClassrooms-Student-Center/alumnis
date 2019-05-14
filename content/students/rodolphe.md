@@ -8,7 +8,7 @@ title: Rodolphe
 
 # First name or full name
 name: Rodolphe
-date: 2019-14-05
+date: 14-05-2019
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
