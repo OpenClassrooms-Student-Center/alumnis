@@ -25,7 +25,7 @@ description:
 image: vincent02.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -48,4 +48,4 @@ projects:
     image: vincent02/projet_3.png
     link: https://www.github.com
     finished: false
--
+---
