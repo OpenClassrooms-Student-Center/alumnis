@@ -1,7 +1,7 @@
 ---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/fr/membres/sereinmeidom
+# FILENAME : serein.md
+# Example: 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: serein
@@ -56,4 +56,4 @@ projects:
     image: serein123/projet3.png
     link: https://github.com/smeidomk/
     finished: false
----    
+---
