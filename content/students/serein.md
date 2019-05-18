@@ -18,7 +18,7 @@ objective: Me reconvertir dans le numérique pour vivre de ma passion pour le di
 short_description: Passionné de sport et de digital, j'aime pratiquer le basketball, le judo et adore voyager.
 
 # don't touch that
-template: students             
+template: students
 
 # max 500 characters
 description:
@@ -39,12 +39,11 @@ public: False
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    description: Serein, 28 ans, Apprenti développeur Python en reconversion.
-    https://www.linkedin.com/in/serein-meidom-747164185/
+    description: Serein, 28 ans, apprenti développeur Python en reconversion.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: serein123/projet1.png
-    link: https://github.com/smeidomk/
+    link: https://www.linkedin.com/in/serein-meidom-747164185/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
@@ -57,4 +56,4 @@ projects:
     image: serein123/projet3.png
     link: https://github.com/smeidomk/
     finished: false
----          
+---    
