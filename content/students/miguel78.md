@@ -7,7 +7,7 @@ short_description: Responsable de labroratoire.
 template: students
 description:
     Dans le domaine de la métrologie et contrôle qualité. Un travail à la frontière de l'électronique et de l'informatique. Passionné de technologie moderne.
-image: miguel78.jpg
+image: miguel78.png
 public: True
 projects:
   - title: Présentez-vous !
