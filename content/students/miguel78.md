@@ -6,7 +6,7 @@ objective: Renforcer et faire valider mes compétences en Java
 short_description: Responsable de labroratoire.
 template: students
 description:
-    Dans le domaine de la métrologie et contrôle qualité. Un travail à la frontière de l'électronique et de l'informatique. Passionné de technologie moderne.
+    Dans le domaine de la métrologie et contrôle qualité. Un travail à la frontière de l'électronique et de l'informatique. Esprit d'entreprise.
 image: miguel78.png
 public: True
 projects:
