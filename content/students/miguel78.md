@@ -1,7 +1,7 @@
 ---
 title: miguel78
 name: Miguel
-date: 2017-07-18 15:30
+date: 2019-06-08 11:53
 objective: Renforcer et faire valider mes compétences en Java
 short_description: Responsable de labroratoire.
 template: students
