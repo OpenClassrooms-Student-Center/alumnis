@@ -12,13 +12,13 @@ date: 2019-05-29 19:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me reconvertir dans un domaine ou je peut travailler partout dans le monde.
-short_description: J'aime les nouvelle technologie et j'apprends à coder car j'adore cet univers.
+objective: Me reconvertir dans un domaine où je peux travailler n'importe où dans le monde.
+short_description: J'aime les nouvelles technologies et j'apprends à coder car j'adore cet univers.
 
 # don't touch that
 template: students
 description:
-    Je m'appelle Fabrice un passioné par l'informatique. Mon objective c'est être developpeur Swift/ios. j'espère pouvoir arreter les petit boulot avec la formation OpenClassrooms
+    Je m'appelle Fabrice un passioné par l'informatique. Mon objectif est devenir développeur iOS. J'espère pouvoir arrêter les petits boulots avec la formation OpenClassrooms.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
