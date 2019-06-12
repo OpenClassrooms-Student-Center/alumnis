@@ -1,50 +1,42 @@
 ---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/HassaneW
-# must be the name of your file. If file name hassaneW.md, title is celinemartinet.
-# lowercase, no blank space, Capital case or special character.
-title: ratus
+Presentation hassane
 
-# First name or full name
-name: HassaneW
-date: 2019-06-07 19:20
+Mes objectifs 
 
-# One line.
-# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime apprendre à coder, afin de réaliser tout mes projets.
 
-# don't touch that
-template: students
-description:
-    Le projet deux consiste à nous faire découvrir github et apprendre à le maîtriser pour nos futurs projets
 
-# image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
-image: Hassane.jpg
 
-# Change this to True when you do you pull request.
-public: False
+A) Objectif à long terme (+5ans): Créer mon entreprise dans les nouvelles technologies. (Start up)
 
-# You need to keep the exact same structure for each new project.
-projects:
-  - title: Présentez-vous !
-    description: Je m'appel Hassane et je suis Linkedin
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Swift
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+B) Rythme d’apprentissage :  Tous les jours pendant 1 an sauf le dimanche.
+
+C) Comment gérer les moments de frustrations : On refaisant et expliquant les exercices jusqu’à ce qu’il soit acquis.
+
+
+
+
+
+
+
+
+
+Strategie d’apprentissage 
+Instructions : 
+Relire plusieurs fois et décortiquez les instructions pour bien les comprendre
+Réaliser les projets en s’aidant des cours, workplace et mentor.
+Pour chaque projet créer et transmettre les livrables, le mentor et le jury y aura accès.
+AGENDA :
+Priorité : Suivre les cours et les instructions du mentor pour réaliser les  projets Open Class Room et mettre en place tous les moyens d’y parvenir.
+Planning Semaine type :
+Horaire : 8H - 12H / 15H - 19H du lundi au vendredi
+8H à 12H : Cours Open Class Room (Pratique délibérer : Pratique en condition réel, exercice)
+15H à 19H : Cours Open Class Room (Pratique délibérer : Pratique en condition réel, exercice)
+Chaque vendredi : Point avec Othmane
+Chaque Samedi matin : Contrôle sur tout ce qui a été appris dans la semaine.
+
+
+
+
+
+---
