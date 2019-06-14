@@ -17,9 +17,9 @@
  description:       
      J'ai rejoint le parcours développeur d’Applications - IOS car je suis passionnée par la Digitale et l'Innovation depuis... toujours !      
      Après 4 années d’études dans la publicité, j'ai décidé de partir travailler 2 ans sur Berlin dans une start-up puis sur Sydney une année.      
-     Mon goût pour le web s'intensifiant ces dernières années, je me suis lancée dans un premier site e-commerce il y a 6 mois pendant mon temps libre et je suis maintenant curieuse d'apprendre tout ce qui se cache derrière la création d'application mobile.       
+        
 
-  # image must be located in content/images/students        
+  # image must be located in content/images/students/hassane.jpg       
  # name should be the same as this file. Eg: celinemartinet.png     
  image: ratus.jpg       
 
