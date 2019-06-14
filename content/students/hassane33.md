@@ -42,7 +42,7 @@
      image: ratus/projet_2.png      
      link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html     
      finished: true     
-   - title: Aidez MacGyver à sortir !       
+   - title: Aidez McGyver à sortir !       
      description: Création d’un jeu développé en Python et utilisant PyGame.        
      image: ratus/projet_3.png      
      link: https://www.github.com       
