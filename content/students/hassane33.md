@@ -21,7 +21,7 @@ description:
 Je m'appelle Hassane un passioné par l'informatique. Mon objective c'est être developpeur Swift/ios. 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Hassane.jpg
+image: hassane33.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -38,7 +38,7 @@ link: https://www.linkedin.com/in/hassane-w-4464b7187/
 finished: true
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-Image : images/students/Hassane.jpg
+Image : images/students/hassane33.jpg
 Apprentissage :  images/students/Hassane/Apprentissage
 link: https://github.com/HassaneW/alumnis
 
