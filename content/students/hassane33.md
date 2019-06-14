@@ -8,7 +8,7 @@
  date: 2019-06-13 17:20     
 
   # One line.       
- # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.       
+ # If you need more space go to the next line and add 4 spaces on the left, as in 'description'.       
  objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.       
  short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.        
 
@@ -48,15 +48,3 @@
      link: https://www.github.com       
      finished: false        
  ---        
-
-  </a>      
- </div>     
- <h3 class="text-center">Constance</h3>     
-     <div class="text-justified">J'aime le fromage et les bonnes histoires avec une soupe.</div>        
-      </div>        
-      <div class="col-md-4 student-item">       
-       <div class="rounded thumbnail">      
-     <a href="https://openclassrooms-student-center.github.io/alumnis/students/constance.html">     
-      <img src="https://openclassrooms-student-center.github.io/alumnis/images/students/Constance.jpg"      
-                                      class="img-responsive" onerror="imgError(this);">     
- </a>       
