@@ -7,16 +7,16 @@
  name: Ratus        
  date: 2019-06-13 17:20     
 
-  # One line.       
+  # One lie     
  # If you need more space go to the next line and add 4 spaces on the left, as in 'description'.       
  objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.       
  short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.        
 
   # don't touch that        
  template: students     
- description:       
+ descriptio:       
      J'ai rejoint le parcours développeur d’Applications - IOS car je suis passionnée par la Digitale et l'Innovation depuis... toujours !      
-     Après 4 années d’études dans la publicité, j'ai décidé de partir travailler 2 ans sur Berlin dans une start-up puis sur Sydney une année.      
+     
         
 
   # image must be located in content/images/students/hassane.jpg       
