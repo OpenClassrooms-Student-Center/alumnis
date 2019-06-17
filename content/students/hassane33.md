@@ -8,7 +8,7 @@
 
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 
-# lowercase, no blank space, Capital case or special character.
+#lowercase, no blank space, Capital case or special character.
 title: hassane33
 
 
@@ -54,7 +54,7 @@ description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-# Image must be here: content/students/yourrepo/project1.png
+#Image must be here: content/students/yourrepo/project1.png
   image: hassane33.jpg
   
 link: https://www.linkedin.com/in/hassane-w-4464b7187/
