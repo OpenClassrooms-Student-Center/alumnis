@@ -18,7 +18,7 @@ title: hassane33
 
 name: Hassane
 
-date: 12-06-2019
+date: 2019-06-12 17:44
 
 
 
@@ -35,8 +35,7 @@ short_description: J'aime les nouvelle technologie et j'apprends à coder afin d
 template: students
 
 description:
-
--	Je m'appelle Hassane un passioné par l'informatique. Mon objective c'est être developpeur Swift/ios. 
+Je m'appelle Hassane un passioné par l'informatique. Mon objective c'est être developpeur Swift/ios. 
 
 # image must be located in content/images/students
 
@@ -46,19 +45,21 @@ image: hassane33.jpg
 
 # Change this to True when you do you pull request.
 
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
 
-	--title: Présentez-vous !
+- title: Présentez-vous !
 
-	description: Une présentation de moi-même et un lien vers mon LinkedIn.
+description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-# Image must be here: hassane33/projet2.jpg
+# Image must be here: content/students/yourrepo/project1.png
 
+  image: ratus/projet2.jpg
+  
 link: https://www.linkedin.com/in/hassane-w-4464b7187/
 
 # 'true' makes it fully available.
@@ -69,7 +70,7 @@ finished: true
 
 - title: Intégrez la communauté !
 
-  -description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+  description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
       image: hassane33/projet2.jpg
 
@@ -80,6 +81,8 @@ finished: true
 - title: Aidez MacGyver à sortir !
 
   description: Création d’un jeu développé en Python et utilisant PyGame.
+  
+   image: ratus/projet2.jpg
 
   link: https://github.com/HassaneW
 
