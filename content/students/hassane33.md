@@ -55,7 +55,7 @@ description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
 # Image must be here: content/students/yourrepo/project1.png
-  image: ratus/projet_1.png
+  image: hassane33.jpg
   
 link: https://www.linkedin.com/in/hassane-w-4464b7187/
 
@@ -69,7 +69,7 @@ finished: true
 
   description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
-      image: hassane33/projet2.jpg
+      image: hassane33.jpg
 
   link: https://github.com/HassaneW/alumnis
 
