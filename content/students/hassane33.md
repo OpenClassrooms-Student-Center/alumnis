@@ -51,7 +51,7 @@ public: true
 # You need to keep the exact same structure for each new project.
 projects:
 
-	- title: Présentez-vous !
+	--title: Présentez-vous !
 
 	description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
@@ -69,7 +69,7 @@ finished: true
 
 - title: Intégrez la communauté !
 
-  description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+  -description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
       image: hassane33/projet2.jpg
 
