@@ -69,9 +69,24 @@ projects:
     image: benjamin92/projet_7.png
     link: https://github.com/Zepmanbc/oc_dapython_pr7
     finished: true
-  - title: Créez une plateforme pour amateurs de Nutella	
+  - title: Créez une plateforme pour amateurs de Nutella
     description: Utilisation de Django.
     image: benjamin92/projet_8.png
     link: https://github.com/Zepmanbc/oc_dapython_pr8
+    finished: true
+  - title: Documentez votre système de gestion de pizzeria
+    description: Rédiger un dossier d'exploitation
+    image: benjamin92/projet_9.png
+    link:
+    finished: true
+  - title: Déployez votre application sur un serveur comme un pro !
+    description: Déployer une application sur un VPS
+    image: benjamin92/projet_10.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr10
+    finished: true
+  - title: Améliorez un projet existant en Python	
+    description: Mise à jour de l'application Pur Beurre en utilisant les issues sur Github
+    image: benjamin92/projet_11.png
+    link: https://github.com/Zepmanbc/oc_dapython_pr11
     finished: true
 ---
