@@ -18,7 +18,7 @@ short_description: J'aime les nouvelle technologie et j'apprends à coder afin d
 # don't touch that
 template: students
 description:
-Je m'appelle Hassane un passioné par l'informatique. Mon objective c'est être developpeur Swift/ios. 
+-	Je m'appelle Hassane un passioné par l'informatique. Mon objective c'est être developpeur Swift/ios. 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: hassane33.jpg
