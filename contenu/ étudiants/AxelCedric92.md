@@ -16,12 +16,10 @@ short_description: J'aime l'écologie et les documentaires animaliers. Je me lan
 # don't touch that
 template: students
 description:
-    Diplômé de l'école d'ingénieur ESIGELEC de Rouen en avril 2018. En ce moment, je suis enseignant de sciences
-    de l'ingénieur au lycée polyvalent Jean Perrin à Saint-Ouen-l'Aumône.
-	Je suis en reconversion professionnelle en developpement d'applications android.
-	J'aime beaucoup les documentaires scientifiques et animaliers et aussi la connectivité
-	des appareils à l'aide des applications mobiles android. C'est selon la raison pour 
-	laquelle je suis en train de me reconvertir en developpement android.
+    Diplômé de l'école d'ingénieur ESIGELEC. En ce moment, je suis enseignant de sciences de l'ingénieur au lycée polyvalent Jean Perrin     à Saint-Ouen-l'Aumône. Je suis en reconversion professionnelle en developpement d'applications android. 
+    J'aime beaucoup les     documentaires scientifiques et animaliers et aussi la connectivité
+    des appareils à l'aide des applications mobiles android. 
+    C'est selon la raison pour laquelle je suis en train de me reconvertir en    developpement android.
    	   
 
 # image must be located in content/images/students
