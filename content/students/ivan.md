@@ -89,4 +89,14 @@ projects:
     image: ivan/projet_11.png
     link: https://github.com/ivan-fr/oc_projet_11
     finished: true
+  - title: Veille techno
+    description: .
+    image: ivan/projet_12.png
+    link: https://github.com/ivan-fr/oc_projet_11
+    finished: true
+  - title: Pret pour le feux d'artifice
+    description: .
+    image: ivan/projet_13.png
+    link: https://github.com/ivan-fr/oc_projet_11
+    finished: true
 ---
