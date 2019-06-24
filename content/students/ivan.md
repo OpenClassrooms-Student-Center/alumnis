@@ -41,7 +41,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ivan/projet_2.png
+    image: ivan/projet_1.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ivan.html
     finished: true
   - title: Aidez MacGyver à sortir !
@@ -88,15 +88,5 @@ projects:
     description: .
     image: ivan/projet_11.png
     link: https://github.com/ivan-fr/oc_projet_11
-    finished: true
-  - title: Effectuez un stage ou construisez une veille technologique
-    description: .
-    image: ivan/projet_12.png
-    link: https://github.com/ivan-fr/oc_projet_12
-    finished: true
-  - title: Projet final : prêt pour le feu d’artifices ?
-    description: .
-    image: ivan/projet_13.png
-    link: https://github.com/ivan-fr/oc_projet_13
     finished: true
 ---
