@@ -91,7 +91,7 @@ projects:
     finished: true
   - title: Veille techno
     description: .
-    image: ivan/projet_12.png
+    image: ivan/projet_1.png
     link: https://github.com/ivan-fr/oc_projet_12
     finished: true
   - title: Pret pour le feux d'artifice
