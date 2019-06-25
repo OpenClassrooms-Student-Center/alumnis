@@ -73,5 +73,35 @@ projects:
     image: tom/projet_7.png
     link: https://github.com/tomlemeuch/GrandPyBot
     finished: true
-    
+  - title: Créez une plateforme pour amateurs de Nutella
+    description: Un site qui permet de trouver un substitut sain à un aliment considéré    comme "Trop gras, trop sucré, trop salé".
+    image: tom/projet_8.png
+    link: https://github.com/tomlemeuch/pur_beurre_web
+    finished: true
+  - title: Documentez votre système de gestion de pizzeria
+    description: Produire la documentation du système de gestion de pizzeria.
+    image: tom/projet_9.png
+    link:
+    finished: true
+  - title: Déployez votre application sur un serveur comme un pro !
+    description: Déployer en utilisant sont propre serveur, monitorer, automatiser.
+    image: tom/projet_10.png
+    link: https://github.com/tomlemeuch/pur_beurre_web
+    finished: true
+  - title: Améliorez un projet existant en Python
+    description: Ajouter une fonctionnalité, des tests et produire un hotfix.
+    image: tom/projet_11.png
+    link: https://github.com/tomlemeuch/pur_beurre_web
+    finished: true
+  - title: Effectuez un stage ou construisez une veille technologique
+    description: Créer un tableau de bord de veille techno.
+    image: tom/projet_12.png
+    link: https://www.netvibes.com/tomlemeuch#Python_Programming
+    finished: true
+  - title: Projet final : prêt pour le feu d’artifices ?
+    description: Répondre à un besoin par un projet numérique: RicLibre, Première application française d'organisation de Référendum d'Initiative Citoyenne.
+    image: tom/projet_13.png
+    link: https://github.com/tomlemeuch/riclibre
+    finished: true
+
 ---
