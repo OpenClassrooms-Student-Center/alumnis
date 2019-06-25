@@ -32,7 +32,7 @@ projects:
   - title: Actuellement salarié à paugeot j'éspere changer de carrière en devenant développeur IOS
     description: https://www.linkedin.com/in/fouzi-arar-70b670138/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/capture1.png
+    # Image must be here: content/images/students/yourrepo/capture1.png
     image: Fouzi/capture1.png
     link: https://imgur.com/a/GUXx1
     # 'true' makes it fully available.

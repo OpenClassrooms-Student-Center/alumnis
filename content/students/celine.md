@@ -38,7 +38,7 @@ projects:
   - title: Présentez-vous !
     description: Je m'appelle Celine , j'ai 19 ans et je suis actuellement en formation de développeuse d'application Android.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: projet1.png
     link: https://www.linkedin.com/in/c%C3%A9line-lin-b517b614b/
     # 'true' makes it fully available.

@@ -33,7 +33,7 @@ projects:
   - title: Quentin 22 ans, apprenti developpeur android
     description: J'aime apprendre de nouvelles choses.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: quentin9/projet_1.jpg
     link: https://www.linkedin.com/in/quentin-deregnaucourt/
     # 'true' makes it fully available.

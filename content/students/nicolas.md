@@ -38,7 +38,7 @@ projects:
     description: C'est parti pour cette formation "développeur JAVA" !
     link : https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: nicolas/nicolas_ID.png
     link: https://www.linkedin.com/in/nicolas-cayon-glayere-88880414b/ 
     # 'true' makes it fully available.

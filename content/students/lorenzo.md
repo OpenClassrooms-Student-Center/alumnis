@@ -32,7 +32,7 @@ projects:
   - title: lorenzo !
     description: Bonjour, je m'appelle Lorenzo j'ai 27 ans et je reprends la formation de développeur d'applications Python ici pour me reformer. j'étais bijoutier et je voulais changer car j'ai commencé jeune et ça ne me plaisait plus. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/lorenzo/index.png
+    # Image must be here: content/images/students/lorenzo/index.png
     image: lorenzo.jpg
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.

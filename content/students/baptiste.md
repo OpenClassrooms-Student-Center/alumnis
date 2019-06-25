@@ -37,7 +37,7 @@ projects:
   - title: Présentez-vous !
     description: Baptiste, ex-étudiant en physique nucléaire (je ne sais ni fabriquer une bombe ni construire une centrale), je compte sur la formation Dev d'app Python pour me réorienter www.linkedin.com/in/baptiste-fina-3a8785150
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: baptiste/projet1.jpg
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.

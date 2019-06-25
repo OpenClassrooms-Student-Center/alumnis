@@ -33,7 +33,7 @@ projects:
     description: Je suis Jean-François et j'intègre la communauté OpenClassRooms pour me former dans le développement d'applications IOS.
     Lien vers mon LinkedIn : https://www.linkedin.com/in/jean-françois-santolaria/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/jeanfrancois13/projet_1.png
+    # Image must be here: content/images/students/jeanfrancois13/projet_1.png
     image: jeanfrancois13/projet_1.png
     link: https://openclassrooms.com/projects/projet-apprendre-a-apprendre
     # 'true' makes it fully available.

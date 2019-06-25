@@ -33,7 +33,7 @@ projects:
   - title: Je suis Debruyckère Florian
     description: J'aime les jeux vidéos et la musique. J'apprends à mieux coder pour avoir un travail. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: florian59/projet_1.png
     link: https://www.linkedin.com/in/florian-debruyck%C3%A8re-310937152/
     # 'true' makes it fully available.

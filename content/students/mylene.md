@@ -32,7 +32,7 @@ projects:
   - title: Projet 1 - Présentez-vous !
     description: Projet 1 qui m'a rabiboché avec Linkedin et qui m'a aidé pour l'organisation de mes cours
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
     image: mylene/projet_1.jpg
     link: https://www.linkedin.com/in/greneron-myl%C3%A8ne-0533539b/
     # 'true' makes it fully available.

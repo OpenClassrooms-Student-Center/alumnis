@@ -32,7 +32,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture. //done
-    # Image must be here: content/students/yourrepo/project1.png // MISTAKE?
+    # Image must be here: content/images/students/yourrepo/project1.png // MISTAKE?
     image: felix/project1.png
     link: https://www.linkedin.com/in/félix-dervaux-b4108442/
     # 'true' makes it fully available.
