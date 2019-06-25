@@ -98,7 +98,7 @@ projects:
     image: tom/projet_12.png
     link: https://www.netvibes.com/tomlemeuch
     finished: true
-  - title: Projet final : prêt pour le feu d’artifices ?
+  - title: Projet final prêt pour le feu d’artifices ?
     description: Répondre à un besoin par un projet numérique: RicLibre, Première application française d'organisation de Référendum d'Initiative Citoyenne.
     image: tom/projet_13.png
     link: https://github.com/tomlemeuch/riclibre
