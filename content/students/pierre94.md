@@ -34,6 +34,7 @@ template: students
 
 description:
 
+    Dans le secteur IT depuis quelques annees je souhaite me mettre a la programmation. 
 
 
 # image must be located in content/images/students
@@ -60,9 +61,9 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: content/students/pierreetienne9/projet_1.png
+    image: content/students/pierre94/pierre94.jpg
 
-    link: https://www.linkedin.com/in/pierre-etienne-702a45150/
+    link: https://www.linkedin.com/in/pierre-m-81257796/
 
     # 'true' makes it fully available.
 
