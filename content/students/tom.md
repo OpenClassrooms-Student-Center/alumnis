@@ -96,7 +96,7 @@ projects:
   - title: Effectuez un stage ou construisez une veille technologique
     description: Créer un tableau de bord de veille techno.
     image: tom/projet_12.png
-    link: https://www.netvibes.com/tomlemeuch#Python_Programming
+    link: https://www.netvibes.com/tomlemeuch
     finished: true
   - title: Projet final : prêt pour le feu d’artifices ?
     description: Répondre à un besoin par un projet numérique: RicLibre, Première application française d'organisation de Référendum d'Initiative Citoyenne.
