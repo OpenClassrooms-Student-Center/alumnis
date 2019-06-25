@@ -1,8 +1,8 @@
 ﻿---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
-# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# Example: https://openclassrooms.com/fr/membres/josselingerstmayer
+# must be the name of your file. If file name is josselin.md, title is josselin.
 # lowercase, no blank space, Capital case or special character.
 title: josselin
 
@@ -12,27 +12,21 @@ date: 2019-05-17 14:37
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: je souhaite devenir développeur JAVA
 
 # max 100 characters
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime les nouvelles technologies et le sport J'apprends à coder pour effectuer une belle transition de carrière.
 
 # don't touch that
 template: students
 
 # max 500 characters
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    je m'appelle josselin, j'ai 25 ans et je vie dans le sud de la france. je suis en reconversion proffessionnelle pour devenir développeur JAVA et par la suite je souhaierais évoluer vers un poste de Teach Lead.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
-image: ratus.jpg
+image: josselin.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -41,7 +35,7 @@ public: True
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: https://www.linkedin.com/in/josselin-gerstmayer-15805214b/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: ratus/projet_1.png
