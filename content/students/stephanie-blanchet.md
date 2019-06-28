@@ -87,7 +87,7 @@ projects:
 
     image: stephanie-blanchet/project_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/StfBlanchet/alumnis/
 
     finished: false
 
