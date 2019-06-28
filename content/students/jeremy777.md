@@ -37,7 +37,7 @@ image: jeremy777.png
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -56,7 +56,7 @@ projects:
  # 'true' makes it fully available.
  # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-   finished: false
+   finished: true
 
 
  - title: Intégrez la communauté OpenClassrooms !
