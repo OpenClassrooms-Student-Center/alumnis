@@ -89,9 +89,109 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: valentin45/projet3.png
 
-    link: https://www.github.com
+    link: https://github.com/voudoudin/Project3-MacGyver
+
+    finished: true
+
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+
+    description: Réaliser les spécifications fonctionnelles pour l'application d'un groupe de pizzerias
+
+    image: pas d'image
+
+    link: pas de repo
+
+    finished: true
+
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+
+    description: Créer un programme utilisant la base de données d'openfoodfacts et permettre à l'utilisateur de trouver des alternatives plus saines aux produits qu'il consomme
+
+    image: valentin45/projet5.png
+
+    link: https://github.com/voudoudin/Project5-OFF
+
+    finished: true
+
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+
+    description: Réaliser les spécifications techniques pour l'application d'un groupe de pizzerias
+
+    image: pas d'image
+
+    link: pas de repo
+
+    finished: true
+
+  - title: Créez GrandPy Bot, le papy-robot
+
+    description: Créer un bot qui répond aux question et affiche une carte de l'endroit recherché ainsi qu'un lien pour obtenir d'avantage d'information
+
+    image: valentin45/projet7.png
+
+    link: https://github.com/voudoudin/Project7
+
+    finished: true
+
+  - title: Créez une plateforme pour amateurs de Nutella
+
+    description: Développer une solution pour un client en respectant son cahier des charges
+
+    image: valentin45/projet8.png
+
+    link: https://github.com/voudoudin/Project8
+
+    finished: true
+
+  - title: Documentez votre système de gestion de pizzeria
+
+    description: Rédiger le dossier de conception fonctionnelle, technique ainsi que le dossier d'exploitation pour le projet du groupe de pizzeria
+
+    image: pas d'image
+
+    link: pas de repo
+
+    finished: true
+
+  - title: Déployez votre application sur un serveur comme un pro !
+
+    description: Déployer une application sur un serveur
+
+    image: valentin45/projet10.png
+
+    link: https://github.com/voudoudin/Project10
+
+    finished: true
+
+  - title: Améliorez un projet existant en Python
+
+    description: Amélioration de mon projet 8, Pur Beurre
+
+    image: valentin45/projet8.png
+
+    link: https://github.com/voudoudin/Project11
+
+    finished: true
+
+  - title: Effectuez un stage ou construisez une veille technologique
+
+    description: Se tenir informer des nouveautés dans le monde de développement, de l'informatique et des nouvelles technologies en général
+
+    image: valentin45/projet12.png
+
+    link: pas de repo
+
+    finished: true
+
+  - title: prêt pour le feu d’artifices ?
+
+    description: Gérez un projet numérique
+
+    image: valentin45/projet13.png
+
+    link: https://github.com/voudoudin/Project13
 
     finished: false
 
