@@ -34,18 +34,18 @@ template: students
 
 description:
 
-    Hello, je m'appelle Maxime.
+    J'aime bien voyager, même si je n'ai jamais eu l'occasion de quitter l'Europe. 
 
-    J'aime mon chat, manger et dormir.
+    J'ai commencé mes études supérieures en Autriche, je suis actuellement aux Pays-Bas, et j'espère encore changer bientôt. 
 
-    Je suis addict des gifs.
+    J'ai choisi Python car il est dit que ce langage est préférable, avec Ruby, dans le milieu des startups, notament pour prototyper rapidement.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: maximemoulinet.jpg
+image: yvan.jpg
 
 
 # Change this to True when you do you pull request.
@@ -57,42 +57,42 @@ public: True
 
 projects:
 
-- title: Présentez-vous !
+  - title: Présentez-vous !
 
-description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
-# Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-# Image must be here: content/images/students/yourrepo/project1.png
+    # Image must be here: content/images/students/yourrepo/project1.png
 
-image: maximemoulinet/projet_1.png
+    image: yvan/projet_1.png
 
-link: https://www.linkedin.com/in/maximemoulinet
+    link: https://www.linkedin.com/in/yvan-curbillon-012028109/
 
-# 'true' makes it fully available.
+    # 'true' makes it fully available.
 
-# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-finished: true
+    finished: true
 
-- title: Intégrez la communauté !
+  - title: Intégrez la communauté !
 
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-image: maximemoulinet/projet_2.png
+    image: yvan/projet_2.png
 
-link: https://github.com/MaximeMoulinet
+    link: https://github.com/Yvan8888
 
-finished: true
+    finished: true
 
-- title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à sortir !
 
-description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d’un jeu développé en Python et utilisant PyGame.
 
-image: maximemoulinet/projet_3.png
+    image: yvan/projet_3.png
 
-link: https://www.github.com
+    link: https://www.github.com
 
-finished: false
+    finished: false
 
 ---
