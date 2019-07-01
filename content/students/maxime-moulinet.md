@@ -17,14 +17,14 @@ short_description: J’aime élaborer des plan machiavélique pour assouvir le p
 
 # don't touch that
 template: students
-description :
+description : Hello ! :
 Hello Travis, what is up my little dude?
-
-
-
-
-
-
+salut
+tu 
+me
+saoules
+Travis
+bye!
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: maxime-moulinet.png
