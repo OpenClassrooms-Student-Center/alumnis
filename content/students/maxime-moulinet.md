@@ -8,21 +8,26 @@ title: maxime-moulinet
 
 # First name or full name
 name: maxime
-date: 2019-07-01 11:20
+date: 2018-07-01 12:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
 
-
 # don't touch that
 template: students
-description : Hello, je m'appelle Maxime.
+description:
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: maxime-moulinet.jpg
+image: ratus.jpg
 
 # Change this to True when you do you pull request.
 public: False
