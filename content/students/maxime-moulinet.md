@@ -1,6 +1,5 @@
 ---
 
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -16,10 +15,10 @@ date: 2019-07-01 11:20
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
 
+
 # don't touch that
 template: students
-description:
-Salut.
+description : Hello, je m'appelle Maxime.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
