@@ -16,7 +16,7 @@ objective: Découvrir Xcode et Swift.
 
 # don't touch that
 template: students
-description:
+description :
 Etudiant en développement d'application iOS, je débute avec beaucoup d'enthousiasme !
 
 # image must be located in content/images/students
