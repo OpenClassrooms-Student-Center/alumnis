@@ -34,11 +34,11 @@ template: students
 
 description:
 
-Hello, je m'appelle Maxime. 
+    Hello, je m'appelle Maxime. 
 
-J'aime mon chat, manger et dormir. 
+    J'aime mon chat, manger et dormir. 
 
-Je suis addict des gifs.
+    Je suis addict des gifs.
 
 
 # image must be located in content/images/students
