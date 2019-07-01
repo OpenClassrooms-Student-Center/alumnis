@@ -8,7 +8,6 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 
 # lowercase, no blank space, Capital case or special character.
-
 title: maxime-moulinet
 
 
