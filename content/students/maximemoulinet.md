@@ -34,9 +34,9 @@ template: students
 
 description:
 
-    Hello, je m'appelle Maxime. 
+    Hello, je m'appelle Maxime.
 
-    J'aime mon chat, manger et dormir. 
+    J'aime mon chat, manger et dormir.
 
     Je suis addict des gifs.
 
@@ -77,9 +77,9 @@ finished: true
 
 - title: Intégrez la communauté !
 
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
-image: maxime/projet_2.png
+image: maximemoulinet/projet_2.png
 
 link: https://github.com/MaximeMoulinet
 
@@ -89,11 +89,10 @@ finished: true
 
 description: Création d’un jeu développé en Python et utilisant PyGame.
 
-image: maxime/projet_3.png
+image: maximemoulinet/projet_3.png
 
 link: https://www.github.com
 
 finished: false
 
 ---
-
