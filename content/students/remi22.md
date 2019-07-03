@@ -31,11 +31,12 @@ public: true
 # You need to keep the exact same structure for each new project.
 projects:
 	- title: Présentez-vous !
-		description: Vous voulez tout savoir de moi ? suivez le lapin https://www.linkedin.com/in/rémi-hecq-210266189/
+		description: Vous voulez tout savoir de moi ? 
 		# Create a new repository for your images. Name it the same as your nickname and profile picture.
 		# Image must be here: content/images/students/yourrepo/project1.png
 		image: remi22/projet_1.png
 		image: remi22/linkedin.png
+		lien: https://www.linkedin.com/in/rémi-hecq-210266189/
 		# 'true' makes it public. If 'false', then it will not show on the website.
 		finished: true
 	- title: Intégrez la communauté !
