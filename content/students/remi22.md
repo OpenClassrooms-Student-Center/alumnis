@@ -19,8 +19,7 @@ short_description: J'aime les beaux paysages, les jeux vidéos scénarisés, dé
 template: students
 
 # max 500 characters
-description:
-Je suis sur une formation Java depuis peu. Fasciné par l'informatique depuis son entrée dans les foyers domestiques, j'en ai une bonne pratique mais pas celle d'un pro.
+description: Je suis sur une formation Java depuis peu. Fasciné par l'informatique depuis son entrée dans les foyers domestiques, j'en ai une bonne pratique mais pas celle d'un pro.
 Aujourd'hui, j'ai l'opportunité d'en faire un métier et m'assurer un avenir professionnel. Le chemin est long pour y parvenir mais je suis confiant car je découvre cette communauté OC et je sais que je peux me tourner vers elle si les choses se corsent.
 
 # image must be located in content/images/students
