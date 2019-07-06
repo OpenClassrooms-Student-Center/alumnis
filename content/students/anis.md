@@ -25,7 +25,7 @@ description:
 image: anis.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -42,10 +42,10 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: content/students/anis/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    finished: false
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Création d’un jeu développé en Swift.
+    image: anis/projet_3.png
+    link: https://openclassrooms.com/fr/projects/59/assignment
     finished: false
 ---
