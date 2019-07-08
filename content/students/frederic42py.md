@@ -42,12 +42,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: amonisaka/projet_2.png
-    link: https://github.com/AmoSkuurt/alumnis
+    image: content/images/Projet modifié.PNG
+    link: https://github.com/frederic42py/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: amonisaka/projet_3.png
-    link: https://www.github.com
+    image: 
+    link: 
     finished: false
 ---
