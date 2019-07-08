@@ -19,7 +19,8 @@ objective: Comprendre et apprendre le fonctionnement du développement informati
 # don't touch that
 template: students
 description:
-    Jeune voulant apprendre à programmer :)
+   Suivant depuis des années de loin le développement informatique, j'ai enfin décidé d'ouvrir la porte et de me lancer dans 
+   l'aventure. J'ai choisi Python par intuition, qui me permettra de pouvoir développer des applications utiles. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
