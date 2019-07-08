@@ -7,14 +7,14 @@
 title: frederic42py
 
 # First name or full name
-name: amo
-date: 2019-01-25 12:51
+name: frederic
+date: 2019-07-08 19:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Perfectionner mes compétences acquises en Programmation, pour me permettre plus tard 
-    d’avoir toutes les connaissances requis pour être un bon Développeur.
-short_description: J'aime bien tout ce qui touche à l'imaginaire, l'invisible, les mangas..
+objective: Comprendre et apprendre le fonctionnement du développement informatique afin de suivre l'évolution numérique 
+            et de développer des applications.
+               
 
 # don't touch that
 template: students
