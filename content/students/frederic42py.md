@@ -35,8 +35,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: amonisaka/projet_1.png
-    link: https://www.linkedin.com/in/amonidogbe0ur22
+    image: content/images/students/Lien linkedin frederic42py.PNG
+    link: https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-guillaumin-135097108/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
