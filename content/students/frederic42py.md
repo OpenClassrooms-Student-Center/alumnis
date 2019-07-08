@@ -45,5 +45,9 @@ projects:
     image: content/images/Projet modifié.PNG
     link: https://github.com/frederic42py/alumnis
     finished: true
- 
+ - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: content/images/Projet modifié.PNG
+    link: https://github.com/frederic42py/alumnis
+    finished: false
 ---
