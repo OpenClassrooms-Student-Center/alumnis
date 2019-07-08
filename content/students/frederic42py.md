@@ -49,5 +49,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: content/images/Projet modifié.PNG
     link: https://github.com/frederic42py/alumnis
-    finished: false
+    finished: true
 ---
