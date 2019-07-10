@@ -193,6 +193,6 @@ projects:
 
     link: https://github.com/voudoudin/Project13
 
-    finished: false
+    finished: true
 
 ---
