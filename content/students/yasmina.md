@@ -4,10 +4,10 @@
 # Example: https://openclassrooms.com/fr/membres/yasmina-bouyahmed
 # must be the name of your file. If file name is yasmina.md, title is yasmina.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: yasmina
 
 # First name or full name
-name: Ratus
+name: yasmina
 date: 2019-07-09 18:20
 
 # One line.
@@ -27,7 +27,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: yasmina.png
-image: ratus.jpg
+image: yasmina.jpg
 
 # Change this to True when you do you pull request.
 public: False
