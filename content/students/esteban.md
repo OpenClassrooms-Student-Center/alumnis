@@ -86,7 +86,7 @@ projects:
 
     image: ratus/projet_3.png
 
-    link: https://www.github.com
+    link: https://github.com
 
     finished: false
 
