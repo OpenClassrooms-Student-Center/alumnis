@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: William Mwamba Kalimba
 
 
 # First name or full name
@@ -23,9 +23,9 @@ date: 2019-07-09 12:00
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Je veux relever un nouveau defi et devenir developpeur Python.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'aime le sport, la photo passer du temps en famille ainsi qu'ecouter et faire de la musique
 
 
 # don't touch that
@@ -51,12 +51,12 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: ratus.jpg
+image: WilliamMK.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -71,9 +71,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
-
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: WIlliamMK/projet_1.png
 
     # 'true' makes it fully available.
 
@@ -85,19 +83,15 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: WilliamMK/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-
-    finished: true
+    finished: false
 
   - title: Aidez MacGyver à sortir !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
     image: ratus/projet_3.png
-
-    link: https://www.github.com
 
     finished: false
 
