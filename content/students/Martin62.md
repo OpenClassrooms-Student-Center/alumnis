@@ -1,4 +1,4 @@
-﻿---
+---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -12,7 +12,7 @@ date: 2019-07-09 16:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Être capable de développer des applications mobiles IOS rapidement.
+objective: Developper des applications mobiles IOS.
 
 # don't touch that
 template: students
@@ -51,5 +51,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: Martin62/projet3.jpg
     link: https://github.com/Mrtn-Flmt?tab=repositories
-    finished: false
+    finished: true
 ---
