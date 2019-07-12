@@ -50,6 +50,6 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: Martin62/projet3.jpg
-    link: https://github.com/Mrtn-Flmt?tab=repositories
+    link: https://github.com
     finished: true
 ---
