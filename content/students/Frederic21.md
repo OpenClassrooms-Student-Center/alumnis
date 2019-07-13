@@ -6,7 +6,7 @@ title: Frederic21
 
 # First name or full name
 name: Frédéric PORT
-date: 2019-06-27 21:15
+date: 2019-07-13 17:15
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -28,7 +28,7 @@ description:
 image: Frederic21.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -39,7 +39,7 @@ projects:
     image: Frederic21/Projet_1.jpg
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: True
+    finished: true
   - title: Intégrez la communauté Openclassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Frederic21/projet_2.png
