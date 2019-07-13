@@ -36,19 +36,19 @@ projects:
     description: Développer votre visibilité sur les réseaux sociaux d'entreprise, créer et modifier son CV.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Frederic21/project_1.png
+    image: Frederic21/projet1.png
     link: https://www.linkedin.com/in/frederick-port/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté Openclassrooms!
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Frederic21/project_2.png
+    image: Frederic21/projet2.png
     link: https://github.com/Darrell10/alumnis
     finished: false
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift.
-    image: Frederic21/projet_3.png
+    image: Frederic21/projet3.png
     link: https://www.github.com
     finished: false
 ---
