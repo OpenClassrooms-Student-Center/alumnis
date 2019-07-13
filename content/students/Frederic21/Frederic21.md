@@ -27,7 +27,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Frederic21.jpg
+image: Frederic21/Frederic21.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -41,7 +41,7 @@ projects:
     image: Frederic21/Projet_1.jpg
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: True
   - title: Intégrez la communauté Openclassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Frederic21/projet_2.png
