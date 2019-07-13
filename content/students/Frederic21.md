@@ -38,7 +38,7 @@ projects:
     description: Définir ses objectifs d'apprentissages, créer ou modifier son CV et son profil LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Frederic21/projet_1.png
+    image: Frederic21/Projet_1.jpg
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
