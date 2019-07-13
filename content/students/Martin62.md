@@ -7,13 +7,12 @@
 title: Martin62
 
 # First name or full name
-name: Martin
-date: 2019-07-09 11:30
+name: Martin 
+date: 2019-07-09 16:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir developper mobiles IOS.
-short_description: J'aime les nouvelles technologies, les jeux video, le sport.
+objective: Developper des applications mobiles IOS.
 
 # don't touch that
 template: students
@@ -30,7 +29,7 @@ description:
 image: Martin62.jpg
 
 # Change this to True when you do you pull request.
-public: false
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -46,11 +45,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Martin62/projet2.jpg
-    link: htpps://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: Martin62/projet3.jpg
-    link: https://www.github.com
-    finished: false
+    link: https://github.com
+    finished: true
 ---
