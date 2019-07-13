@@ -28,7 +28,7 @@ description:
 image: Frederic21/Frederic21.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -39,7 +39,7 @@ projects:
     image: Frederic21/Projet_1.jpg
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: True
+    finished: true
   - title: Intégrez la communauté Openclassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Frederic21/projet_2.png
@@ -48,39 +48,39 @@ projects:
     description: Création d’un jeu développé en Swift et utilisation de la programmation orientée objet.
     image: Frederic21/projet_3.png
     finished: false
-    - title: Développez Instagrid : une application de montage photo !
+  - title: Développez Instagrid : une application de montage photo !
     description: Créer un design responsive, mettre en place une architecture adaptée à son projet.
     image: Frederic21/projet_4.png
     finished: false
-    - title: Améliorez une application existante
+  - title: Améliorez une application existante
     description: Utiliser le principe MVC, Corriger des dysfonctionnements et effectuer des tests unitaire d'une application.
     image: Frederic21/projet_5.png
     finished: false
-    - title: Analysez les besoins de votre client pour son groupe de pizzerias
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
     description: Analyser un besoin client et selectionner une solution technique adaptée
     image: Frederic21/projet_6.png
     finished: false
-    - title: Concevez la solution technique d’un système de gestion de pizzeria
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
     description: Concevoir l'architecture technique d'une application à l'aide de diagrammes UML
     image: Frederic21/projet_7.png
     finished: false
-    - title: Documentez votre système de gestion de pizzeria
+  - title: Documentez votre système de gestion de pizzeria
     description: Produire une documentation technique et fonctionnelle de l’application.
     image: Frederic21/projet_8.png
     finished: false
-    - title: Réalisez une application de voyage
+  - title: Réalisez une application de voyage
     description: Faire une application avec plusieurs pages et effectuer des appels réseaux standards
     image: Frederic21/projet_9.png
     finished: false
-    - title: Créez l’application Reciplease… pour de bons petits plats !
+  - title: Créez l’application Reciplease… pour de bons petits plats !
     description: Sauvegarder des données avec Core Data et utiliser une librairie open cource
     image: Frederic21/projet_10.png
     finished: false
-    - title: Effectuez un stage ou construisez une veille technologique
+  - title: Effectuez un stage ou construisez une veille technologique
     description: Mettre en place un tableau de bord de veille technologique
     image: Frederic21/projet_11.png
     finished: false
-    - title: Réalisez un projet libre à impact social
+  - title: Réalisez un projet libre à impact social
     description: Créer une application iOS ou redigez une présentation qui sera utile pour les prochains eleves
     image: Frederic21/projet_12.png
     finished: false
