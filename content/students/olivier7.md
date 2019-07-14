@@ -23,9 +23,9 @@ date: 2016-10-28 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+objective: Mon objectif est de maîtriser tous les aspects d'un projet.
 
-short_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+short_description: Amateur de voyages et musique. Intéressé par la cybersécurité.
 
 
 # don't touch that
@@ -79,7 +79,7 @@ projects:
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: false
+    finished: true
 
   - title: Intégrez la communauté !
 
@@ -89,7 +89,7 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
-    finished: false
+    finished: true
 
   - title: Aidez MacGyver à sortir !
 
