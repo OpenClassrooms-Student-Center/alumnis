@@ -63,42 +63,84 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: Présentez-vous
 
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-
-    # Image must be here: content/students/yourrepo/project1.png
 
     image: olivier7/oc_logo.png
 
     link: https://www.linkedin.com/in/olivier-loustaunau-03583216b/
 
-    # 'true' makes it fully available.
-
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: Intégrez la communauté
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
     image: olivier7/oc_logo.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/olivier7.html
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à sortir
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
     image: olivier7/oc_logo.png
 
-    link: https://www.github.com
+    link: https://github.com/Cosmopanda/
 
     finished: false
+    
+    - title: Analysez les besoins de votre client pour son groupe de pizzerias
+
+    description: Analyse UML des besoins clients et rédaction des spécificités fonctionnelles.
+
+    image: olivier7/oc_logo.png
+
+    link: https://github.com/Cosmopanda/
+
+    finished: false
+    
+    - title: Utilisez les données publiques de l'OpenFoodFacts
+
+    description: Collecte de données Open Source en utilisant l'API public.
+
+    image: olivier7/oc_logo.png
+
+    link: https://github.com/Cosmopanda/
+
+    finished: false
+
+    - title: Concevez la solution technique d’un système de gestion de pizzeria
+
+    description: Cenception de l'architecture technique, et rédaction des documents associés.
+
+    image: olivier7/oc_logo.png
+
+    link: https://github.com/Cosmopanda/
+
+    finished: false
+ 
+    - title: Créez GrandPy Bot, le papy-robot
+
+    description: Création d'un bot répondant à des questions consommant des API et utilisant Flask.
+
+    image: olivier7/oc_logo.png
+
+    link: https://github.com/Cosmopanda/
+
+    finished: false
+    
+    - title: Créez une plateforme pour amateurs de Nutella
+
+    description: Développement d'une plateforme avec Django sur cahier des charges client.
+
+    image: olivier7/oc_logo.png
+
+    link: https://github.com/Cosmopanda/
+
+    finished: false    
 
 ---
