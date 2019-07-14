@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: olivierloustaunau
+title: olivier7
 
 
 # First name or full name
@@ -51,7 +51,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: olivierloustaunau.jpg
+image: olivier7.jpg
 
 
 # Change this to True when you do you pull request.
@@ -71,9 +71,9 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: olivier7/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/olivier-loustaunau-03583216b/
 
     # 'true' makes it fully available.
 
