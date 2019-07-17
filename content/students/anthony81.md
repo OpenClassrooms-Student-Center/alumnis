@@ -52,9 +52,4 @@ projects:
     image: anthony81/ar_p3.png
     link: https://www.github.com/AnthoRdev/jesuisgyver
     finished: true
-  - title: "Pizza d'OC"
-    description: Quand la description sera faite, le projet sera fini !
-    image: anthony81/ar_p4.png
-    link: https://www.github.com/AnthoRdev/
-    finished: false
 ---
