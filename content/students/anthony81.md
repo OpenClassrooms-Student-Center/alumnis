@@ -45,6 +45,16 @@ projects:
   - title: J'integre la communauté !
     description: Fork du projet Open Source des Alumnis d'OpenClassrooms. De quoi comprendre comment Git et Github fonctionnent. Et si tout va bien j'y ferai 12 Pull Request en tout.
     image: anthony81/ar_github.png
-    link: https://github.com/StudioLaPomme/alumnis
+    link: https://github.com/AnthoRdev/alumnis
     finished: true
+  - title: "Je suis Gyver", aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame. Auto-proclamé le meilleur jeu depuis une longue série de flop. 
+    image: anthony81/ar_p3.png
+    link: https://github.com/AnthoRdev/jesuisgyver
+    finished: true
+  - title: "Pizza d'OC"
+    description: Quand la description sera faite, le projet sera fini !
+    image: anthony81/ar_p4.png
+    link: https://github.com/AnthoRdev/
+    finished: false
 ---
