@@ -47,12 +47,12 @@ projects:
     image: anthony81/ar_github.png
     link: https://github.com/StudioLaPomme/alumnis
     finished: true
-  - title: "Je suis Gyver", aidez MacGyver à sortir !
+  - title: \"Je suis Gyver\", aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame. Auto-proclamé le meilleur jeu depuis une longue série de flop. 
     image: anthony81/ar_p3.png
     link: https://www.github.com/AnthoRdev/jesuisgyver
     finished: true
-  - title: "Pizza d'OC"
+  - title: \"Pizza d'OC\"
     description: Quand la description sera faite, le projet sera fini !
     image: anthony81/ar_p4.png
     link: https://www.github.com/AnthoRdev/
