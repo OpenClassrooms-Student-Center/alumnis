@@ -13,7 +13,7 @@ date: 2019-07-17 20:45
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me reconvertir en dévelopeur Java.
-short_description: 
+short_description: J'aime les nouvelles technologies et suis toujours à l'affut de nouveaux défis.
 
 # don't touch that
 template: students
@@ -44,7 +44,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests. 
     image: Benoit42/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/Benoit42.md
     finished: true
