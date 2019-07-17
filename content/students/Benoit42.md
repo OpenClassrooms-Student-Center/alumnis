@@ -45,7 +45,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests. 
-    image: Benoit42/projet_2.png
+    image: Benoit42/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/Benoit42.md
     finished: true
 ---
