@@ -42,14 +42,4 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: J'integre la communauté !
-    description: Fork du projet Open Source des Alumnis d'OpenClassrooms. De quoi comprendre comment Git et Github fonctionnent. Et si tout va bien j'y ferai 12 Pull Request en tout.
-    image: anthony81/ar_github.png
-    link: https://github.com/StudioLaPomme/alumnis
-    finished: true
-  - title: "Je suis Gyver", aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame. Auto-proclamé le meilleur jeu depuis une longue série de flop. 
-    image: anthony81/ar_p3.png
-    link: https://www.github.com/AnthoRdev/jesuisgyver
-    finished: true
 ---
