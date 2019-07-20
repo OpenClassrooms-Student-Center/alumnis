@@ -20,7 +20,7 @@ short_description: J'aime les voyages, la cuisine et je pratique le badminton.
 # don't touch that
 template: students
 description:
-J'ai 29 ans et je vis à Paris. J'ai postulé pour en parcours python pour exercer un métier qui me plaît.
+    J'ai 29 ans et je vis à Paris. J'ai postulé pour en parcours python pour exercer un métier qui me plaît.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
