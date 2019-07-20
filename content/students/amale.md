@@ -8,20 +8,19 @@ title: amale
 
 # First name or full name
 name: Amale
-date: 2019-07-17 10:00
+date: 2019-07-20 11:42
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeuse d'application Java.
-short_description: Bloggueuse à mes heures perdues, je suis aussi passionnée par l'Asie et tout ce qui touche de près ou de loin à la Corée du Sud !
+short_description: Bloggeuse à mes heures perdues, je suis aussi passionnée par la culture sud-coréenne.
 
 # don't touch that
 template: students
 description:
-    Après un an d'expérience dans l'humanitaire, je me lance un défi de taille,
-    celui d'intégrer le monde du développement en me spécialisant dans le développement d'application Java. 
-    N'y connaissant rien, cela ne m'arrête pas pour autant, je suis même plus motivée que jamais.
-   
+    Après un an d'expérience dans l'humanitaire notamment au Maroc, je me lance
+    aujourd'hui, à l'âge de 27 ans, un défi de taille celui d'intégrer le monde du 
+    développement en me spécialisant dans le développement d'application Java.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -46,4 +45,9 @@ projects:
     image: amale/projet_2.png
     link: https://github.com/idrissiamale/alumnis.git
     finished: true
- ---
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: amale/projet_3.jpg
+    link: https://www.imdb.com/title/tt0088559/
+    finished: true
+---
