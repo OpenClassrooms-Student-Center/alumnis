@@ -6,7 +6,6 @@
 # lowercase, no blank space, Capital case or special character.
 title: nicolas21
 
-
 # First name or full name
 name: Nicolas
 date: 2019-07-19 11:11
@@ -36,7 +35,6 @@ description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Image must be here: content/students/yourrepo/project1.png
 image: nicolas21/projet_1.png
 link: https://www.linkedin.com/in/nicolas-s-0a3a139b/
-
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
@@ -45,7 +43,6 @@ description: Modifier un projet Open Source pour comprendre le fonctionnement de
 image: nicolas21/projet_2.png
 link: https://github.com/nicoseng/alumnis
 finished: true
-
 - title: Aidez MacGyver à sortir !
 description: Création d’un jeu développé en Python et utilisant PyGame.
 image: ratus/projet_3.png
