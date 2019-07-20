@@ -2,7 +2,7 @@
 
 # FILENAME : NicolasSengmany
 # Example: https://openclassrooms.com/fr/membres/nicolassengmany
-# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# must be the name of your file. If file name is nicolas21.md, title is nicolas21.
 # lowercase, no blank space, Capital case or special character.
 title: nicolas21
 
@@ -10,7 +10,6 @@ title: nicolas21
 # First name or full name
 name: Nicolas
 date: 2019-07-19 11:11
-
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -41,7 +40,6 @@ link: https://www.linkedin.com/in/nicolas-s-0a3a139b/
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
-
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 image: nicolas21/projet_2.png
