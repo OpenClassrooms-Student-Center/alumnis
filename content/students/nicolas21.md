@@ -43,9 +43,4 @@ description: Modifier un projet Open Source pour comprendre le fonctionnement de
 image: /Users/Nicolas/projects/alumnis/content/images/students/nicolas21/projet_2.png
 link: https://github.com/nicoseng/alumnis
 finished: true
-- title: Aidez MacGyver à sortir !
-description: Création d’un jeu développé en Python et utilisant PyGame.
-image: ratus/projet_3.png
-link: https://www.github.com
-finished: false
 ---
