@@ -2,7 +2,7 @@
 
 # FILENAME : NicolasSengmany
 # Example: https://openclassrooms.com/fr/membres/nicolassengmany
-# must be the name of your file. If file name is nicolas21.md, title is nicolas21.
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: nicolas21
 
