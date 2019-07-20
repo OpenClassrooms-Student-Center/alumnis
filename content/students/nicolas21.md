@@ -17,7 +17,7 @@ short_description: J'aime la cuisine, le badminton et les voyages. J'apprends à
 
 # don't touch that
 template: students
-    description: 
+description:
     Effectuant un métier ne correspondant plus à mes attentes, 
     j’ai décidé de prendre un virage à 180 degrés afin d’exercer un métier où je pourrais m’épanouir.
 
