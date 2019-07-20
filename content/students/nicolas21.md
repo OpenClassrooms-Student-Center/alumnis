@@ -18,7 +18,7 @@ short_description: J'aime les voyages, la cuisine et je pratique le badminton.
 # don't touch that
 template: students
 description:
-J'ai postulé en parcours python pour exercer un métier qui me plait.
+    J'ai postulé en parcours python pour exercer un métier qui me plait.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
