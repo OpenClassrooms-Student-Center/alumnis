@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+    <section id="banner">
+        <div class="black-filter titles">
+            <h1>OpenClassrooms Alumni</h1>
+            <h2>Parcours Développeur-se d'Application</h2>
+        </div>
+    </section>
+
+    <section id="students" class="inset-shadow">
+        <h2>Nos fantastiques étudiants</h2>
+        <div class="container">
+            <div class="row students-row">
+                {% for student in pages if student.public %}
+                    <div class="col-md-4 student-item">
+                        <div class="rounded thumbnail">
+                            <a href="{{ SITEURL }}/students/{{ student.slug }}.html">
+                                <img src="{{ SITEURL }}/images/students/{{ student.image }}"
+                                     class="img-responsive" onerror="imgError(this);">
+                            </a>
+                        </div>
+                        <h3 class="text-center">{{ student.name }}</h3>
+                        <div class="text-justified">{{ student.short_description }}</div>
+                    </div>
+                    {% if loop.index % 3 == 0 %}
+                        </div>
+                        <div class="row  students-row">
+                    {% endif %}
+                {% endfor %}
+                </div>
+        <div id="page_navigation" class="text-center">
+            <ul class="pagination"></ul>
+        </div>
+        </div>
+    </section>
+{% endblock %}
