@@ -16,7 +16,7 @@ short_description: J'apprends à coder pour être plus performant dans mon trava
 # don't touch that
 template: students
 description:
-Je suis passionné par l'informatique depuis tout jeune, je veux coder et apprendre de nouvelles choses.
+    Je suis passionné par l'informatique depuis tout jeune, je veux coder et apprendre de nouvelles choses.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
