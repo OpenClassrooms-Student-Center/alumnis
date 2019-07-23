@@ -75,7 +75,7 @@ projects:
 
   - title: Intégrez la communauté
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
     image: olivier7/oc_logo.png
 
@@ -92,8 +92,8 @@ projects:
     link: https://github.com/Cosmopanda/
 
     finished: false
-    
-    - title: Analysez les besoins de votre client pour son groupe de pizzerias
+
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
 
     description: Analyse UML des besoins clients et rédaction des spécificités fonctionnelles.
 
@@ -102,8 +102,8 @@ projects:
     link: https://github.com/Cosmopanda/
 
     finished: false
-    
-    - title: Utilisez les données publiques de l'OpenFoodFacts
+
+  - title: Utilisez les données publiques de l'OpenFoodFacts
 
     description: Collecte de données Open Source en utilisant l'API public.
 
@@ -113,7 +113,7 @@ projects:
 
     finished: false
 
-    - title: Concevez la solution technique d’un système de gestion de pizzeria
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
 
     description: Cenception de l'architecture technique, et rédaction des documents associés.
 
@@ -122,8 +122,8 @@ projects:
     link: https://github.com/Cosmopanda/
 
     finished: false
- 
-    - title: Créez GrandPy Bot, le papy-robot
+
+  - title: Créez GrandPy Bot, le papy-robot
 
     description: Création d'un bot répondant à des questions consommant des API et utilisant Flask.
 
@@ -132,8 +132,8 @@ projects:
     link: https://github.com/Cosmopanda/
 
     finished: false
-    
-    - title: Créez une plateforme pour amateurs de Nutella
+
+  - title: Créez une plateforme pour amateurs de Nutella
 
     description: Développement d'une plateforme avec Django sur cahier des charges client.
 
