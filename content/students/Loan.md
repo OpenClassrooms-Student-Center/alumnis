@@ -39,13 +39,13 @@ projects:
     description: https://www.linkedin.com/in/loan-tytgat-b890a318b/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: content/images/students/OrionleMJ/Projet1.jpg
+    image: OrionleMJ/Projet1.jpg
     link: https://www.linkedin.com/in/loan-tytgat-b890a318b/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: content/images/students/OrionleMJ/Screen.png
+    image: OrionleMJ/Screen.png
     link: https://github.com/orionewton/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
