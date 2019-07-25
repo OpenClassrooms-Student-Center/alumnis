@@ -27,7 +27,7 @@ description:
 image: photo_frederic42py.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -50,5 +50,5 @@ projects:
   PyGame.  
   - image: content/images/Projet modifié.PNG  
   - link: https://github.com/frederic42py/alumnis
-    finished: false
+    finished: true
 ---
