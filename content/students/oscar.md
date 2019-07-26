@@ -33,22 +33,15 @@ projects:
     description: Premier projet pour s'organiser, se donner des objectifs, mais aussi développer sa visibilité sur les réseaux.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image:  oscar/project1-obj.pdf
-    image:  oscar/project1-cv.pdf
-    image:  oscar/project1-article.pdf
+    image:  oscar/project1.png
     link: https://www.linkedin.com/in/oscar-renier-91694a183/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: oscar/project2-repo.png
-    image: oscar/project2-pr.png
+    image: oscar/project2.png
     link: https://github.com/racso-dev/alumnis
     finished: true
-  - title: Créez votre premier jeu vidéo avec Swift !
-    description: Réaliser un jeu de combat tour par tour avec un cahier des charges à respecter.
-    image: 
-    link:
-    finished: false
+
 ---
