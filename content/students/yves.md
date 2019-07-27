@@ -19,7 +19,7 @@ short_description: yves guillaume étudiant chez openclassrooms.
 template: students
 
 # max 500 characters
-description: Bonjour je fais le parcours développeur python, souhaitant acquérir de nouvelles connaissances, et obtenir une certification valorisante sur mon c.v. j'espere travailler par la suite dans le domaine informatique et plus précisement allié au scientifique, j'espère avoir les capacités.
+description: Bonjour je fais le parcours développeur python, souhaitant acquérir de nouvelles connaissances, et obtenir une certification valorisante sur mon c.v. j'espere travailler par la suite dans le domaine informatique et plus précisement allié au scientifique, j'espère avoir les capacitées.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
