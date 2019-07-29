@@ -33,8 +33,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Qui suis-je ?
+    description: Une alienation entre un technicien de maintenance industrielle destiné à maintenir les TGV en vie, et un curieux qui s'est retrouvé derrière son écran à ouvrir et fermer des balises de codes. Voilà un lien vers mon LinkedIn...
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: anthony81/ar_linkedin_profile.png
@@ -42,14 +42,19 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
-    description: Fork d'un projet Open Source et faire une pull requests. De quoi comprendre comment Git et Github fonctionnent.
+  - title: J'integre la communauté !
+    description: Fork du projet Open Source des Alumnis d'OpenClassrooms. De quoi comprendre comment Git et Github fonctionnent. Et si tout va bien j'y ferai 12 Pull Request en tout.
     image: anthony81/ar_github.png
     link: https://github.com/StudioLaPomme/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: anthony81/projet_3.png
-    link: https://www.github.com
+  - title: \"Je suis Gyver\", aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame. Auto-proclamé le meilleur jeu depuis une longue série de flop. 
+    image: anthony81/ar_p3.png
+    link: https://www.github.com/AnthoRdev/jesuisgyver
+    finished: true
+  - title: \"Pizza d'OC\"
+    description: Quand la description sera faite, le projet sera fini !
+    image: anthony81/ar_p4.png
+    link: https://www.github.com/AnthoRdev/
     finished: false
 ---
