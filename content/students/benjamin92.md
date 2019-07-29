@@ -89,4 +89,14 @@ projects:
     image: benjamin92/projet_11.png
     link: https://github.com/Zepmanbc/oc_dapython_pr11
     finished: true
+  - title: Construisez une veille technologique	
+    description: Présentation des différents moyens mis en oeuvre pour se tenir à jour sur l'actualité et continuer à se former.
+    image: benjamin92/projet_12.png
+    link: https://twitter.com/Zepmanbc
+    finished: true
+  - title: Projet final - Librairie Creopyson	
+    description: Création d'une librairie pour intéragir avec Creoson et le logiciel de 3D paramétrique Creo
+    image: benjamin92/projet_13.png
+    link: https://github.com/Zepmanbc/creopyson
+    finished: true
 ---
