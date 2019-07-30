@@ -34,7 +34,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: lauris/projet_1.jpg
-    link: www.linkedin.com/in/lauris-hebert
+    link: https://www.linkedin.com/in/lauris-hebert/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -43,9 +43,4 @@ projects:
     image: lauris/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/alumnis/students/lauris.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
