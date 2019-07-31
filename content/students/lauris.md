@@ -43,9 +43,9 @@ projects:
     image: lauris/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/alumnis/students/lauris.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Gameplay Studio
+    description: Création d’un jeu développé en Java.
     image: ratus/projet_3.png
-    link: https://www.github.com
+    link: https://github.com/LaurisHebert
     finished: false
 ---
