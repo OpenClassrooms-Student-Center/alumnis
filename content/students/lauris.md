@@ -13,12 +13,12 @@ date: 2019-07-16 14:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre le développement en Java pour en faire mon métier.
-short_description: passioné par la technologie, j'ai déscider de me mettre au code ( de préférance le JAVA )
+short_description: passionné par la technologie, j'ai décidé de me mettre au code (de préférence le JAVA)
 
 # don't touch that
 template: students
 description:
-    Bonjours, je m'appel Lauris, j'ai 27 ans et je suis sur OpenClassRoom pour une formation de développeur Java.
+    Bonjour, je m'appelle Lauris, j'ai 27 ans et je suis sur OpenClassRoom pour une formation de développeur Java.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
