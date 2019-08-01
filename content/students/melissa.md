@@ -13,7 +13,7 @@ date: 2019-08-01 10:02
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me reconvertir professionnellement au développement d'application iOS.
-short_description: J'aime les abeilles, le soleil et la mer. J'apprends à coder pour quitter les codes papiers (droit) pour le code (informatique).
+short_description: J'aime les abeilles, le soleil et la mer. J'apprends à coder pour quitter les codes papiers (droit) et me diriger vers le Code avec un grand C (informatique).
 
 # don't touch that
 template: students
