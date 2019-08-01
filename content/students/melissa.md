@@ -13,7 +13,7 @@ date: 2019-08-01 10:02
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me reconvertir professionnellement au développement d'application iOS.
-short_description: J'aime les abeilles, le soleil et la mer. J'apprends à coder pour quitter les codes papiers (droit) et me diriger vers le Code avec un grand C (informatique).
+short_description: J'aime les abeilles, le soleil et la mer. Je quitte les codes papiers pour le Code avec un grand C.
 
 # don't touch that
 template: students
@@ -49,7 +49,7 @@ projects:
     link: https://openclassrooms-student-center.github.io/alumnis/
     finished: true
 - title: Développez Instagrid !
-    description: Développement d'Instagrid : une application de montage photo.
+    description: Développer Instagrid : une application de montage photo.
     image: melissa-projet_3.jpg
     link: https://github.com
     finished: true
