@@ -8,12 +8,12 @@ title: melissa
 
 # First name or full name
 name: Melissa
-date: 2019-08-01 08:30
+date: 2019-08-01 10:02
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me reconvertir professionnellement en quittant le droit pour l'informatique.
-short_description: J'aime les abeilles, le soleil et la mer. J'apprends à coder pour quitter les codes papiers (droit) au profit du code (informatique).
+objective: Me reconvertir professionnellement au développement d'application iOS.
+short_description: J'aime les abeilles, le soleil et la mer. J'apprends à coder pour quitter les codes papiers (droit) pour le code (informatique).
 
 # don't touch that
 template: students
@@ -38,19 +38,19 @@ projects:
 description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
-image: melissa/projet_1.png
-link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+image: melissa-projet_1.jpg
+link: https://www.linkedin.com/in/glowwaggle/
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-image: melissa/projet_2.png
-link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+image: melissa-projet_2.jpg
+link: https://openclassrooms-student-center.github.io/alumnis/
 finished: true
-- title: Aidez MacGyver à sortir !
-description: Création d’un jeu développé en Python et utilisant PyGame.
-image: ratus/projet_3.png
-link: https://www.github.com
-finished: false
+- title: Développez Instagrid !
+description: Développement d'Instagrid : une application de montage photo.
+image: melissa-projet_3.jpg
+link: https://github.com
+finished: true
 ---
