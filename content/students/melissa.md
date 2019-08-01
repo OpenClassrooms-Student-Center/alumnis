@@ -8,12 +8,12 @@ title: melissa
 
 # First name or full name
 name: Melissa
-date: 2019-08-01 08:10
+date: 2019-08-01 08:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me reconvertir professionnellement en quittant le droit pour l'informatique.
-short_description: J'apprends à coder pour quitter les codes papiers (droit) au profit du code (informatique).
+short_description: J'aime les abeilles, le soleil et la mer. J'apprends à coder pour quitter les codes papiers (droit) au profit du code (informatique).
 
 # don't touch that
 template: students
