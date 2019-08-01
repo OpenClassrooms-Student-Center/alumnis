@@ -48,9 +48,9 @@ projects:
     image: melissa/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/alumnis/
     finished: true
-  - title: Développez Instagrid !
-    description: Développement d'Instagrid : une application de montage photo.
-    image: melissa/projet_3.jpg
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
 ---
