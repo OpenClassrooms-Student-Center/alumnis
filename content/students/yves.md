@@ -1,4 +1,5 @@
 ---
+
 # Example: https://openclassrooms.com/membres/yves-guillaume-1
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
@@ -36,13 +37,13 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: yves/projet_1.png
+    image: yves/projet_1.PNG
     link: https://www.linkedin.com/in/yves-guillaume-5b012018a/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: yves/projet_2.png
+    image: yves/projet_2.PNG
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
@@ -50,4 +51,5 @@ projects:
     image: yves/projet_3.png
     link: https://www.github.com
     finished: true
+
 ---
