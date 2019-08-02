@@ -38,12 +38,18 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: patrice/projet1.PNG
+    link : https://openclassrooms.com
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier le projet Open Source de la communauté OC pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: patrice/projet2.PNG
+    link : https://openclassrooms.com
     finished: true
-
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
