@@ -45,7 +45,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier le projet Open Source de la communauté OC pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: patrice/projet2.PNG
-    link: 
     finished: true
 
 ---
