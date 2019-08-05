@@ -13,10 +13,13 @@ date: 2019-07-31 20:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur d'applications android
+
+# max 100 characters
 short_description: Prendre le contrôle de l'ordinateur.
 
 # don't touch that
 template: students
+
 description:
     Curieux de nature, j'aime créer des choses utiles. 
     Ayant commencé par de petits projets personnels, j'aimerais maintenant me professionaliser.
@@ -30,7 +33,7 @@ description:
 image: patrice.jpg
 
 # Change this to True when you do your pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -42,7 +45,7 @@ projects:
     link : https://openclassrooms.com
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier le projet Open Source de la communauté OC pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: patrice/projet2.png
