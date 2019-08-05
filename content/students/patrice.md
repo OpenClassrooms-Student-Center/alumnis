@@ -21,7 +21,9 @@ description:
     Curieux de nature, j'aime créer des choses utiles. 
     Ayant commencé par de petits projets personnels, j'aimerais maintenant me professionaliser.
     J'espère me plaire dans le monde merveilleux du développement d'applications. 
-	
+
+
+
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -36,19 +38,19 @@ projects:
     description: intégrer les réseaux sociaux d'entreprise.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: patrice/projet1.PNG
+    image: patrice/projet1.png
     link : https://openclassrooms.com
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier le projet Open Source de la communauté OC pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: patrice/projet2.PNG
+    image: patrice/projet2.png
     link : https://openclassrooms.com
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: patrice/projet2.png
     link: https://www.github.com
     finished: false
 ---
