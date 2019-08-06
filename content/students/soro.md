@@ -45,8 +45,8 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: soro/projet_2_1.png
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/compare/master...soro2305:master
     finished: true
   - title:  Mettez votre logique à l'épreuve
     description: Réalisation d’un jeu numérique basé sur le concept des Escape Games.
