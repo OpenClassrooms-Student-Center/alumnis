@@ -4,6 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
+
 title: soro
 
 # First name or full name
@@ -14,6 +15,8 @@ date: 2019-05-06 17:20
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir devellopeur d application java.
 short_description: Soro 32 ans vivant en haute Savoie.
+
+
 
 # don't touch that
 template: students
@@ -30,7 +33,10 @@ description:
 image: ratus.jpg
 
 # Change this to True when you do you pull request.
-public: False
+
+
+public: true
+
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -45,6 +51,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+
     image: soro/projet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
@@ -54,3 +61,4 @@ projects:
     link: https://www.github.com
     finished: false
 ---
+
