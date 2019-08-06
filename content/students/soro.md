@@ -52,4 +52,5 @@ projects:
     description: Réalisation d’un jeu numérique basé sur le concept des Escape Games.
     image: ratus/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: false\
+   ---
