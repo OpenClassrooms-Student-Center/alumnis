@@ -13,7 +13,7 @@ date: 2019-08-15 10:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Etre capable de créer mes outils en JAVA.
-short_description: Curieux et toujours prêt à me lancer dans un nouvel apprentissage : JAVA me voici!
+short_description: Curieux et toujours prêt à me lancer dans un nouvel apprentissage  JAVA me voici!
 
 # don't touch that
 template: students
