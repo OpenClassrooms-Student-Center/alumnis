@@ -17,8 +17,7 @@
 
 # don't touch that
  template: student
- description:
-
+description:
 	J'ai 20ans et je suis depuis tout petit passionné d'informatique ! Plus particulièrement attiré par le développement mobile et donc iOS, je vise à pouvoir pirater tous les téléphones "Apple" à la fin de ma formation ! Merci, au revoir.
 
 # image must be located in content/images/students
@@ -39,7 +38,7 @@
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
  finished: true
- - title: Intégrez la communauté !
+- title: Intégrez la communauté !
  description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
  image: LucasOC/Projet_2.png
  link: https://github.com/LucasGitHubz
