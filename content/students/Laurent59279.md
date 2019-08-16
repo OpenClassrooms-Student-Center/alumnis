@@ -25,14 +25,19 @@ projects:
 
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: Laurent/projet_1.png
+    image: Laurent59279.jpg
     link: http://www.linkedin.com/in/laurent-lasseye-040b3a14b
     finished: true
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: Repo_forke_modifie
     link: https://github.com/lasseye
+    finished: true
+
+  - title: Intégrez la communauté Workplace !
+    description : M'inscrire sur le réseau Workplace
+    image: WorkplaceLaurent59279.jpg
     finished: true
 
 ---
