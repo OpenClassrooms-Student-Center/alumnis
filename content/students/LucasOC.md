@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: LucasOC
+ title: LucasOC
 
 # First name or full name
 name: Lucas 
@@ -16,9 +16,9 @@ objective: Créer des applications en Swift.
 short_description: J'adore le sport, voyager et bien sûr l'informatique. J'espère un jour donner des conseils à mon mentor.
 
 # don't touch that
-template: students
+template: student
 description:
-    J'ai 20ans et je suis depuis tout petit passionné d'informatique ! Plus particulièrement attiré par le développement mobile et donc iOS, je vise à pouvoir pirater tous les téléphones "Apple" à la fin de ma formation ! Merci, au revoir.
+	J'ai 20ans et je suis depuis tout petit passionné d'informatique ! Plus particulièrement attiré par le développement mobile et donc iOS, je vise à pouvoir pirater tous les téléphones "Apple" à la fin de ma formation ! Merci, au revoir.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
