@@ -18,11 +18,8 @@ short_description: J'aime passionnément mon métier,  le développement tout au
 # don't touch that
 template: students
 description:
-    Après une carrière riche dans les services de l'Etat, je voudrais me faire plaisir.
-    C'est-à-dire, échapper à cette verticalité du pouvoir dans laquelle j'ai évolué,
-    pour fréquenter un milieu où la compétence et ce que l'on peut apporter à l'oeuvre commune 
-    est l'essentiel. Bien que récente, ma découverte du codage a été une sorte de révélation: 
-    ce sujet, que je croyais réservé aux scientifiques m'était accessible. 
+    Après une riche carrière, je voudrais me faire plaisir avec une nouvelle activité.
+    Le développement informatique, que je croyais réservé aux scientifiques m'était accessible. 
     J'ai donc décidé de me lancer avec OC.
 
 # image must be located in content/images/students
