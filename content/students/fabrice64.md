@@ -24,7 +24,6 @@ description:
     est l'essentiel.
     Bien que récente, ma découverte du codage a été une sorte de révélation: ce sujet, que je croyais
     réservé aux scientifiques m'était accessible. J'ai donc décidé de me lancer avec OC.
-	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: fabrice64.jpg
