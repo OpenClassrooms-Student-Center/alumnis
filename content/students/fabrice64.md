@@ -21,8 +21,8 @@ description:
     Après une carrière riche dans les services de l'Etat, je voudrais me faire plaisir.
     C'est-à-dire, échapper à cette verticalité du pouvoir dans laquelle j'ai évolué,
     pour fréquenter un milieu où la compétence et ce que l'on peut apporter à l'oeuvre commune 
-    est l'essentiel. Bien que récente, ma découverte du codage a été une sorte de révélation: ce sujet, que je croyais
-    réservé aux scientifiques m'était accessible. J'ai donc décidé de me lancer avec OC.
+    est l'essentiel. Bien que récente, ma découverte du codage a été une sorte de révélation: 
+    ce sujet, que je croyais réservé aux scientifiques m'était accessible. J'ai donc décidé de me lancer avec OC.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: fabrice64.jpg
