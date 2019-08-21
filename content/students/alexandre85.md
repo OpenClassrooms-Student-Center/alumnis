@@ -12,13 +12,15 @@ date: 2019-08-21 15:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Obtenir des compétences afin de pouvoir faire de la POO et être prestataire informatique (entreprise réseau/devellopement).
+objective: Obtenir des compétences afin de pouvoir faire de la POO 
+    et être prestataire informatique (entreprise réseau/devellopement).
 short_description: J'aime les blagues vaseuses, l'informatique en général et la littérature. 
 
 # don't touch that
 template: students
 description:
-    Je m'appelle Alexandre, j'ai 29 ans et toutes mes dents. Après avoir travaillé dans le domaine du réseau pendant quelques années, 
+    Je m'appelle Alexandre, j'ai 29 ans et toutes mes dents. Après avoir travaillé dans le domaine 
+	du réseau pendant quelques années, 
 	je souhaite desormais m'attaquer au devellopement d'applications JAVA.
 
 # image must be located in content/images/students
@@ -40,7 +42,8 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github 
+	et des pull requests. 
     image: alexandre85/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/alexandre85.html
     finished: false
