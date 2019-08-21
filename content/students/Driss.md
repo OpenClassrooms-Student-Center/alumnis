@@ -20,7 +20,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: drissrais/Capture3.PNG
+    image: content/images/students/Lien linkedin frederic42py.PNG
     link: https://OpenclassroomsStudent-Center/alumnis/pull/76
     finished: true
 ---
