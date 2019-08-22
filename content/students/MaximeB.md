@@ -34,7 +34,7 @@ projects:
     description: Autodidacte passionné par la création numérique.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: maximeB.jpg
     link: https://linktr.ee/maxup
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
