@@ -28,7 +28,7 @@ description:
 image: alexandre85.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -46,6 +46,6 @@ projects:
 	et des pull requests. 
     image: alexandre85/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/alexandre85.html
-    finished: false
+    finished: true
  
 ---
