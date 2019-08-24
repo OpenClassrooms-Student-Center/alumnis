@@ -54,7 +54,7 @@ projects:
     image: alexandre35/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
-    finished: false
+    finished: true
 
   - title: Aidez MacGyver à sortir !
 
