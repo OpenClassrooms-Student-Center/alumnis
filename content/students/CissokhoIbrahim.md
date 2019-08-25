@@ -1,3 +1,5 @@
+﻿---
+
 FILENAME : https://openclassrooms.com/membres/ibrahimcissokho
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
@@ -52,4 +54,6 @@ Profil Likedin:
 Github et des pull requests: 
     image: cissokho/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/CissokhoIbrahim.html
-    finished: false
+    finished: true
+
+---
