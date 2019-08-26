@@ -30,7 +30,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre l'utilisation de Git, Github et des pull requests.
     image: eddy/projet2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/iSayan-Flow/alumnis
     finished: true
   - title: Créez votre premier jeu vidéo !
     description: Comprendre et utiliser la programmation orientée objet. Implémenter un programme Swift.
