@@ -28,11 +28,7 @@ description:
 image: alexandre85.png
 
 # Change this to True when you do you pull request.
-<<<<<<< HEAD
 public: true
-=======
-public: True
->>>>>>> cb0039a6f66a685ab91157d9c5296de50a4bde46
 
 # You need to keep the exact same structure for each new project.
 projects:
