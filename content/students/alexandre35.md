@@ -7,7 +7,7 @@
 title: alexandre35
 
 # First name or full name
-name: Alexandre CUFFEL
+name: Alexandre Cuffel
 date: 2019-08-21 11:00
 
 # One line.
@@ -18,8 +18,7 @@ short_description: D'aucuns ont des aventures, je suis une aventure.
 # don't touch that
 template: students
 description:
-    Si vous avez compris ma description courte, vous comprendrez que j'aime le cinéma, mais aussi les voyages, la lecture, le  sport et bien sûr les nouvelles technologies. 
-    A 30 ans et après de nombreuses expériences professionnels, j'ai enfin trouver un métier qui me permettra de développer ma curiosité, d'acquérir de nouvelles compétences et de pouvoir choisir des projets qui incarnent mes valeurs.
+    Si vous avez compris ma description courte, vous comprendrez que j'aime le cinéma, mais aussi les voyages, la lecture, le  sport et bien sûr les nouvelles technologies. A 30 ans et après de nombreuses expériences professionnels, j'ai enfin trouver un métier qui me permettra de développer ma curiosité, d'acquérir de nouvelles compétences et de pouvoir choisir des projets qui incarnent mes valeurs.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -44,9 +43,4 @@ projects:
     image: alexandre35/projet_2.png
     link: https://github.com/miscuff/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
