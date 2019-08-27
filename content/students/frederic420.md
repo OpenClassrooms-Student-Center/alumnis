@@ -7,7 +7,7 @@
 title:frederic420
 
 # First name or full name
-name: Frederic Guillaumin
+name:frederic420
 date: 2019-08-27 21:55
 
 # One line.
