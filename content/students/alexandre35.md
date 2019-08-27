@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: alexandre35/projet_2.png
-    link: https://github.com/miscuff/alumnis
+    link: https://github.com
     finished: true
-    
+
 ---
