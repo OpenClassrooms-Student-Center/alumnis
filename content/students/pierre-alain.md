@@ -48,6 +48,6 @@ projects:
   - title: Intégrez la communauté !
     description: modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: pierre-alain/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/peasch/alumnis
     finished: true
 ---
