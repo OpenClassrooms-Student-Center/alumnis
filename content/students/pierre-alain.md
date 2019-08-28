@@ -22,9 +22,7 @@ short_description: J'ai travaillé 15 ans dans l'alimentaire, je veux travailler
 # don't touch that
 template: students
 description:
-    Passioné d'informatique et tout ce qui touche aux nouvelles technologies,
-	j'y reviens après 15 années passées en boulangerie pâtisserie.
-	Las de travailler avec mes mains, je veux utiliser ma tête pour créer, dans le virtuel
+    Passioné d'informatique et tout ce qui touche aux nouvelles technologies, j'y reviens après 15 années passées en boulangerie pâtisserie. Las de travailler avec mes mains, je veux utiliser ma tête pour créer, dans le virtuel
 
 
 # image must be located in content/images/students
