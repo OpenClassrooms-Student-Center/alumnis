@@ -40,23 +40,16 @@ projects:
     finished: true
   - title: Intègrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-<<<<<<< HEAD:content/students/alexandre35.md
     image: alexandre35/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/alexandre35.html
     finished: true
   - title: Aidez MacGyver à sortir !
-=======
     image: alexandre5/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/alexandre5.html
     finished: true
   - title: Aidez Mac Gyver à s'en tirer
->>>>>>> 4f0d807700e42e8f8675e8c771a780ba103a502c:content/students/alexandre5.md
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
-<<<<<<< HEAD:content/students/alexandre35.md
 ---
-=======
----
->>>>>>> 4f0d807700e42e8f8675e8c771a780ba103a502c:content/students/alexandre5.md
