@@ -40,6 +40,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-
+ - title: Intégrez la communauté OC
+    description: Copie d'une capture d'écran de mon Repository
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/students/yourrepo/project1.png
+    image: fabrice64/project2_modified_repository.png
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
 
 ---
