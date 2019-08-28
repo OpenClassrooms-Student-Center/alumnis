@@ -7,8 +7,8 @@
 title: alexandre5
 
 # First name or full name
-name: Alexandre Cuffel
-date: 2019-08-21 11:00
+name: Alexandre CUFFEL
+date: 2019-09-28 09:56
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -41,7 +41,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: alexandre5/projet_2.png
-    link: https://github.com
+    link: https://openclassrooms-student-center.github.io/presentation/students/alexandre5.html
     finished: true
-
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
