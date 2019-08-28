@@ -8,7 +8,7 @@ title: alexandre35
 
 # First name or full name
 name: Alexandre CUFFEL
-date: 2019-09-28 09:56
+date: 2019-09-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -29,7 +29,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez vous ! 
+  - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
@@ -38,16 +38,12 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intègrez la communauté !
+  - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: alexandre35/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/alexandre35.html
     finished: true
   - title: Aidez MacGyver à sortir !
-    image: alexandre5/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/alexandre5.html
-    finished: true
-  - title: Aidez Mac Gyver à s'en tirer
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
