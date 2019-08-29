@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Créer un RPG tour par tour sans interface graphique.
-    image: 
+    image: MaximeB/projet3.png
     link: https://www.github.com
     finished: false
 ---
