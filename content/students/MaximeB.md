@@ -23,7 +23,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: maximeB.jpg
+image: MaximeB/maximeB.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -34,7 +34,7 @@ projects:
     description: Autodidacte passionné par la création numérique.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: maximeB.jpg
+    image: MaximeB/maximeB.jpg
     link: https://linktr.ee/maxup
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
