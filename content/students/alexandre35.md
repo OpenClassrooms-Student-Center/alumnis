@@ -15,6 +15,7 @@ date: 2019-09-28 17:20
 objective: Devenir développeur d'application python en freelance.
 short_description: D'aucuns ont des aventures, je suis une aventure.
 
+
 # don't touch that
 template: students
 description:
@@ -24,12 +25,15 @@ description:
     développer ma curiosité, d'acquérir de nouvelles compétences et de pouvoir choisir des projets 
     qui incarnent mes valeurs.
 
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: alexandre35.jpg
 
+
 # Change this to True when you do you pull request.
 public: True
+
 
 # You need to keep the exact same structure for each new project.
 projects:
