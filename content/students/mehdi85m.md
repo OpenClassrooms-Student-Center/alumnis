@@ -85,7 +85,7 @@ projects:
 
     image: mehdi85m/project2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+   link: https://github.com/mehdi-monfort/alumnis
 
     finished: true
 
