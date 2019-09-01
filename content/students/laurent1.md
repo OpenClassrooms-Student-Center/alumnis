@@ -8,21 +8,29 @@ title: laurent1
 
 # First name or full name
 name: laurent
-date: 2019-08-31 16:19
+date: 31-08-2019 15:14
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: devenir  développeur  d’application ios.
-short_description:  J'aime la navigations, l'informatique, passer des moment en familles.
+objective: devenir expert  developpeur d'appliaction ios.
+
+# max 100 characters
+short_description: j'aime la navigations, l'informatique, la cuisine.
 
 # don't touch that
 template: students
+
+# max 500 characters
 description:
-Aller plus loin dans cette aventure que je viens de débuter...
+Aujourd’hui je suis en reconversion professionnelle dans le secteur du numérique en tant que développeur iOS
+car je suis fan d'Apple.
+Mon projet professionnel de travailler à distance dans une entreprise éditrice de logicielle dans laquelle
+je pourrai progresser.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: laurent1/laurent1.png
+# max size: 200ko
+image: laurent1.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -30,19 +38,22 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
 - title: Présentez-vous !
-description:Une présentation de moi-même et un lien vers mon LinkedIn.
-Bonjour.
-Pendant un certain nombre d’années, j’ai occupé différents postes dans la logistique et le transport.
-J'ai développé ma persévérance, mon efficacité, ainsi que mon sens du dialogue ce qui me permet de m’intégrer rapidement et de m’adapter à un nouvel environnement.     
+# max 100 characters
+description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/images/students/yourrepo/project1.png
-image: laurent1/laurent1.png    
+image: laurent1/laurent1.png
 link: https://www.linkedin.com/in/laurent-heneman-877340190/
-# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+# 'true' makes it public. If 'false', then it will not show on the website.
 finished: true
 - title: Intégrez la communauté !
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-image: laurent1/laurent1.png
-link: https://github.com/lmhpro974/alumnis
+description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+image:laurent1/laurent1.png
+link:https://openclassrooms-student-center.github.io/presentation/students/lauren1.html
 finished: true
+- title: Aidez MacGyver à sortir !
+description: Création d’un jeu développé en Python et utilisant PyGame.
+image: ratus/projet_3.png
+link:  https://github.com/lmhpro974/alumnis
+finished: false
 ---
