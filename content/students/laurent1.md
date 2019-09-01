@@ -7,13 +7,13 @@
 title: laurent1
 
 # First name or full name
-name: laurent1
+name: laurent
 date: 2019-08-31 16:19
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: 
-mon objectif  est de devenir expert en développement dans la création d’application mobiles ios.
+objective: devenir  développeur  d’application ios.
+short_description:  J'aime la navigations, l'informatique, passer des moment en familles.
 
 # don't touch that
 template: students
@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
 - title: Présentez-vous !
-description:
+description:Une présentation de moi-même et un lien vers mon LinkedIn.
 Bonjour.
 Pendant un certain nombre d’années, j’ai occupé différents postes dans la logistique et le transport.
 J'ai développé ma persévérance, mon efficacité, ainsi que mon sens du dialogue ce qui me permet de m’intégrer rapidement et de m’adapter à un nouvel environnement.     
@@ -43,6 +43,6 @@ finished: true
 - title: Intégrez la communauté !
 description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 image: laurent1/laurent1.png
-link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+link: https://github.com/lmhpro974/alumnis
 finished: true
 ---
