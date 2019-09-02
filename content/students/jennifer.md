@@ -48,9 +48,4 @@ projects:
     image: jennifer/projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/jennifer/projet_2.png
     finished: true
-  - title: Mettez votre logique à l'épreuve
-    description: Apprentissage des bases en Java.
-    image: jennifer/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
