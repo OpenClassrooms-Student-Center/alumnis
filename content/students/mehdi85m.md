@@ -12,7 +12,7 @@ date: 2019-08-31 20:34
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: entamer ma reconversion professionnel
-short_description: J'aime l'informatique et tout ce qui attrait aux nouvelles technologies.
+short_descriptin: Après mettre familiarisé en autodidacte à différents languages (html, javascript, C) je souhaite me perfectionner en python pour un jour travailler en data analyse/ machine learning en fonction de mes capacités et des possibilités qui s'ouvrirons à moi.
 
 # don't touch that
 template: students
@@ -26,7 +26,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: mehdi85m.jpg
+image: mehdi85m.png
 
 # Change this to True when you do you pull request.
 public: True
