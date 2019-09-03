@@ -8,7 +8,7 @@ title: Laurent Lasseye
 
 # First name or full name
 name: Laurent Lasseye
-date: 16 août 2019 - 10h10  
+date: 2019-08-16 10:10  
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
