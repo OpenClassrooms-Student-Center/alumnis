@@ -13,14 +13,14 @@ date: 2019-08-31 12:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur Java
-short_description: En pleine reconversion professionnel suite à 10 ans en tant qu'Aide-soignant
+short_description: En pleine reconversion professionnelle suite à 10 ans en tant qu'Aide-soignant
 
 # don't touch that
 template: students
 description:
     J'habite à Poissy et j'ai 30 ans. J'aime la moto, la musique et la bonne bouffe.
     Je m'adonne de temps en temps à la lecture et au tir sportif.
-    Je suis en pleine reconversion professionnel et j'ai choisi Java comme nouvelle
+    Je suis en pleine reconversion professionnelle et j'ai choisi Java comme nouvelle
     mue car j'ai peur des serpents.
 
 # image must be located in content/images/students
@@ -42,12 +42,12 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre Git, Github et les pulls requests. 
     image: mathieud92/projet2.png
-    link: 
-    finished: false
+    link: https://github.com/MathieuDutheil/alumnis
+    finished: true
   - title: Création d'un Escape game
-    description: 
+    description: Utiliser les concepts fondamentaux de Java afin de créer un Escape Game.
     image: mathieud92/projet3.png
     link: 
     finished: false
