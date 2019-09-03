@@ -15,18 +15,13 @@ date: 16 août 2019 - 10h10
 objective: Réussir ma formation diplômante pour démarrer un nouvelle carrière !
 
 # max 100 characters
-short_description: Je suis un touche-à-tout ! J'aime le bricolage, le jardinage, le théâtre,
-la plongée sous-marine, la voile et bien evidemment l'informatique.
+short_description: Je suis un touche-à-tout ! J'aime le bricolage, le jardinage, le théâtre, la plongée sous-marine, la voile et bien evidemment l'informatique.
 
 # don't touch that
 template: students
 
 # max 500 characters
-description:
-	Après 27 ans de bons et loyaux services dans le domaine de la protection de
-	l'enfance, j'ai décidé à 51 ans de tourner la page du social pour
-	m'orienter dans l'informatique. J'ai choisi la formation développeur d'applications
-	option JAVA. Et je suis très heureux d'intégrer la communauté OpenClassrooms.
+description: Après 27 ans de bons et loyaux services dans le domaine de la protection de l'enfance, j'ai décidé à 51 ans de tourner la page du social pour m'orienter dans l'informatique. J'ai choisi la formation développeur d'applications option JAVA. Et je suis très heureux d'intégrer la communauté OpenClassrooms.
     
 
 # image must be located in content/images/students
