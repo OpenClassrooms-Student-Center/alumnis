@@ -23,7 +23,7 @@ date: 2019-08-27 18:17
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective:Devenir le meilleur des développeurs.
+objective: Devenir le meilleur des développeurs.
 
 short_description: Je suis les cours sur Openclassrooms car ils sont très complet.
 
