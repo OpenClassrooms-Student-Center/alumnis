@@ -18,12 +18,7 @@ short_description: J'apprends à coder pour me faire une nouvelle jeunesse et ai
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je suis passionné par l'informatique et les nouvelles technologies, au jour d'aujourd'hui par pure hasard je me suis laissé tenter par la découverte du codage et ceci est devenue enfin ma vocation.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -35,7 +30,7 @@ public: true
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Je suis actuellement en formation en développeur d’application Python chez Openclassrooms. Mais également en plein reconversion professionnel après plusieurs années dans le monde du transport et de la logistique, j'ai trouvé par pure hasard ma vocation dans le codage. Je suis un grand passionné par le digital et les nouvelles technologies qui apparaissent chaque jour. N’hésitez pas donc à me solliciter via le lien de ma page LinkedIn ici en bas et je suis prêt à échanger sur tous les sujets.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Jeyasiri/projet_1.png
