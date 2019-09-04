@@ -1,6 +1,6 @@
 ---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
+# FILENAME: please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
@@ -40,7 +40,7 @@ projects:
   - title: Intégrez la communauté !
 	description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 	image: laurent17/project_2.png
-	link:https://github.com/lmhpro974/alumnis
+	link: https://github.com/lmhpro974/alumnis
 	finished: true
   - title: Aidez MacGyver à sortir !
 	description: Création d’un jeu développé en Python et utilisant PyGame.
