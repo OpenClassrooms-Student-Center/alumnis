@@ -63,7 +63,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: isma45/projet_1.png
+    image: isma45/projet_1.PNG
 
     link: https://www.linkedin.com/in/isma%C3%ABl-ouali-86b3a3192/
 
@@ -77,7 +77,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: isma45/projet_2.png
+    image: isma45/projet_2.PNG
 
     link: https://github.com/Aamsi/alumnis
 
