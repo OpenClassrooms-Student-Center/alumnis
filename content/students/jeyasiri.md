@@ -7,7 +7,7 @@
 title: LAVANIYAN
 
 # First name or full name
-name: Lavaniyan
+name: LAVANIYAN Jeyasiri
 date: 2019-09-04 19:20
 
 # One line.
