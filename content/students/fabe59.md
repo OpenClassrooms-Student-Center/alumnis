@@ -13,6 +13,7 @@ date: 2019-09-05 09:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Reconversion
+short_description: J'aime le code.
 
 # don't touch that
 template: students
