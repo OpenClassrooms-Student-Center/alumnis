@@ -4,25 +4,30 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: yann69
+title: emmanuel92
 
 # First name or full name
-name: yann
-date: 2018-11-08 12:05
+name: Emmanuel
+date: 2019-01-28 11:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Faire du Dev Java mon métier!!!
-short_description: Futur Dev !
+objective: Apprendre à coder en Java !
+short_description: J'aime la Formule1, les jeux vidéos, l'informatique et ma femme.
 
 # don't touch that
 template: students
 description:
-    J'ai choisi une reconversion après des années passés à travailler dans un domaine qui ne me plaisait pas.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: yann69.png
+image: emmanuel92.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -32,20 +37,20 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/images/students/yann69/projet_1.png
-    image: yann69/projet_1.png
-    link: www.linkedin.com/in/yann-caberas-335679174
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: emmanuel92/project_1.png
+    link: https://www.linkedin.com/in/emmanuel-marcel-3726ab29
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: yann69/projet_2.png
-    link: https://openclassrooms-student-center.github.io/alumnis/students/yann69.html
+    image: emmanuel92/project_2.png
+    link: https://github.com/EMarcel92/alumnis.git
     finished: true
-  - title: Mettez votre logique à l'épreuve
-    description: Réalisation d’un jeu numérique basé sur le concept des Escape Games.
-    image: yann69/projet_3.png
-    link: https://www.github.com
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame. 
+    image: ratus/project_3.png
+    link: https://github.com/
     finished: false
 ---
