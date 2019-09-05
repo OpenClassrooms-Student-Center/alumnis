@@ -1,10 +1,10 @@
-﻿---
+---
 
 # FILENAME : dahanitshak
 # Example: https://openclassrooms.com/fr/membres/dahanitshak
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: dahanitshak
 
 # First name or full name
 name: Dahan simon
@@ -24,8 +24,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: /content/images/students/dahanitshak/itshakdahan
-
+image: /content/images/students/itshakdahan
 # Change this to True when you do you pull request.
 public: False
 
@@ -40,7 +39,6 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/dahanitshak.html
     finished: false
 ---
