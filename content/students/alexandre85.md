@@ -25,7 +25,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: alexandre85.png
+image: content/images/students/alexandre85.png
 
 # Change this to True when you do you pull request.
 public: true
