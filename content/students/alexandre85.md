@@ -45,7 +45,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github 
 	et des pull requests. 
     image: content/images/students/alexandre85/projet2.png
-    link: https://openclassrooms-student-center.github.io/alumnis/students/alexandre85.html
+    link: https://github.com/Alextreme27/alumnis-1
     finished: true
  
 ---
