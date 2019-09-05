@@ -18,13 +18,8 @@ short_description: J'aime le code et...le code. Mais j'aime aussi (trop?) les su
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    Bonjour je m'appelle Fabrice. Après 12 ans dans le secteur paramédical comme infirmier, ma passion pour le développement     informatique m'a orientée vers une reconversion. Depuis septembre 2019, j'ai donc débuté une formation de développeur       Python avec Openclassrooms.
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: fabe59.jpg
