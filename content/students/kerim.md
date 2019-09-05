@@ -8,22 +8,16 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 
 # lowercase, no blank space, Capital case or special character.
-
-title: ratus
-
+title: kerim
 
 # First name or full name
-
 name: Kerim
-
 date: 2019-08-27 18:17
 
-
 # One line.
-
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective:Devenir le meilleur des développeurs.
+objective: Devenir le meilleur des développeurs.
 
 short_description: Je suis les cours sur Openclassrooms car ils sont très complet.
 
@@ -32,14 +26,7 @@ short_description: Je suis les cours sur Openclassrooms car ils sont très compl
 template: students
 
 description:
-
-Ayant récemment commencé ma formation j’aspire a faire d’énormes progrès et à ne jamais abandonner.
-
-Le métier de développeur est très intéressent, un domaine dans lequel on ne peut pratiquer seulement lorsque l’on aime ce que l’on fait.
-
-C’est une chance qui s’offre à moi les cours sont géniaux et les autres étudiants nous apportent leur aides.
-
-De plus, les développeur sont en effet très recherché par les entreprises.
+    Ayant récemment commencé ma formation j’aspire a faire d’énormes progrès et à ne jamais abandonner.  Le métier de développeur est très intéressent, un domaine dans lequel on ne peut pratiquer seulement lorsque l’on aime ce que l’on fait.  C’est une chance qui s’offre à moi les cours sont géniaux et les autres étudiants nous apportent leur aides.  De plus, les développeur sont en effet très recherché par les entreprises.
 
 # image must be located in content/images/students
 
@@ -76,19 +63,11 @@ link: https://openclassrooms.com/fr/projects/38/project-evaluation
 
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-finished: true
-
-- title: Intégrez la communauté !
-
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-
-image: Kerim/projet_2.png
-
-
-link: https://openclassrooms.com/fr/projects/151/project-evaluation
-
-finished: true
-
-
+projects:
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: Kerim/projet_2.png
+    link: https://openclassrooms.com/fr/projects/151/project-evaluation
+    finished: true
 ---
 
