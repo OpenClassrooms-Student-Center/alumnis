@@ -42,7 +42,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: fabe59/projet_2.png
     link: https://github.com/Fabe59/alumnis
-    finished: true
+    finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: fabe59/projet_3.png
