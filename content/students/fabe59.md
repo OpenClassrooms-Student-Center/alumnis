@@ -33,7 +33,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: fabe59/projet_1.pnghttps://www.linkedin.com/in/fabrice-pringuet-5a55b796/
+    image: fabe59/projet_1.png
+    link: https://www.linkedin.com/in/fabrice-pringuet-5a55b796/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
