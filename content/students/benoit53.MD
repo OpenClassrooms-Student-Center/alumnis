@@ -23,7 +23,7 @@ date: 2019-09-06 09:30
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir développeur.
+objective: Devenir dÃ©veloppeur.
 
 short_description: Sapeur-Pompier volontaire, j'aime le sport et les bonnes choses.
 
@@ -34,10 +34,10 @@ template: students
 
 description:
 
-    Je m'appelle Benoit et je vis en Mayenne. Auparavant responsable logistique dans l'agro-alimentaire, je suis en reconversion professionnel pour devenir développeur d'application Java.
-	Je me suis donc inscrit au parcour de développeur d'application Java et j'ai commencé le 02 septembre 2019.
-	J'aspire à devenir un bon développeur et toujours à niveau.
-	Hâte de pouvoir intégrer la communauté du développement et de rencontrer beaucoup de monde.
+    Je m'appelle Benoit et je vis en Mayenne. Auparavant responsable logistique dans l'agro-alimentaire, je suis en reconversion professionnel pour devenir dÃ©veloppeur d'application Java.
+	Je me suis donc inscrit au parcour de dÃ©veloppeur d'application Java et j'ai commencÃ© le 02 septembre 2019.
+	J'aspire Ã  devenir un bon dÃ©veloppeur et toujours Ã  niveau.
+	HÃ¢te de pouvoir intÃ©grer la communautÃ© du dÃ©veloppement et de rencontrer beaucoup de monde.
 
 
 # image must be located in content/images/students
@@ -56,9 +56,9 @@ public: False
 
 projects:
 
-  - title: Présentez-vous !
+  - title: PrÃ©sentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une prÃ©sentation de moi-mÃªme et un lien vers mon LinkedIn.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -74,7 +74,7 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: IntÃ©grez la communautÃ© !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
