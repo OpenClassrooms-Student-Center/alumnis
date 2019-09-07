@@ -13,7 +13,7 @@ date: 2019-08-21 01:38
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Reconversion professionnelle.
-short_description: J'aime les voyages, le Paris Saint-Germain, les festivals et boire :p.
+short_description: J'aime les voyages, le Paris Saint-Germain, la musique.
 
 # don't touch that
 template: students
