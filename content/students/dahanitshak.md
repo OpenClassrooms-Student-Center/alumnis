@@ -24,7 +24,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: /content/images/students/itshakdahan
+image: /content/images/students/itshakdahan.png
 # Change this to True when you do you pull request.
 public: True
 
@@ -32,7 +32,7 @@ public: True
 projects:
   - title: Définissez votre stratégie d'apprentissage !
     description: Mise en place d'un environement de travail pour resussir la formation le mieux possible et un lien vers mon LinkedIn.
-    Image: /content/images/students/dahanitshak/projet1
+    image: /content/images/students/dahanitshak/projet1.png
     link: https://www.linkedin.com/in/simon-dahan-68438b18b/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
