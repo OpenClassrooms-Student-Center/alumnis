@@ -12,7 +12,7 @@ date: 2019-05-11 22:37
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Réussir ma formation et faire partie de ce monde de grands développeurs informatiques.
+objective: Comprendre le développement informatique et créer des applis.
 
 # max 100 characters
 short_description: Je m'appelle Abdoulaye, j'aime les enfants, la guitare, mais aussi les codes informatiques. je déteste l'injustice.
