@@ -15,7 +15,8 @@ date: 2019-05-11 22:37
 objective: Comprendre le développement informatique et créer des applis.
 
 # max 100 characters
-short_description: Je m'appelle Abdoulaye, j'aime les enfants, la guitare, mais aussi les codes informatiques. je déteste l'injustice.
+short_description: je mintéresse à l'informatique, l'environnement et 
+   je pense que le premier peut être utile aux deuxième.
 
 # don't touch that
 template: students
