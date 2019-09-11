@@ -16,7 +16,11 @@ title: pierre44
 
 name: pierre
 
+<<<<<<< HEAD
 date: 2019-09-11 14:00
+=======
+date: 2019-09-10 17:00
+>>>>>>> 20984ba5cb201dc660faddb305d806761b7b5167
 
 
 # One line.
