@@ -64,7 +64,7 @@ projects:
     image: benjamin92/projet_6.png
     link: https://github.com/Zepmanbc/oc_dapython_pr6
     finished: true
-  - title: Créez GrandPy Bot, le papy-robot 🤖 👴
+  - title: Créez GrandPy Bot, le papy-robot
     description: Utilisation des API Google maps et Wikipedia.
     image: benjamin92/projet_7.png
     link: https://github.com/Zepmanbc/oc_dapython_pr7

@@ -47,5 +47,3 @@ projects:
     image: alexandre85/projet2.png
     link: https://github.com/Alextreme27/alumnis-1
     finished: true
- 
----

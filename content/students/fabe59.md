@@ -4,33 +4,28 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: jeanfi
+title: fabe59
 
 # First name or full name
-name: Jeanfi
-date: 2018-11-21 17:10
+name: Fabrice
+date: 2016-09-05 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Code pour le plaisir et pour un nouveau futur.
-short_description: Changer, profiter et avancer avec les gens que l'on aime et des personnes a decouvrir.
+objective: Réussir ma reconversion
+short_description: J'aime le code et...le code. Mais j'aime aussi (trop?) les sushis et la confiture de fraises.
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    Bonjour je m'appelle Fabrice. Après 12 ans dans le secteur paramédical comme infirmier, ma passion pour le développement     informatique m'a orientée vers une reconversion. Depuis septembre 2019, j'ai donc débuté une formation de développeur       Python avec Openclassrooms.
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Jeanfi.jpg
+image: fabe59.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -38,20 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: jeanfimh/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: fabe59/projet_1.png
+    link: https://www.linkedin.com/in/fabrice-pringuet-5a55b796/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: jeanfimh/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: fabe59/projet_2.png
+    link: https://github.com/Fabe59/alumnis
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: jeanfimh/projet_3.png
+    image: fabe59/projet_3.png
     link: https://www.github.com
     finished: false
-
 ---
