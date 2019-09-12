@@ -25,7 +25,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: content/images/students/alexandre85.png
+image: alexandre85/alexandre85.png
 
 # Change this to True when you do you pull request.
 public: true
@@ -36,15 +36,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: content/images/students/alexandre85/projet1.png
+    image: alexandre85/projet1.png
     link: https://www.linkedin.com/in/alexandre-barre/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: content/images/students/alexandre85/projet2.png
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github 
+	et des pull requests. 
+    image: alexandre85/projet2.png
     link: https://github.com/Alextreme27/alumnis-1
     finished: true
- 
----
