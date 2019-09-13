@@ -79,7 +79,7 @@ projects:
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: false
+    finished: True
 
   - title: Intégrez la communauté !
 
