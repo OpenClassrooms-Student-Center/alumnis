@@ -40,4 +40,4 @@ projects:
     image: davidchosrova/project_2.png
     #link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
---- 
+---
