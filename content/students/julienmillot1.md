@@ -5,12 +5,12 @@
 title: Julien
 
 # First name or full name
-name: Ratus
+name: Julien
 date: 2019-09-13 15:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Vivre de ma passion.
 short_description: J'aime le sport,le cinéma et les jeux-vidéos
 
 # don't touch that
@@ -36,14 +36,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: julienmillot1/projet_1.png
+    image: https://github.com/Jilvo/alumnis/blob/master/content/images/students/julienmillot1/Projet_1.png
     link: https://www.linkedin.com/in/julien-millot/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: julienmillot1/projet_2.png
+    image: https://github.com/Jilvo/alumnis/blob/master/content/images/students/julienmillot1/Projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/julienmillot1.html
     finished: true
   - title: Aidez MacGyver à sortir !
