@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: louisdavid
+title: louis-davidferal
 
 # First name or full name
 name: Louis-David
@@ -13,7 +13,7 @@ date: 2019-09-01 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur Full-Stack.
-short_description: Après plus de 15 ans à travailler dans l'informatique en tant qu'Admin systèmes,
+short_description: Après plus de 15 ans à travailler dans l'informatique en tant qu'Administrateur systèmes,
 j'ai décidé de m'orienter vers le développement...
 
 # don't touch that
@@ -25,7 +25,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: louisdavid.png
+image: louis-davidferal.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -37,7 +37,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
