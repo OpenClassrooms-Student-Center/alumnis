@@ -37,7 +37,7 @@ public: true
 projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: https://github.com/Jilvo/alumnis/blob/master/content/images/students/davidchosrova/projet_2.png
+    image: davidchosrova/projet_2.png
     #link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
 --- 
