@@ -8,7 +8,7 @@ title: davidchosrova
 
 # First name or full name
 name: davidchosrova
-date: 2019-15-09 22:20
+date: 2019-09-15 22:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
