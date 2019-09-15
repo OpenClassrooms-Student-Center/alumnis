@@ -31,13 +31,13 @@ description:
 image: davidchosrova.png
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: davidchosrova/projet_2.png
+    image: https://github.com/Jilvo/alumnis/blob/master/content/images/students/davidchosrova/projet_2.png
     #link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
 --- 
