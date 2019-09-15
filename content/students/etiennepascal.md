@@ -33,7 +33,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définissez votre stratégie d'apprentissage !
-    description : j'ai fait ma présentation et j'ai crée mon profil linkedin
+    description : j'ai fait ma présentation et j'ai crée mon profil linkedin.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: etiennepascal/passy.jpg
@@ -46,4 +46,19 @@ projects:
     link: https://github.com/Lephyton/alumnis
     finished: True
   
+  # You need to keep the exact same structure for each new project.
+projects:
+  - title: Aidez MacGyver à s'échapper !
+    description : Création d’un jeu développé en Python et utilisant PyGame.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/students/yourrepo/project1.png
+    image: etiennepascal/p_pro_3.PNG
+    link: https://www.linkedin.com/in/etienne-pascal-nfon-woume-299a9045
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+  - title: Aidez MacGyver à s'échapper !
+    description: Création d’un jeu développé en Python et utilisant PyGame. 
+    image: etiennepascal/p_pro_3.PNG
+    link: https://github.com/Lephyton/projet_3
+    finished: True
 ---
