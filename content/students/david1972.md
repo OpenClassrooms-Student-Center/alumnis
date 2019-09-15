@@ -38,6 +38,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: david1972/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    #link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
 --- 
