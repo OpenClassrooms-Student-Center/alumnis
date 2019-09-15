@@ -14,7 +14,7 @@ date: 2019-15-11 17:20
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Learn Python, and web development.
 short_description: Already working in IT for some years, always been intersted in programming 
-    now it is time to have a try !!!! 
+    now it is time to have a try  
 
 # don't touch that
 template: students
