@@ -2,10 +2,10 @@
 
 # FILENAME : julienmillot1.
 
-title: Julien
+title: Julienmillot1
 
 # First name or full name
-name: Julien
+name: Julien Millot
 date: 2019-09-13 15:20
 
 # One line.
