@@ -12,12 +12,13 @@ date: 2019-09-01 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur Full-Stack.
-short_description: Après plus de 15 ans à travailler dans l'informatique en tant qu'Administrateur systèmes,
-j'ai décidé de m'orienter vers le développement...
+short_description: >
+    Après plus de 15 ans à travailler dans l'informatique en tant qu'Administrateur systèmes,
+    j'ai décidé de m'orienter vers le développement...
 
 # don't touch that
 template: students
-description:
+description: >
     Je pense que dans l'informatique, l'avenir appartient aux développeurs.
     Estimant avoir fait le tour de mon job, il est donc temps pour moi de me lancer dans un nouveau challenge, 
     et surtout de faire quelque chose que j'ai toujours eu envie de faire depuis de longues années.
