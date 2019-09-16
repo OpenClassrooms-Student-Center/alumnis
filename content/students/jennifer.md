@@ -24,6 +24,7 @@ description:
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -48,10 +49,10 @@ projects:
     image: jennifer/projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/jennifer/projet_2.png
     finished: true
-    - title: Mettez votre logique à l'épreuve
-     description: Mettre en oeuvre les concepts fondamentaux de la programmation en Java. 
-     image: jennifer/projet_3.png
-     link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/jennifer/projet_3.png
-     finished: false
+  - title: Mettez votre logique à l'épreuve
+    description: Mettre en oeuvre les concepts fondamentaux de la programmation en Java. 
+    image: jennifer/projet_3.png
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/jennifer/projet_3.png
+    finished: false
      
 ---
