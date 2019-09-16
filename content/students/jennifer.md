@@ -53,4 +53,5 @@ projects:
      image: jennifer/projet_3.png
      link: https://github.com/OpenClassrooms-Student-Center/alumnis/tree/master/content/images/students/jennifer/projet_3.png
      finished: false
+     
 ---
