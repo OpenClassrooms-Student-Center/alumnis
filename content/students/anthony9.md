@@ -26,7 +26,7 @@ m'attire autant que l'art !
 # name should be the same as this file. Eg: celinemartinet.png
 image: anthony9.jpg
 
-# Change this to True when you do you pull request.
+# Change this to True when you do your pull request.
 public: False
 
 # You need to keep the exact same structure for each new project.
@@ -41,7 +41,7 @@ link:
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
 - title: Intégrez la communauté !
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 image: ratus/projet_2.png
 link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 finished: true
