@@ -20,7 +20,7 @@ template: students
 description:
     Acteur et chanteur de formation, j'aime la culture et m'exporter à l'étranger. J'entreprends cette formation de développeur
     pour m'ouvrir à de nouveaux horizons et mieux profiter de la vie. J'aime jongler avec l'intangible, voilà pourquoi le code
-m'attire autant que l'art !
+    m'attire autant que l'art !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
