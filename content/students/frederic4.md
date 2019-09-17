@@ -23,7 +23,7 @@ template: students
 
 # max 500 characters
 description:
-    Je suis frédéric pour test
+    Je m'appelle Frederic. Après des années d'hésitation, je me lance enfin dans l'aventure du développement informatique avec Python. Cette formation enrichissante, me permettra de pouvoir développer des applis pros et persos.  
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
