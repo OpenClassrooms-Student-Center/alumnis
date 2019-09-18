@@ -36,7 +36,6 @@ projects:
   - title: The Pychaser !
     description: 
         Designer et web enthousiate en quête du titre de PyMaster!
-        LinkedIn: https://https://www.linkedin.com/in/wesleyvanitou
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: wesley/projet_1.jpeg
