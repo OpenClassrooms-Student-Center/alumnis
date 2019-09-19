@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Wesley
+title: wesley
 
 # First name or full name
 name: Wesley Vanitou
@@ -33,9 +33,9 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: The Pychaser !
-    description: 
-        Designer et web enthousiate en quête du titre de PyMaster!
+  - title: Définissez votre stratégie d'apprentissage !
+    description:
+        Découverte de stratégie pour apprendre plus vite. 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: wesley/projet_1.jpeg
@@ -43,10 +43,9 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Penfinity
+  - title: Intégrez la communauté OpenClassrooms !
     description:
-        Créer une plateforme d'apprentissage sur la création d'image via les
-        logiciels open-source.
+        Apprentissage de Git. Outil vraiment fun!
     image: wesley/projet_2.png
     link: https://www.penfinity.com
     finished: true
