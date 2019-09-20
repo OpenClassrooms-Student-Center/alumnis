@@ -15,10 +15,9 @@ short_description: Chef de cuisine j'ambitionne de faire du développement mon n
 
 template: students
 
-    description:
+description:
 
-    Je travail en cuisine depuis 13 ans et j'ai envie de changer de métier. J'aime trouver les solutions aux problèmes auquels je suis confrontés et comprendre le fonctionnement de ce qui m'entoure. Le développement est clairement dans cette continuité de pensée. Je suis aussi très motivé par la perspective de pouvoir travailler de chez moi ou de n'importe ou dans le mond e via télétravail.
-
+Je travail en cuisine depuis 13 ans et j'ai envie de changer de métier. J'aime trouver les solutions aux problèmes auquels je suis confrontés et comprendre le fonctionnement de ce qui m'entoure. Le développement est clairement dans cette continuité de pensée. Je suis aussi très motivé par la perspective de pouvoir travailler de chez moi ou de n'importe ou dans le mond e via télétravail.
 
 
 # image must be located in content/images/students
