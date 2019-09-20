@@ -14,18 +14,12 @@ objective: Me reconvertir dans le développement pour pouvoir travailler et voya
 short_description: Chef de cuisine j'ambitionne de faire du développement mon nouveau métier.
 
 template: students
-
 description:
-
-Je travail en cuisine depuis 13 ans et j'ai envie de changer de métier. J'aime trouver les solutions aux problèmes auquels je suis confrontés et comprendre le fonctionnement de ce qui m'entoure. Le développement est clairement dans cette continuité de pensée. Je suis aussi très motivé par la perspective de pouvoir travailler de chez moi ou de n'importe ou dans le mond e via télétravail.
-
+    Je travail en cuisine depuis 13 ans et j'ai envie de changer de métier. J'aime trouver les solutions aux problèmes auquels je suis confrontés et comprendre le fonctionnement de ce qui m'entoure. Le développement est clairement dans cette continuité de pensée. Je suis aussi très motivé par la perspective de pouvoir travailler de chez moi ou de n'importe ou dans le mond e via télétravail.
 
 # image must be located in content/images/students
-
 # name should be the same as this file. Eg: celinemartinet.png
-
 image: projet_1.jpg
-
 
 # Change this to True when you do you pull request.
 
