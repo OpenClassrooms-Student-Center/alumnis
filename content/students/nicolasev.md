@@ -17,8 +17,7 @@ short_description: J'aime le sport, la lecture, le cinéma, les mangas et les je
 
 # don't touch that
 template: students
-description:    Bonjour je m'appelle Nicolas Evangelista, j'habite à bordeaux, j'ai 26 ans et je suis étudiant en 
-Développement d'application - Java chez OpenClassrooms.
+description:    Bonjour je m'appelle Nicolas Evangelista, j'habite à bordeaux, j'ai 26 ans et je suis étudiant en Développement d'application - Java chez OpenClassrooms.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
