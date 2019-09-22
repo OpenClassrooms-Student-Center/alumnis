@@ -15,7 +15,7 @@ date: 2019-09-17 17:20
 objective: Passer d'amatrice à professionnelle de l'informatique.
 
 # max 100 characters
-short_description: Ancienne spécialiste de droit et de fiscalité, j'aime le code sous toutes ses formes !
+short_description: Ancienne spécialiste de fiscalité et de droit, j'aime le code sous toutes ses formes !
 
 # don't touch that
 template: students
@@ -25,8 +25,8 @@ description:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    consequat. En principe à partir d'ici plus personne ne lit, si tu es encore
+    là, bravo à toi, je t'offre un carambar virtuel.Excepteur sint occaecat cupidatat 
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
@@ -51,11 +51,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/sophie.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
