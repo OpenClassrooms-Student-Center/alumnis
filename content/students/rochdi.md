@@ -34,7 +34,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Alexandre/project_1.png
+    image: rochdi/project_1.png
     link: https://www.linkedin.com/in/rochdi-ben-abdeljelil-02382139/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
