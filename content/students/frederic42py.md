@@ -4,29 +4,30 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: amodogbe
+title: frederic42py
 
 # First name or full name
-name: amo
-date: 2019-01-25 12:51
+name: frederic
+date: 2019-07-08 19:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Perfectionner mes compétences acquises en Programmation, pour me permettre plus tard 
-    d’avoir toutes les connaissances requis pour être un bon Développeur.
-short_description: J'aime bien tout ce qui touche à l'imaginaire, l'invisible, les mangas..
+objective: Comprendre et apprendre le fonctionnement du développement informatique afin de suivre l'évolution numérique 
+            et de développer des applications.
+               
 
 # don't touch that
 template: students
 description:
-    Jeune voulant apprendre à programmer :)
+   Suivant depuis des années de loin le développement informatique, j'ai enfin décidé d'ouvrir la porte et de me lancer dans 
+   l'aventure. J'ai choisi Python par intuition, qui me permettra de pouvoir développer des applications utiles. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: amoni.jpg
+image: photo_frederic42py.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -34,19 +35,20 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: amonisaka/projet_1.png
-    link: https://www.linkedin.com/in/amonidogbe0ur22
+    image: content/images/students/Lien linkedin frederic42py.PNG
+    link: https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-guillaumin-135097108/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: amonisaka/projet_2.png
-    link: https://github.com/AmoSkuurt/alumnis
+    image: content/images/Projet modifié.PNG
+    link: https://github.com/frederic42py/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: amonisaka/projet_3.png
-    link: https://www.github.com
-    finished: false
+  - title: Aidez MacGyver à sortir ! 
+    description: Création d'un jeu développé en Python et utilisant 
+  PyGame.  
+  - image: content/images/Projet modifié.PNG  
+  - link: https://github.com/frederic42py/alumnis
+    finished: true
 ---

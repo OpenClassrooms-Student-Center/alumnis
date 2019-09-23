@@ -34,7 +34,8 @@ template: students
 
 description:
 
-    Devenir développeur d'applications Android est le but ultime de mes ambitions créatives, ayant déjà étudié tous les autres domaines (traditionnels et modernes) il ne me restait plus que celui-ci et je compte bien en faire un métier. Passionné de culture en tout genre (surtout cinéma et jeux-vidéos) je suis déterminé à y arriver.
+    Suivant depuis des années de loin le développement informatique, j'ai enfin décidé d'ouvrir la porte et de me lancer dans 
+   l'aventure. J'ai choisi Python par intuition, qui me permettra de pouvoir développer des applications utiles.
 
 
 # image must be located in content/images/students

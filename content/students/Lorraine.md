@@ -46,5 +46,5 @@ projects:
     description: Création d'un jeu pour tester la logique.
     image: lorraine/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: true
 ---

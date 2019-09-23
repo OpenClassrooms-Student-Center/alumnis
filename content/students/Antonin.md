@@ -10,8 +10,8 @@ short_description: J'aime l'informatique, les jeux vidéo et les animés japonai
 
 template: students
 description:
-    Après un an de DUT GEII et un an de DUT R&T inachevés, je me tourne vers ma passion qu'est le dévelloppement pour en faire mon métier.
-
+    Suivant depuis des années de loin le développement informatique, j'ai enfin décidé d'ouvrir la porte et de me lancer dans 
+   l'aventure. J'ai choisi Python par intuition, qui me permettra de pouvoir développer des applications utiles.
 image: Antonin.png
 
 public: True
