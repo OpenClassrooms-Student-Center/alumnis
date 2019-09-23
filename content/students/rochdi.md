@@ -17,7 +17,7 @@ short_description: J'aime l'entrepreuneuriat, la technologie, les voyages, la le
 # don't touch that
 template: students
 description:
-    Dans ma vie j'ai fais plein de choses, j'ai tenté beaucoup d'aventures différentes, certaines se sont déroulée comme je l'attendais, 
+     J'ai tenté beaucoup d'aventures différentes, certaines se sont déroulée comme je l'attendais, 
     d'autres ont pris une tournure inattendue, toutes m'ont appris quelque chose ! Comme je connais pas  l'informatique je me lance 
     un nouveau defi. 
 
