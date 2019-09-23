@@ -13,7 +13,7 @@ date: 2019-09-21 22:42
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur python/Django.
-short_description: Informaticien en evolution de carriere.
+short_description: Apres quelques années dans l'intégration logicielle, je passe a la création ;).
 
 # don't touch that
 template: students
