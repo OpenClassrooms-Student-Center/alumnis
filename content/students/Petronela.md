@@ -1,12 +1,11 @@
 ---
 
-title: petronelacondruz
-
-name: Petronela
+title: projet ecole
+name: Moi
 date: 2017-10-13 22:21
 
-objective: Apprendre à programmer. Apprendre tout court.
-short_description: Secrétaire médicale en voie de reconversion.
+objective: Apprendre à programmer. 
+short_description: en voie de reconversion.
 
 template: students
 
@@ -14,7 +13,7 @@ description:
     J'aime la nouvelle techologie au service des gens, l'innovation, le progrès, améliorer les choses.
     J'aime aussi la beauté, les choses simples, la nature et l'humain.
 
-image: Petronela.jpg
+image: 
 public: True
 
 projects:
