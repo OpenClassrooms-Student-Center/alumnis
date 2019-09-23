@@ -7,7 +7,7 @@
 title: alexandre35
 
 # First name or full name
-name: Alexandre CUFFEL
+name: Alex
 date: 2019-09-28 17:20
 
 # One line.
@@ -42,7 +42,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: alexandre35/projet_1.png
-    link: https://www.linkedin.com/in/alexandre-cuffel-97510b47/
+    link: https://github.com/miscuff/alumnis/edit/dev/content/students/alexandre35.md
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
