@@ -43,12 +43,12 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: anthony9/projet_2.png
-    link: https://github.com/anthonymfscott
+    link: https://github.com/anthonymfscott/alumnis
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Implémenter un programme Swift en utilisant la programmation orientée objet.
     image: anthony9/projet_3.png
-    link: https://github.com/anthonymfscott
+    link: https://github.com/anthonymfscott/P3
     finished: false
 ---
 
