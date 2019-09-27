@@ -47,7 +47,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: yohan201/projet_2.jpg
-    link: https://github.com/DYW972/alumnis/pulls
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/1951
     finished: true
 
 ---
