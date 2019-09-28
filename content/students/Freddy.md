@@ -12,8 +12,10 @@ date: 2019-09-25 09:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective:apprendre un nouveau métier.
-short_description: J'aime le cinema,le sport. les jeux vidéo.
+objective:
+    apprendre un nouveau métier.
+short_description:
+    J'aime le cinema,le sport. les jeux vidéo.
 
 # don't touch that
 template: students
