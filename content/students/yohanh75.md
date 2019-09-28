@@ -19,8 +19,8 @@ short_description: Je suis quelqu'un d'énergique et sérieux. Prêt à travaill
 template: students
 description:
     Ayant eu de nombreuses experiences dans la vente et la relation client, je me tourne aujourd'hui vers le monde du numérique.
-    Ayant toujours voulu créer mon propre jeu vidéo et étant fan de l'univers gaming, j'aimerais aboutir à la fin de la formation sur un projet concret.
-    Agé de 25 ans, je suis motivé et très interessé par cette formation. J'aimerais vraiment partager mon savoir, et puiser dans celui de mes camarades.
+    Ayant toujours voulu créer mon propre jeu vidéo et étant fan de l'univers gaming, j'aimerais aboutir à la fin de la formation sur un       projet concret.
+    Agé de 25 ans, je suis motivé et très interessé par cette formation. J'aimerais vraiment partager mon savoir, et puiser dans celui de     mes camarades.
     Bon courage et bonne formation à tous.
 
 # image must be located in content/images/students
