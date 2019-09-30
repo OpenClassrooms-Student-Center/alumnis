@@ -11,12 +11,13 @@ date: 30/09/2019
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Mon objectif est d'occuper le poste de Chef de Projet/Presales Engineer au sein de l'entreprise dans laquelle je suis en alternance, en l'occurrence la startup FlexThings. Si je suis performant, je pourrai obtenir un CDI à la fin de cette formation. Je suis passionné par l'industrie 4.0. Le sujet de la transformation digitale dans l'industrie est très intéressant. 
-L'idée de m’appuyer sur mon background en business, vente, gestion de projet et de continuer à développer de nouvelles compétences en génie logiciel, gestion de la data me motive énormément. 
-De plus je parle couramment anglais ce qui sera très utile dans ma mission car le poste est orienté à l'internationnal. Ma connaisssance du monde de l'industrie me sera précieuse durant la phase d'analyse du besoin client. 
+objective: 
+    Mon objectif est d'occuper le poste de Chef de Projet/Presales Engineer au sein de l'entreprise dans laquelle je suis en alternance, en l'occurrence la startup FlexThings. Si je suis performant, je pourrai obtenir un CDI à la fin de cette formation. Je suis passionné par l'industrie 4.0. Le sujet de la transformation digitale dans l'industrie est très intéressant. 
+    L'idée de m’appuyer sur mon background en business, vente, gestion de projet et de continuer à développer de nouvelles compétences en génie logiciel, gestion de la data me motive énormément. 
+    De plus je parle couramment anglais ce qui sera très utile dans ma mission car le poste est orienté à l'internationnal. Ma connaisssance du monde de l'industrie me sera précieuse durant la phase d'analyse du besoin client. 
 
-Concernant la partie technique nous proposons les solutions PTC Augmented reality, Iot et PLM. Grâce aux compétences techniques que je vais développer durant le parcours Développeur d'applications Java,  je pourrai customiser la solution pour nos clients. Les langages utilisés sont Java, HTML, CSS et un peu de JavaScript. Par ailleurs je dois être capable de faire des tests fonctionnels sur le terrain en compagnie du client. 
-De plus les compétences prévus durant la formation en bases de données SQL, l'architecture logicielle ainsi que utilisation de l'API REST sont également des éléments que je pourrai utilisées durant la mission. Il y a une totale adéquation entre la formation et la mission en entreprise. La mission correspond parfaitement à mon projet professionnel. .
+    Concernant la partie technique nous proposons les solutions PTC Augmented reality, Iot et PLM. Grâce aux compétences techniques que je vais développer durant le parcours Développeur d'applications Java,  je pourrai customiser la solution pour nos clients. Les langages utilisés sont Java, HTML, CSS et un peu de JavaScript. Par ailleurs je dois être capable de faire des tests fonctionnels sur le terrain en compagnie du client. 
+    De plus les compétences prévus durant la formation en bases de données SQL, l'architecture logicielle ainsi que utilisation de l'API REST sont également des éléments que je pourrai utilisées durant la mission. Il y a une totale adéquation entre la formation et la mission en entreprise. La mission correspond parfaitement à mon projet professionnel. .
 
 # don't touch that
 template: students
@@ -30,17 +31,18 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: florent13.png
+
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-  Grâce à cette formation que je vais suivrez en contrat de professionnalisation sur 24 mois, je vais pouvoir de m’appuyer sur mon background en business, vente, gestion de projet et de continuer à développer de nouvelles compétences en génie logiciel, gestion de la data. 
-De plus je parle couramment anglais ce qui sera très utile dans ma mission car le poste est orienté à l'internationnal. Ma connaisssance du monde de l'industrie me sera précieuse durant la phase d'analyse du besoin client. 
-https://www.linkedin.com/in/florent-ros-a530b213a/ 
+    Grâce à cette formation que je vais suivrez en contrat de professionnalisation sur 24 mois, je vais pouvoir de m’appuyer sur mon background en business, vente, gestion de projet et de continuer à développer de nouvelles compétences en génie logiciel, gestion de la data. 
+    De plus je parle couramment anglais ce qui sera très utile dans ma mission car le poste est orienté à l'internationnal. Ma connaisssance du monde de l'industrie me sera précieuse durant la phase d'analyse du besoin client. 
+    https://www.linkedin.com/in/florent-ros-a530b213a/ 
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
