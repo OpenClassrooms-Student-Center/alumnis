@@ -40,7 +40,7 @@ public: true
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Grâce à cette formation que je vais suivre en contrat de professionnalisation sur 24 mois, je vais pouvoir de m’appuyer sur mon background en business, vente, gestion de projet et de continuer à développer de nouvelles compétences en génie logiciel, gestion de la data. 
+    description: Grâce à cette formation que je vais suivre en contrat de professionnalisation, je vais pouvoir de m’appuyer sur mon background en business, vente, gestion de projet et de continuer à développer de nouvelles compétences en génie logiciel, gestion de la data. 
     De plus je parle couramment anglais ce qui sera très utile dans ma mission car le poste est orienté à l'internationnal. Ma connaisssance du monde de l'industrie me sera précieuse durant la phase d'analyse du besoin client. 
     https://www.linkedin.com/in/florent-ros-a530b213a/ 
 
