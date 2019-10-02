@@ -12,7 +12,7 @@ date: 2019-10-01 16:57
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Découvrir un langage de programmation pour de vrai!
 short_description: J'aime les sandwichs et les couleurs pastels.
 
 # don't touch that
