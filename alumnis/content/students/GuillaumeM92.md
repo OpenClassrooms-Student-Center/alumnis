@@ -1,15 +1,36 @@
-
 ---
 
-title: Learning Python
+
+
+# FILENAME : please use your OpenClassrooms's name, available in your url.
+
+# Example: https://openclassrooms.com/membres/celinemartinet
+
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+
+# lowercase, no blank space, Capital case or special character.
+
+title: GuillaumeM92
+
+
+
+# First name or full name
 
 name: Guillaume
 
 date: 2019-10-04 17:01
 
-objective: Devenir développeur Pyhton en freelance.
 
-short_description: Attiré depuis longtemps par la programmation, voilà que je me suis enfin lancé à l'eau, à l'aube de mes 28 ans. Souhaitez-moi bonne chance !
+
+# One line.
+
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+
+objective: Devenir développeur Pyhton et travailler en freelance.
+
+short_description: Voilà je me suis enfin lancé à l'eau pour apprendre la programmation !
+
+
 
 # don't touch that
 
@@ -17,17 +38,11 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Bonjour, je m’appelle Guillaume, j’ai 27 ans, et j’habite dans les Deux-Sèvres (79).
+    Je suis quelqu’un de nature curieuse, qui a besoin d’un équilibre entre travail physique 
+    et travail intellectuel, c’est pourquoi j'ai décidé, en plus de mon activité de jardinier
+    paysagiste à mon compte, de me lancer dans cette formation de développeur Phyton via 
+    OpenClassroom. Alors souhaitez-moi bonne chance !
 
 
 
