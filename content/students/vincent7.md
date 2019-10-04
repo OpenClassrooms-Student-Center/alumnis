@@ -4,10 +4,10 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Vincent7
+title: vincent7
 
 # First name or full name
-name: Vincent7
+name: vincent7
 date: 2019-10-03 16:50
 
 # One line.
@@ -17,7 +17,8 @@ short_description: Geek,Sportif,Musicien.
 # don't touch that
 template: students
 description:
-    Je m'appelle Vincent, j'ai 30 ans et 2 enfants, formateur médical en milieu hospitalier. Je viens d'évoluer en tant qu'analyste développeur avec un plan de formation OPC. Beaucoup de choses peuvent être améliorées dans mon entreprise, et j'espère pouvoir être utile grâce à cette formation.
+    Je m'appelle Vincent, j'ai 30 ans et 2 enfants,
+    formateur médical en milieu hospitalier. Je viens d'évoluer en tant qu'analyste développeur avec un plan de formation OPC. Beaucoup de choses peuvent être améliorées dans mon entreprise, et j'espère pouvoir être utile grâce à cette formation.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: vincent7.jpg
@@ -27,8 +28,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: vincent, 30 ans étudiant developpeur python
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Présentez-vous !
+    description: Je suis Vincent, et j'apprends Python.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: vincent7/projet1.jpg
@@ -36,7 +37,7 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-    - title: Intégrez la communauté !
+  - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: vincent7/projet2.jpg
     link: https://github.com/Vinke-dev/alumnis
