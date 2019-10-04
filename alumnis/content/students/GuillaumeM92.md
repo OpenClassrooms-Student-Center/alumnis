@@ -1,37 +1,15 @@
 
 ---
 
-
-
-# FILENAME : please use your OpenClassrooms's name, available in your url.
-
-# Example: https://openclassrooms.com/membres/celinemartinet
-
-# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
-
-# lowercase, no blank space, Capital case or special character.
-
 title: Learning Python
-
-
-
-# First name or full name
 
 name: Guillaume
 
 date: 2019-10-04 17:01
 
-
-
-# One line.
-
-# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-
 objective: Devenir développeur Pyhton en freelance.
 
 short_description: Attiré depuis longtemps par la programmation, voilà que je me suis enfin lancé à l'eau, à l'aube de mes 28 ans. Souhaitez-moi bonne chance !
-
-
 
 # don't touch that
 
