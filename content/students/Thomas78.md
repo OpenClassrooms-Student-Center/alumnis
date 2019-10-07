@@ -13,6 +13,7 @@ date: Un certain jour sur une certaine planète à une certaine heure
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: remplacer Batman
+short_description: prendre un café avec superman
 
 # don't touch that
 template: students
@@ -49,5 +50,5 @@ projects:
     description: Le meilleur auteur de Fantasy britannique
     image: Thomas78/Druss.jpg
     link: https://livre.fnac.com/a1133848/Le-cycle-de-Drenai-Legende-David-Gemmell
-    finished: true
+    finished: false
 ---
