@@ -12,7 +12,7 @@ date: 2019-09-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur d'application python en freelance.
+objective: Devenir développeur d'application python.
 short_description: D'aucuns ont des aventures, je suis une aventure.
 
 
@@ -20,10 +20,7 @@ short_description: D'aucuns ont des aventures, je suis une aventure.
 template: students
 description:
     Si vous avez compris ma description courte, vous comprendrez que j'aime le cinéma, mais aussi les
-    voyages, la lecture, le  sport et bien sûr les nouvelles technologies. A 30 ans et après de 
-    nombreuses expériences professionnels, j'ai enfin trouver un métier qui me permettra de 
-    développer ma curiosité, d'acquérir de nouvelles compétences et de pouvoir choisir des projets 
-    qui incarnent mes valeurs.
+    voyages, la lecture, le  sport et bien sûr les nouvelles technologies.
 
 
 # image must be located in content/images/students
@@ -41,15 +38,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: alexandre35/projet_1.png
-    link: https://github.com/miscuff/alumnis/edit/dev/content/students/alexandre35.md
+    image: alexandre35/
+    link: https://www.google.com/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: alexandre35/projet_2.png
-    link: https://github.com/miscuff/alumnis/blob/dev/content/students/alexandre35.md
+    image: alexandre35/
+    link: https://www.google.com/
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
