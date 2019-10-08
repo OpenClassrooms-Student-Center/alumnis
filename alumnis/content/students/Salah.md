@@ -8,7 +8,7 @@ title: Salah
 
 # First name or full name
 name: Salah
-date: 2019-10-07 22:00
+date: 2019-10-08 13:49
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -17,11 +17,10 @@ short_description: J'aime le piano , le soleil et l'espace . Le chocolat je m'en
 
 # don't touch that
 template: students
-description:
-  Salah 19 ans
-   A ce jour , j'entreprend de devenir developpeur junior Python en suivant la formation OC .
-   J'aimerais aussi via cette formation me former au monde du travail , pour pouvoir y excercer par la suite 
-   Voila , j'aime le soleil et les belles femmes ainsi que le sport .
+description: Salah 19 ans,
+A ce jour , j'entreprend de devenir developpeur junior Python en suivant la formation OC .
+J'aimerais aussi via cette formation me former au monde du travail , pour pouvoir y excercer par la suite 
+Voila , j'aime le soleil et les belles femmes ainsi que le sport .
 
 
 # image must be located in content/images/students
@@ -34,18 +33,18 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: J'aime apprendre de nouvelles choses . L'idée de concevoir des sites web et applications me réjouit .
+    description: J'aime apprendre de nouvelles choses . L'idée de concevoir des sites web et applications me réjouis .
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Salah/projet_1.png
+    image: content/students/Salah/projet1.jpg
     link: https://www.linkedin.com/in/salah-taibi-0275aa16b/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: content/images/students/Salah/projet2.jpg
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
