@@ -30,7 +30,7 @@ description:
 image: jerome.jpg
 
 # Change this to True when you do you pull request.
-public: 
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -42,10 +42,10 @@ projects:
     link: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-gu%C3%A8rin-7aa056195/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: True
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: jerome/project2.png
     link: https://github.com/meroje17/alumnis
-    finished: true
+    finished: True
 ---
