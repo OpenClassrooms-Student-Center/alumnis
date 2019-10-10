@@ -14,25 +14,20 @@ date: 2019-10-10 08:59
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un développeur d'application iOS padOS watchOS tvOS et macOS et m'éclater.
 short_description: Passionné par l'environnement Apple, la tech en général et par le milieu de l'automobile.
-Il n'en reste pas moins que j'aime aussi la bonne bouffe...
+    Il n'en reste pas moins que j'aime aussi la bonne bouffe...
 
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    En reconversion professionnelle et passionné depuis toujours par les nouvelles technologies.J'ai soif d'apprendre et me lancer de nouveaux défis.
+    Apprendre le code est pour moi une évidence pour réussir dans le futur et ainsi pouvoir transmettre ce langage qui deviendra incontournable!
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: remybravais.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -40,14 +35,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: remybravais/projet_1.png
+    image: remybravais/projet1.jpg
     link: https://www.linkedin.com/in/rémy-bravais-682b75182/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: remybravais/projet_2.png
+    image: remybravais/projet2.jpg
     link: https://github.com/rembrav/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
