@@ -19,7 +19,7 @@ short_description: J'aime la musique, les jeux en ligne et les randonnées.
 template: students
 description:
     Je suis originaire de Nouvelle-Calédonie, je suis venu en France pour changer completement de
-	métier et de vie, mon objectif et de crée une entreprise dans le monde de la Blockchain.
+    métier et de vie, mon objectif et de crée une entreprise dans le monde de la Blockchain.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
