@@ -12,9 +12,9 @@ date: 2019-10-10 08:59
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir un développeur d'application iOS padOS watchOS tvOS et macOS
+objective: Devenir un développeur d'application iOS padOS watchOS tvOS et macOS et m'éclater.
 short_description: Passionné par l'environnement Apple, la tech en général et par le milieu de l'automobile.
-Il n'en reste pas moins que j'aime aussi BIEN manger et bien boire avec modération.
+Il n'en reste pas moins que j'aime aussi la bonne bouffe...
 
 
 # don't touch that
@@ -29,7 +29,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: remybravais.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -40,15 +40,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: remybravais/projet_1.png
     link: https://www.linkedin.com/in/rémy-bravais-682b75182/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: remybravais/projet_2.png
+    link: https://github.com/rembrav/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
