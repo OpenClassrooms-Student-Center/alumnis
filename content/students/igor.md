@@ -17,10 +17,9 @@ short_description: hobby - lecture, sport, codage, tests de logique
 
 # don't touch that
 template: students
-description:je suis espion russe de KGB.
-	Je suis la pour denicher les secrets de savoir fair francais:)
+description:
+	je suis espion russe de KGB. Je suis la pour denicher les secrets de savoir fair francais:)
     
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: igor.png
@@ -44,9 +43,4 @@ projects:
     image: igor/p2.png
     link: https://github.com/igor-gif
     finished: true
- 
 ---
-
-
-
-
