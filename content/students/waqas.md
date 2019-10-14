@@ -39,7 +39,7 @@ description: Une présentation de moi-même et un lien vers mon LinkedIn.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/students/yourrepo/project1.png
 image: waqas/projet_1.png
-link: linkedin.com/in/waqas-yaqoob-00ab87193 
+link: linkedin.com/in/waqas-yaqoob-00ab87193/ 
 # 'true' makes it fully available.
 # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 finished: true
