@@ -7,7 +7,7 @@
 title: alexandesarouille
 
 # First name or full name
-name: Ratus
+name: Alexandre
 date: 2019-10-14 9:20
 
 # One line.
@@ -18,13 +18,10 @@ short_description: Passionner de code et des nouvelles technologies, je suis tom
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+    Etudiant à openclassroom, je suis le parcours Développeur d'application java.
+    Gros gamer, je passe de longue heurs devant mon écran à jouer tout en perdant la notion
+    du temps. Je suis par la même occasion passioner par la programmation depuis très longtemps
+    et je compte bien en faire ma profession.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: alexandresarouille.jpg
