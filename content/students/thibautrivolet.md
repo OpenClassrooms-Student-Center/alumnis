@@ -12,9 +12,8 @@ template: students
 description:
     Bien que ma faible estime de moi me rende septique
     sur ma capacité à réaliser différant projet
-	elle m’encourage à m’améliorer tous les jours et
-	me motive à assimiler le plus de connaissance et d’expérience possible.
-    
+    elle m’encourage à m’améliorer tous les jours et
+    me motive à assimiler le plus de connaissance et d’expérience possible.
 
 image: thibautrivolet.jpg
 
@@ -36,4 +35,5 @@ projects:
     image: thibautrivolet/projet_3.png
     link: https://www.github.com
     finished: false
+
 ---
