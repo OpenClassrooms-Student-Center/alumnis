@@ -12,8 +12,8 @@ date: 2019-10-10 12:29
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective:Apprendre le code python
-short_description: j'aime le piano, le sport, et découvrir de nouvelles pratiques
+objective: Apprendre le code python
+short_description: J'aime le piano, le sport, et découvrir de nouvelles pratiques
 
 # don't touch that
 template: students
