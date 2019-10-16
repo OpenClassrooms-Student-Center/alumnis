@@ -8,7 +8,7 @@ title: Thomas78
 
 # First name or full name
 name: Thomas
-date: Un jour à une certaine heure quelque part sur cette planète
+date: 1939-04-11 12:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
