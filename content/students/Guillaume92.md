@@ -19,8 +19,7 @@ short_description: Je suis un etudiant sportif. je me suis intéressé au code e
 template: students
 
 
-description:
-    j'ai decouvert le code et le monde de l'informatique en master via le traitement de données sur le logiciel R. 
+description:j'ai decouvert le code et le monde de l'informatique en master via le traitement de données sur le logiciel R. 
 Après mon Master beaucoup de chose me déplaisait dans mon domaine d'étude donc j'ai tourné le page pour me reconvertir dans l'informatique. 
 
 
