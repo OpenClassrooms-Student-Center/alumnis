@@ -8,7 +8,7 @@ title: Thomas78
 
 # First name or full name
 name: Thomas
-date: Un certain jour sur une certaine planète à une certaine heure
+date: Un jour à une certaine heure quelque part sur cette planète
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -21,14 +21,13 @@ description:
     Bah non je vous laissera pas savoir qui je suis ca reste un secret!
 	chut! il faut rien mais en fait...
 	I'm Batman
-   
-
+	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: Thomas78.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -50,5 +49,5 @@ projects:
     description: Le meilleur auteur de Fantasy britannique
     image: Thomas78/Druss.jpg
     link: https://livre.fnac.com/a1133848/Le-cycle-de-Drenai-Legende-David-Gemmell
-    finished: false
+    finished: true
 ---
