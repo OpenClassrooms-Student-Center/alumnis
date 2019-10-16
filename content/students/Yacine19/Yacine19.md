@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: Yacine19
 
 # First name or full name
 name: Yacine
@@ -13,7 +13,7 @@ date: 14 octobre 2019 17:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Je suis ici pour réapprendre à coder et particulièrement en JAVA.
 
 # don't touch that
 template: students
@@ -48,9 +48,9 @@ projects:
     image: Yacine19/projet_2.png
     link: github.com/Yacine-code/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+  - title: Mettre votre logique à l'épreuve!
+    description: Création d’un jeu GameplayStudio
+    
+    
     finished: false
 ---
