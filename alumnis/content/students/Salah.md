@@ -17,11 +17,7 @@ short_description: J'aime le piano , le soleil et l'espace . Le chocolat je m'en
 
 # don't touch that
 template: students
-description: Salah 19 ans,
-A ce jour , j'entreprend de devenir developpeur junior Python en suivant la formation OC .
-J'aimerais aussi via cette formation me former au monde du travail , pour pouvoir y excercer par la suite 
-Voila , j'aime le soleil et les belles femmes ainsi que le sport .
-
+description: Salah 19 ans, a ce jour , j'entreprend de devenir developpeur junior Python en suivant la formation OC . J'aimerais aussi via cette formation me former au monde du travail , pour pouvoir y excercer par la suite . Voila , j'aime le soleil et les belles femmes ainsi que le sport .
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
