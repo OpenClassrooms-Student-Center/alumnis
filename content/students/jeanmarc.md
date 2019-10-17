@@ -18,12 +18,11 @@ short_description: J'aime le piano, le sport, et découvrir de nouvelles pratiqu
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Depuis 35 ans j’ai la chance d’exercer le métier de facteur de piano. Je me suis complètement
+	épanoui dans cette profession mais commence à en avoir fait un peu le tour. En quête de nouveaux
+	savoirs, j’ai pris la décision de m’orienter vers l’informatique de façon sérieuse, 
+	et de suivre un enseignement auprès de personnes compétentes. Mon objectif à long termeest de maitriser
+	les langages informatiques afin d’être en mesure de créer des applications, seul ou en équipe.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -38,19 +37,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: jeanmarc/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: 
+    link: https://www.linkedin.com/in/jeanmarcdesmurs/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: jeanmarc/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: content/images/students/jeanmarc/projet2mod.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/jeanmarc.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: jeanmarc/projet_3.png
-    link: https://www.github.com
+    image: 
+    link: 
     finished: false
 ---
