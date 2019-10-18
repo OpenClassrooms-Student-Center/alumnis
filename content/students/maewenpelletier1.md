@@ -25,37 +25,25 @@ date: 2019-10-01 13:30
 
 objective: Continuer d'acquerir des compétences en developpement Python et valider celles que j'ai actuellement.
 
-short_description: J'aime les nouvelles technologies et les sciences en général, le sport également
+short_description: J'aime les nouvelles technologies et les sciences en général et le sport également
 
 # don't touch that
 
 template: students
 
 description:
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
+    J'ai 23 ans et après une école d'infirmier je me réoriente dans le domaine qui me passionne : l'informatique et la programmation. J'ai rejoins openclassroom dans le but d'acquerrir de nouvelles compétences et de mettre à l'epreuve celles que j'ai déjà.
+    
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: maewen.png
+image: maewenpelletier1.png
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -70,7 +58,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/maewen.png
+    image: maewenpelletier1/projet_1.png
 
     link: https://www.linkedin.com/in/maewen-pelletier/
 
@@ -83,6 +71,11 @@ projects:
   - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+
+    image : maewenpelletier1/projet_2.png
+
+    link : https://github.com/MaewenPell/alumnis
+
 
     finished: true
 
