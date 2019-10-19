@@ -17,7 +17,7 @@ projects:
     image: waqas/project_1.png
     link: https://www.linkedin.com/in/waqas-yaqoob-00ab87193
     finished: true
--  title: Intégrez la communauté !
+-   title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: waqas/project_2.png
     link: https://github.com/OpenClassrooms-Student-Center/alumnis
