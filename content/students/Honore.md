@@ -20,7 +20,7 @@ description: J'ai 22 ans, j'adore la programmation ainsi que les livres.
    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: 
+image: honore/imageProfil.jpg
 
 # Change this to True when you do you pull request.
 public: False
