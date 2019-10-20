@@ -12,8 +12,8 @@ date: 2019-10-20 15:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Me reconvertir et apprendre un nouveau métier et plus tard devenir freelance et crée mes propres applis.
+short_description: J'aime le bricolage les jeux en lignes, faire des vidéo et des montages. Apprendre de nouvelles choses.
 
 # don't touch that
 template: students
@@ -38,15 +38,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: waqas/projet_1.png
-    link: 
+    image: waqas/project_1.png
+    link: https://linkedin.com/in/waqas-yaqoob-00ab87193/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: waqas/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: waqas/project_2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/waqas.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
