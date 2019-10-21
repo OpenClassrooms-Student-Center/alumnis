@@ -24,7 +24,7 @@ description:
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: ThomThom.jpg
@@ -48,6 +48,4 @@ projects:
     image: Thomas52/projet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/Thomas52.html
     finished: true
-
-
-    ---
+---
