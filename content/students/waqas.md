@@ -30,7 +30,7 @@ description:
 image: waqas.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -48,9 +48,5 @@ projects:
     image: waqas/project_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/waqas.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: waqas/projet_3.png
-    link: https://www.github.com
-    finished: false
+  
 ---
