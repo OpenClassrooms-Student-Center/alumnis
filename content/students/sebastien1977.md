@@ -12,8 +12,8 @@ date: 2019-10-12 23:10
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Apprendre à créer de magnifiques applications.
+short_description: J'aime apprendre, créer et developper de nouvelles compétences.
 
 # don't touch that
 template: students
@@ -30,7 +30,7 @@ description:
 image: sebastien1977.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -42,16 +42,16 @@ projects:
     link: https://www.linkedin.com/in/sebastientisonstudiokarma/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: True
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: sebastien1977/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
+    finished: True
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: sebastien1977/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: True 
 ---
 
