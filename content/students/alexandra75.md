@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: yvan
+title: alexandra75
 
 
 # First name or full name
 
-name: Yvan
+name: Alexandra
 
-date: 2018-11-21 11:30
+date: 2019/10/26 21:24
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Apprendre à créer de jolies applications web.
+objective: Devenir web developpeuse Java.
 
-short_description: J'étudie le commerce international aux Pays-Bas et souhaite m'orienter vers l'entrepreneuriat.
+short_description: Full time travail et etudiante.
 
 
 # don't touch that
@@ -34,18 +34,20 @@ template: students
 
 description:
 
-    J'aime bien voyager, même si je n'ai jamais eu l'occasion de quitter l'Europe. 
+    J'adore voyager, une de mes plus grandes passions.
 
-    J'ai commencé mes études supérieures en Autriche, je suis actuellement aux Pays-Bas, et j'espère encore changer bientôt. 
+    Je suis actuellement Seniro Customer Manager.
 
-    J'ai choisi Python car il est dit que ce langage est préférable, avec Ruby, dans le milieu des startups, notament pour prototyper rapidement.
+    J'ai choisi Java car apres un bilan de competence il s'agit d'un langage qui me correspondrait.
+
+    J'espere reussir ce projet 2 !
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: yvan.jpg
+image: alexandra75.jpg
 
 
 # Change this to True when you do you pull request.
@@ -65,9 +67,9 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: yvan/projet_1.png
+    image: alexandra75/projet_1.png
 
-    link: https://www.linkedin.com/in/yvan-curbillon-012028109/
+    link: https://www.linkedin.com/in/alexandra-alsen-dykler-39932b30/
 
     # 'true' makes it fully available.
 
@@ -79,20 +81,11 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: yvan/projet_2.png
+    image: alexandra75/projet_2.png
 
-    link: https://github.com/Yvan8888
-
-    finished: true
-
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: yvan/projet_3.png
-
-    link: https://www.github.com
+    link: https://github.com/alexandraalsendykler
 
     finished: false
+
 
 ---
