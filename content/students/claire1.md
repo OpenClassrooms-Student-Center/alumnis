@@ -18,7 +18,11 @@ short_description: J'aime le sport, les sorties entre amis et famille. J'aspire 
 # don't touch that
 template: students
 description:
-Avant de commencer la formation Développeur d’application - Python sur Open 			Classrooms, j’ai réalisé le concours de l’école 42. C’est durant cette expérience que j’ai 		découvert un monde passionnant. J’aime apprendre et découvrir de nouvelles choses, et c’est ce que je réalise actuellement avec cette formation en ligne. Je suis très motivée à l’idée de réaliser ce projet, et acquérir de nouvelles compétences pour m’améliorer.
+    Avant de commencer la formation Développeur d’application - Python sur Open
+    Classrooms, j’ai réalisé le concours de l’école 42. C’est durant cette expérience 
+    que j’ai découvert un monde passionnant. J’aime apprendre et découvrir de nouvelles 
+    choses, et c’est ce que je réalise actuellement avec cette formation en ligne. 
+    Je suis très motivée à l’idée de réaliser ce projet.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
