@@ -1,4 +1,4 @@
----
+﻿---
 
 # FILENAME : https://openclassrooms.com/fr/membres/teogori
 
@@ -23,7 +23,7 @@ description: Après 2ans et demie j'ai enfin trouver la voie qui me correspond
 image: teogori.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
