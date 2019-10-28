@@ -35,8 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Bonjour, Emmanuel, j'aime l'informatique, la techno et les jeux vidéo et je suis 
-    super motivé par la formation!
+    description: Bonjour, Emmanuel, j'aime l'informatique, la techno et les jeux vidéo
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: emmanuel/vivi.png
@@ -49,5 +48,4 @@ projects:
     image: emmanuel/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/emmanuel.html
     finished: true
-	
 ---
