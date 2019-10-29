@@ -29,7 +29,7 @@ description:
 image: israel.jpg  
 
 # Change this to True when you do you pull request.
-public: true ######
+public: true 
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -37,7 +37,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: israel/projet_1.png
     link:https://www.linkedin.com/in/isra%C3%ABl-aboukrat-32114a196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUUJiPRmfRhartnlCN6yJJA%3D%3D
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
