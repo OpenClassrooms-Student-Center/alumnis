@@ -4,30 +4,29 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: yohan
+title: claire
+
 # First name or full name
-name: yohan solon
-date: 2017-11-10 13:35
+name: Claire
+date: 2019-10-17 16:17
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Relever de nouveaux défis.
-short_description: J'aime les mangas, mon pc et le code.
+objective: Me réorienter, pour apprendre à coder en python.
+short_description: J'aime le sport, les sorties entre amis et famille. J'aspire à devenir développeur.
 
 # don't touch that
 template: students
 description:
-    Je suis yohan SOLON développeur, intégrateur web, j’ai 35 ans et 
-    nouvel étudiant chez OpenClassroom.
-    Je me suis inscrit à cette formation pour acquérir de nouvelles compétences 
-    en développement et aussi avoir le niveau nécessaire pour accéder en master 2 en 2018.
-    Je suis actuellement sans emploi, je me consacre entièrement à mon projet 
-    de reconversion professionnelle, par la même occasion j’ai créé ma micro-entreprise 
-    afin d’acquérir de l’expérience et surtout constituer mon réseau pour plus tard.
+    Avant de commencer la formation Développeur d’application - Python sur Open
+    Classrooms, j’ai réalisé le concours de l’école 42. C’est durant cette expérience 
+    que j’ai découvert un monde passionnant. J’aime apprendre et découvrir de nouvelles 
+    choses, et c’est ce que je réalise actuellement avec cette formation en ligne. 
+    Je suis très motivée à l’idée de réaliser ce projet.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: yohan.png
+image: claire.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -38,19 +37,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: yohan/projet_1.JPG
-    link: https://www.linkedin.com/in/yohan-solon-607604113/
+    image: claire/projet_1.png
+    link: https://linkedin.com/in/claire-dubas/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: yohan/projet_2.jpg
-    https://github.com/milimi974/alumnis/blob/master/content/students/yohan
+    image: claire/projet_2.png
+    link: https://github.com/Claire7514/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.jpg
-    link: https://github.com/milimi974/OpenClassroom/tree/master/projets/projet_3
-    finished: true
+    image: claire/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
