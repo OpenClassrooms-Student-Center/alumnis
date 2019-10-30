@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: israel
 
 # First name or full name
 name: Israel
@@ -12,16 +12,16 @@ date: 2019-10-28 10:40
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Reussir ma formation de developpeur d'applications et site web afin d'avoirs une base solide et de me lancer dans d'autre aprentissage de language .
-short_description: J'aime la musique, me balader, m'amuszer, faire la féte.
+objective: Réussir ma formation de développeur d'applications et site web afin d'avoir une base solide et de me lancer dans d'autre aprentissage de language .
+short_description: J'aime la musique, me balader, m'amuser, faire la féte.
 
 # don't touch that
 template: students
 description:
-       Je m'appel Israel j'ai 17 ans aprés avoirs arreté l'ecole en 4e 
-       et par la suite avoire fait des etude religieuse pandent 3 ans 
-       j'ai decider de me metre a apprendre le developpement d'application
-       et site web.
+       Je m'appel Israel j'ai 17 ans après avoir arrété l'école en 4e 
+       et par la suite avoir fait des études religieuses pandent 3 ans 
+       j'ai décider de me mettre à apprendre le développement d'applications
+       et de site web.
        
 
 # image must be located in content/images/students
