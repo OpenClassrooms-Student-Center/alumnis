@@ -5,9 +5,9 @@ title: Armelle
 
 name: Armelle
 
-date: 2019-10-29 14:52
+date: 2019-10-30 14:52
 
-**objectifs**: Je veux devenir développeur d'applications mobiles iOS .
+objective : Je veux devenir développeur d'applications mobiles iOS .
 short_description: J'ai toujours aimé les langages de programmation et le développement en général.
 # don't touch that
 template: students
