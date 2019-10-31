@@ -2,7 +2,7 @@
 
 # FILENAME : https://openclassrooms.com/fr/membres/teogori
 
-title: projet 2
+title: teo
 
 # First name or full name
 name: Teo
