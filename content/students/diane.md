@@ -4,33 +4,27 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: yohan
+title: diane
+
 # First name or full name
-name: yohan solon
-date: 2017-11-10 13:35
+name: diane
+date: 2019-12-09 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Relever de nouveaux défis.
-short_description: J'aime les mangas, mon pc et le code.
+objective: Commencer une carrière avec un métier nomade et bien payé
+short_description: J'aime la musique, l'activisme et la santé naturelle. J'ai de nombreux projets.  
 
 # don't touch that
 template: students
-description:
-    Je suis yohan SOLON développeur, intégrateur web, j’ai 35 ans et 
-    nouvel étudiant chez OpenClassroom.
-    Je me suis inscrit à cette formation pour acquérir de nouvelles compétences 
-    en développement et aussi avoir le niveau nécessaire pour accéder en master 2 en 2018.
-    Je suis actuellement sans emploi, je me consacre entièrement à mon projet 
-    de reconversion professionnelle, par la même occasion j’ai créé ma micro-entreprise 
-    afin d’acquérir de l’expérience et surtout constituer mon réseau pour plus tard.
-
+description: J'aime l'informatique et la création. 
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: yohan.png
+image: diane.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -38,19 +32,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: yohan/projet_1.JPG
-    link: https://www.linkedin.com/in/yohan-solon-607604113/
+    image: diane/projet_1.png
+    link: https://www.linkedin.com/in/diane-defores-78347910a/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: yohan/projet_2.jpg
-    https://github.com/milimi974/alumnis/blob/master/content/students/yohan
+    image: diane/projet_2.png
+    link: https://github.com/dianedef/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.jpg
-    link: https://github.com/milimi974/OpenClassroom/tree/master/projets/projet_3
-    finished: true
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---

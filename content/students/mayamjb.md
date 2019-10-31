@@ -4,16 +4,17 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: antoinedomergue
+title: mayamjb
 
 # First name or full name
-name: Antoine Domergue
+name: manuella
 date: 2016-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Je souhaite vivre de ma passion et développer mes compétences.
-short_description: Outre l'informatique, j'aime le calme, le café, et les bus qui arrivent à l'heure.
+objective: devenir developpeur python et entrepreuneur
+short_description: 
+    J'aime la danse, les cosmetiques, les voyages. 
 
 # don't touch that
 template: students
@@ -27,10 +28,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Antoine13.jpg
+image: mayamjb.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -38,19 +39,15 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Antoine13/project1.jpg
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: mayamjb/projet_1.png
+    link: https://www.linkedin.com/in/manuella-jenaste-404613173/
+
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Antoine13/project2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: mayamjb/projet_2.png
+    link: https://github.com/Mayamjb
     finished: true
-  - title: Mettez votre logique à l'épreuve
-    description: Mettre en oeuvre les concepts fondamentaux de la programmation en Java
-    image: Antoine13/project3.png
-    link: https://www.github.com
-    finished: false
 ---
