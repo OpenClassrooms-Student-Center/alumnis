@@ -5,7 +5,7 @@
 title: projet 2
 
 # First name or full name
-name: teo
+name: Teo
 date: 2019-10-17 17h30
 
 
@@ -16,7 +16,7 @@ short_description: J'aime le surf et les jeux vidéos, je suis les cours OCR pou
 # don't touch that
 template: students
 
-description: Après 2ans et demie j'ai enfin trouver la voie qui me correspond
+description: Après 2ans et demi j'ai enfin trouvé la voie qui me correspond
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
