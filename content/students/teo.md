@@ -5,7 +5,7 @@
 title: projet 2
 
 # First name or full name
-name: Teo
+name: teo
 date: 2019-10-17 17h30
 
 
@@ -20,7 +20,7 @@ description: Après 2ans et demie j'ai enfin trouver la voie qui me correspond
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: teogori.png
+image: teo.png
 
 # Change this to True when you do you pull request.
 public: True
