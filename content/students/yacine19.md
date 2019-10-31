@@ -31,7 +31,7 @@ description:
 image: yacine19.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
