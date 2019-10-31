@@ -1,19 +1,19 @@
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
+# Example: https://openclassrooms.com/fr/membres/sebastientison
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: sebastien
 
 # First name or full name
 name: Sebastien
-date: 2019-10-12 23:10
+date: 2019-10-7 22:46
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Apprendre à créer de magnifiques applications.
+short_description: J'aime apprendre, créer et developper de nouvelles compétences.
 
 # don't touch that
 template: students
@@ -29,15 +29,15 @@ description:
 # name should be the same as this file. Eg: celinemartinet.png
 image: sebastien1977.jpg
 
-# Change this to True when you do you pull request.
-public: False
+Change this to True when you do you pull request.
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/sebastien1977/project1.png
+    # Image must be here: content/students/yourrepo/project1.png
     image: sebastien1977/projet_1.png
     link: https://www.linkedin.com/in/sebastientisonstudiokarma/
     # 'true' makes it fully available.
@@ -46,12 +46,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: sebastien1977/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms.com/fr/membres/sebastientison
     finished: true
-  - title: Aidez MacGyver à sortir !
+  - title: Aidez Sébastien à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: sebastien1977/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: true
 ---
-
