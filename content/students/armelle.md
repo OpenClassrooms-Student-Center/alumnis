@@ -11,7 +11,7 @@ short_description: J'ai toujours aimé les langages de programmation et le déve
 
 template: students
 description:
-    J'ai effectué mes études entre Amiens, Compiègne et Rouen en France ainsi que plusieurs stages au Royaume uni..Ma formation comprend les maths, l'informatique  option développement et j'ai obtenu un DEA de Maths, un CAPES de Maths et un diplôme d'ingénieur en informatique.
+    J'ai effectué mes études entre Amiens, Compiègne et Rouen en France ainsi que plusieurs stages au Royaume uni..Ma formation comprend les maths, l'informatique option développement et j'ai obtenu un DEA de Maths, un CAPES de Maths et un diplôme d'ingénieur en informatique.
     
     Je me suis inscrite sur ce parcours car j'ai tourné la page avec l'enseignement,je veux à présent me spécialiser dans le développement d'applications iOS et travailler par la suite en Freelance.  Etudier à distance via Openclassrooms est un excellent entraînement à auto-gérer mon temps et mon travail .
     
