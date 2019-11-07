@@ -22,19 +22,13 @@ image: Armelle.jpg
 public: True
 
 projects:
-
   - title: Apprendre à apprendre !
- 
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    
     image: projet_1.jpg
     link: https://www.linkedin.com/in/armelle-lecerf-436a1b18b/
-    
-   finished: true
+    finished: true
   - title: Intégrez la communauté OpenClassrooms !
-   
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: projet_2.jpg
     link: https://openclassrooms-student-center.github.io/alumnis/students/Armelle
     finished: true
