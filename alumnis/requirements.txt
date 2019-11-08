@@ -12,3 +12,4 @@ pytz==2017.3
 PyYAML==3.12
 six==1.11.0
 Unidecode==0.4.21
+Modif = 0.0.2
