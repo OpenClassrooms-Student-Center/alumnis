@@ -48,7 +48,7 @@ image: thomas93.jpg
 
 # Change this to True when you do your pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -81,6 +81,6 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/alumnis/students/thomas93.html
 
-    finished: false
+    finished: true
 
 ---
