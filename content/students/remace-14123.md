@@ -8,7 +8,7 @@ title: remace-14123.md
 
 # First name or full name
 name: Rémi
-date: 2016-10-28 17:20
+date: 2019/13/11 11:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -32,18 +32,18 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: remace-14123/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/remi-tauvel-80595b196/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: remace-14123/projet_2.png
+    image: remace-14123/github.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: remace-14123/projet_3.png
+    image: remace-14123/MacGyver.png
     link: https://www.github.com
-    finished: false
+    finished: false2016-10-28 17:20
 ---
