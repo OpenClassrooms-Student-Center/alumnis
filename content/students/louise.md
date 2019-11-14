@@ -27,5 +27,5 @@ projects:
     description: Forker un projet. 
     image: louise/projet2.png
     link: https://github.com/OpenClassrooms-Student-Center/alumnis
-	finished: true
+    finished: true
 ---
