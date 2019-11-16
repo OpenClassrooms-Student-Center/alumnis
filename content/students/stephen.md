@@ -65,11 +65,16 @@ projects:
 
   - title: Présentez-vous !
 
-    description:
-	
-    Je suis actuellement en cours de reconversion professionnelle. J'aime beaucoup les nouvelles technologies,
+<<<<<<< HEAD
+    description:Je suis actuellement en cours de reconversion professionnelle. J'aime beaucoup les nouvelles technologies,
     les jeux vidéos et les sciences en générale. A l'avenir, j'aimerais lancer mon entreprise de solutions logicielles. 
     Veuillez trouver mon lien LinkedIn par la suite : https://www.linkedin.com/in/stephen-a-ogolo-410ab7b0.
+=======
+    description: Je suis actuellement en cours de reconversion professionnelle. J'aime beaucoup les nouvelles technologies,
+    les jeux vidéos et les sciences en générale. A l'avenir, j'aimerais lancer mon entreprise de solutions logicielles. 
+    Veuillez trouver mon lien LinkedIn par la suite : https://www.linkedin.com/in/stephen-a-ogolo-410ab7b0.
+
+>>>>>>> ad8f66395dedd1e7e7c4745313610f34594532f5
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
