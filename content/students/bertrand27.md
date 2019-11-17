@@ -12,7 +12,7 @@ date: 2016-01-19 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-Objectif : maitriser Python pour ma nouvelle activité professionnelle.
+objective: maitriser Python pour ma nouvelle activité professionnelle.
 
 # max 100 characters
 short_description: J'aime les nouvelle technologies, les belles photographies, les nouveautés.
