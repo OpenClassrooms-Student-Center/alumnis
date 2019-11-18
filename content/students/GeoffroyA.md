@@ -20,9 +20,9 @@ template: students
 description:
    Je m'appelle Geoffroy et j'ai 23 ans.
    J'habite au Mans. Mes hobies sont les échecs, lire l'actualité et la musique.
-   
-   J'ai choisi de faire une formation en informatique car dans l'informatique on retrouve de la logique et la complexité comme dans une partie d'échecs.
-J'ai toujours voulu concrétiser mes idées et je trouve que la programmation est un bon compromis car on peut créer des programmes à son image et cela peut contribuer à une demande bien distincte.
+    
+   J'ai choisi de faire une formation en informatique car dans l'informatique on retrouve de la logique et la complexité comme dans      une partie d'échecs.
+   J'ai toujours voulu concrétiser mes idées et je trouve que la programmation est un bon compromis car on peut créer des programmes à    son image et cela peut contribuer à une demande bien distincte.
 
 
 # image must be located in content/images/students
