@@ -2,7 +2,7 @@
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # lowercase, no blank space, Capital case or special character.
-title: pierre
+title: pierresempere
 
 # First name or full name
 name: pierresempere
