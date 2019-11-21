@@ -1,7 +1,7 @@
 ---
 
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
+# FILENAME : use first name or  OpenClassrooms's name, available in your url.
 
 # Example: https://openclassrooms.com/membres/celinemartinet
 
@@ -50,7 +50,7 @@ image: thony.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -61,15 +61,15 @@ projects:
 
     description: Je suis conscient de mon incompétence et souhaiterai devenir inconscient de
     ma compétence!
-    LinkedIn: https://www.linkedin.com/in/anthony-bride/
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/students/yourrepo/projet_1.png
 
-    image: ratus/projet_1.png
+    image: thony/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    Link: https://www.linkedin.com/in/anthony-bride/
+    Link2: https://openclassrooms.workplace.com/groups/108172763225648/permalink/437548003621454/
 
     # 'true' makes it fully available.
 
@@ -81,19 +81,20 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: thony/projet_2A.png
+    image2: thony/projet_2B.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/py-Thony/alumnis
 
     finished: true
 
   - title: Aidez MacGyver à sortir !
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d'un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: thony/projet_3.png
 
-    link: https://www.github.com
+    link: https://openclassrooms.com/fr/projects/156/assignment
 
     finished: false
 
