@@ -69,7 +69,7 @@ projects:
 
     image: renaud/projet_1.jpg
 
-    link: www.linkedin.com/in/renaud-calle
+    link: https://www.linkedin.com/in/renaud-calle
 
     # 'true' makes it fully available.
 
@@ -83,7 +83,7 @@ projects:
 
     image: renaud/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/renaud.html
+    link: https://openclassrooms-student-center.github.io/alumnis/students/renaud.html
 
     finished: true
 
