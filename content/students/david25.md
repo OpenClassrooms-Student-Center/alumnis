@@ -4,7 +4,7 @@ title: david25
 
 # First name or full name
 name: David
-date: 2019-11-28 23:07
+date: 2019-11-29 23:07
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -12,7 +12,7 @@ objective: Devenir dev python.
 short_description: Dans le Languedoc, ils m'appellent Provençal. Mais c'est moi qui m'suis gouré en disant mon nom. Sinon, en Bretagne, c'est le Gros Faisan au sud, et au nord, c'est juste Ducon...
 
 # don't touch that
-template: david25
+template: students
 description:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
