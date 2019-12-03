@@ -9,7 +9,7 @@ title: cyrilaubry
 
 # First name or full name
 name: Cyril 
-date: 2019-29-11 18:30
+date: 2019-11-29 18:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
