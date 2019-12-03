@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: tiffany
 
 # First name or full name
 name: LESTROUBAC
@@ -46,7 +46,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: tiffany/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/tiffany.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en tiffanyPython et utilisant PyGame.
