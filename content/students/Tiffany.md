@@ -18,11 +18,11 @@ short_description: Beta Test
 # don't touch that
 template: students
 description:
-    Blablabla Je suis une description adipisicing elit, sed do eiusmod
+    Crrction1 Je suis une description adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    consequat. Duis aute irure dolores in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteurers sint occaecat cupidatat non
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
@@ -34,7 +34,7 @@ public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Projet 1
+  - title: Projet grr
     description: Présentation Linkedin
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
