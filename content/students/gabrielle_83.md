@@ -23,9 +23,9 @@ date: 2019-12-02 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me reconvertir dans le developpeur d'application  Python.
+objective: me reconvertir dans le développement d'applications Python
 
-short_description: J'aime l'architecture, l'informatique, la cinema. 
+short_description: J'aime l'architecture, l'informatique, le cinema. 
 
 
 # don't touch that
@@ -41,12 +41,12 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: gabrielle.jpg
+image: content/images/students/gabrielle_83/gabrielle.jpg
 
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: gabrielle/Projet_1.png
+    image: content/images/students/gabrielle_83/Projet_1.png
 
     link: https://www.linkedin.com/in/gabrielle-azadian-b2928175/
 
@@ -75,7 +75,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: gabrielle/Projet_2.png
+    image: content/images/students/gabrielle_83/Projet_2.png
 
     link: https://github.com/gabrielle2801/alumnis/tree/master/alumnis
 
@@ -85,7 +85,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: gabrielle/projet_3.png
+    image: content/images/students/gabrielle_83/projet_3.png
 
     link: https://www.github.com
 
