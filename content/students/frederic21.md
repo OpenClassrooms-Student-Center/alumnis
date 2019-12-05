@@ -42,7 +42,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: frederic21/projet_2.png
+    image: frederic21/project2.png
     link: https://github.com/fredichisar/alumnis
     finished: false
   - title: Aidez MacGyver à sortir !
