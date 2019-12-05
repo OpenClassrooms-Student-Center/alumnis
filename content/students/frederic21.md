@@ -44,7 +44,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: frederic21/project2.png
     link: https://github.com/fredichisar/alumnis
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: frederic21/projet_3.png
