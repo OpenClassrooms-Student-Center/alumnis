@@ -4,10 +4,10 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: mehdi60 
+title: medhi-bihcari
 
 # First name or full name
-name: mehdi60
+name: mehdi
 date: 2019-12-09 11:00
 
 # One line.
@@ -30,7 +30,7 @@ description:
 image: mehdi60.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -46,5 +46,4 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: mehdi60/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/mehdi60.html
     finished: false
