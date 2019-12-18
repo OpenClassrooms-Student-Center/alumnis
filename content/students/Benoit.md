@@ -23,7 +23,7 @@ date: 2019-12-18 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Apprendre le langage Java et me laisser pousser la barbe ;).
+objective: Apprendre le langage Java et me laisser pousser la barbe ;) .
 
 short_description: J'aime apprendre et partager.
 
@@ -33,7 +33,7 @@ short_description: J'aime apprendre et partager.
 template: students
 
 description:
-    Je m'appelle Benoît Nérin, j'ai 31 ans, je vie en région Parisienne, après 7 années de travail dans le secteur de la Santé, je débute une formation Java EE en vue d'une reconversion.
+    Je m'appelle Benoît Nérin, j'ai 31 ans, je vis en région Parisienne, après 7 années de travail dans le secteur de la Santé, je débute une formation Java EE en vue d'une reconversion.
     
 
 
@@ -70,15 +70,15 @@ projects:
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: true
+    finished: false
 
   - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: Benoit/projet_2.png 
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/Benoit.html
 
     finished: true
 
