@@ -46,9 +46,9 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: oliviermorlotti/project2.png
-    link: https://github.com/OMorlotti/alumnis/oliviermorlotti/project2.png
+    link: https://github.com/OMorlotti/alumnis/blob/master/content/students/oliviermorlotti/project2.png
     image: oliviermorlotti/project2_pullrequest.png
-    link: https://github.com/OMorlotti/alumnis/oliviermorlotti/project2_pullrequest.png   
+    link: https://github.com/OMorlotti/alumnis/blob/master/content/students/oliviermorlotti/project2_pullrequest.png  
     finished: true
 
 ---
