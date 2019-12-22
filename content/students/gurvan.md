@@ -13,7 +13,7 @@ date: 2018-12-15 18:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre un maximum et repousser mes limites intellectuelles dans le monde du digital.
-short_description: J'aime le sport, la musique et aussi coder, c'est pourquoi je me suis lancer dans le code.
+short_description: J'aime le sport, la musique et aussi coder, c'est pourquoi je me suis lancé dans le code.
 
 # don't touch that
 template: students
