@@ -8,29 +8,34 @@ title: Saddam
 
 # First name or full name
 name: Saddam
-date: 2019-12-11 9:00
+date: 2019-12-15 09:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre à coder en swift et trés rapidement.
-short_description: J'aime apprendre des nouvelles choses, passionnée par informatique, je me suis retrouvé ici pour réaliser mon rêve.
+objective: Devenir Développeur iOS.
+short_description: J'aime le sport, la lecture et c'est tout.
 
 # don't touch that
 template: students
 description:
-    Anciennement, un agent de sécurité incendie, j'ai décidé de changer mon métier.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: saddam.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Anciennement, un agent de sécurité incendie, j'ai décidé de changer mon métier.
-    https://www.linkedin.com/in/saddam-satouyev/
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: saddam/projets-ecole.jpg
@@ -41,11 +46,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: saddam/projets-ecole.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/vayset
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
