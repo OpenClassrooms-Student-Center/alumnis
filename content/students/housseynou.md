@@ -25,7 +25,7 @@ date: 2019-12-26 17:20
 
 objective: Apprendre Python et changer de vie.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Apprendre à coder, c'est pour moi, revenir à l'essentiel. Je pense que je suis fait pour coder. Cest le moment de le prouver. 
 
 
 # don't touch that
@@ -34,17 +34,6 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 # image must be located in content/images/students
@@ -71,7 +60,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: housseynou/projet_2.png
 
     link: https://www.linkedin.com/in/housseynou-coulibaly-6642b2142/
 
@@ -85,9 +74,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: houssey/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://https://github.com/housseynou/alumnis
 
     finished: true
 
