@@ -7,18 +7,18 @@
 title: farid
 
 # First name or full name
-name: farid
+name: Farid
 date: 2019-12-30 09:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un codeur nomade !
-short_description: J'aime les nouvelles technologies, le sport et les voyages. J'apprends à dévéloppeur car c'est la compétences qui me manques.
+short_description: J'aime les nouvelles technologies, le sport et les voyages.
 
 # don't touch that
 template: students
 description:
-    C'est un vrai challenge pour moi d'apprendre a programmer tout en continuant mon travail actuel. Je considère l'informatique comme un hobbies et non pas comme un travail. C'est un régal ! 
+    C'est un vrai challenge pour moi d'apprendre à programmer tout en continuant mon travail actuel. Je considère l'informatique comme un hobby et non pas comme un travail. C'est un régal ! 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git. 
     image: farid/project2.png
     link: https://github.com/fawraw/alumnis
     finished: true
