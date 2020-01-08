@@ -30,12 +30,20 @@ description:
 image: merouane.jpg
 
 # Change this to True when you do you pull request.
+<<<<<<< HEAD
 public: True
+=======
+public: False
+>>>>>>> 4d8d6358046ddb437eb6a9ed4bb840a89411b920
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Projet 1 - Définissez votre stratégie d'apprentissage !
+<<<<<<< HEAD
     description: Définir un planning de formation et un objectif d'apprentissage. (LinkedinProfil à "Voir le projet")
+=======
+    description: Définir un planning de formation et un objectif d'apprentissage. (+lien vers mon profil Linkedin à "Voir le projet")
+>>>>>>> 4d8d6358046ddb437eb6a9ed4bb840a89411b920
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: merouane/projet1.jpg
@@ -44,6 +52,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Projet 2 - Intégrez la communauté OpenClassrooms !
+<<<<<<< HEAD
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github.
     image: merouane/projet2
     link: https://github.com/MerouaneBellaha
@@ -52,5 +61,15 @@ projects:
     description: Création d’un jeu développé en Swift en utilisant Xcode.
     image: merouane/projet3
     link: https://github.com/MerouaneBellaha
+=======
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. (+lien vers mon profil Github à "Voir le projet")
+    image: ratus/projet_2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+>>>>>>> 4d8d6358046ddb437eb6a9ed4bb840a89411b920
     finished: false
 ---
