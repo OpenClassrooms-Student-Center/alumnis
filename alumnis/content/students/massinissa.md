@@ -7,13 +7,13 @@
 title: Massinissa
 
 # First name or full name
-name: Rebout Massinissa
+name: Massinissa
 date: 2019-01-13 21:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Faire de ma passion mon métier 
-short_description: Pouvoir donner vie à mes idées en créer et développant des applications et participer à des projets intéressant, être utile et faire partie de la famille nombreuse des développeurs
+short_description: ⵀⴻⵎⵍⴰⵖ ⵍⵉⵏⴼⵓⵔⵎⴰⵜⵉⴽ 
 
 # don't touch that
 template: students
