@@ -21,7 +21,7 @@ short_description: J'aime l'informatique, je suis végétarienne et je pratique 
 # don't touch that
 template: students
 description:
-    J'ai 28 ans et je vis à Paris. J'ai postulé pour l'alternance en début d'année.
+    J'ai 29 ans et je vis à Paris. J'ai postulé pour l'alternance en début d'année.
     De là, j'ai suivi un coaching pour trouver une alternance et c'est chose faire !
     Je suis donc la formation de développeur d'applictions Python pour une durée de deux ans.
 
@@ -53,8 +53,15 @@ projects:
 
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+    image: clemence/projet_3.png
+    link: https://github.com/clemenceclaireR/macgyver_maze
+    finished: true
+    
+  - title : Analysez les besoins de votre client pour son groupe de pizzerias
+    description : Analyse des besoins d'un client pour son système d'informations, avec UML et les méthodologies agiles.
+    image: clemence/projet_4.png
+    link : https://github.com/clemenceclaireR/spec_fonctionnelles_restaurant
+    finished: true
+    
 
 ---
