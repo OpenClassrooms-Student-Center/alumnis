@@ -13,31 +13,22 @@ short_description: Je suis la formation développeur d'application Python car je
 template: students
 description:
     Je m'appelle Alexis. J'ai 31 ans. Je me suis inscrit récemment à la formation pour Python pour changer de carrière.
-	  J'espère pouvoir finir ce parcours d'ici la fin de l'année.
+	J'espère pouvoir finir ce parcours d'ici la fin de l'année.
 	
 
-# image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
 image: Alexis2020.jpg
 
-# Change this to True when you do you pull request.
 public: True
 
-# You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    description: Je suis nouveau dans la communauté. Mon profil Linkedin https://www.linkedin.com/in/alexis-ung-923413116/
+    image: Alexis2020/projet_1.png
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: Alexis2020/projet_2.png
+    link: https://openclassrooms.workplace.com/profile.php?id=100045768722469
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
