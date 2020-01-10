@@ -46,12 +46,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: valentin1/projet_2.png
+    image: valentin1/projet_2.PNG
     link: https://github.com/valentinbonetbelche/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: valentin1/projet_3.png
+    image: valentin1/projet_3.PNG
     link: https://github.com/valentinbonetbelche
     finished: false
 ---
