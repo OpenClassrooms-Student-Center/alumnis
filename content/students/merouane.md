@@ -39,12 +39,12 @@ projects:
     finished: true
   - title: Projet 2 - Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github.
-    image: merouane/projet2
+    image: merouane/projet2.jpg
     link: https://github.com/MerouaneBellaha
     finished: true
   - title: Projet 3 - Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift en utilisant Xcode.
-    image: merouane/projet3
+    image: merouane/projet3.jpg
     link: https://github.com/MerouaneBellaha
     finished: false
 ---
