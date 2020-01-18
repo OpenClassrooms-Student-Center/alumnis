@@ -18,7 +18,12 @@ short_description: Je code donc je suis !
 # don't touch that
 template: students
 description:
-    Après m’être formé en ligne au métier de designer, et à la suite de cette formation de développeur iOS junior je souhaiterais intégrer une agence web en alternance pour continuer à découvrir divers aspects du développement en situation professionnelle et mettre à profit ce que j’ai appris. Cela me donnerait en plus d’une formation théorique solide, une mise en situation professionnelle indispensable pour faire une entrée réussie dans ce milieu.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -42,9 +47,9 @@ projects:
     image: merouane/projet2.jpg
     link: https://github.com/MerouaneBellaha
     finished: true
-  - title: Projet 3 - Créez votre premier jeu vidéo avec Swift !
-    description: Création d’un jeu développé en Swift en utilisant Xcode.
-    image: merouane/projet3.jpg
-    link: https://github.com/MerouaneBellaha
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
     finished: false
 ---
