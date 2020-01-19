@@ -44,11 +44,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: thibault231/projet_2.png
-    link: https://github.com/Thibault231/Projet_2.git
+    link: https://github.com/Thibault231/alumnis.git
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+    image: thibault231/projet_3.png
+    link: https://github.com/Thibault231/projet3_labyrinthe_McGiver.git
+    finished: true
 ---
