@@ -47,7 +47,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: augustin/projet_2.png
+    image: augustin/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/augustin.html
     finished: false
 ---
