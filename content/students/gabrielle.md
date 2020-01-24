@@ -39,18 +39,18 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: gabrielle/projet1.png
+    image: gabrielle/Projet1.png
     link: https://www.linkedin.com/in/gabrielle-barboteau-b960a927/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: gabrielle/projet2.png
+    image: gabrielle/Projet2.png
     link: https://github.com/gbarboteau/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: gabrielle/projet3.png
+    image: gabrielle/Projet3.png
     link: https://www.github.com
     finished: false
 ---
