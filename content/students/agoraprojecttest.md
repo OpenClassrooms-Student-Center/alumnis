@@ -34,11 +34,9 @@ template: students
 
 description:
 
-    Il y a 2 composantes essentielles dans ma vie : la protection de notre patrimoine naturel et le développement d'applications à son service.
-    Je pense que la technologie devrait plus nous servir à assurer notre avenir plutôt qu'à le mettre en danger.
-    C'est avec ce code de conduite que je veux développer des Apps utiles, qui m'aideront à sauver les abeilles mellifère endémiques à la France.
-    C'est aussi très stimulant intellectuellement d'être développeur, je n'ai pas l'intention d'arrêter d'apprendre de si tôt. 
-    Merci OpenClassrooms ! 
+    J'ai 19 ans, étant passioné par l'informatique et le dévellopement, 
+    je me suis lancer dans parcours de dévellopeur d'appplications python.
+    J'adore créer et construire un projet grace au dévellopement d'une application, 
     
 
 # image must be located in content/images/students
