@@ -36,7 +36,9 @@ description:
 
     Il y a 2 composantes essentielles dans ma vie,
     la protection des abeilles noires et le développement d'applications à son service.
-    Je pense que la technologie devrait plus nous servir à assurer notre avenir plutôt qu'à le mettre en danger. 
+    Je pense que la technologie devrait plus nous servir à assurer notre avenir plutôt qu'à le mettre en danger.
+    C'est avec ce code de conduite que je veux développer des Apps utiles, qui m'aideront à sauver les abeilles mellifère endémiques à la France.
+    C'est aussi très stimulant intellectuellement d'être développeur, je n'ai pas l'intention d'arrêter d'apprendre de si tôt. 
     
 
 # image must be located in content/images/students
