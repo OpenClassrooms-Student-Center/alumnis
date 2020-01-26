@@ -29,7 +29,7 @@ description:
 image: agoraproject.jpg
 
 # Change this to True when you do your pull request.
-public: True
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -41,10 +41,10 @@ projects:
     link: https://www.linkedin.com/in/jean-philippe-haulin/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: False
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: agoraproject/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/agoraproject.html
-    finished: true
+    link: https://github.com/agoraproject/alumnis
+    finished: False
 ---
