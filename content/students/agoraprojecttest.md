@@ -14,9 +14,9 @@ title: agoraproject
 
 # First name or full name
 
-name: Allan
+name: Jean-Philippe Haulin
 
-date: 2018-10-12 14:05
+date: 2020-01-20 16:25
 
 
 # One line.
