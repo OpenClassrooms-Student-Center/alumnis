@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    J'ai 19 ans, étant passioné par l'informatique et le dévellopement,: 
+    Il y a 2 composantes essentielles dans ma vie 
     je me suis lancer dans parcours de dévellopeur d'appplications python.
     J'adore créer et construire un projet grace au dévellopement d'une application, 
     
