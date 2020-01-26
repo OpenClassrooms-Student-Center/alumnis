@@ -34,9 +34,9 @@ template: students
 
 description:
 
-    Il y a 2 composantes essentielles dans ma vie 
-    je me suis lancer dans parcours de dévellopeur d'appplications python.
-    J'adore créer et construire un projet grace au dévellopement d'une application, 
+    Il y a 2 composantes essentielles dans ma vie,
+    la protection des abeilles noires et le développement d'applications à son service.
+    Je pense que la technologie devrait plus nous servir à assurer notre avenir plutôt qu'à le mettre en danger. 
     
 
 # image must be located in content/images/students
