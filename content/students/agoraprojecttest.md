@@ -23,9 +23,9 @@ date: 2020-01-20 16:25
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir développeur informatique et me lancer en freelance !
+objective: Me faire plaisir en développant des apps dans l'univers d'Apple, ce qui m'attire depuis longtemps.
 
-short_description: Passionner par l'informatique , j'ai décidé de suivre ce parcours ! 
+short_description: J'essaie de sauver l'abeille mellifère endémique à la France et la technologie mobile pourrait bien m'y aider. 
 
 
 # don't touch that
@@ -34,9 +34,11 @@ template: students
 
 description:
 
-    J'ai 19 ans, étant passioné par l'informatique et le dévellopement, 
-    je me suis lancer dans parcours de dévellopeur d'appplications python.
-    J'adore créer et construire un projet grace au dévellopement d'une application, 
+    Il y a 2 composantes essentielles dans ma vie : la protection de notre patrimoine naturel et le développement d'applications à son service.
+    Je pense que la technologie devrait plus nous servir à assurer notre avenir plutôt qu'à le mettre en danger.
+    C'est avec ce code de conduite que je veux développer des Apps utiles, qui m'aideront à sauver les abeilles mellifère endémiques à la France.
+    C'est aussi très stimulant intellectuellement d'être développeur, je n'ai pas l'intention d'arrêter d'apprendre de si tôt. 
+    Merci OpenClassrooms ! 
     
 
 # image must be located in content/images/students
