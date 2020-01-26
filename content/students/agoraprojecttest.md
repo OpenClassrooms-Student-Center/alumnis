@@ -45,7 +45,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: Allan.jpg
+image: agoraproject.jpg
 
 
 # Change this to True when you do you pull request.
@@ -65,9 +65,9 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: Allan/Projet1.jpg
+    image: agoraproject/projet_1.png
 
-    link: https://www.linkedin.com/in/allan-lemey/
+    link: https://www.linkedin.com/in/jean-philippe-haulin/
 
     # 'true' makes it fully available.
 
@@ -79,9 +79,9 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Github et des pull requests. 
 
-    image: Allan/Projet2.jpg
+    image: agoraproject/projet_2.png
 
-    link: https://github.com/Allanlemey
+    link: https://github.com/agoraproject
 
     finished: true
 
