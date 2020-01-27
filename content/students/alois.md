@@ -35,7 +35,9 @@ template: students
 
 description:
 
-    faire une simple descriptioo
+	Je m'appelle Aloïs et à 35 ans, je souhaite faire un parcours de développeur Python dans le but d'intégrer des pratiques collaboratives dans divers managements grâce à des outils informatiques.
+
+    Physicien de formation j'ai toujours affectionné l'utilisation de l'informatique dans la vie de tous les jours et la pratique collaborative. Pourquoi ne pas fusionner les deux afin de rendre la gestion des métiers plus agréable? 
 
 
 # image must be located in content/images/students
@@ -56,37 +58,38 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Je m'appelle Aloïs et j'ai 35 ans. Si vous voulez en savoir plus sur mon parcours, n'hésitez pas à jeter un coup d'oeil à mon profil linkedin.
+    
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: alois/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/alo%C3%AFs-richard-10a04a99/
 
     # 'true' makes it fully available.
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: true
+    finished: false
 
   - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: alois/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/Alastor1984/alumnis
 
-    finished: true
+    finished: flase
 
   - title: Aidez MacGyver à sortir !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: alois/projet_3.png
 
     link: https://www.github.com
 
