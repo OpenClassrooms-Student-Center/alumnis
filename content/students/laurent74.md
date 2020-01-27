@@ -15,17 +15,16 @@ date: 2020-01-20 18:22
 objective: Suite à un licenciement économique et après 15 ans comme reponsable informatique
     , j'ai décidé de me consacrer à plein temps au developpement  d'application IOS 
  
-short_description: J'aime les chats, et les fondues savoyardes. J'ai toujours été passionné par l'informatque.
+short_description: J'aime les chats, et les fondues savoyardes. J'ai toujours été passionné par l'informatique.
 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Passionné par l'informatique depuis mon enfance, j'ai eu plusieurs ordinateurs COMMODORE à commencer par le VIC20
+    avec lequel je me suis initié au Basic. Puis sont arrivés le COMMODORE 64, le 128 et enfin le mythique AMIGA sur 
+    lesquels je me suis amusé en langage machine à manipuler des SPRITES.
+    Mes études d'informatique m'ont alors poussé à investir dans un 386sx AT. le règne des machines non compatibles
+    comme Commodore prenait fin, celui des compatibles PC s'imposait.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
