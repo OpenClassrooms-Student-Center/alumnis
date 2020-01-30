@@ -15,7 +15,7 @@ date: 2020-01-19 9h45
 objective: Orientation Ios/Swift, renforcer mes compétences et avoir un diplome de certification
 
 # max 100 characters
-short_description: j’ai 26 ans, je suis de Nimes dans le Gard, j'ai toujours été attiré par l'informatique et plus précisement les applications pour smartphone et l'univers Apple.
+short_description:  j’ai 26 ans, je suis de Nimes, j'ai toujours été attiré par les smartphones et l'univers Apple.
 
 # don't touch that
 template: students
@@ -38,7 +38,7 @@ public: False
 projects:
   - title: Définissez votre stratégie d'apprentissage !
     # max 100 characters
-    description: Se présenter à son mentor ainsi qu'à la communauté et prévoir son planning hebdomadaire pour avoir une idée de la date de chaque soutenance, ainsi qu'apprendre à travailler correctement.
+    description: Présentation, création du planning et prévision des soutenances ainsi qu'analyse méthode de travail.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: augustin/projet_1.png
