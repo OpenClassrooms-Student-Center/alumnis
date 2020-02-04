@@ -1,35 +1,12 @@
-
-
-
-
 Parcours
 Cours
 Alternance
-
 Business
-
-
-
-
-
-
 Intégrez la communauté OpenClassrooms !
-
-
 Mission
-
 Cours
-
 Évaluation
-
-
-
-
-
 ---
-
-
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -39,51 +16,28 @@ Cours
 # lowercase, no blank space, Capital case or special character.
 
 title: alain
-
-
-
 # First name or full name
-
 name: Alain
-
 date: 2020-02-1 16:20
-
-
-
 # One line.
-
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-
 objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-
 short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
-
-
-
 # don't touch that
-
 template: students
-
 description:
 
    je suis un homme de 58 ans qui travail dans la logistique intermarche .
    cette formation financer par le CPF que je fais c'est pour ma 
    culture general j'aime l'informatique et la new technologie.
-
-
-
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
 image: alain.jpg
-
-
-
 # Change this to True when you do you pull request.
 
 public: True
-
 
 # You need to keep the exact same structure for each new project.
 
