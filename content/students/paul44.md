@@ -18,11 +18,11 @@ short_description: J'aime les moments en famille l'informatique, le dessin les m
 # don't touch that
 template: students
 description:
-    Après avoir travaillé 10 ans en tant que chef de projet en logistique industrielle jai décidé
+    Après avoir travaillé 10 ans en tant que chef de projet en logistique industrielle j'ai décidé
     de faire une reconversion professionnelle dans le développement informatique et plus particulièrement
-    Python. Je suis passionné de dessin et par les maquettes numérique. Mon objectif est de devenir 
+    Python. Je suis passionné de dessin et par les maquettes numériques. Mon objectif est de devenir 
     entrepreneur dans le développement d'applications et la création de maquettes numériques avec des outils 
-    open source. Je vis avec ma petie famille du côté de Nantes en Loire Atlantique. Très curieux de tout,
+    open source. Je vis avec ma petite famille du côté de Nantes en Loire Atlantique. Très curieux de tout,
     j'aime les voyages et découvrir de nouvelles choses.
 
 # image must be located in content/images/students
@@ -34,8 +34,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Définissez votre stratégie d'apprentissage !
+    description: Définition des objectifs et mise en place du planning d'apprentissage pour se donner toutes les clés pour réussir le parcours et l'insertion professionnelle.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: paul44/P1_03_capture_ecran.png
