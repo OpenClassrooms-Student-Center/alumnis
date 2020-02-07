@@ -18,7 +18,7 @@ short_description: 32 ans, à la découverte de Python et de la cybersécurité.
 # don't touch that
 template: students
 description:
-    Nouveau dans le monde du dev, je suis là pour découvrir, apprendre et me challenger. Advienne que pourra! 
+    Nouveau dans le monde du dev, je suis là pour découvrir, apprendre, partager et me challenger. Advienne que pourra! 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -32,16 +32,16 @@ projects:
   - title: Définissez votre stratégie d'apprentissage !
     description: Mise en place d'un planning de formation et presentation à la communauté.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/students/yourrepo/project1.png
-    image: furry-punnisher/projet_1.png
+    # Image must be here: content/students/yourrepo/project1.png (different path from the one instructed on OCR project page)
+    image: nico25/projet1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100045885124999
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: furry-punnisher/projet_2.png
+    image: nico25/projet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
+    finished: false
 
 ---
