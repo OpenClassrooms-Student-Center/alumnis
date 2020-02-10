@@ -39,13 +39,13 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Ibtissam/projet_1.png
+    image: Projet_1.png
     link: www.linkedin.com/in/ibtissam-charrat-bove-7552ba1a2
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: Ibtissam/projet_2.png
+    image: Projet_2.png
  link:https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
