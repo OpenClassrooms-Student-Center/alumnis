@@ -51,4 +51,9 @@ projects:
     image: thibault231/projet_3.png
     link: https://github.com/Thibault231/projet3_labyrinthe_McGiver.git
     finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts !
+	description: Création d’une application de substitution alimentaire avec MySQL.
+	image: thibault231/projet_5.png
+	link: https://github.com/Thibault231/Projet_5_BDD_PythonMySQL
+	finished: true
 ---
