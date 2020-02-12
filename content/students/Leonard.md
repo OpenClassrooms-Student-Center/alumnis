@@ -18,7 +18,7 @@ short_description: J'aime l'informatique et suis curieux d'en découvrir toujour
 # don't touch that
 template: students
 description:
-    Je m'appelle Léonard, j'ai 29 ans et j'habite à Paris. Après différentes expériences, notammant au sein d'un concept         store parisien, j'ai souhaité me réorienter vers la programmation informatique. Je me suis donc lancé dans la formation     OC "Développeur d'application - Python". J'ai toujours apprécié l'informatique et ses technologies associées.
+    Je m'appelle Léonard, j'ai 29 ans et j'habite à Paris. Après différentes expériences, notamment au sein d'un concept         store parisien, j'ai souhaité me réorienter vers la programmation informatique. Je me suis donc lancé dans la formation     OC "Développeur d'application - Python". J'ai toujours apprécié l'informatique et ses technologies associées.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
