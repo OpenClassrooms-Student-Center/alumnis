@@ -18,12 +18,9 @@ short_description: J'apprends à programmer pour gagner ma liberté et apporter 
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Sébastien Kothé, je réside à Perpignan et j'apprends la programmation
+    pour en faire mon métier. Je souhaite devenir Développeur Freelance
+    mais je reste ouvert à toutes les opportunités.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -44,13 +41,13 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Projet n°2 - Créer son profil étudiant à partir d'un projet Open Source à l'aide de Git et GitHub.
-    description: J'ai appris à me servir de Git et GitHub pour réaliser ce projet.
+    description: J'ai utilisé Git et GitHub pour réaliser ce projet. Ci-dessous un lien vers la pull request.
     image: sebastienkothe/project2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/2216
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+  - title: Projet n°3 - Créez un jeu vidéo avec Swift.
+    description: Projet en cours. Ci-dessous un lien vers mon profil GitHub, n'hésitez pas à me "Follow".
+    image: sebastienkothe/project3.png
+    link: https://github.com/sebastienkothe
     finished: false
 ---
