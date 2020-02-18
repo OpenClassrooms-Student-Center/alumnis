@@ -9,23 +9,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: ratus
+title: sam
 
 
 # First name or full name
 
-name: Ratus
+name: Samuel Boulanger
 
-date: 2016-10-28 17:20
+date: 2020-02-12 13:49
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Faire du developpement iOS mon metier.
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Je souhaiterais construire des applications mobile, desktop, watch et pour toutes les plateformes exotiques qui veront jour.
 
 
 # don't touch that
