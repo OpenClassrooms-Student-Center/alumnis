@@ -17,12 +17,9 @@ objective: Me reconvertir après 20 ans au service des Clients. Je joue du piano
 # don't touch that
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je m'appelle Stéphane, j'ai 51 ans. Spécialiste de la relation client, j'ai décidé
+    de me lancer dans le développement iOS et d'apprendre, apprendre, apprendre.
+    Trop top, j'ai hâte de créer mes premières applications.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
