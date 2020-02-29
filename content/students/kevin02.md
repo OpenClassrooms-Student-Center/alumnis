@@ -26,7 +26,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: content/images/students/kevin02/kevin.jpg
+image: kevin.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -37,7 +37,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: content/images/students/kevin02/Photo_P1.png
+    image: Photo_P1.png
     link: https://www.linkedin.com/in/kevin-merat-325a221a3/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
