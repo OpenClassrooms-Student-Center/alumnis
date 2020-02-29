@@ -18,12 +18,10 @@ short_description: Depuis toujours fasciné par l'univers du numérique, j'ai le
 # don't touch that
 template: students
 description:
-   Depuis mon dernier poste en tant que technicien helpdesk, j’ai consacré ces dernières années à l’éducation de mes enfants (par
-   le biais du congé parental) et au télétravail qui me conférais une plus grande flexibilité. Plus récemment, mon statut de
-   demandeur d'emploi m’a permis de rejoindre mon épouse dans sa création d’entreprise. Son projet étant en phase d'aboutissement,
-   je profite de cette formidable opportunité afin de pouvoir espérer me spécialiser dans un domaine à la hauteur de mes espérances
-   et qui à travers mon cursus m'a toujours semblé inaccessible. Je souhaite donc suivre une formation de développeur
-   d'application car elle représente pour moi une formidable opportunité d’un point de vue personnel et professionnelle.
+    Depuis mon dernier poste en tant que technicien helpdesk, j’ai consacré ces dernières années à l’éducation de mes enfants (par
+    le biais du congé parental) et au télétravail qui me conférais une plus grande flexibilité. Plus récemment, mon statut de
+    demandeur d'emploi m’a permis de rejoindre mon épouse dans sa création d’entreprise. Je souhaite donc suivre une formation de développeur
+    d'application car elle représente pour moi une formidable opportunité d’un point de vue personnel et professionnelle.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
