@@ -8,7 +8,7 @@ title: kevin
 
 # First name or full name
 name: Kevin Merat
-date: 2020-02-28 15:12
+date: 2020-03-28 15:51
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,7 +18,7 @@ short_description: Je débute dans la programmation Python pour pouvoir travaill
 # don't touch that
 template: students
 description:
-    Je suis un jeune débutant de 22 ans dans l'art de la programmation qui est
+    Je suis un jeune débutant de 22 ans dans l'art de la programmation
     en pleine reconversion dans ses études après une licence d'économie.
     J'ai pour ambitions avec cette formation de me consolider une base solide afin
     de pouvoir me diriger par la suite vers des domaines qui nécessite une bonne
@@ -44,8 +44,8 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: Photo_P2.png
+    link: https://github.com/KevinM-devlp/alumnis
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
