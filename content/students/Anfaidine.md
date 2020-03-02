@@ -34,19 +34,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: Anfaidine/Anfaidine.jpg
+    image: Anfaidine12/projet1.jpg
     link: https://openclassrooms.workplace.com/profile.php?id=100047042713240
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: Anfaidine12/projet2.png
+    link: https://github.com/OpenClassrooms-Student-Center/alumnis/pull/2231/files/5046709a7a7f5b1ae46890a7dbe47c4f7205061e#diff-2179d6cd178173eaa88d3c79d140a4a0
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    image: Anfaidine12/projet3.png
+    link: https://github.com/MELAA976
     finished: false
 ---
