@@ -39,7 +39,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: esteban.jpg
+image: romain77.jpg
 
 
 # Change this to True when you do you pull request.
@@ -59,9 +59,10 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: esteban/projet_1.png
+    image: romain77/projet1.png
 
-    link: https://www.linkedin.com/in/esteban-motais-569046185
+    link: https://www.linkedin.com/in/romain-lecoq-9184ab162
+
 
     # 'true' makes it fully available.
 
@@ -73,7 +74,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: esteban/projet_2.png
+    image: romain77/projet2.png
 
     link: https://github.com/desperu/alumnis
 
