@@ -7,3 +7,4 @@ env/*
 .idea/
 .desktop.ini
 desktop.ini
+.venv/
