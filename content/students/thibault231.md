@@ -51,6 +51,11 @@ projects:
     image: thibault231/projet_3.png
     link: https://github.com/Thibault231/projet3_labyrinthe_McGiver.git
     finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+	description: Création des spécifications foncionnelles avec UML.
+	image: thibault231/projet_4.png
+	link: https://github.com/Thibault231/alumnis.git
+	finished: true
   - title: Utilisez les données publiques de l'OpenFoodFacts !
 	description: Création d’une application de substitution alimentaire avec MySQL.
 	image: thibault231/projet_5.png
