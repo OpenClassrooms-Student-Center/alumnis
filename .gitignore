@@ -5,4 +5,5 @@ output/
 .DS_Store
 env/*
 .idea/
-.venv/
+.desktop.ini
+desktop.ini
