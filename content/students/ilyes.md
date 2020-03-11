@@ -17,9 +17,9 @@ short_description: Passionné de jeux video et de cinema, J'apprends à coder po
 
 # don't touch that
 template: students
-description:
-    Je me présente: je m’appelle Ilyes, j’ai 26 ans et je réside à Metz , je suis issu d’une formation dans le commerce
-    (bac pro). je démarre cette formation dans l'optique de devenir développeur iOS, d'abord en finissant cette prep’ ,afin d’
+description: 
+    je m’appelle Ilyes, j’ai 26 ans et je réside à Metz , je suis issu d’une formation dans le commerce
+    (bac pro). je démarre cette formation dans l'optique de devenir développeur iOS, d'abord en finissant cette prep ,afin d’
     être capable de travailler dans une entreprise dans laquelle je pourrais terminer ma formation en alternance. Ainsi j'aim
     erais acquérir un solide bagage dans ce domaine pour me réorienter et en faire mon métier. 
 
