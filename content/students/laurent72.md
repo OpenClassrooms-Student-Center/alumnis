@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: projet1.png
+    image: laurent72/project_1.png
 
     link: https://www.linkedin.com/in/laurent-narbouton-0365401a0/
 
@@ -75,7 +75,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: projet2.png
+    image: laurent72/project_2.png
 
     link: https://github.com/laurent-narbouton/alumnis
 
