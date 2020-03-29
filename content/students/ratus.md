@@ -7,15 +7,15 @@
 title: ratus
 
 # First name or full name
-name: Ratus
-date: 2016-10-28 17:20
+name: Tarek Noubli
+date: 2019-03-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: To learn how to be an iOS developper.
 
 # max 100 characters
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Addicted to Apple stuff.
 
 # don't touch that
 template: students
@@ -32,10 +32,10 @@ description:
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
-image: ratus.jpg
+image: tareknoubli.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
