@@ -63,5 +63,11 @@ projects:
     link : https://github.com/clemenceclaireR/spec_fonctionnelles_restaurant
     finished: true
     
+  - title : Connectez-vous à l'API d'Openfoodfacts
+    description : Récupérer les informations de l'API d'openfoodfacts pour créer une logiciel proposant une meilleure alternative à un produit donné
+    image: clemence/projet_5.png
+    link : https://github.com/clemenceclaireR/api_openfoodfacts
+    finished: true
+    
 
 ---
