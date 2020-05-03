@@ -51,4 +51,24 @@ projects:
     image: thibault231/projet_3.png
     link: https://github.com/Thibault231/projet3_labyrinthe_McGiver.git
     finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+	description: Création des spécifications foncionnelles avec UML.
+	image: thibault231/projet_4.png
+	link: https://github.com/Thibault231/alumnis.git
+	finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts !
+	description: Création d’une application de substitution alimentaire avec MySQL.
+	image: thibault231/projet_5.png
+	link: https://github.com/Thibault231/Projet_5_BDD_PythonMySQL
+  finished: true
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+	description: Création des spécifications techniques en UML d'un site en ligne.
+	image: thibault231/projet_6.png
+	link:  https://www.linkedin.com/in/thibault-salgues-7639a819a/
+  finished: true
+  - title: Créez GrandPy Bot, le papy-robot
+	description: Création d'un site web utilisant Flask et Heroku.
+	image: thibault231/projet_7.png
+	link: https://github.com/Thibault231/Projet_5_BDD_PythonMySQL
+	finished: true
 ---
