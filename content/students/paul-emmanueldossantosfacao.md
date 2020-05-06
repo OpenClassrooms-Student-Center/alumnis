@@ -33,12 +33,12 @@ projects:
     link: https://github.com/pedsf1968/alumnis.git
     finished: true
   - title: Mettez votre logique à l'épreuve
-  	description: Implémenter Java un jeu en ligne de commande de type MasterMind ou l'on utilise une IA en fonction du mode d'exécution.
-  	En mode challenger on doit trouver le code de l'ordinateur en un nombre minimum de coup.
-  	En en mode défenseur c'est l'inverse, l'IA essaye de trouver notre code.
-  	En mode duel c'est l'un contre l'autre et le premier qui trouve a gagner.
-  	J'ai complèté le jeu en ajoutant le choix de la vrai règle du MasterMind.
-  	La possibilité au joueur de spécifier la longueur du code à déterminer est donnée ainsi qu'un mode IA contre IA.
+    description: Implémenter Java un jeu en ligne de commande de type MasterMind ou l'on utilise une IA en fonction du mode d'exécution.
+    En mode challenger on doit trouver le code de l'ordinateur en un nombre minimum de coup.
+    En en mode défenseur c'est l'inverse, l'IA essaye de trouver notre code.
+    En mode duel c'est l'un contre l'autre et le premier qui trouve a gagner.
+    J'ai complèté le jeu en ajoutant le choix de la vrai règle du MasterMind.
+    La possibilité au joueur de spécifier la longueur du code à déterminer est donnée ainsi qu'un mode IA contre IA.
   	image:
   	link: https://github.com/pedsf1968/mastermind.git
   	finished: true
