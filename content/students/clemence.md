@@ -69,5 +69,11 @@ projects:
     link : https://github.com/clemenceclaireR/api_openfoodfacts
     finished: true
     
+ - title : Concevez la solution technique d'un système de gestion de pizzeria
+   description : Ecrire les spécifications techniques d'un projet avec la modélisation des données, le diagrammme de composant et le diagramme de déploiement
+   image: clemence/projet_6.png
+   link : https://github.com/clemenceclaireR/spec_techniques_restaurant
+   finished: true
+    
 
 ---
