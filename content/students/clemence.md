@@ -22,7 +22,7 @@ short_description: J'aime l'informatique, je suis végétarienne et je pratique 
 template: students
 description:
     J'ai 29 ans et je vis à Paris. J'ai postulé pour l'alternance en début d'année.
-    De là, j'ai suivi un coaching pour trouver une alternance et c'est chose faire !
+    De là, j'ai suivi un coaching pour trouver une alternance et c'est chose faite !
     Je suis donc la formation de développeur d'applictions Python pour une durée de deux ans.
 
 # image must be located in content/images/students
