@@ -44,7 +44,7 @@ projects:
     link: https://github.com/Darrell10/alumnis
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Programmer en orienté objet avec Swift.
     image: frederic21/projet3.png
     link: https://www.github.com
     finished: true
