@@ -43,9 +43,9 @@ projects:
     image: frederic21/projet2.png
     link: https://github.com/Darrell10/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
+  - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: frederic21/projet3.png
     link: https://www.github.com
-    finished: false
+    finished: true
 ---
