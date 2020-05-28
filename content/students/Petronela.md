@@ -1,12 +1,12 @@
 ---
 
-title: petronelacondruz
+title: sandracoin
 
 name: Petronela
 date: 2017-10-13 22:21
 
 objective: Apprendre à programmer. Apprendre tout court.
-short_description: Secrétaire médicale en voie de reconversion.
+short_description: Serveuse en voie de reconversion.
 
 template: students
 
@@ -15,13 +15,13 @@ description:
     J'aime aussi la beauté, les choses simples, la nature et l'humain.
 
 image: Petronela.jpg
-public: True
+public: false
 
 projects:
   - title: Présentez-vous !
-    description: Je suis fan de series Sci-fi et fantastiques, de mes enfants et des arts martiaux.
+    description: Je suis fan de series Sci-fi et fantastiques, de mes enfants
     image: Presentez_vous.png
-    link: www.linkedin.com/in/petronela-condruz-98740114b/
+    link: www.LinkedIn.com
     finished: true
   - title: Intégrez la communauté !
     description: >
