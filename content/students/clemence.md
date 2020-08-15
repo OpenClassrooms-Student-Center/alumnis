@@ -75,5 +75,11 @@ projects:
     link : https://github.com/clemenceclaireR/spec_techniques_restaurant
     finished: true
     
+  - title : Créez GrandPy Bot, le papy-robot
+    description : Créer une webapp où l'on peut demander à Pybot où se trouve un lieu, avec les informations associées
+    image: clemence/projet_7.png
+    link : https://github.com/clemenceclaireR/GrandPyBot
+    finished: true
+    
 
 ---
