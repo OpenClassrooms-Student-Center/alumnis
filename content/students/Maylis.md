@@ -82,7 +82,7 @@ projects:
 
    image: Projet 2.png
 
-   link: https://github.com/Gaillard05/alumnis.git
+   link: https://github.com/Gaillard05/alumnis/tree/Mon-projet
 
    finished: true
 
