@@ -80,8 +80,5 @@ projects:
     image: clemence/projet_7.png
     link : https://github.com/clemenceclaireR/GrandPyBot
     finished: true
-    
-
-    
 
 ---
