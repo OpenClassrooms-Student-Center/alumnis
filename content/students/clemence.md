@@ -81,35 +81,7 @@ projects:
     link : https://github.com/clemenceclaireR/GrandPyBot
     finished: true
     
-  - title : Créez une plateforme pour amateurs de Nutella
-    description : Créer une webapp où l'on peut chercher un substitut plus sain à un produit donné
-    image: clemence/projet_8.png
-    link : https://github.com/clemenceclaireR/PurBeurre
-    finished: true
-    
-  - title : Documentez votre système de gestion de Pizzeria
-    description : Concevoir la documentation technique à fournir lors de la livraison du projet au client
-    image: clemence/projet_9.png
-    link : https://github.com/clemenceclaireR/documentation_restaurant
-    finished: true
-    
-  - title : Déployez votre application sur un serveur comme un pro !
-    description : Mettre une application web en production avec l'intégration continue et les outils de monitoring
-    image: clemence/projet_10.png
-    link : https://github.com/clemenceclaireR/PurBeurre_Production
-    finished: true
-    
-  - title : Améliorez un projet existant en Python
-    description : Mettre à jour un projet existant selon les demandes du client (project owner)
-    image: clemence/projet_11.png
-    link : https://github.com/clemenceclaireR/PurBeurre_Production
-    finished: true
-    
-  - title : Effectuez un stage ou construisez une veille technologique
-    description : Construire une veille technologique avec les outils appropriés
-    image: clemence/projet_12.png
-    link : ""
-    finished: true 
+
     
 
 ---
