@@ -64,7 +64,7 @@ projects:
     image: benjamin92/projet_6.png
     link: https://github.com/Zepmanbc/oc_dapython_pr6
     finished: true
-  - title: Créez GrandPy Bot, le papy-robot 🤖 👴
+  - title: Créez GrandPy Bot, le papy-robot
     description: Utilisation des API Google maps et Wikipedia.
     image: benjamin92/projet_7.png
     link: https://github.com/Zepmanbc/oc_dapython_pr7
@@ -88,5 +88,15 @@ projects:
     description: Mise à jour de l'application Pur Beurre en utilisant les issues sur Github
     image: benjamin92/projet_11.png
     link: https://github.com/Zepmanbc/oc_dapython_pr11
+    finished: true
+  - title: Construisez une veille technologique	
+    description: Présentation des différents moyens mis en oeuvre pour se tenir à jour sur l'actualité et continuer à se former.
+    image: benjamin92/projet_12.png
+    link: https://twitter.com/Zepmanbc
+    finished: true
+  - title: Projet final - Librairie Creopyson	
+    description: Création d'une librairie pour intéragir avec Creoson et le logiciel de 3D paramétrique Creo
+    image: benjamin92/projet_13.png
+    link: https://github.com/Zepmanbc/creopyson
     finished: true
 ---

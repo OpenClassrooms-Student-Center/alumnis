@@ -43,9 +43,9 @@ projects:
     image: yann69/projet_2.png
     link: https://openclassrooms-student-center.github.io/alumnis/students/yann69.html
     finished: true
-  - title: Créez votre premier jeu vidéo avec Swift !
-    description: Création d’un jeu développé Swift
+  - title: Mettez votre logique à l'épreuve
+    description: Réalisation d’un jeu numérique basé sur le concept des Escape Games.
     image: yann69/projet_3.png
     link: https://www.github.com
-    finished: true
+    finished: false
 ---

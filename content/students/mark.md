@@ -32,19 +32,19 @@ projects:
     description: En cours d'apprentissage de la programmation pour iOS.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: mark/projet_1.jpg
+    image: mark/project_1.jpg
     link: https://www.linkedin.com/in/mark-ledoux/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: mark/projet_2.jpg
+    image: mark/project_2.jpg
     link: https://github.com/vinceled/alumnis
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: mark/projet_3.jpg
+  - title: Create a RPG Game !
+    description: Création d’un jeu développé en Swift sous format RPG.
+    image: mark/project_3.jpg
     link: https://www.github.com
     finished: false
 ---
