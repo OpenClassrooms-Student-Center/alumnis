@@ -49,6 +49,6 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: Flavien/projet3.png
-    link: 
-    finished: false
+    link: https://github.com/Nastyflav/macgyver
+    finished: True
 ---
