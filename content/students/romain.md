@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Romain54430.jpg
+image: romain.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -40,12 +40,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: romain/romainprojet2.png
+    image: romain/romainprojet2.PNG
     link: https://github.com/mclouu/alumnis
     finished: true
   - title: Mémorisez votre humeur du jour
     description: Création d’une application qui permet de notez votre humeur dans l’application.
-    image: romain/romainprojetNT.png
+    image: 
     link: https://github.com/mclouu/moodtracker
     finished: false
 ---
