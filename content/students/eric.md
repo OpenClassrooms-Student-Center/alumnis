@@ -44,7 +44,7 @@ projects:
     description: https://www.linkedin.com/in/aubrun-eric-81533a77.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: eric/projet_1.png
+    image: eric/eric.png
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
