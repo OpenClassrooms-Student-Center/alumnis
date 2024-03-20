@@ -15,7 +15,7 @@ description:
     J'aime aussi la beauté, les choses simples, la nature et l'humain.
 
 image: Petronela.jpg
-public: True
+public: False
 
 projects:
   - title: Présentez-vous !
